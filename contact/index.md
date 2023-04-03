@@ -25,7 +25,7 @@ Our lab is part of the Department of Brain and Cognitive Sciences at KAIST. We a
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://goo.gl/maps/M6WRbzpBT57KDgqA9"
 %}
 
 {% include section.html %}
