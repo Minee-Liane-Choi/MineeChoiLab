@@ -1,6 +1,6 @@
 ---
-name: Sarah Johnson
-image: images/photo.jpg
+name: Student 2
+image: images/stig.jpg
 description: Lead Programmer
 role: programmer
 links:
