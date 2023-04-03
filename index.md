@@ -1,7 +1,7 @@
 ---
 ---
 
-# Voyage to the end of neurodegenerative disorders
+# A tireless voyage to the end of human neurodegenerative disorders
 
 An engaging 1-3 sentence description of your lab.
 
