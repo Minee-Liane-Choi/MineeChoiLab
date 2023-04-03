@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: Student 1
 image: images/stig.jpg
 role: phd
 group: alum
