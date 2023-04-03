@@ -1,7 +1,7 @@
 ---
 ---
 
-# Minee-Liane-Choi's Website
+# Voyage to the end of neurodegenerative disorders
 
 An engaging 1-3 sentence description of your lab.
 
