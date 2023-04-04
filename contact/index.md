@@ -34,8 +34,8 @@ Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST
 
 {%
   include figure.html
-  image="images/campusmap.jpg"
-  caption="Campus Map"
+  image="images/kaist.jpg"
+  caption="KAIST"
 %}
 
 {% endcapture %}
@@ -44,7 +44,7 @@ Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST
 
 {%
   include figure.html
-  image="images/n5.jpg"
+  image="images/brl.jpg"
   caption="Brain Repair Lab"
 %}
 
