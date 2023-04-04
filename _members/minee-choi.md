@@ -14,7 +14,7 @@ links:
   facebook:
   instagram:
   youtube:
-  linkedin: 
+  linkedin: Minee-Liane Choi
 ---
 
 #Parkinson's &ensp;
