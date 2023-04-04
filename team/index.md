@@ -16,7 +16,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-"It is the long history of humankind that those who learned to collaborate and improvise most effectively have prevailed." – Charles Darwin
+"Collaboration is multiplication." – John C. Maxwell
 
 {% include section.html %}
 
