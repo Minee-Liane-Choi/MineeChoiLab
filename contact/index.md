@@ -60,28 +60,27 @@ Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% include section.html dark=true %}
 
 {% capture col1 %}
-291 Daehak-ro
-Yuseong-gu, Daejeon
-South Korea
+KAIST <br>
+291 Daehak-ro <br>
+Yuseong-gu, Daejeon <br>
+South Korea <br>
 {% endcapture %}
 
 {% capture col2 %}
-Building N5, KAIST
-291 Daehak-ro
-Yuseong-gu, Daejeon
-South Korea
+Building N5 <br>
+KAIST
 {% endcapture %}
 
 {% capture col3 %}
-The Francis Crick Institute
-1 Midland Road
-London NW1 1AT
-UK
+The Francis Crick Institute <br>
+1 Midland Road <br>
+London NW1 1AT <br>
+UK <br>
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
