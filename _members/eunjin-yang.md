@@ -4,7 +4,7 @@ image: images/eunjin-yang.jpg
 role: ms
 group: alum
 links:
-  email: @kaist.ac.kr
+  email: 
   orcid: 
   github: Minee-Liane-Choi
   home-page:  
