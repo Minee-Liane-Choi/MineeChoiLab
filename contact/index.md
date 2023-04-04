@@ -34,7 +34,7 @@ Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/campusmap.jpg"
   caption="Campus Map"
 %}
 
@@ -44,7 +44,7 @@ Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/N5.jpg"
   caption="Brain Repair Lab"
 %}
 
@@ -54,7 +54,7 @@ Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/crick.jpg"
   caption="The Francis Crick Institute"
 %}
 
@@ -72,7 +72,8 @@ South Korea <br>
 {% endcapture %}
 
 {% capture col2 %}
-Building N5 <br>
+Brain Repair Lab <br>
+2F, N5 <br>
 KAIST
 {% endcapture %}
 
