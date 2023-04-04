@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST. We are located at Building N5, 291 Daehak-ro, Yuseong-gu, Daejeon, South Korea.
+Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST. We are located at Building N5, 291 Daehak-ro, Yuseong-gu, Daejeon, South Korea. Minee is also affiliated with The Francis Crick Institute, London as a honorary research fellow.
 
 {%
   include button.html
@@ -48,6 +48,14 @@ Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST
   caption="Lorem ipsum"
 %}
 
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
+
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
@@ -55,21 +63,21 @@ Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Campus map
 {% endcapture %}
 
 {% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+Building N5, KAIST
+291 Daehak-ro
+Yuseong-gu, Daejeon
+South Korea
 {% endcapture %}
 
 {% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
+The Francis Crick Institute
+1 Midland Road
+London NW1 1AT
+UK
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
