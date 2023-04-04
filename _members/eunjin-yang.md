@@ -4,7 +4,15 @@ image: images/eunjin-yang.jpg
 role: ms
 group: alum
 links:
+  email: @kaist.ac.kr
+  orcid: 
   github: Minee-Liane-Choi
+  home-page:  
+  twitter:
+  facebook:
+  instagram:
+  youtube:
+  linkedin: 
 ---
 
 #Personalised diagnosis <br>
