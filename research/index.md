@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The Brain Repair Lab of Kaist has expertise in human-induced pluripotent stem cells (hiPSCs) derived from patients with neurodegenerative diseases. Our lab aims to 1) understand the pathologies of various neurodegenerative disorders and 2) develop an AI-based platform for personalized drug discovery.
 
 {% include section.html %}
 
