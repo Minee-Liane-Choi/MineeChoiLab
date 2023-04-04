@@ -16,9 +16,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+"It is the long history of humankind that those who learned to collaborate and improvise most effectively have prevailed." – Charles Darwin
 
 {% include section.html %}
 
