@@ -36,7 +36,7 @@ Please find our publications.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -59,7 +59,7 @@ Please find our on-going projects and future plans.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/hts.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -84,7 +84,7 @@ Meet our researchers and students.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
