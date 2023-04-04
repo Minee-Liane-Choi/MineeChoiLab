@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-We post and share our latest news, announcements, vacancies and opportunities on this blog page.
+We post and share our news, thoughts, announcements, vacancies, opportunities, and more on this blog page.
 
 {% include section.html %}
 
