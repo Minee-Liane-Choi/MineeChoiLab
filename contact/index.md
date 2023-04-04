@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST. We are located at Building N5 at KAIST. Minee is also affiliated with The Francis Crick Institute, London as a honorary research fellow.
+Our lab is part of the Department of Brain and Cognitive Sciences (BCS) of KAIST. We are located at Building N5 in the main campus of KAIST. Minee is also affiliated with The Francis Crick Institute, London as a honorary research fellow.
 
-Brain Repair LAB <br>
+Prof. Minee-Liane Choi <br>
 N5-2260, KAIST <br>
 291 Daehak-ro <br>
 Yuseong-gu <br>
@@ -69,6 +69,10 @@ South Korea.
   link="https://www.crick.ac.uk"
 %}
 
+{% endcapture %}
+
+{% capture col4 %}
+
 {%
   include figure.html
   image="images/photo.jpg"
@@ -102,7 +106,7 @@ UK <br>
 {% endcapture %}
 
 {% capture col4 %}
-
+TBC
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 %}
