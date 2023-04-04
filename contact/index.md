@@ -47,7 +47,8 @@ Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST
 {%
   include figure.html
   image="images/bcs.jpg"
-  caption="Department of Brain and Cognitive Sciences"
+  caption="Department of Brain & Cognitive Sciences"
+  link="https://bcs.kaist.ac.kr"
 %}
 
 {% endcapture %}
@@ -81,8 +82,8 @@ South Korea <br>
 {% endcapture %}
 
 {% capture col2 %}
-BSC <br>
-Meta-Fusion <br>
+Department of Brain and Cognitive Sciences <br>
+Meta-Fusion building <br>
 KAIST
 {% endcapture %}
 
