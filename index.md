@@ -8,7 +8,6 @@ Our voyage to the cures for human neurodegenerative disorders has just begun.
 {%
   include feature.html
   image="images/photo.jpg"
-  title="Our Research"
   text=text
 %}
 
