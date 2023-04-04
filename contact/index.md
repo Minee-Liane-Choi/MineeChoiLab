@@ -37,6 +37,7 @@ Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST
   include figure.html
   image="images/kaist.jpg"
   caption="KAIST"
+  link="https://kaist.ac.kr"
 %}
 
 {% endcapture %}
