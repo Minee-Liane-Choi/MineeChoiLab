@@ -1,7 +1,7 @@
 ---
 name: Seungju Yoo
 image: images/seungju-yoo.jpg
-role: MS
+role: ms
 group: alum
 links:
   github: Minee-Liane-Choi
