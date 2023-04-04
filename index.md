@@ -3,7 +3,14 @@
 
 # Bon Voyage !!!
 
-Our voyage to the cures for human neurodegenerative disorders has just begun. 
+Our voyage to the cures for human neurodegenerative disorders has just begun.
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  title="Our Research"
+  text=text
+%}
 
 #Clinical neuroscience &ensp; #Parkinson's &ensp; #Alzheimer's&ensp; #Dimentia &ensp; #AI-based drug discovery &ensp; #Mitochondria &ensp; #Protein aggregation &ensp; #Cell death
 
@@ -61,7 +68,7 @@ Please find our on-going projects and future plans.
 
 {% capture text %}
 
-Meet the researchers and students at the Brain Repair Lab of KAIST.
+Meet our researchers and students.
 
 {%
   include button.html
