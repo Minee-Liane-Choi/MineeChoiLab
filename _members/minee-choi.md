@@ -7,7 +7,14 @@ aliases:
   - ML Choi
 links:
   home-page: https://mineechoi.kaist.ac.kr
+  email: minee.choi@kaist.ac.kr
+  twitter: MineeChoi
   orcid: 0000-0001-9414-8214
+  twitter:
+  facebook:
+  instagram:
+  youtube:
+  linkedin: 
 ---
 
 #Parkinson's
