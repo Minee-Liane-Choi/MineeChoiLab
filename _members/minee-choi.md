@@ -17,12 +17,12 @@ links:
   linkedin: 
 ---
 
-#Parkinson's
-#Alzheimer's
-#Dimentia
-#AI-based drug discovery
-#Mitochondria
-#Protein aggregation
+#Parkinson's &ensp;
+#Alzheimer's &ensp;
+#Dimentia &ensp;
+#AI-based drug discovery &ensp;
+#Mitochondria &ensp;
+#Protein aggregation &ensp;
 #Cell death
 
 Minee is a neurophysiologist specialising in neurodegenerative diseases. She is an assistant professor at the Department of Brain and Cognitive Science at KAIST. She is also an Honorary Fellow of UCL Queen Square Institute of Neurology and the Francis Crick Institute, UK. <br>
