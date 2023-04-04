@@ -6,9 +6,11 @@
 Our voyage to the cures for human neurodegenerative disorders has just begun.
 
 {%
-  include feature.html
-  image="images/photo.jpg"
-  text=text
+  include figure.html
+  image="images/seminar2023.jpg"
+  caption="The First Wednesday Multidisciplinary Forum, April 2023"
+  link="research"
+  width="400px"
 %}
 
 #Clinical neuroscience &ensp; #Parkinson's &ensp; #Alzheimer's&ensp; #Dimentia &ensp; #AI-based drug discovery &ensp; #Mitochondria &ensp; #Protein aggregation &ensp; #Cell death
