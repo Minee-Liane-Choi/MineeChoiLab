@@ -1,7 +1,7 @@
 ---
 name: The Stig
 image: images/stig.jpg
-description: Who's Next?
+description: Invisible Helper
 role: mascot
 links:
   email:
@@ -14,4 +14,4 @@ links:
   linkedin:
 ---
 
-Keep Calm and Fix My Brain
+Keep Calm and Kill the Brain Bugs
