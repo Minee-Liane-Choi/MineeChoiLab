@@ -10,9 +10,15 @@ links:
   orcid: 0000-0001-9414-8214
 ---
 
-#Parkinson's #Alzheimer's #Dimentia #AI-based drug discovery #Mitochondria #Protein aggregation #Cell death
+#Parkinson's
+#Alzheimer's
+#Dimentia
+#AI-based drug discovery
+#Mitochondria
+#Protein aggregation
+#Cell death
 
-Minee is a neurophysiologist specialising in neurodegenerative diseases. She is an assistant professor at the Department of Brain and Cognitive Science at KAIST. She is also an Honorary Fellow of UCL Queen Square Institute of Neurology and the Francis Crick Institute, UK.
+Minee is a neurophysiologist specialising in neurodegenerative diseases. She is an assistant professor at the Department of Brain and Cognitive Science at KAIST. She is also an Honorary Fellow of UCL Queen Square Institute of Neurology and the Francis Crick Institute, UK. <br>
 
 After obtaining BA and MMSc from Hanyang University, she was awarded Cambridge Overseas Trust Scholarship and earned her PhD in Clinical Neurosciences from the University of Cambridge in 2013 (supervised by Prof. RogerBarker). After her doctorate, Minee moved to University College London(UCL) and started research as a post-doctoral research fellow (John Wood’s lab in 2013 – 2014, Sonia Gandhi’s lab in 2014 – 2022). She was on a laboratory secondment at the Francis Crick Institute as a research scientist (2017 – 2022). KAIST appointed Minee as anassistant professor in Feb 2023.
 
