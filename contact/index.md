@@ -48,6 +48,8 @@ Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST
   caption="Lorem ipsum"
 %}
 
+{% endcapture %}
+
 {% capture col3 %}
 
 {%
