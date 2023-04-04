@@ -46,8 +46,8 @@ Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST
 
 {%
   include figure.html
-  image="images/brl.jpg"
-  caption="Brain Repair Lab"
+  image="images/bcs.jpg"
+  caption="Department of Brain and Cognitive Sciences"
 %}
 
 {% endcapture %}
@@ -58,6 +58,13 @@ Our lab is part of the Department of Brain and Cognitive Sciences (BCS) at KAIST
   include figure.html
   image="images/crick.jpg"
   caption="The Francis Crick Institute"
+  link="https://www.crick.ac.uk"
+%}
+
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption=""
 %}
 
 {% endcapture %}
@@ -74,8 +81,8 @@ South Korea <br>
 {% endcapture %}
 
 {% capture col2 %}
-Brain Repair Lab <br>
-N5-2260 <br>
+BSC <br>
+Meta-Fusion <br>
 KAIST
 {% endcapture %}
 
@@ -86,4 +93,8 @@ London NW1 1AT <br>
 UK <br>
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% capture col4 %}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 %}
