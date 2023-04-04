@@ -1,11 +1,17 @@
 ---
 name: The Stig
 image: images/stig.jpg
-description: Helper
+description: Who's Next?
 role: mascot
 links:
-  email: namho.m.kim@gmail.com
-  twitter: 
+  email:
+  twitter:
+  orcid:
+  twitter:
+  facebook:
+  instagram:
+  youtube:
+  linkedin:
 ---
 
-Keep Calm and Repair Brain Faults
+Keep Calm and Fix My Brain
