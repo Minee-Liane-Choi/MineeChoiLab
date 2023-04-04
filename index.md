@@ -1,9 +1,9 @@
 ---
 ---
 
-# Our ambitious voyage to the cures for human neurodegenerative disorders
+# Bon Voyage !!!
 
-has just started. Bon Voyage !!!!
+Our voyage to the cures for human neurodegenerative disorders has just begun. 
 
 #Clinical neuroscience &ensp; #Parkinson's &ensp; #Alzheimer's&ensp; #Dimentia &ensp; #AI-based drug discovery &ensp; #Mitochondria &ensp; #Protein aggregation &ensp; #Cell death
 
@@ -13,7 +13,7 @@ has just started. Bon Voyage !!!!
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Please find our publications.
 
 {%
   include button.html
@@ -36,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Please find our on-going projects and future plans.
 
 {%
   include button.html
