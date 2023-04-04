@@ -1,9 +1,9 @@
 ---
 ---
 
-# A tireless voyage to the end of human neurodegenerative disorders
+# Our ambitious voyage to the cures for human neurodegenerative disorders
 
-An engaging 1-3 sentence description of your lab.
+has just started. 
 
 {% include section.html %}
 
