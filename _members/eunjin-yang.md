@@ -1,7 +1,7 @@
 ---
 name: Eunjin Yang
 image: images/eunjin-yang.jpg
-role: MS
+role: ms
 group: alum
 links:
   github: Minee-Liane-Choi
