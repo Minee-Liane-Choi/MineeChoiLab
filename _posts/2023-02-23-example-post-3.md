@@ -1,6 +1,6 @@
 ---
 title: Example post 3
-author: minee-choi eunjin-yang
+author: minee-choi
 tags: biology, medicine
 ---
 
