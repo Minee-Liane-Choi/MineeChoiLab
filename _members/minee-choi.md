@@ -5,12 +5,12 @@ role: pi
 aliases:
   - Minee-Liane Choi
   - ML Choi
-links:
-  home-page: https://mineechoi.kaist.ac.kr
+links:  
   email: minee.choi@kaist.ac.kr
-  twitter: MineeChoi
   orcid: 0000-0001-9414-8214
-  twitter:
+  github: Minee-Liane-Choi
+  home-page:  
+  twitter: MineeChoi
   facebook:
   instagram:
   youtube:
