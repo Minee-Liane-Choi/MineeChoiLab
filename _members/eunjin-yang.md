@@ -15,9 +15,9 @@ links:
   linkedin: 
 ---
 
-#Personalised diagnosis <br>
-#Disease in dish <br>
-#Developmental disorders <br>
-#Degenerative diseases <br>
+#Personalised diagnosis &ensp
+#Disease in dish &ensp
+#Developmental disorders &ensp
+#Degenerative diseases
 
 Eunjin majored in psychology at Korea University. During that time, she worked as a lab assistant in the Biopsychology lab and was involved in animal experiments of sleep disorder using mice. She also assisted the research on autism spectrum disorder at the Clinical Neurodevelopmental Sciences(CNdS) lab. Currently, she is interested in personalised diagnosis and treatment for mental disorders.
