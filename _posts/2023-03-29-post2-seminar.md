@@ -37,3 +37,5 @@ Minee spoke about the disease-in-dish paradigm in research on neurodegenerative 
   link=""
   width=""
 %}
+
+{% include grid.html style="square" content=content %}
