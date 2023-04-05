@@ -1,11 +1,15 @@
 ---
-title: Bon Voyage !!!
+title: The First Wednesday Multidisciplinary Forum
 author: minee-choi
-tags: BRePAIR
+tags: Seminar
 ---
 
-Welcome to the Brain Repair Lab of KAIST !!!
-BRePAIR has set off her hopeful voyage with Minee, Eunjin and Seungju onboard.
-Please be with us and bless our two young scientists with great potential.
+Minee gave a talk at the First Wednesday Multidisciplinary Forum on Apr 5, 2003.
 
-{% include figure.html image="images/post2-seminar.jpg" width="600px" %}
+{%
+  include figure.html
+  image="images/post2-seminar.jpg"
+  caption="The First Wednesday Multidisciplinary Forum, April 2023"
+  link=""
+  width="600px"
+%}
