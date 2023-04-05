@@ -32,3 +32,7 @@ nav:
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
+{% include section.html background="images/background.jpg" dark=true %}
+
+"Collaboration is multiplication." – John C. Maxwell
