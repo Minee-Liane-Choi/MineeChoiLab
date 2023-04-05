@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/team-phil-jackson.jpg" dark=true %}
 
 "The strength of the team is each individual member. The strength of each member is the team." – Phil Jackson
 
