@@ -7,7 +7,7 @@ Our hopeful voyage to the cures for human neurodegenerative disorders has just b
 
 {%
   include figure.html
-  image="images/seminar2023.jpg"
+  image="images/home-seminar2023.jpg"
   caption="The First Wednesday Multidisciplinary Forum, April 2023"
   link="research"
   width="600px"
@@ -36,7 +36,7 @@ Please find our publications.
 
 {%
   include feature.html
-  image="images/research.jpg"
+  image="images/home-research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -59,7 +59,7 @@ Please find our on-going projects and future plans.
 
 {%
   include feature.html
-  image="images/hts.jpg"
+  image="images/home-project.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -84,7 +84,7 @@ Meet our researchers and students.
 
 {%
   include feature.html
-  image="images/team.jpg"
+  image="images/home-team.jpg"
   link="team"
   title="Our Team"
   text=text
