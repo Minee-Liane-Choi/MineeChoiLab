@@ -133,3 +133,124 @@
   tags:
   - PD
   - iPSC
+  - iPSC
+- id: doi:10.1101/2022.06.07.494932
+  title: "Structural conversion of \u03B1-synuclein at the mitochondria induces neuronal\
+    \ toxicity"
+  authors:
+  - Minee L. Choi
+  - Alexandre Chappard
+  - Bhanu P. Singh
+  - Catherine Maclachlan
+  - Margarida Rodrigues
+  - Evgenia Fedotova
+  - Alexey V. Berezhnov
+  - Suman De
+  - Chris Peddie
+  - Dilan Athauda
+  - Gurvir S. Virdi
+  - Weijia Zhang
+  - James R. Evans
+  - Anna Wernick
+  - Zeinab Shadman Zanjani
+  - Plamena R. Angelova
+  - Noemi Esteras
+  - Andrey Vinikurov
+  - Katie Morris
+  - Kiani Jeacock
+  - Laura Tosatto
+  - Daniel Little
+  - Paul Gissen
+  - David J. Clarke
+  - Tilo Kunath
+  - Lucy Collinson
+  - David Klenerman
+  - Andrey Y. Abramov
+  - Mathew H. Horrocks
+  - Sonia Gandhi
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-06-09'
+  link: https://doi.org/gr3nsg
+  orcid: 0000-0000-0000-0000
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17504/protocols.io.b8gxrtxn
+  title: MitoGFP Generation and Transduction v1
+  authors:
+  - Minee-Liane MLC Choi
+  publisher: ZappyLab, Inc.
+  date: '2022-04-29'
+  link: https://doi.org/gr3nsh
+  orcid: 0000-0000-0000-0000
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41531-022-00423-7
+  title: "Protein aggregation and calcium dysregulation are hallmarks of familial\
+    \ Parkinson\u2019s disease in midbrain dopaminergic neurons"
+  authors:
+  - Gurvir S. Virdi
+  - Minee L. Choi
+  - James R. Evans
+  - Zhi Yao
+  - Dilan Athauda
+  - Stephanie Strohbuecker
+  - Raja S. Nirujogi
+  - Anna I. Wernick
+  - Noelia Pelegrina-Hidalgo
+  - Craig Leighton
+  - Rebecca S. Saleeb
+  - Olga Kopach
+  - Haya Alrashidi
+  - Daniela Melandri
+  - Jimena Perez-Lloret
+  - Plamena R. Angelova
+  - Sergiy Sylantyev
+  - Simon Eaton
+  - Simon Heales
+  - Dmitri A. Rusakov
+  - Dario R. Alessi
+  - Tilo Kunath
+  - Mathew H. Horrocks
+  - Andrey Y. Abramov
+  - Rickie Patani
+  - Sonia Gandhi
+  publisher: npj Parkinson's Disease
+  date: '2022-11-24'
+  link: https://doi.org/gr3pmd
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41531-022-00423-7/MediaObjects/41531_2022_423_Fig8_HTML.png?as=webp
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2020-12-04'
+  link: https://doi.org/c7np
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  tags:
+  - open science
+  - collaboration
+  repo: greenelab/meta-review
+  plugin: sources.py
+  file: sources.yaml
