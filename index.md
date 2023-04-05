@@ -1,7 +1,7 @@
 ---
 ---
 
-# Bon Voyage to BReP<mark><strong><em>A</em>I</strong></mark>R !!!
+# Bon Voyage !!!
 
 Team BReP<mark><strong><em>A</em>I</strong></mark>R's hopeful voyage to the cures for human neurodegenerative disorders has just begun.
 
