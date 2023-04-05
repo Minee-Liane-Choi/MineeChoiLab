@@ -21,7 +21,7 @@ Our hopeful voyage to the cures for human neurodegenerative disorders has just b
 
 {% capture text %}
 
-Please find our publications.
+See our publications.
 
 {%
   include button.html
@@ -44,7 +44,7 @@ Please find our publications.
 
 {% capture text %}
 
-Please find our on-going projects and future plans.
+Find our ongoing projects and upcoming plans.
 
 {%
   include button.html
