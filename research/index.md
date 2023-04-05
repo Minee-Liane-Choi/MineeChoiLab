@@ -13,7 +13,7 @@ The Brain Repair Lab of Kaist has expertise in human-induced pluripotent stem ce
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Pathological structural conversion" style="rich" %}
 
 {% include section.html %}
 
