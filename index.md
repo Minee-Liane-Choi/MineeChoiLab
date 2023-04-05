@@ -48,7 +48,7 @@ Find our ongoing projects and upcoming plans.
 
 {%
   include button.html
-  link="tools"
+  link="projects"
   text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
