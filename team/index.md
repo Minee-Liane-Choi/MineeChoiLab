@@ -16,7 +16,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-"Collaboration is multiplication." – John C. Maxwell
+"If I have seen further, it is by standing on the shoulders of giants." — Isaac Newton
 
 {% include section.html %}
 
