@@ -25,6 +25,17 @@ links:
 #Protein aggregation &ensp;
 #Cell death
 
+2023 ~ Present &ensp; Assistant Professor, Department of Brain and Cognitive Sciences, KAIST
+2023 ~ Present &ensp; Honorary Fellow, UCL Queen Square Institute of Neurology, University of London, UK
+2023 ~ Present &ensp; Honorary Fellow, The Francis Crick Institute, UK
+2019 ~ Present &ensp; Invited Member, Royal Society of Biolology, UK
+
+2017 ~ 2022 &ensp; Research Fellow, The Francis Crick Institute (lab secondments), UK
+2014 ~ 2022 &ensp; Post-doctoral Research Fellow at UCL Queen Square Institute of Neurology, University of London, UK
+2012 ~ 2013 &ensp; Post-doctoral Research Associate, UCL Wolfson Institute for Biomedical Research, University of London, UK
+
+2013  &ensp; PhD in Clinical Neurosciences, University of Cambridge, UK
+
 Minee is a neurophysiologist specialising in neurodegenerative diseases. She is an assistant professor at the Department of Brain and Cognitive Science at KAIST. She is also an Honorary Fellow of UCL Queen Square Institute of Neurology and the Francis Crick Institute, UK. <br>
 
 After obtaining BA and MMSc from Hanyang University, she was awarded Cambridge Overseas Trust Scholarship and earned her PhD in Clinical Neurosciences from the University of Cambridge in 2013 (supervised by Prof. RogerBarker). After her doctorate, Minee moved to University College London(UCL) and started research as a post-doctoral research fellow (John Wood’s lab in 2013 – 2014, Sonia Gandhi’s lab in 2014 – 2022). She was on a laboratory secondment at the Francis Crick Institute as a research scientist (2017 – 2022). KAIST appointed Minee as anassistant professor in Feb 2023.
