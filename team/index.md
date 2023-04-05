@@ -32,19 +32,3 @@ nav:
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
-
-{% include section.html background="images/background.jpg" dark=true %}
-
-"If I have seen further, it is by standing on the shoulders of giants." — Isaac Newton
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg"%}
-{% include figure.html image="images/photo.jpg"%}
-{% include figure.html image="images/photo.jpg"%}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
