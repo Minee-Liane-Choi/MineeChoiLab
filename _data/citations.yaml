@@ -83,3 +83,190 @@
   - Mitocondria
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1002/mds.29122
+  title: The Impact of Type 2 Diabetes in Parkinson's Disease
+  authors:
+  - Dilan Athauda
+  - James Evans
+  - Anna Wernick
+  - Gurvir Virdi
+  - Minee L. Choi
+  - Michael Lawton
+  - Nirosen Vijiaratnam
+  - Christine Girges
+  - "Yoav Ben\u2010Shlomo"
+  - Khalida Ismail
+  - Huw Morris
+  - Donald Grosset
+  - Thomas Foltynie
+  - Sonia Gandhi
+  publisher: Movement Disorders
+  date: '2022-06-14'
+  link: https://doi.org/gr3ptq
+  image: https://movementdisorders.onlinelibrary.wiley.com/cms/asset/72fcf5a6-de87-4b21-8dad-0157d76ad85b/mds29122-fig-0001-m.png
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41418-020-0542-z
+  title: 'Alpha synuclein aggregation drives ferroptosis: an interplay of iron, calcium
+    and lipid peroxidation'
+  authors:
+  - Plamena R. Angelova
+  - Minee L. Choi
+  - Alexey V. Berezhnov
+  - Mathew H. Horrocks
+  - Craig D. Hughes
+  - Suman De
+  - Margarida Rodrigues
+  - Ratsuda Yapom
+  - Daniel Little
+  - Karamjit S. Dolt
+  - Tilo Kunath
+  - Michael J. Devine
+  - Paul Gissen
+  - Mikhail S. Shchepinov
+  - Sergiy Sylantyev
+  - Evgeny V. Pavlov
+  - David Klenerman
+  - Andrey Y. Abramov
+  - Sonia Gandhi
+  publisher: Cell Death &amp; Differentiation
+  date: '2020-04-27'
+  link: https://doi.org/gqqxzs
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41418-020-0542-z/MediaObjects/41418_2020_542_Fig6_HTML.png?as=webp
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s42003-020-0792-9
+  title: "Beta amyloid aggregates induce sensitised TLR4 signalling causing long-term\
+    \ potentiation deficit and rat\_neuronal cell death"
+  authors:
+  - Craig Hughes
+  - Minee L. Choi
+  - Jee-Hyun Yi
+  - Seung-Chan Kim
+  - Anna Drews
+  - Peter St. George-Hyslop
+  - Clare Bryant
+  - Sonia Gandhi
+  - Kwangwook Cho
+  - David Klenerman
+  publisher: Communications Biology
+  date: '2020-02-18'
+  link: https://doi.org/gprv3s
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs42003-020-0792-9/MediaObjects/42003_2020_792_Fig4_HTML.png?as=webp
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s00401-018-1907-y
+  title: "Picomolar concentrations of oligomeric alpha-synuclein sensitizes TLR4 to\
+    \ play an initiating role in Parkinson\u2019s disease pathogenesis"
+  authors:
+  - Craig D. Hughes
+  - Minee L. Choi
+  - Mina Ryten
+  - Lee Hopkins
+  - Anna Drews
+  - "Juan A. Bot\xEDa"
+  - Maria Iljina
+  - Margarida Rodrigues
+  - Sarah A. Gagliano
+  - Sonia Gandhi
+  - Clare Bryant
+  - David Klenerman
+  publisher: Acta Neuropathologica
+  date: '2018-09-17'
+  link: https://doi.org/gqvfcw
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00401-018-1907-y/MediaObjects/401_2018_1907_Fig1_HTML.png?as=webp
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/cbic.201800209
+  title: Nanoscopic Characterisation of Individual Endogenous Protein Aggregates in
+    Human Neuronal Cells
+  authors:
+  - Daniel R. Whiten
+  - Yukun Zuo
+  - Laura Calo
+  - Minee-Liane Choi
+  - Suman De
+  - Patrick Flagmeier
+  - David C. Wirthensohn
+  - Franziska Kundel
+  - Rohan T. Ranasinghe
+  - Santiago E. Sanchez
+  - Dilan Athauda
+  - Steven F. Lee
+  - Christopher M. Dobson
+  - Sonia Gandhi
+  - Maria-Grazia Spillantini
+  - David Klenerman
+  - Mathew H. Horrocks
+  publisher: ChemBioChem
+  date: '2018-09-11'
+  link: https://doi.org/gdx5c6
+  image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/ff2f9c5e-a26d-45c2-9492-fedfabdfdc36/cbic201800209-toc-0001-m.png
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/febs.14587
+  title: Crucial role of protein oligomerization in the pathogenesis of Alzheimer's
+    and Parkinson's diseases
+  authors:
+  - Minee L. Choi
+  - Sonia Gandhi
+  publisher: The FEBS Journal
+  date: '2018-08-21'
+  link: https://doi.org/gr3ptr
+  image: https://febs.onlinelibrary.wiley.com/cms/asset/c62eba3f-7b2f-4bfe-baf3-b8c3e29cf29c/febs14587-fig-0001-m.png
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41467-018-04422-2
+  title: "\u03B1-synuclein oligomers interact with ATP synthase and open the permeability\
+    \ transition pore in Parkinson\u2019s disease"
+  authors:
+  - Marthe H. R. Ludtmann
+  - Plamena R. Angelova
+  - Mathew H. Horrocks
+  - Minee L. Choi
+  - Margarida Rodrigues
+  - Artyom Y. Baev
+  - Alexey V. Berezhnov
+  - Zhi Yao
+  - Daniel Little
+  - Blerida Banushi
+  - Afnan Saleh Al-Menhali
+  - Rohan T. Ranasinghe
+  - Daniel R. Whiten
+  - Ratsuda Yapom
+  - Karamjit Singh Dolt
+  - Michael J. Devine
+  - Paul Gissen
+  - Tilo Kunath
+  - Morana Jaganjac
+  - Evgeny V. Pavlov
+  - David Klenerman
+  - Andrey Y. Abramov
+  - Sonia Gandhi
+  publisher: Nature Communications
+  date: '2018-06-12'
+  link: https://doi.org/ghhbtp
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-018-04422-2/MediaObjects/41467_2018_4422_Fig3_HTML.jpg?as=webp
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
