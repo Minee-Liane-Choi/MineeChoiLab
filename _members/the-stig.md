@@ -1,7 +1,7 @@
 ---
 name: The Stig
 image: images/stig.jpg
-description: Our invisible Helper
+description: Our Stealth Helper
 role: mascot
 links:
   email:
