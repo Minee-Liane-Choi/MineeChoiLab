@@ -5,5 +5,8 @@ tags: BRePAIR
 ---
 
 Welcome to the BRAIN REPAIR LAB of KAIST.
-BRePAIR has set off her hopeul voyage with Minee, Eunjin and Seungju onboard.
-Please be with us and bless the two young scientists.
+
+BRePAIR has set off her hopeful voyage with Minee, Eunjin and Seungju onboard.
+Please be with us and bless our two young scientists with great potential.
+
+{% include figure.html image="images/bonvoyage.jpg" width="600px" %}
