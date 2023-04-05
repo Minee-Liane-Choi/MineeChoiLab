@@ -36,3 +36,5 @@ nav:
 {% include section.html background="images/background.jpg" dark=true %}
 
 "Collaboration is multiplication." – John C. Maxwell
+
+{% include section.html %}
