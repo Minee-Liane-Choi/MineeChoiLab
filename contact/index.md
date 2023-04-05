@@ -80,12 +80,12 @@ South Korea.
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% include section.html dark=true %}
 
 {% capture col1 %}
-KAIST <br>
+Korea Advanced Institute of Science and Technology (KAIST) <br>
 291 Daehak-ro <br>
 Yuseong-gu, Daejeon <br>
 South Korea <br>
@@ -104,8 +104,4 @@ London NW1 1AT <br>
 UK <br>
 {% endcapture %}
 
-{% capture col4 %}
-TBC
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
