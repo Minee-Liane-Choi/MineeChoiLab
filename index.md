@@ -69,7 +69,7 @@ Find our ongoing projects and upcoming plans.
 
 {% capture text %}
 
-Meet our researchers and students.
+Meet our students, researchers, collaborators and partners.
 
 {%
   include button.html
