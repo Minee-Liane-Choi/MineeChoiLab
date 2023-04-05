@@ -1,5 +1,5 @@
 ---
-title: [BCS Spring Colloquium 2023] Disease in Dish
+title: BCS Spring Colloquium 2023
 author: the-stig
 tags: Seminar
 ---
