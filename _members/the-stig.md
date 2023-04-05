@@ -1,6 +1,6 @@
 ---
 name: The Stig
-image: images/stig.jpg
+image: images/team-stig.jpg
 description: Our Stealth Helper
 role: mascot
 links:
