@@ -7,7 +7,7 @@ Our hopeful voyage to the cures for human neurodegenerative disorders has just b
 
 {%
   include figure.html
-  image="images/home-seminar2023.jpg"
+  image="images/post2-seminar.jpg"
   caption="The First Wednesday Multidisciplinary Forum, April 2023"
   link="research"
   width="600px"
