@@ -3,7 +3,7 @@
 
 # Bon Voyage !!!
 
-Our voyage to the cures for human neurodegenerative disorders has just begun.
+Our hopeful voyage to the cures for human neurodegenerative disorders has just begun.
 
 {%
   include figure.html
