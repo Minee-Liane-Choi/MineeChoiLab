@@ -30,7 +30,7 @@ links:
 2023 ~ Present &ensp; <b>Honorary Fellow</b>, The Francis Crick Institute, UK <br>
 2019 ~ Present &ensp; <b>Invited Member</b>, Royal Society of Biolology, UK <br>
 
-2017 ~ 2022 &ensp; <b>Research Fellow</b>, The Francis Crick Institute (lab secondments), UK <br>
+2017 ~ 2022 &ensp; <b>Research Fellow (Secondment)</b>, The Francis Crick Institute, UK <br>
 2014 ~ 2022 &ensp; <b>Research Fellow</b>, UCL Queen Square Institute of Neurology, University of London, UK <br>
 2012 ~ 2013 &ensp; <b>Research Associate</b>, UCL Wolfson Institute for Biomedical Research, University of London, UK <br>
 
