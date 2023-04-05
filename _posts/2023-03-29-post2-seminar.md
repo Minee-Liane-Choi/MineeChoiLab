@@ -26,12 +26,6 @@ Minee spoke about the disease-in-dish paradigm in research on neurodegenerative 
   caption="BCS Spring Colloquium, Mar 2023"
 %}
 
-{%
-  include figure.html
-  image="images/post2-seminar4.jpg"
-  caption="BCS Spring Colloquium, Mar 2023"
-%}
-
 {% endcapture %}
 
 {%
