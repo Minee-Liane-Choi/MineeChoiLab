@@ -1,6 +1,6 @@
 ---
 name: Eunjin Yang
-image: images/eunjin-yang.jpg
+image: images/team-eunjin-yang.jpg
 role: ms
 group: alum
 links:
