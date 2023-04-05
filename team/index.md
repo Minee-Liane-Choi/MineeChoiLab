@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
+{% include section.html background="images/background.jpg" dark=true %}
+
 "The strength of the team is each individual member. The strength of each member is the team." – Phil Jackson
 
 {% include section.html %}
@@ -16,7 +18,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-"If I have seen further, it is by standing on the shoulders of giants." — Isaac Newton
+"Collaboration is multiplication." – John C. Maxwell
 
 {% include section.html %}
 
@@ -35,7 +37,7 @@ nav:
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-"Collaboration is multiplication." – John C. Maxwell
+"If I have seen further, it is by standing on the shoulders of giants." — Isaac Newton
 
 {% include section.html %}
 
