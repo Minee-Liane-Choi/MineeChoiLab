@@ -38,3 +38,11 @@ nav:
 "Collaboration is multiplication." – John C. Maxwell
 
 {% include section.html %}
+
+{% capture content %}
+
+{% include figure.html image="images/photo.jpg"%}
+{% include figure.html image="images/photo.jpg"%}
+{% include figure.html image="images/photo.jpg"%}
+
+{% endcapture %}
