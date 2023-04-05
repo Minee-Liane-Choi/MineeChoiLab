@@ -4,7 +4,7 @@ author: the-stig
 tags: Seminar
 ---
 
-Minee spoke about the disease-in-dish paradim at the BCS Colloquim on Mar 39, 2003.
+Minee spoke about the disease-in-dish paradigm in research on neurodegenerative disease at the BCS Colloquim on Mar 39, 2003.
 
 {%
   include figure.html
