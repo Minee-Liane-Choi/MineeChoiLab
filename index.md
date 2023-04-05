@@ -69,7 +69,7 @@ Find our ongoing projects and upcoming plans.
 
 {% capture text %}
 
-Meet our students, researchers, collaborators and partners.
+Meet Team BReP<mark><strong><em>A</em>I</strong></mark>R and our collaborators & partners.
 
 {%
   include button.html
