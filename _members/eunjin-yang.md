@@ -17,8 +17,8 @@ links:
 
 {%
   include tags.html
-  tags="Personalised diagnosis, Disease in dish, Developmental disorder, Degenerative disease"
+  tags="Personalized diagnosis of brain disease"
   link="projects"
 %}
 
-Eunjin majored in psychology at Korea University. During that time, she worked as a lab assistant in the Biopsychology lab and was involved in animal experiments with a sleep disorder mouse model. She also assisted in researching autism spectrum disorder at the Clinical Neurodevelopmental Sciences(CNdS) lab. Currently, she is interested in personalised diagnosis and treatment for mental disorders.
+Although the diagnosis of brain disease has been developing, they still have uniform standard compared to various symptoms. My research interest is patient-specific diagnosis for identifying differences in disease progress and providing appropriate treatment.
