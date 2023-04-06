@@ -49,7 +49,13 @@
     - iPSC
     
 - id: doi:10.1038/s41467-018-04422-2
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-018-04422-2/MediaObjects/41467_2018_4422_Fig3_HTML.jpg?as=webp
+  image: https://www.repository.cam.ac.uk/bitstream/handle/1810/269918/srep33928.pdf.jpg?sequence=5&isAllowed=y
+  tags:
+    - PD
+    - iPSC
+    
+- id: doi:10.17863/CAM.16793
+  image: https://www.repository.cam.ac.uk/bitstream/handle/1810/269918/srep33928.pdf.jpg?sequence=5&isAllowed=y
   tags:
     - PD
     - iPSC
@@ -61,7 +67,7 @@
     - iPSC
 
 - id: doi:10.1016/j.celrep.2017.05.024
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2211124717306496-fx1.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2211124716X0023X-cov200h.gif
   tags:
     - PD
     - iPSC
@@ -72,44 +78,44 @@
     - PD
     - iPSC
 
-- id: doi: 10.1016/j.bpj.2015.11.2522
-  image: 
+- id: doi:10.1016/j.bpj.2015.11.2522
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006349515X00051-cov200h.gif
   tags:
     - PD
     - iPSC
 
-- id: doi: 10.1073/pnas.1524128113
+- id: doi:10.1073/pnas.1524128113
   image: https://www.pnas.org/cms/10.1073/pnas.1524128113/asset/c42cffeb-76fd-4033-b335-2f33759ef93a/assets/graphic/pnas.1524128113fig01.jpeg
   tags:
     - PD
     - iPSC
 
-- id: doi: 10.1002/hipo.22541
-  image: https://onlinelibrary.wiley.com/cms/asset/e0fb40d3-f8ac-4574-a15b-553c2091b563/hipo22541-fig-0002-m.png
+- id: doi:10.1002/hipo.22541
+  image: https://onlinelibrary.wiley.com/cms/asset/cfbcf59f-2b3e-4875-a431-b305a0113459/hipo.v26.4.cover.jpg
   tags:
     - PD
     - iPSC
 
-- id: doi: 10.1016/j.neulet.2015.01.084
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0304394015001196-gr2.jpg
+- id: doi:10.1016/j.neulet.2015.01.084
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0304394015X00073-cov200h.gif
   tags:
     - PD
     - iPSC
 
-- id: doi: 10.1016/j.nbd.2014.02.004
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0969996114000394-gr1.jpg
+- id: doi:10.1016/j.nbd.2014.02.004
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0969996114X00033-cov200h.gif
   tags:
     - PD
     - iPSC
 
-- id: doi: 10.1126/science.1173215
+- id: doi:10.1126/science.1173215
   image: https://www.science.org/cms/asset/8eb1c9f8-04ac-4c70-ad0c-c655561acdf6/science.2009.325.issue-5937.largecover.jpg
   tags:
     - PD
     - iPSC
 
-- id: doi: 10.1016/j.cellsig.2007.12.009
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0898656807003798-gr7.jpg
+- id: doi:10.1016/j.cellsig.2007.12.009
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0898656807X01785-cov200h.gif
   tags:
     - PD
     - iPSC
