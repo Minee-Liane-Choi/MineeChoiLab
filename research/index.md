@@ -11,7 +11,7 @@ The {{ site.title }} has expertise in human-induced pluripotent stem cells (hiPS
 
 {% include section.html %}
 
-## Highlighted
+## Selected
 
 {% include citation.html lookup="Pathological structural conversion" style="rich" %}
 
