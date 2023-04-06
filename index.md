@@ -20,14 +20,17 @@ Team {{ site.team }} has set off her voyage to the cures for human neurodegenera
   <tr>
     <th>Term</th>
     <th>Course</th>
+    <th>For</th>
   </tr>
   <tr>
     <td><b>Spring 2023</b></td>
-    <td><b>Biology of Neurons (Undergraduate)</b></td>
+    <td><b>Biology of Neurons</b></td>
+    <td><b>Undergraduate</b></td>
   </tr>
   <tr>
     <td>Autumn 2023</td>
-    <td>Neurological Disorders (Graduate)</td>
+    <td>Neurological Disorders</td>
+    <td>Graduate</td>
   </tr>
 </table>
 
