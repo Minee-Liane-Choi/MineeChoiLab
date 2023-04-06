@@ -17,18 +17,10 @@ links:
   linkedin: Minee-Liane Choi
 ---
 
-#Parkinson's &ensp;
-#Alzheimer's &ensp;
-#Dimentia &ensp;
-#AI-based drug discovery &ensp;
-#Mitochondria &ensp;
-#Protein aggregation &ensp;
-#Cell death
-
 {%
   include tags.html
   tags="Parkinson's, Alzheimer's, Dimentia, AI-based drug discovery, Mitochondria, Protein aggregation, Cell death"
-  link="project"
+  link="projects"
 %}
 
 2023 ~ Present &ensp; <b>Assistant Professor</b>, Department of Brain and Cognitive Sciences, KAIST <br>
