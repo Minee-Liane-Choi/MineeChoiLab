@@ -16,6 +16,9 @@ Team {{ site.team }} has set off her voyage to the cures for human neurodegenera
 
 ## Courses
 
+<strong>Spring 2023 - Biology of Neurons (Undergratue) </strong>
+Autumn 2023 - Neurological Disorders (Graduate)
+
 {% include section.html %}
 
 ## Talks & Seminars
