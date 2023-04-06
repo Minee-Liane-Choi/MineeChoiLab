@@ -23,7 +23,7 @@ links:
   link="projects"
 %}
 
-<strong>For those in rush</strong>
+<strong>For those in a rush</strong>
 
 <table>
   <tr>
