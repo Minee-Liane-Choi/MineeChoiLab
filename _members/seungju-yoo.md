@@ -15,9 +15,10 @@ links:
   linkedin: 
 ---
 
-#iPSC &ensp;
-#AI &ensp;
-#Neurodegenerative diseases &ensp;
-#Perosnalised medicine
+{%
+  include tags.html
+  tags="iPSC, AI, Neurodegenerative diseases, Perosnalised medicine"
+  link="projects"
+%}
 
 The brain, both mysterious and wondrous, presents inevitable impairments that we must conquer. Seung Ju's research focuses on enabling patient-specific, targeted treatments by identifying the subtypes of brain diseases.
