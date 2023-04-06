@@ -13,7 +13,10 @@ The {{ site.title }} has expertise in human-induced pluripotent stem cells (hiPS
 
 ## Selected
 
-{% include citation.html lookup="Pathological structural conversion" style="rich" %}
+{% include citation.html lookup="Nature Neuroscience" style="rich" %}
+{% include citation.html lookup="Cell Death and Differentiation" style="rich" %}
+{% include citation.html lookup="Acta Neuropathologica" style="rich" %}
+{% include citation.html lookup="Science" style="rich" %}
 
 {% include section.html %}
 
