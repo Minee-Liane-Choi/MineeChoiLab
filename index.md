@@ -69,7 +69,7 @@ Find our ongoing projects and upcoming plans.
 
 {% capture text %}
 
-Meet Team {{ site.team }} and our collaborators & partners.
+Meet our team mates, collaborators and partners.
 
 {%
   include button.html
