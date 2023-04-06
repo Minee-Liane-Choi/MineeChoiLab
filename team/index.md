@@ -24,17 +24,17 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images/partner-roger-barker.jpg" caption="Prof. Roger A. Barker" link="https://www.brc.cam.ac.uk" %}
-{% include figure.html image="images//partner-sonia-gandhi.jpg" caption="Prof. Sonia Gandhi" link="https://www.crick.ac.uk/research/labs/sonia-gandhi" %}
-{% include figure.html image="images//partner-andrey-abramov.jpg" caption="Prof. Andrey Y. Abramov" link="https://www.ucl.ac.uk/ion/research/our-departments/clinical-and-movement-neurosciences/centres-and-projects/andrey-y-abramov" %}
+{% include figure.html image="images/collaborator-roger-barker.jpg" caption="Prof. Roger A. Barker" link="https://www.brc.cam.ac.uk" %}
+{% include figure.html image="images//collaborator-sonia-gandhi.jpg" caption="Prof. Sonia Gandhi" link="https://www.crick.ac.uk/research/labs/sonia-gandhi" %}
+{% include figure.html image="images//collaborator-andrey-abramov.jpg" caption="Prof. Andrey Y. Abramov" link="https://www.ucl.ac.uk/ion/research/our-departments/clinical-and-movement-neurosciences/centres-and-projects/andrey-y-abramov" %}
 
-{% include figure.html image="images/partner-jaeseung-jeong.jpg" caption="Prof. Jaeseung Jeong" link="http://raphe.kaist.ac.kr/" %}
-{% include figure.html image="images//partner-daesoo-kim.jpg" caption="Prof. Sonia Gandhi" link="http://bglab.kr/" %}
-{% include figure.html image="images//partner-sebum-paik.jpg" caption="Prof. Sebum Paik" link="http://vs.kaist.ac.kr/" %}
+{% include figure.html image="images/collaborator-jaeseung-jeong.jpg" caption="Prof. Jaeseung Jeong" link="http://raphe.kaist.ac.kr/" %}
+{% include figure.html image="images//collaborator-daesoo-kim.jpg" caption="Prof. Sonia Gandhi" link="http://bglab.kr/" %}
+{% include figure.html image="images//collaborator-sebum-paik.jpg" caption="Prof. Sebum Paik" link="http://vs.kaist.ac.kr/" %}
 
-{% include figure.html image="images//partner-sangwan-lee.jpg" caption="Prof. Sangwan Lee" link="https://aibrain.kaist.ac.kr/sang-wan-lee" %}
-{% include figure.html image="images//partner-seungwoo-lee.jpg" caption="Prof. Seungwoo Lee" link="" %}
-{% include figure.html image="images//partner-jeongtae-kwon.jpg" caption="Prof. Jeongtae Kwon" link="" %}
+{% include figure.html image="images//collaborator-sangwan-lee.jpg" caption="Prof. Sangwan Lee" link="https://aibrain.kaist.ac.kr/sang-wan-lee" %}
+{% include figure.html image="images//collaborator-seungwoo-lee.jpg" caption="Prof. Seungwoo Lee" link="" %}
+{% include figure.html image="images//collaborator-jeongtae-kwon.jpg" caption="Prof. Jeongtae Kwon" link="" %}
 
 {% endcapture %}
 
