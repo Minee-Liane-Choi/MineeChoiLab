@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["yellow.scss"],"names":[],"mappings":"AAAA;EACE;EACA","sourcesContent":["yellow {\n  background: #03A9F4;\n  color: #FFB74D;\n}\n"],"file":"yellow.css"}
+{"version":3,"sourceRoot":"","sources":["yellow.scss"],"names":[],"mappings":"AAAA;EACE;EACA","sourcesContent":["yellow {\n  background: #03A9F4;\n  color: #FFEB3B;\n}\n"],"file":"yellow.css"}
