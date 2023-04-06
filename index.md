@@ -7,10 +7,14 @@
   link="projects"
 %}
 
-# Bon Voyage !!!
+## News
 
+Bon Voyage !!!
 Team {{ site.team }} has set off her voyage to the cures for human neurodegenerative disorders.
 
+{% include section.html %}
+
+## Talks & Seminars
 {%
   include figure.html
   image="images/post3-seminar.jpg"
