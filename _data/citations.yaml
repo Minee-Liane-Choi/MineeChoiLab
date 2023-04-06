@@ -264,7 +264,29 @@
   publisher: Nature Communications
   date: '2018-06-12'
   link: https://doi.org/ghhbtp
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-018-04422-2/MediaObjects/41467_2018_4422_Fig3_HTML.jpg?as=webp
+  image: https://www.repository.cam.ac.uk/bitstream/handle/1810/269918/srep33928.pdf.jpg?sequence=5&isAllowed=y
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.17863/CAM.16793
+  title: Arachidonic acid mediates the formation of abundant alpha-helical multimers
+    of alpha-synuclein
+  authors:
+  - Marija Iljina
+  - Laura Tosatto
+  - Minee L Choi
+  - Jason C Sang
+  - Yu Ye
+  - Craig D Hughes
+  - Clare E Bryant
+  - Sonia Gandhi
+  - David Klenerman
+  publisher: Apollo - University of Cambridge Repository
+  date: '2017-12-04'
+  link: https://doi.org/gr3twx
+  image: https://www.repository.cam.ac.uk/bitstream/handle/1810/269918/srep33928.pdf.jpg?sequence=5&isAllowed=y
   tags:
   - PD
   - iPSC
@@ -332,7 +354,7 @@
   publisher: Cell Reports
   date: '2017-05-01'
   link: https://doi.org/gj249f
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2211124717306496-fx1.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2211124716X0023X-cov200h.gif
   tags:
   - PD
   - iPSC
@@ -360,6 +382,24 @@
   - iPSC
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.bpj.2015.11.2522
+  title: Strain Dependent Effects of Alpha-Synuclein Mutations on Mitochondrial Dysfunction
+  authors:
+  - Minee L. Choi
+  - Zhi Yao
+  - Laura Tosatto
+  - David Klenerman
+  - Andrey Y. Abramov
+  - Sonia Gandhi
+  publisher: Biophysical Journal
+  date: '2016-02-01'
+  link: https://doi.org/gr3tw2
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006349515X00051-cov200h.gif
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1073/pnas.1524128113
   title: Kinetic model of the aggregation of alpha-synuclein provides insights into
     prion-like spreading
@@ -381,6 +421,116 @@
   date: '2016-02-16'
   link: https://doi.org/f8b39m
   image: https://www.pnas.org/cms/10.1073/pnas.1524128113/asset/c42cffeb-76fd-4033-b335-2f33759ef93a/assets/graphic/pnas.1524128113fig01.jpeg
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/hipo.22541
+  title: A simple assessment model to quantifying the dynamic hippocampal neurogenic
+    process in the adult mammalian brain
+  authors:
+  - Minee L. Choi
+  - Faye Begeti
+  - Roger A. Barker
+  - Namho Kim
+  publisher: Hippocampus
+  date: '2015-11-03'
+  link: https://doi.org/f8ftpd
+  image: https://onlinelibrary.wiley.com/cms/asset/cfbcf59f-2b3e-4875-a431-b305a0113459/hipo.v26.4.cover.jpg
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neulet.2015.01.084
+  title: The Fabry disease-associated lipid Lyso-Gb3 enhances voltage-gated calcium
+    currents in sensory neurons and causes pain
+  authors:
+  - L. Choi
+  - J. Vernon
+  - O. Kopach
+  - M.S. Minett
+  - K. Mills
+  - P.T. Clayton
+  - T. Meert
+  - J.N. Wood
+  publisher: Neuroscience Letters
+  date: '2015-05-01'
+  link: https://doi.org/gr3tw3
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0304394015X00073-cov200h.gif
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.nbd.2014.02.004
+  title: Dopaminergic manipulations and its effects on neurogenesis and motor function
+    in a transgenic mouse model of Huntington's disease
+  authors:
+  - M.L. Choi
+  - F. Begeti
+  - J.H. Oh
+  - S.Y. Lee
+  - G.C. O'Keeffe
+  - C.D. Clelland
+  - P. Tyers
+  - Z.H. Cho
+  - Y.B. Kim
+  - R.A. Barker
+  publisher: Neurobiology of Disease
+  date: '2014-06-01'
+  link: https://doi.org/f5zxtc
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0969996114X00033-cov200h.gif
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/science.1173215
+  title: A Functional Role for Adult Hippocampal Neurogenesis in Spatial Pattern Separation
+  authors:
+  - C. D. Clelland
+  - M. Choi
+  - C. Romberg
+  - G. D. Clemenson
+  - A. Fragniere
+  - P. Tyers
+  - S. Jessberger
+  - L. M. Saksida
+  - R. A. Barker
+  - F. H. Gage
+  - T. J. Bussey
+  publisher: Science
+  date: '2009-07-10'
+  link: https://doi.org/chcnjd
+  image: https://www.science.org/cms/asset/8eb1c9f8-04ac-4c70-ad0c-c655561acdf6/science.2009.325.issue-5937.largecover.jpg
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cellsig.2007.12.009
+  title: Vascular endothelial growth factor (VEGF) signaling regulates hippocampal
+    neurons by elevation of intracellular calcium and activation of calcium/calmodulin
+    protein kinase II and mammalian target of rapamycin
+  authors:
+  - Byung Woo Kim
+  - Minee Choi
+  - Yong-Seok Kim
+  - Hyungju Park
+  - Hye-Ryeon Lee
+  - Chae-Ok Yun
+  - Eun Joo Kim
+  - June-Seek Choi
+  - Sunoh Kim
+  - Hyewon Rhim
+  - Bong-Kiun Kaang
+  - Hyeon Son
+  publisher: Cellular Signalling
+  date: '2008-04-01'
+  link: https://doi.org/cpvn3f
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0898656807X01785-cov200h.gif
   tags:
   - PD
   - iPSC
