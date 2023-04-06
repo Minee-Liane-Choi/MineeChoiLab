@@ -1,6 +1,13 @@
 ---
 ---
 
+{%
+  include tags.html
+  tags="Clinical neuroscience, Parkinson's, Alzheimer's, Dimentia, AI-based drug discovery, Mitochondria, Protein aggregation, Cell death"
+  repo="your-lab/some-repo"
+  link="blog"
+%}
+
 # Bon Voyage !!!
 
 Team {{ site.team }} has set off her voyage to the cures for human neurodegenerative disorders.
@@ -12,8 +19,6 @@ Team {{ site.team }} has set off her voyage to the cures for human neurodegenera
   link="blog"
   width="600px"
 %}
-
-#Clinical neuroscience &ensp; #Parkinson's &ensp; #Alzheimer's&ensp; #Dimentia &ensp; #AI-based drug discovery &ensp; #Mitochondria &ensp; #Protein aggregation &ensp; #Cell death
 
 {% include section.html %}
 
