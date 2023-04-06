@@ -17,8 +17,8 @@ links:
 
 {%
   include tags.html
-  tags="iPSC, AI, Neurodegenerative diseases, Perosnalised medicine"
+  tags="Brain disease subtype classification through Machine learning"
   link="projects"
 %}
 
-The brain, both mysterious and wondrous, presents inevitable impairments that we must conquer. Seung Ju's research focuses on enabling patient-specific, targeted treatments by identifying the subtypes of brain diseases.
+The underlying mechanisms of brain diseases can be diverse and vary between individuals. Precise classification of these varying subtypes enables the provision of patient-specific treatments that improves therapeutic effectiveness and lead to better patient outcomes.
