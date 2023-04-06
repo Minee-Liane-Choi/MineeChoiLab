@@ -14,8 +14,7 @@ links:
   facebook:
   instagram:
   youtube:
-  linkedin: Minee-Liane Choi  
-  tags: Test
+  linkedin: Minee-Liane Choi
 ---
 
 #Parkinson's &ensp;
@@ -25,6 +24,12 @@ links:
 #Mitochondria &ensp;
 #Protein aggregation &ensp;
 #Cell death
+
+{%
+  include tags.html
+  tags="Parkinson's, Alzheimer's, Dimentia, AI-based drug discovery, Mitochondria, Protein aggregation, Cell death"
+  link="project"
+%}
 
 2023 ~ Present &ensp; <b>Assistant Professor</b>, Department of Brain and Cognitive Sciences, KAIST <br>
 2023 ~ Present &ensp; <b>Honorary Fellow</b>, UCL Queen Square Institute of Neurology, University of London, UK <br>
