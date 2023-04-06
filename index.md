@@ -3,7 +3,7 @@
 
 # Bon Voyage !!!
 
-Team BReP<mark><strong><em>A</em>I</strong></mark>R has set off her voyage to the cures for human neurodegenerative disorders.
+Team {{ site.team }} has set off her voyage to the cures for human neurodegenerative disorders.
 
 {%
   include figure.html
