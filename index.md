@@ -69,7 +69,7 @@ Find our ongoing projects and upcoming plans.
 
 {% capture text %}
 
-Meet Team BReP<mark><strong><em>A</em>I</strong></mark>R and our collaborators & partners.
+Meet Team {{ site.team }} and our collaborators & partners.
 
 {%
   include button.html
