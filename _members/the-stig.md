@@ -14,4 +14,5 @@ links:
   linkedin:
 ---
 
-Keep Calm and Kill the Brain Bugs
+"I assist you undercover."
+<em>"You Keep Calm and Kill the Brain Bugs !!!"</em>
