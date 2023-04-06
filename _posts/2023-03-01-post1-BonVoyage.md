@@ -5,7 +5,7 @@ tags: BRePAIR
 ---
 
 Team {{ site.team }} has set off her hopeful voyage with Minee, Eunjin and Seungju onboard. <br>
-Please be with us and bless our two extraordinary young scientists, Eunjin and Seungju, starting their first academic year in Team BReP<mark><strong><em>A</em>I</strong></mark>R.
+Please be with us and bless our two extraordinary young scientists, Eunjin and Seungju, starting their first academic year in Team {{ site.team }}.
 
 {%
   include figure.html
