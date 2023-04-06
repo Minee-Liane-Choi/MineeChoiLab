@@ -26,7 +26,7 @@ links:
 2023 ~ Present &ensp; <b>Assistant Professor</b>, Department of Brain and Cognitive Sciences, KAIST <br>
 2023 ~ Present &ensp; <b>Honorary Fellow</b>, UCL Queen Square Institute of Neurology, University of London, UK <br>
 2023 ~ Present &ensp; <b>Honorary Fellow</b>, The Francis Crick Institute, UK <br>
-2019 ~ Present &ensp; <b>Invited Member</b>, Royal Society of Biolology, UK <br>
+2019 ~ Present &ensp; <b>Nominated Member</b>, Royal Society of Biolology, UK <br>
 
 2017 ~ 2022 &ensp; <b>Senior Research Fellow (Secondment)</b>, The Francis Crick Institute, UK <br>
 2014 ~ 2022 &ensp; <b>Research Fellow</b>, UCL Queen Square Institute of Neurology, University of London, UK <br>
