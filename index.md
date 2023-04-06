@@ -4,8 +4,7 @@
 {%
   include tags.html
   tags="Clinical neuroscience, Parkinson's, Alzheimer's, Dimentia, AI-based drug discovery, Mitochondria, Protein aggregation, Cell death"
-  repo="your-lab/some-repo"
-  link="blog"
+  link="projects"
 %}
 
 # Bon Voyage !!!
