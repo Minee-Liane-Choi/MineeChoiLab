@@ -270,3 +270,119 @@
   - iPSC
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1186/s12915-017-0390-6
+  title: "Nanobodies raised against monomeric \u0251-synuclein inhibit fibril formation\
+    \ and destabilize toxic oligomeric species"
+  authors:
+  - Marija Iljina
+  - Liu Hong
+  - Mathew H. Horrocks
+  - Marthe H. Ludtmann
+  - Minee L. Choi
+  - Craig D. Hughes
+  - Francesco S. Ruggeri
+  - Tim Guilliams
+  - Alexander K. Buell
+  - Ji-Eun Lee
+  - Sonia Gandhi
+  - Steven F. Lee
+  - Clare E. Bryant
+  - Michele Vendruscolo
+  - Tuomas P. J. Knowles
+  - Christopher M. Dobson
+  - Erwin De Genst
+  - David Klenerman
+  publisher: BMC Biology
+  date: '2017-07-03'
+  link: https://doi.org/gr3r89
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12915-017-0390-6/MediaObjects/12915_2017_390_Fig2_HTML.gif?as=webp
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.celrep.2017.05.024
+  title: Progressive Motor Neuron Pathology and the Role of Astrocytes in a Human
+    Stem Cell Model of VCP-Related ALS
+  authors:
+  - Claire E. Hall
+  - Zhi Yao
+  - Minee Choi
+  - Giulia E. Tyzack
+  - Andrea Serio
+  - Raphaelle Luisier
+  - Jasmine Harley
+  - Elisavet Preza
+  - Charlie Arber
+  - Sarah J. Crisp
+  - P. Marc D. Watson
+  - Dimitri M. Kullmann
+  - Andrey Y. Abramov
+  - Selina Wray
+  - Russell Burley
+  - Samantha H.Y. Loh
+  - L. Miguel Martins
+  - Molly M. Stevens
+  - Nicholas M. Luscombe
+  - Christopher R. Sibley
+  - Andras Lakatos
+  - Jernej Ule
+  - Sonia Gandhi
+  - Rickie Patani
+  publisher: Cell Reports
+  date: '2017-05-01'
+  link: https://doi.org/gj249f
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2211124717306496-fx1.jpg
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/srep33928
+  title: Arachidonic acid mediates the formation of abundant alpha-helical multimers
+    of alpha-synuclein
+  authors:
+  - Marija Iljina
+  - Laura Tosatto
+  - Minee L. Choi
+  - Jason C. Sang
+  - Yu Ye
+  - Craig D. Hughes
+  - Clare E. Bryant
+  - Sonia Gandhi
+  - David Klenerman
+  publisher: Scientific Reports
+  date: '2016-09-27'
+  link: https://doi.org/f85p8q
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsrep33928/MediaObjects/41598_2016_Article_BFsrep33928_Fig6_HTML.jpg?as=webp
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1073/pnas.1524128113
+  title: Kinetic model of the aggregation of alpha-synuclein provides insights into
+    prion-like spreading
+  authors:
+  - Marija Iljina
+  - Gonzalo A. Garcia
+  - Mathew H. Horrocks
+  - Laura Tosatto
+  - Minee L. Choi
+  - Kristina A. Ganzinger
+  - Andrey Y. Abramov
+  - Sonia Gandhi
+  - Nicholas W. Wood
+  - Nunilo Cremades
+  - Christopher M. Dobson
+  - Tuomas P. J. Knowles
+  - David Klenerman
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2016-02-16'
+  link: https://doi.org/f8b39m
+  image: https://www.pnas.org/cms/10.1073/pnas.1524128113/asset/c42cffeb-76fd-4033-b335-2f33759ef93a/assets/graphic/pnas.1524128113fig01.jpeg
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
