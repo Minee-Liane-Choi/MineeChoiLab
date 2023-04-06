@@ -27,52 +27,51 @@ links:
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Year</th>
+    <th>Role</th>
+    <th>Affiliation</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>2023 ~ Present</td>
+    <td><b>Assistant Professor</b></td>
+    <td>Department of Brain and Cognitive Sciences, KAIST</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>2023 ~ Present</td>
+    <td><b>Honorary Fellow</b></td>
+    <td>The Francis Crick Institute, UK</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td>2023 ~ Present</td>
+    <td><b>Honorary Fellow</b></td>
+    <td>UCL Queen Square Institute of Neurology, University of London, UK</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+    <td>2019 ~ Present</td>
+    <td><b>Nominated Member</b></td>
+    <td>Royal Society of Biolology, UK</td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
+    <td>2017 ~ 2022</td>
+    <td><b>Senior Research Fellow (Secondment)</b></td>
+    <td>The Francis Crick Institute, UK</td>
   </tr>
   <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
+    <td>2014 ~ 2022</td>
+    <td><b>Research Fellow</b></td>
+    <td>UCL Queen Square Institute of Neurology, University of London, UK</td>
+  </tr>
+  <tr>
+    <td>2012 ~ 2013</td>
+    <td><b>Research Associate</b></td>
+    <td>UCL Wolfson Institute for Biomedical Research, University of London, UK</td>
+  </tr>
+  <tr>
+    <td>2013</td>
+    <td><b>PhD in Clinical Neurosciences</b></td>
+    <td>University of Cambridge, UK</td>
   </tr>
 </table>
-
-2023 ~ Present &ensp; <b>Assistant Professor</b>, Department of Brain and Cognitive Sciences, KAIST <br>
-2023 ~ Present &ensp; <b>Honorary Fellow</b>, UCL Queen Square Institute of Neurology, University of London, UK <br>
-2023 ~ Present &ensp; <b>Honorary Fellow</b>, The Francis Crick Institute, UK <br>
-2019 ~ Present &ensp; <b>Nominated Member</b>, Royal Society of Biolology, UK <br>
-
-2017 ~ 2022 &ensp; <b>Senior Research Fellow (Secondment)</b>, The Francis Crick Institute, UK <br>
-2014 ~ 2022 &ensp; <b>Research Fellow</b>, UCL Queen Square Institute of Neurology, University of London, UK <br>
-2012 ~ 2013 &ensp; <b>Research Associate</b>, UCL Wolfson Institute for Biomedical Research, University of London, UK <br>
-
-2013  &ensp; <b>PhD in Clinical Neurosciences</b>, University of Cambridge, UK <br>
 
 Minee is a neurophysiologist specialising in neurodegenerative diseases. She is an assistant professor at the Department of Brain and Cognitive Science at KAIST. She is also an Honorary Fellow of UCL Queen Square Institute of Neurology and the Francis Crick Institute, UK. <br>
 
