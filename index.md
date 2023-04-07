@@ -7,14 +7,14 @@
   link="projects"
 %}
 
-## Team {{ site.team }} News
+## {{ site.team }} News
 
 Bon Voyage !!!
 Team {{ site.team }} has set off her voyage to the cures for human neurodegenerative disorders.
 
 {% include section.html %}
 
-## Team {{ site.team }} Courses
+## {{ site.team }} Courses
 
 <table>
   <tr>
@@ -36,7 +36,7 @@ Team {{ site.team }} has set off her voyage to the cures for human neurodegenera
 
 {% include section.html %}
 
-## Team {{ site.team }} Talks & Seminars
+## {{ site.team }} Talks & Seminars
 {%
   include figure.html
   image="images/post3-seminar.jpg"
@@ -47,7 +47,7 @@ Team {{ site.team }} has set off her voyage to the cures for human neurodegenera
 
 {% include section.html %}
 
-## Team {{ site.team }} Shortcuts
+## About {{ site.team }}
 
 {% capture text %}
 
