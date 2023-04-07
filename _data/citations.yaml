@@ -164,6 +164,29 @@
   - iPSC
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.bpj.2019.11.1289
+  title: Tracking Oligomerization of Alpha-Synuclein Demonstrates Pivotal Role of
+    Mitochondria in Seeding
+  authors:
+  - Minee L. Choi
+  - Mathew H. Horrocks
+  - Margarida Rodrigues
+  - Suman De
+  - Laura Tosatto
+  - Weilia Zhang
+  - Gurvir Virdi
+  - David Klenerman
+  - Andrey Y. Abramov
+  - Sonia Gandhi
+  publisher: Biophysical Journal
+  date: '2020-02-01'
+  link: https://doi.org/gr3w6q
+  image: https://www.cell.com/cms/asset/08f4efb2-16ac-4b43-820a-ba45eb40b10f/cov200h.gif
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s00401-018-1907-y
   title: "Picomolar concentrations of oligomeric alpha-synuclein sensitizes TLR4 to\
     \ play an initiating role in Parkinson\u2019s disease pathogenesis"
@@ -270,6 +293,45 @@
   - iPSC
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.freeradbiomed.2018.04.532
+  title: Overproduction of reactive oxygen species is the primary pathological event
+    related to neuronal cell death in iPSC derived neurons from patients with familial
+    Parkinson's disease
+  authors:
+  - Minee L Choi
+  - Ruta Meleckyte
+  - Daniel Little
+  - Andrey Y Abramov
+  - Rickie Patani
+  - Sonia Gandhi
+  publisher: Free Radical Biology and Medicine
+  date: '2018-05-01'
+  link: https://doi.org/gr3w6r
+  image: https://ars.els-cdn.com/content/image/S08915849.gif
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.freeradbiomed.2018.04.137
+  title: Alpha-synuclein induces ferroptosis through generation of lipid peroxidation
+    and calcium deregulation
+  authors:
+  - Plamena R. Angelova
+  - Minee-Liane Choi
+  - Mathew H. Horrocks
+  - David Klenerman
+  - Sonia Gandhi
+  - Andrey Y. Abramov
+  publisher: Free Radical Biology and Medicine
+  date: '2018-05-01'
+  link: https://doi.org/gr3w6s
+  image: https://ars.els-cdn.com/content/image/S08915849.gif
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/s12915-017-0390-6
   title: "Nanobodies raised against monomeric \u0251-synuclein inhibit fibril formation\
     \ and destabilize toxic oligomeric species"
@@ -338,6 +400,31 @@
   - iPSC
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.bpj.2016.11.2351
+  title: Direct Modulation of the Mitochondrial Permeability Transition Pore by Oligomeric
+    Alpha-Synuclein Causes Toxicity in PD
+  authors:
+  - Marthe Ludtmann
+  - Plamena Angelova
+  - Minee-Liane Choi
+  - Mathew Horrocks
+  - Artyom Baev
+  - Daniel Little
+  - Michael Devine
+  - Paul Gissen
+  - Evgeny Pavlov
+  - David Klenerman
+  - Andrey Abramov
+  - Sonia Gandhi
+  publisher: Biophysical Journal
+  date: '2017-02-01'
+  link: https://doi.org/gr3w6t
+  image: https://www.cell.com/cms/asset/780de9ac-5681-4006-8c8b-d1792a98befe/cov200h.gif
+  tags:
+  - PD
+  - iPSC
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/srep33928
   title: Arachidonic acid mediates the formation of abundant alpha-helical multimers
     of alpha-synuclein
@@ -354,7 +441,7 @@
   publisher: Scientific Reports
   date: '2016-09-27'
   link: https://doi.org/f85p8q
-  image: https://www.repository.cam.ac.uk/bitstream/handle/1810/269918/srep33928.pdf.jpg?sequence=5&isAllowed=y
+  image: https://www.openacessjournal.com/assets/membership/2020041548Scien.jpg
   tags:
   - PD
   - iPSC
