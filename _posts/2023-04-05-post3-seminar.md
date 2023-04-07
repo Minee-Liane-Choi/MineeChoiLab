@@ -6,10 +6,14 @@ tags: Seminar
 
 Minee gave a talk at the First Wednesday Multidisciplinary Forum on Apr 5, 2003.
 
-{%
-  include figure.html
-  image="images/post3-seminar.jpg"
-  caption="The First Wednesday Multidisciplinary Forum, April 2023"
-  link=""
-  width="600px"
-%}
+{% capture content %}
+
+{% include figure.html image="images/post3-seminar1.jpg" caption="" %}
+
+{% include figure.html image="images/post3-seminar2.jpg" caption="" %}
+
+{% include figure.html image="images/post3-seminar3.jpg" caption="" %}
+
+{% endcapture %}
+
+{% include grid.html content=content style="square" %}
