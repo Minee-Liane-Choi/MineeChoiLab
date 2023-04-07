@@ -1,6 +1,6 @@
 ---
 title: The First Wednesday Multidisciplinary Forum
-author: the-stig
+author: minee-choi
 tags: Seminar
 ---
 
