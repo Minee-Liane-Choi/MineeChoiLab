@@ -1,6 +1,6 @@
 ---
 title: BCS Spring Colloquium 2023
-author: the-stig
+author: minee-choi
 tags: Seminar
 ---
 
