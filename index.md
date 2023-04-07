@@ -14,7 +14,7 @@ Team {{ site.team }} has set off her voyage to the cures for human neurodegenera
 
 {% include section.html %}
 
-## Courses
+## Team {{ site.team }} Courses
 
 <table>
   <tr>
@@ -36,7 +36,7 @@ Team {{ site.team }} has set off her voyage to the cures for human neurodegenera
 
 {% include section.html %}
 
-## Talks & Seminars
+## Team {{ site.team }} Talks & Seminars
 {%
   include figure.html
   image="images/post3-seminar.jpg"
@@ -47,7 +47,7 @@ Team {{ site.team }} has set off her voyage to the cures for human neurodegenera
 
 {% include section.html %}
 
-## Shortcuts
+## Team {{ site.team }} Shortcuts
 
 {% capture text %}
 
