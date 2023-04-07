@@ -76,7 +76,7 @@
   publisher: Nature Neuroscience
   date: '2022-08-30'
   link: https://doi.org/gqqswt
-  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/41593/25/9
+  image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41593/25/9
   tags:
   - PD
   - iPSC
@@ -135,7 +135,7 @@
   publisher: Cell Death &amp; Differentiation
   date: '2020-04-27'
   link: https://doi.org/gqqxzs
-  image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41418/27/4
+  image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41418/27/7
   tags:
   - PD
   - iPSC
@@ -158,7 +158,7 @@
   publisher: Communications Biology
   date: '2020-02-18'
   link: https://doi.org/gprv3s
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs42003-020-0792-9/MediaObjects/42003_2020_792_Fig4_HTML.png?as=webp
+  image: https://th.bing.com/th?id=OSK.f00bfb73a4a4b227ae33f35139ff6094&w=92&h=124&c=7&o=6&dpr=1.3&pid=SANGAM
   tags:
   - PD
   - iPSC
@@ -264,29 +264,7 @@
   publisher: Nature Communications
   date: '2018-06-12'
   link: https://doi.org/ghhbtp
-  image: https://www.repository.cam.ac.uk/bitstream/handle/1810/269918/srep33928.pdf.jpg?sequence=5&isAllowed=y
-  tags:
-  - PD
-  - iPSC
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.17863/CAM.16793
-  title: Arachidonic acid mediates the formation of abundant alpha-helical multimers
-    of alpha-synuclein
-  authors:
-  - Marija Iljina
-  - Laura Tosatto
-  - Minee L Choi
-  - Jason C Sang
-  - Yu Ye
-  - Craig D Hughes
-  - Clare E Bryant
-  - Sonia Gandhi
-  - David Klenerman
-  publisher: Apollo - University of Cambridge Repository
-  date: '2017-12-04'
-  link: https://doi.org/gr3twx
-  image: https://www.repository.cam.ac.uk/bitstream/handle/1810/269918/srep33928.pdf.jpg?sequence=5&isAllowed=y
+  image: https://th.bing.com/th?id=OSK.63c1f1e26188742d851a457bf4c6e09a&w=92&h=124&c=7&o=6&dpr=1.3&pid=SANGAM
   tags:
   - PD
   - iPSC
@@ -317,7 +295,7 @@
   publisher: BMC Biology
   date: '2017-07-03'
   link: https://doi.org/gr3r89
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12915-017-0390-6/MediaObjects/12915_2017_390_Fig2_HTML.gif?as=webp
+  image: https://th.bing.com/th?id=OSK.edfab221ed9e56106aadb6b386152e27&w=92&h=124&c=7&o=6&dpr=1.3&pid=SANGAM
   tags:
   - PD
   - iPSC
@@ -376,7 +354,7 @@
   publisher: Scientific Reports
   date: '2016-09-27'
   link: https://doi.org/f85p8q
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsrep33928/MediaObjects/41598_2016_Article_BFsrep33928_Fig6_HTML.jpg?as=webp
+  image: https://www.repository.cam.ac.uk/bitstream/handle/1810/269918/srep33928.pdf.jpg?sequence=5&isAllowed=y
   tags:
   - PD
   - iPSC
@@ -420,7 +398,7 @@
   publisher: Proceedings of the National Academy of Sciences
   date: '2016-02-16'
   link: https://doi.org/f8b39m
-  image: https://www.pnas.org/cms/10.1073/pnas.1524128113/asset/c42cffeb-76fd-4033-b335-2f33759ef93a/assets/graphic/pnas.1524128113fig01.jpeg
+  image: https://www.pnas.org/cms/asset/d315b125-8244-4846-b7a6-ae56c58dbfbe/pnas.2016.113.issue-9.largecover.png
   tags:
   - PD
   - iPSC
