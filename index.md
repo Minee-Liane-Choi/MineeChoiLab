@@ -72,7 +72,7 @@ See our publications.
 
 {% capture text %}
 
-Find our ongoing projects and upcoming plans.
+Find our projects, expertises, STPs and plans.
 
 {%
   include button.html
