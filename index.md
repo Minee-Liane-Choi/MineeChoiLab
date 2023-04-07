@@ -37,7 +37,7 @@ Team {{ site.team }} has set off her voyage to the cures for human neurodegenera
 ## {{ site.team }} Talks & Seminars
 {%
   include figure.html
-  image="images/post3-seminar.jpg"
+  image="images/post3-seminar1.jpg"
   caption="The First Wednesday Multidisciplinary Forum, April 2023"
   link="blog"
   width="600px"
