@@ -4,7 +4,11 @@ image: images/team-minee-choi.jpg
 role: pi
 aliases:
   - Minee-Liane Choi
-  - ML Choi
+  - Minee L. Choi
+  - Minee Choi
+  - M.L. Choi
+  - M. Choi
+  - L. Choi
 links:  
   email: minee.choi@kaist.ac.kr
   orcid: 0000-0001-9414-8214
