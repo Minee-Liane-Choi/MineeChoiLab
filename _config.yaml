@@ -1,6 +1,6 @@
-title: <strong><red>BR</red><redinvt><em>A</em>I</redinvt><red>N</red>  <blue>ReP</blue><blueinvt><em>A</em>I</blueinvt><blue>R</blue> Lab</strong>
+title: <strong><red>BR</red><blueinvt><em>A</em>I</blueinvt><red>N</red>  <blue>ReP</blue><redinvt><em>A</em>I</redinvt><blue>R</blue> Lab</strong>
 subtitle: Minee Choi's Lab
-team: <strong><red>B</red><black>ReP</black><blackinvt><em>A</em>I</blackinvt><black>R</black></strong>
+team: <strong><red>B</red><black>ReP</black><redinvt><em>A</em>I</redinvt><black>R</black></strong>
 description: #Parkinson’s #Alzheimer’s #Dimentia #AI-based drug discovery #Mitochondria #Protein aggregation #Cell death
 logo-text: true
 header: images/background.jpg
