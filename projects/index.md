@@ -15,7 +15,7 @@ We are particularly interested in two key mechanisms: protein misfolding and per
 
 Overall, our aim is to understand how these two key processes (protein misfolding and perturbed RNA regulation) conspire in neurodegenerative disease. The ultimate hope is that through a better understanding of the molecular and cellular origins of diseases like Parkinson’s disease (PD), we will be able to take a more strategic approach to the development of novel therapies.
 
-{% include tags.html tags="Parkinson's, Alzheimer's, Dimentia, AI, Mitochondria, Protein aggregation, Cell death" %}
+{% include tags.html tags="Clinical neuroscience, Parkinson's, Alzheimer's, Dimentia, AI-based drug discovery, Mitochondria, Protein aggregation, Cell death" %}
 
 {% include search-info.html %}
 
