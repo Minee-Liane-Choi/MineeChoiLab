@@ -53,12 +53,12 @@ There are currently no vacancies in our lab.
 
 {% capture text %}
 
-See our publications.
+See our published works.
 
 {%
   include button.html
   link="research"
-  text="See our published works."
+  text="See our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
