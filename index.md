@@ -58,7 +58,7 @@ See our publications.
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our published works."
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
