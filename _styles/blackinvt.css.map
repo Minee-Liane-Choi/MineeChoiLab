@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["blackinvt.scss"],"names":[],"mappings":"AAAA;EACE;EACA","sourcesContent":["blackinvt {\n  background: #0000FF;\n  color: #FFFFFF;\n}\n"],"file":"blackinvt.css"}
+{"version":3,"sourceRoot":"","sources":["blackinvt.scss"],"names":[],"mappings":"AAAA;EACE;EACA","sourcesContent":["blackinvt {\n  background: #007fbf;\n  color: #FFFFFF;\n}\n"],"file":"blackinvt.css"}
