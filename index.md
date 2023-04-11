@@ -43,7 +43,7 @@ Team {{ site.team }} has set off her voyage to the cures for human neurodegenera
   width="600px"
 %}
 
-## {{ site.team }} Jobs & Opportunies
+## {{ site.team }} Jobs & Opportunities
 
 There are currently no vacancies in our lab.
 
