@@ -43,9 +43,9 @@ Team {{ site.team }} has set off her voyage to the cures for human neurodegenera
   width="600px"
 %}
 
-## Vacancies at {{ site.team }} 
+## Join {{ site.team }} 
 
-There are currently no vacancies avaiable.
+There are currently no vacancies available.
 
 {% include section.html %}
 
