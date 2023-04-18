@@ -7,6 +7,12 @@
   link="projects"
 %}
 
+// Required Core Stylesheet
+@import "node_modules/@glidejs/glide/src/assets/sass/glide.core";
+
+// Optional Theme Stylesheet
+@import "node_modules/@glidejs/glide/src/assets/sass/glide.theme";
+
 <div class = "container">
   <div class="glide">
     <div class="glide__track" data-glide-el="track">
