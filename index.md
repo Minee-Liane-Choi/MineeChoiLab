@@ -78,7 +78,7 @@ See our published works.
 {%
   include button.html
   link="research"
-  text="See our research"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -90,7 +90,7 @@ See our published works.
   include feature.html
   image="images/home-research.jpg"
   link="research"
-  title="Our Research"
+  title="Our Publications"
   text=text
 %}
 
