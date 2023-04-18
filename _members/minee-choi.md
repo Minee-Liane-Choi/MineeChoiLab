@@ -40,7 +40,7 @@ links:
   </tr>
   <tr>
     <td>2019-Present</td>
-    <td><b>Nominated Member</b>, Royal Society of Biolology, UK</td>
+    <td>Nominated Member, Royal Society of Biolology, UK</td>
   </tr>
   <tr>
     <td>2017-2022</td>
