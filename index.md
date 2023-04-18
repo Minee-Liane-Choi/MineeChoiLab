@@ -7,12 +7,6 @@
   link="projects"
 %}
 
-// Required Core Stylesheet
-@import "_styles/glide.core";
-
-// Optional Theme Stylesheet
-@import "_styles/glide.theme";
-
 <div class = "container">
   <div class="glide">
     <div class="glide__track" data-glide-el="track">
