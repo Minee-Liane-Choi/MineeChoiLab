@@ -27,49 +27,36 @@ links:
 
 <table>
   <tr>
-    <th>Year</th>
-    <th>Role</th>
-    <th>Affiliation</th>
+    <td>2023 ~ Present</td>
+    <td><b>Assistant Professor</b>, Department of Brain and Cognitive Sciences, KAIST</td>
   </tr>
   <tr>
     <td>2023 ~ Present</td>
-    <td><b>Assistant Professor</b></td>
-    <td>Department of Brain and Cognitive Sciences, KAIST</td>
+    <td><b>Honorary Fellow</b>, The Francis Crick Institute, UK</td>
   </tr>
   <tr>
     <td>2023 ~ Present</td>
-    <td><b>Honorary Fellow</b></td>
-    <td>The Francis Crick Institute, UK</td>
-  </tr>
-  <tr>
-    <td>2023 ~ Present</td>
-    <td><b>Honorary Fellow</b></td>
-    <td>UCL Queen Square Institute of Neurology, University of London, UK</td>
+    <td><b>Honorary Fellow</b>, UCL Queen Square Institute of Neurology, University of London, UK</td>
   </tr>
   <tr>
     <td>2019 ~ Present</td>
-    <td><b>Nominated Member</b></td>
-    <td>Royal Society of Biolology, UK</td>
+    <td><b>Nominated Member</b>, Royal Society of Biolology, UK</td>
   </tr>
   <tr>
     <td>2017 ~ 2022</td>
-    <td><b>Senior Research Fellow (Secondment)</b></td>
-    <td>The Francis Crick Institute, UK</td>
+    <td><b>Senior Research Fellow (Secondment)</b>, The Francis Crick Institute, UK</td>
   </tr>
   <tr>
     <td>2014 ~ 2022</td>
-    <td><b>Research Fellow</b></td>
-    <td>UCL Queen Square Institute of Neurology, University of London, UK</td>
+    <td><b>Research Fellow</b>, UCL Queen Square Institute of Neurology, University of London, UK</td>
   </tr>
   <tr>
     <td>2012 ~ 2013</td>
-    <td><b>Research Associate</b></td>
-    <td>UCL Wolfson Institute for Biomedical Research, University of London, UK</td>
+    <td><b>Research Associate</b>, UCL Wolfson Institute for Biomedical Research, University of London, UK</td>
   </tr>
   <tr>
     <td>2013</td>
-    <td><b>PhD in Clinical Neurosciences</b></td>
-    <td>University of Cambridge, UK</td>
+    <td><b>PhD in Clinical Neurosciences</b>, University of Cambridge, UK</td>
   </tr>
 </table>
 
@@ -77,7 +64,7 @@ links:
 
 Minee is a neurophysiologist specialising in neurodegenerative diseases. She is an assistant professor at the Department of Brain and Cognitive Science at KAIST. She is also an Honorary Fellow of UCL Queen Square Institute of Neurology and the Francis Crick Institute, UK. <br>
 
-After obtaining BA and MMSc from Hanyang University, she was awarded Cambridge Overseas Trust Scholarship and earned her PhD in Clinical Neurosciences from the University of Cambridge in 2013 (supervised by Prof. RogerBarker). After her doctorate, Minee moved to University College London(UCL) and started research as a post-doctoral research fellow (John Wood’s lab in 2013 – 2014, Sonia Gandhi’s lab in 2014 – 2022). She was on a laboratory secondment at the Francis Crick Institute as a research scientist (2017 – 2022). KAIST appointed her as an assistant professor as of Feb 2023.
+After obtaining BA and MMSc from Hanyang University, she was awarded Cambridge Overseas Trust Scholarship and earned her PhD in Clinical Neurosciences from the University of Cambridge in 2013 (supervised by Prof. RogerBarker). After her doctorate, Minee moved to University College London(UCL) and started research as a post-doctoral research fellow (John Wood’s lab in 2013 – 2014, Sonia Gandhi’s lab in 2014 – 2022). She was on a laboratory secondment at the Francis Crick Institute as a senior research scientist (2017 – 2022). KAIST appointed her as an assistant professor as of Feb 2023.
  
 Minee’s research interest is understanding the mechanisms of protein aggregation, mitochondrial dysfunction and neuroinflammation in neurodegenerative diseases such as Alzheimer’s (AD) and Parkinson’s (PD). Her research aims to dissect the cellular mechanism of neurodegeneration and develop apersonalized therapeutic platforms for AD and PD. She extensively utilizes patient-derived pluripotent stem cell (hiPSC) systems, molecular models for mitochondrial dysfunction/protein aggregation and machine learning.
 
