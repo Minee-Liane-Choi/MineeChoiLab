@@ -12,11 +12,16 @@ table {
 }
 
 th {
-  font-weight: var(--semi-bold);
+  font-weight: var(--semi-bold);  
 }
 
 th,
 td {
+  text-align: left;
   padding: 10px 15px;
   border: solid 1px var(--light-gray);
+}
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
 }
