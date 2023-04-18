@@ -7,6 +7,26 @@
   link="projects"
 %}
 
+<div class = "container">
+  <div class="glide">
+    <div class="glide__track" data-glide-el="track">
+      <ul class="glide__slides">
+        <li class="glide__slide">0</li>
+        <li class="glide__slide">1</li>
+        <li class="glide__slide">2</li>
+      </ul>
+    </div>
+    <div class="glide__arrows" data-glide-el="controls">
+    <button class="glide__arrow glide__arrow--left" data-glide-dir="<">prev</button>
+    <button class="glide__arrow glide__arrow--right" data-glide-dir=">">next</button>
+    </div>
+  </div>
+</div>
+<script src = "https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
+<script>
+  new Glide('.glide').mount()
+</script>
+
 {% include section.html %}
 
 ## {{ site.team }} News
