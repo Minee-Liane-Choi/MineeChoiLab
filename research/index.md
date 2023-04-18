@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 The {{ site.title }} Lab has expertise in human-induced pluripotent stem cells (hiPSCs) derived from patients with neurodegenerative diseases. Our lab aims to 1) understand the pathologies of various neurodegenerative disorders and 2) develop an AI-based platform for personalized drug discovery.
 
