@@ -23,8 +23,6 @@ links:
   link="projects"
 %}
 
-<strong>For those in a rush</strong>
-
 <table>
   <tr>
     <td>2023-Present</td>
@@ -59,8 +57,6 @@ links:
     <td>PhD in Clinical Neurosciences, University of Cambridge, UK</td>
   </tr>
 </table>
-
-<strong>For those who like to read</strong>
 
 Minee is a neurophysiologist specialising in neurodegenerative diseases. She is an assistant professor at the Department of Brain and Cognitive Science at KAIST. She is also an Honorary Fellow of UCL Queen Square Institute of Neurology and the Francis Crick Institute, UK. <br>
 
