@@ -7,6 +7,9 @@
   link="projects"
 %}
 
+@import "/_styles/glide.core";
+@import "/_styles/glide.theme";
+
 <div class = "container">
   <div class="glide">
     <div class="glide__track" data-glide-el="track">
