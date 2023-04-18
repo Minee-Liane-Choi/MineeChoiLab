@@ -14,8 +14,13 @@ th {
 
 th,
 td {
+  text-align: left;
   padding: 10px 15px;
   border: solid 1px var(--light-gray);
+}
+
+tr:nth-child(even) {
+  background-color: #D6EEEE;
 }
 
 /*# sourceMappingURL=table.css.map */
