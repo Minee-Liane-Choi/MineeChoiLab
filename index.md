@@ -8,10 +8,10 @@
 %}
 
 // Required Core Stylesheet
-@import "node_modules/@glidejs/glide/src/assets/sass/glide.core";
+@import "_styles/glide.core";
 
 // Optional Theme Stylesheet
-@import "node_modules/@glidejs/glide/src/assets/sass/glide.theme";
+@import "_styles/glide.theme";
 
 <div class = "container">
   <div class="glide">
