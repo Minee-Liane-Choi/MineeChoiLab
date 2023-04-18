@@ -13,12 +13,8 @@ links:
   email: minee.choi@kaist.ac.kr
   orcid: 0000-0001-9414-8214
   github: Minee-Liane-Choi
-  home-page: mineechoilab.kaist.ac.kr
   twitter: MineeChoi
-  facebook:
   instagram:
-  youtube:
-  linkedin: Minee-Liane Choi
 ---
 
 {%
