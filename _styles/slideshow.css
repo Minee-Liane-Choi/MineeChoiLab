@@ -26,10 +26,9 @@ img {vertical-align: middle;}
   user-select: none;
 }
 
-right: 150px;
 /* Position the "prev button" to the left */
 .prev {
-  left: auto;
+  right: 0;
   border-radius: 3px 0 0 3px;
 }
 
