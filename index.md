@@ -11,7 +11,6 @@ carousels:
 
 ## To the cure
 
-{% include section.html full=true %}
 
 {% include carousel.html height="40" unit="%" duration="10" number="1" %}
   
