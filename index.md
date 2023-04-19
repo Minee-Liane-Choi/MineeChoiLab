@@ -10,7 +10,7 @@ carousels:
 
 # Make neurodegerative disease curable
 
-The {{ site.title }} Lab a team of researchers at Korea Advanced Institute of Science and Technology (KAIST) dedicated to making human neurodegenerative disease curable.
+The {{ site.title }} Lab is a team of researchers at Korea Advanced Institute of Science and Technology (KAIST) dedicated to making human neurodegenerative disease curable.
 
 We use patient-derived human stem cells as a model for investigating the causes of Parkinson’s disease (PD), with the ultimate aim of translating our insights into improved diagnostics, biomarkers, and novel targets for therapies. We also use human-induced pluripotent stem cells (hiPSCs) to investigate the key cellular and molecular events underlying neurodegeneration. We also examine human stem cells using cutting-edge dynamic imaging, in order to investigate the mechanisms that lead to neurodegeneration. 
 
