@@ -1,6 +1,7 @@
 ---
 ---
-
+<section class="background" data-full="true">
+  
 <div class="slideshow-container">
 
 <div class="mySlides fade">
@@ -61,7 +62,9 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
-
+  
+</section>
+  
 {% include section.html %}
 
 ## {{ site.team }} News
