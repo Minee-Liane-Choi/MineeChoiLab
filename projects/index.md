@@ -17,9 +17,9 @@ Overall, our aim is to understand how these two key processes (protein misfoldin
 
 {% include section.html %}
 
-{% include tags.html tags="Parkinson's, Alzheimer's, Dimentia, AI-based drug discovery, Mitochondria, Protein aggregation, Cell death" %}
-
 {% include search-box.html %}
+
+{% include tags.html tags="Parkinson's, Alzheimer's, Dimentia, AI-based drug discovery, Mitochondria, Protein aggregation, Cell death" %}
 
 {% include search-info.html %}
 
