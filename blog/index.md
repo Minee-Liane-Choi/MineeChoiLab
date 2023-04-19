@@ -9,12 +9,12 @@ nav:
 
 We post and share our news, thoughts, announcements, vacancies, opportunities, and more on this blog page.
 
-{% include section.html %}
-
 {% include search-box.html %}
 
 {% include tags.html tags=site.tags %}
 
 {% include search-info.html %}
+
+{% include section.html %}
 
 {% include list.html data="posts" component="post-excerpt" %}
