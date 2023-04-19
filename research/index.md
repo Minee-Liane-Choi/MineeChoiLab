@@ -11,6 +11,12 @@ The {{ site.title }} Lab has expertise in human-induced pluripotent stem cells (
 
 {% include section.html %}
 
+{% include tags.html tags="Parkinson's, Alzheimer's, Dimentia, AI-based drug discovery, Mitochondria, Protein aggregation, Cell death" %}
+
+{% include search-box.html %}
+
+{% include search-info.html %}
+
 ## Selected
 
 {% include citation.html lookup="Pathological structural conversion" style="rich" %}
@@ -21,11 +27,5 @@ The {{ site.title }} Lab has expertise in human-induced pluripotent stem cells (
 {% include section.html %}
 
 ## All
-
-{% include tags.html tags="Parkinson's, Alzheimer's, Dimentia, AI-based drug discovery, Mitochondria, Protein aggregation, Cell death" %}
-
-{% include search-box.html %}
-
-{% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
