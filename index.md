@@ -8,7 +8,7 @@ carousels:
     - image: /images/carousel/contact-crick.jpg
 ---
 
-# Make neurodegerative disease curable
+# New approaches for brain repair
 
 The {{ site.title }} Lab is a team of researchers at Korea Advanced Institute of Science and Technology (KAIST) dedicated to making human neurodegenerative disease curable.
 
