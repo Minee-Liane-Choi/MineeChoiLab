@@ -1,48 +1,39 @@
 ---
 ---
 
-@import "palettes";
-@import "theme";
-@import "mixins";
+$page: 1000px;
+$padding: 40px;
 
-html,
-body {
-  margin: 0;
-  padding: 0;
-  min-height: 100vh;
+section {
+  padding: $padding max($padding, calc((100% - $page) / 2));
+  transition-property: background, color;
 }
 
-body {
-  display: flex;
-  flex-direction: column;
-  font-family: $serif;
+section[data-size="wide"] {
+  padding: $padding;
+}
 
-  main {
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-  }
+section[data-size="full"] {
+  padding: 0;
+}
 
-  section {
-    box-sizing: content-box;
-    padding: 60px 40px; // fallback
-    padding: 60px Max(40px, calc((100% - #{$page}) / 2));
-    text-align: center;
+section[data-size="full"] > * {
+  margin: 0;
+  border-radius: 0;
+}
 
-    &[data-full="true"] {
-      padding: 0;
-    }
-  }
+section[data-size="full"] img {
+  border-radius: 0;
+}
 
-  section:nth-of-type(even) {
-    background: $white;
-  }
+main > section:last-of-type {
+  flex-grow: 1;
+}
 
-  section:nth-of-type(even) {
-    background: $gray-50;
-  }
+main > section:nth-of-type(odd) {
+  background: var(--background);
+}
 
-  section:last-of-type {
-    flex-grow: 1;
-  }
+main > section:nth-of-type(even) {
+  background: var(--background-alt);
 }
