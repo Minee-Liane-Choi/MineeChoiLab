@@ -2,17 +2,22 @@
 title: Home
 ---
 
-{% include section.html full=true %}
+<section
+      class="background"
+      data-full="true"
+      
+      
+    >
+<!-- section full -->
 
-<style>
-  iframe {
-    width: 100%;
-    height: min(400px, 50vw);
-    border: none;
-  }
-</style>
+<img
+  class="banner"
+  src="images/background.jpg"
+  loading="lazy"
+  alt="Banner image"
+/>
 
-<iframe src="images/background.jpg"></iframe>
+</section>
   
 {% include section.html %}
 
