@@ -1,9 +1,18 @@
 ---
+title: Home
 ---
 
 {% include section.html full=true %}
 
-{% include carousel.html %}
+<style>
+  iframe {
+    width: 100%;
+    height: min(400px, 50vw);
+    border: none;
+  }
+</style>
+
+<iframe src="images/background.jpg"></iframe>
   
 {% include section.html %}
 
