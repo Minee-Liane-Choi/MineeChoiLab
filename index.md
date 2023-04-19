@@ -9,16 +9,11 @@ carousels:
     - image: /images/carousel/wex.webp
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Home
+# AI for human neurodegerative disease
 
-
-Here
+The {{ site.title }} Lab has expertise in human-induced pluripotent stem cells (hiPSCs) derived from patients with neurodegenerative diseases. Our lab aims to 1) understand the pathologies of various neurodegenerative disorders and 2) develop an AI-based platform for personalized drug discovery.
 
 {% include section.html size="full" %}
-
-{% include figure.html image="images/background.jpg" width="100%" %}
-
-Here
 
 {% include carousel.html height="40" unit="%" duration="10" number="1" %}
   
