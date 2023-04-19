@@ -1,12 +1,6 @@
 ---
 ---
 
-{%
-  include tags.html
-  tags="Clinical neuroscience, Parkinson's, Alzheimer's, Dimentia, AI-based drug discovery, Mitochondria, Protein aggregation, Cell death"
-  link="projects"
-%}
-
 <div class="slideshow-container">
 
 <div class="mySlides fade">
