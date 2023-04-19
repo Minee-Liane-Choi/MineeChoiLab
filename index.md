@@ -9,7 +9,7 @@ carousels:
     - image: /images/carousel/wex.webp
 ---
 
-# To the cure
+## To the cure
 
 {% include section.html full=true %}
 
