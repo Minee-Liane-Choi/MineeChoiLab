@@ -1,17 +1,9 @@
 ---
-title: Home
-carousels:
-  - images: 
-    - image: /images/carousel/wex.webp
-    - image: /images/carousel/wex.webp
-    - image: /images/carousel/wex.webp
-    - image: /images/carousel/wex.webp
-    - image: /images/carousel/wex.webp
 ---
 
 {% include section.html full=true %}
 
-{% include carousel.html height="40" unit="%" duration="10" number="1" %}
+{% include carousel.html %}
   
 {% include section.html %}
 
