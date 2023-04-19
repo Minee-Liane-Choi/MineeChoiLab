@@ -26,6 +26,13 @@ img {vertical-align: middle;}
   user-select: none;
 }
 
+right: 150px;
+/* Position the "prev button" to the left */
+.prev {
+  left: auto;
+  border-radius: 3px 0 0 3px;
+}
+
 /* Position the "next button" to the right */
 .next {
   right: 0;
