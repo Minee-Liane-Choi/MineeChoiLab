@@ -4,6 +4,7 @@ carousels:
   - images: 
     - image: /images/carousel/contact-kaist.jpg
     - image: /images/carousel/minee.jpg
+    - image: /images/carousel/post2-seminar2.jpg
     - image: /images/carousel/contact-crick.jpg
 ---
 
