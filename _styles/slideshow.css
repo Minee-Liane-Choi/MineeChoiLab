@@ -28,7 +28,7 @@ img {vertical-align: middle;}
 
 /* Position the "prev button" to the left */
 .prev {
-  right: 100px;
+  right: 1000px;
   border-radius: 3px 0 0 3px;
 }
 
