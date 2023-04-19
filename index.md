@@ -4,6 +4,10 @@ title: Home
 
 # {% include icon.html icon="fa-solid fa-users" %}Home
 
+{% include section.html size="wide" %}
+
+Here
+
 {% include section.html size="full" %}
 
 Here
