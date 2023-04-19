@@ -1,5 +1,12 @@
 ---
 title: Home
+carousels:
+  - images: 
+    - image: /images/carousel/wex.webp
+    - image: /images/carousel/wex.webp
+    - image: /images/carousel/wex.webp
+    - image: /images/carousel/wex.webp
+    - image: /images/carousel/wex.webp
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Home
@@ -12,6 +19,8 @@ Here
 {% include figure.html image="images/background.jpg" width="100%" %}
 
 Here
+
+{% include carousel.html height="40" unit="%" duration="10" number="1" %}
   
 {% include section.html %}
 
