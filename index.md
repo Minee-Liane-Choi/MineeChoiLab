@@ -9,6 +9,8 @@ Here
 
 {% include section.html size="full" %}
 
+{% include figure.html image="images/background.jpg" width="100%" %}
+
 Here
   
 {% include section.html %}
