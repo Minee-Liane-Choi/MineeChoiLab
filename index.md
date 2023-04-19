@@ -2,22 +2,9 @@
 title: Home
 ---
 
-<section
-      class="background"
-      data-full="true"
-      
-      
-    >
-<!-- section full -->
+{% include section.html size="full" %}
 
-<img
-  class="banner"
-  src="images/background.jpg"
-  loading="lazy"
-  alt="Banner image"
-/>
-
-</section>
+{% include figure.html image="images/background.jpg" width="100%" %}
   
 {% include section.html %}
 
