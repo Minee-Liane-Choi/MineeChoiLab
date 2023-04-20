@@ -2,13 +2,15 @@
 - id: doi:10.1038/s41531-022-00423-7
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41531-022-00423-7/MediaObjects/41531_2022_423_Fig8_HTML.png?as=webp
   tags:
+    - Protein aggregation
     - Parkinson's
     - hiPSC
     
 - id: doi:10.1038/s41593-022-01140-3
   image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41593/25/9
   tags:
-    - Parkinson's
+    - Alpha-Synuclein
+    - Mitochondria
     - hiPSC
     - 1st Author
 
@@ -16,7 +18,6 @@
   image: https://movementdisorders.onlinelibrary.wiley.com/cms/asset/694968c7-fed7-49a1-bf22-c9d5c347547a/mds.v37.8.cover.jpg
   tags:
     - Parkinson's
-    - hiPSC
     
 - id: doi:10.1038/s41418-020-0542-z
   image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41418/27/7
@@ -29,14 +30,14 @@
 - id: doi:10.1038/s42003-020-0792-9
   image: https://th.bing.com/th?id=OSK.f00bfb73a4a4b227ae33f35139ff6094&w=92&h=124&c=7&o=6&dpr=1.3&pid=SANGAM
   tags:
-    - Parkinson's
+    - Cell death
     - hiPSC
     
 - id: doi:10.1016/j.bpj.2019.11.1289
   image: https://www.cell.com/cms/asset/08f4efb2-16ac-4b43-820a-ba45eb40b10f/cov200h.gif
   tags:
-    - Parkinson's
-    - hiPSC    
+    - Alpha-Synuclein
+    - Mitochondria   
     
 - id: doi:10.1007/s00401-018-1907-y
   image: https://media.springernature.com/w138/springer-static/cover/journal/401/137/1.jpg
@@ -48,13 +49,14 @@
 - id: doi:10.1002/cbic.201800209
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/5397eb37-34f9-43e6-86f2-0e8509247448/cbic.v19.19.cover.jpg
   tags:
-    - Parkinson's
+    - Protein aggregation
     - hiPSC
     
 - id: doi:10.1111/febs.14587
   image: https://febs.onlinelibrary.wiley.com/cms/asset/678ff62a-d26a-4566-ba0c-99d67daa3f07/febs.2018.285.issue-19.cover.jpg
   tags:
     - Parkinson's
+    - Alzheimer's
     - hiPSC
     - 1st Author
     
@@ -62,50 +64,51 @@
   image: https://th.bing.com/th?id=OSK.63c1f1e26188742d851a457bf4c6e09a&w=92&h=124&c=7&o=6&dpr=1.3&pid=SANGAM
   tags:
     - Parkinson's
-    - hiPSC   
+    - Alpha-Synuclein
+    - hiPSC
+   
+- id: doi:10.1016/j.freeradbiomed.2018.04.137
+  image: https://ars.els-cdn.com/content/image/S08915849.gif
+  tags:
+    - Alpha-Synuclein
+    - Ferroptosis
     
 - id: doi:10.1016/j.freeradbiomed.2018.04.532
   image: https://ars.els-cdn.com/content/image/S08915849.gif
   tags:
-    - PD
+    - Parkinson's
+    - Cell death
     - iPSC
     - 1st Author
-    
-- id: doi:10.1016/j.freeradbiomed.2018.04.137
-  image: https://ars.els-cdn.com/content/image/S08915849.gif
-  tags:
-    - Parkinson's
-    - hiPSC
     
 - id: doi:10.1186/s12915-017-0390-6
   image: https://th.bing.com/th?id=OSK.edfab221ed9e56106aadb6b386152e27&w=92&h=124&c=7&o=6&dpr=1.3&pid=SANGAM
   tags:
-    - Parkinson's
-    - hiPSC
+    - Alpha-Synuclein
 
 - id: doi:10.1016/j.celrep.2017.05.024
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2211124716X0023X-cov200h.gif
   tags:
     - Parkinson's
-    - hiPSC
     
 - id: doi:10.1016/j.bpj.2016.11.2351
   image: https://www.cell.com/cms/asset/780de9ac-5681-4006-8c8b-d1792a98befe/cov200h.gif
   tags:
     - Parkinson's
+    - Mitochondria
     - hiPSC
     
 - id: doi:10.1038/srep33928
   image: https://www.openacessjournal.com/assets/membership/2020041548Scien.jpg
   tags:
     - Parkinson's
-    - hiPSC
+    - Alpha-Synuclein
     
 - id: doi:10.1073/pnas.1524128113
   image: https://www.pnas.org/cms/asset/d315b125-8244-4846-b7a6-ae56c58dbfbe/pnas.2016.113.issue-9.largecover.png
   tags:
     - Parkinson's
-    - hiPSC
+    - Alpha-Synuclein
 
 - id: doi:10.1016/j.bpj.2015.11.2522
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0006349515X00051-cov200h.gif
