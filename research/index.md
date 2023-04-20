@@ -9,7 +9,7 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags="Parkinson's, AI-based drug discovery, Mitochondria, Protein aggregation, Cell death, Hippocampus, Learning & Memory" %}
+{% include tags.html tags="AI-based drug discovery, Parkinson's, Mitochondria, Protein aggregation, Cell death, Fabry, Huntingdon's, Hippocampus, Learning & Memory" %}
 
 {% include search-info.html %}
 
