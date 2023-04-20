@@ -6,7 +6,7 @@
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - PD
+    - Parkinson's
 
 - title: Alzheimer's
   subtitle: TBC
@@ -16,7 +16,7 @@
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - AD
+    - AAlzheimer's
 
 - title: AI-based drug discovery
   subtitle: TBC
@@ -26,22 +26,31 @@
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - AI
+    - AI-based drug discovery
 
-- title: Mitochondria
+- title: Mitochondrial dysfunction
   subtitle: TBC
   image: images/photo.jpg
   link: https://github.com/
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - Mitochondria
+    - Mitochondrial dysfunction
 
-- title: Protein aggregation
+- title: Protein misfolding
   subtitle: TBC
   image: images/photo.jpg
   link: https://github.com/
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - Protein aggregation
+    - Protein misfolding
+    
+- title: Lewy Body Dementia
+  subtitle: TBC
+  image: images/photo.jpg
+  link: https://github.com/
+  description: To be updapted
+  repo: Minee-Liane-Choi
+  tags:
+    - Lewy Body Dementia
