@@ -4,8 +4,8 @@ author: minee-choi
 tags: BRePAIR
 ---
 
-Team {{ site.team }} has set off her hopeful voyage with Minee, Eunjin and Seungju onboard. <br>
-Please be with us and bless our two extraordinary young scientists, Eunjin and Seungju, starting their first academic year in Team {{ site.team }}.
+Team {{ site.team }} has set off on her hopeful voyage with Minee, EunJin and SeungJu onboard. <br>
+Please be with us and bless our two extraordinary young scientists, EunJin and SeungJu, starting their first academic year in Team {{ site.team }}.
 
 {%
   include figure.html
