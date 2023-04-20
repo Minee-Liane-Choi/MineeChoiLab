@@ -53,7 +53,7 @@ South Korea.
 {%
   include figure.html
   image="images/contact/bcs.jpg"
-  caption="Department of Brain & Cognitive Sciences"
+  caption="Department of Brain & Cognitive Sciences, KAIST"
   link="https://bcs.kaist.ac.kr"
 %}
 
