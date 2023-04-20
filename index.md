@@ -51,7 +51,7 @@ Team {{ site.team }} has set off on her voyage to the cures for human neurodegen
 ## {{ site.team }} Talks & Seminars
 {%
   include figure.html
-  image="images/post3-seminar1.jpg"
+  image="images/post/issue3/seminar1.jpg"
   caption="The First Wednesday Multidisciplinary Forum, April 2023"
   link="blog"
   width="600px"
@@ -82,7 +82,7 @@ See our published works.
 
 {%
   include feature.html
-  image="images/home-research.jpg"
+  image="images/home/research.jpg"
   link="research"
   title="Our Publications"
   text=text
@@ -105,7 +105,7 @@ Find our projects, expertise, STPs and plans.
 
 {%
   include feature.html
-  image="images/home-project.jpg"
+  image="images/home/project.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -130,7 +130,7 @@ Meet our team mates, collaborators and partners.
 
 {%
   include feature.html
-  image="images/home-team.jpg"
+  image="images/home/team.jpg"
   link="team"
   title="Our Team"
   text=text
