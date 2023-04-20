@@ -24,8 +24,8 @@ nav:
 
 {% capture content %}
 
-{% include figure.html image="images//collaborator-sonia-gandhi.jpg" caption="Prof. Sonia Gandhi" link="https://www.crick.ac.uk/research/labs/sonia-gandhi" %}
-{% include figure.html image="images//collaborator-andrey-abramov.jpg" caption="Prof. Andrey Y. Abramov" link="https://www.ucl.ac.uk/ion/research/our-departments/clinical-and-movement-neurosciences/centres-and-projects/andrey-y-abramov" %}
+{% include figure.html image="images/collaborator/sonia-gandhi.jpg" caption="Prof. Sonia Gandhi" link="https://www.crick.ac.uk/research/labs/sonia-gandhi" %}
+{% include figure.html image="images/collaborator/andrey-abramov.jpg" caption="Prof. Andrey Y. Abramov" link="https://www.ucl.ac.uk/ion/research/our-departments/clinical-and-movement-neurosciences/centres-and-projects/andrey-y-abramov" %}
 
 {% endcapture %}
 
