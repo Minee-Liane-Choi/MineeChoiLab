@@ -7,11 +7,10 @@ links:
   email: 
   orcid: 
   github: Minee-Liane-Choi
-  home-page:  
   twitter:
   facebook:
   instagram:
-  linkedin: 
+ 
 ---
 
 {%
