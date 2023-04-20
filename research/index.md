@@ -9,7 +9,7 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags="Parkinson's, Alzheimer's, Dimentia, AI-based drug discovery, Mitochondria, Protein aggregation, Cell death" %}
+{% include tags.html tags="Parkinson's, AI-based drug discovery, Mitochondria, Protein aggregation, Cell death, Hippocampus, Learning & Memory" %}
 
 {% include search-info.html %}
 
