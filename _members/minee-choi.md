@@ -28,7 +28,7 @@ links:
 <table>
   <tr>
     <td>2023-Present</td>
-    <td>Assistant Professor, Department of Brain and Cognitive Sciences, KAIST</td>
+    <td>Assistant Professor, Department of Brain and Cognitive Sciences, KAIST, South Korea</td>
   </tr>
   <tr>
     <td>2023-Present</td>
