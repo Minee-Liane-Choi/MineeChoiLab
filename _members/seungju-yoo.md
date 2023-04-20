@@ -17,12 +17,6 @@ links:
 
 {%
   include tags.html
-  tags="Brain disease subtype classification through Machine learning"
-  link="projects"
-%}
-
-{%
-  include tags.html
   tags="AI-based drug discovery, Parkinson's, Alzheimer's"
   link="projects"
 %}
