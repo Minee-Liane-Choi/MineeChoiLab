@@ -1,6 +1,6 @@
 ---
 name: SeungJu Yoo
-image: images/team-seungju-yoo.jpg
+image: images/team/seungju-yoo.jpg
 role: ms
 group: alum
 links:
