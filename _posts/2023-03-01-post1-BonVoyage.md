@@ -9,7 +9,7 @@ Please be with us and bless our two extraordinary young scientists, EunJin and S
 
 {%
   include figure.html
-  image="images/post1-bonvoyage.jpg"
+  image="images/post/issue1/bonvoyage.jpg"
   caption="Bon Voyage to BRePAIR !!!"
   link=""
   width="600px"
