@@ -11,9 +11,9 @@ carousels:
 # New approaches for brain repair
 
 The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making human neurodegenerative disease curable.
-We use patient-derived human stem cells as a model for investigating the causes of Parkinson’s disease (PD), aiming to translate our insights into improved diagnostics, biomarkers, and novel targets for therapies. We also use human-induced pluripotent stem cells (hiPSCs) to investigate the key cellular and molecular events underlying neurodegeneration. We also examine human stem cells using cutting-edge dynamic imaging to investigate the mechanisms leading to neurodegeneration.
+We use patient-derived human stem cells as a model for investigating the causes of Parkinson’s disease (PD), aiming to translate our insights into improved diagnostics, biomarkers, and novel targets for therapies. We also use human-induced pluripotent stem cells (hiPSCs) to investigate the key cellular and molecular events underlying neurodegeneration. We examine human stem cells using cutting-edge dynamic imaging to investigate the mechanisms leading to neurodegeneration.
 We are particularly interested in two fundamental mechanisms: protein misfolding and perturbed RNA regulation and how these mechanisms influence cell dysfunction during disease.
-We aim to understand how these fundamental processes (protein misfolding and perturbed RNA regulation) conspire in neurodegenerative disease. The ultimate hope is that by better understanding the molecular and cellular origins of diseases like Parkinson’s disease (PD), we can take a more strategic approach to developing novel therapies, such as an AI-based platform for personalized drug discovery.
+We aim to understand how these fundamental processes (protein misfolding and perturbed RNA regulation) conspire in neurodegenerative disease. The ultimate hope is that by better understanding the molecular and cellular origins of diseases like Parkinson’s disease (PD), we can take a more strategic approach to developing novel therapies and diagnostic techniques, such as an AI-based platform for personalized drug discovery.
 
 {% include section.html size="full" %}
 
