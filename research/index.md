@@ -15,6 +15,4 @@ nav:
 
 {% include section.html %}
 
-## All
-
 {% include list.html data="citations" component="citation" style="rich" %}
