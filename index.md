@@ -21,7 +21,7 @@ We aim to build a personalized therapeutic platform to solve the three major pro
   <li>Causes mostly unknown</li>
 </ol>
 
-Our therapeutic platform will utilize the following two technical advances.
+Our therapeutic platform utilizes the following two technical advances.
 <br>
 
 <ol>
