@@ -79,7 +79,9 @@
   link: https://doi.org/gqqswt
   image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41593/25/9
   tags:
-  - Alpha-Synuclein
+  - Synucleinopathy
+  - Protein aggregation
+  - Parkinson's
   - Mitochondria
   - hiPSC
   - 1st Author
@@ -138,8 +140,9 @@
   link: https://doi.org/gqqxzs
   image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41418/27/7
   tags:
+  - Synucleinopathy
+  - Protein aggregation
   - Parkinson's
-  - Alpha-Synuclein
   - Ferroptosis
   - 1st Author
   plugin: sources.py
@@ -163,7 +166,9 @@
   link: https://doi.org/gprv3s
   image: https://th.bing.com/th?id=OSK.f00bfb73a4a4b227ae33f35139ff6094&w=92&h=124&c=7&o=6&dpr=1.3&pid=SANGAM
   tags:
-  - Cell death
+  - Inflammation
+  - Alzheimer's
+  - Protein aggregation
   - hiPSC
   plugin: sources.py
   file: sources.yaml
