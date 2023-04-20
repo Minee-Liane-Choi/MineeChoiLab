@@ -35,6 +35,7 @@
   link: https://doi.org/gr3pmd
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41531-022-00423-7/MediaObjects/41531_2022_423_Fig8_HTML.png?as=webp
   tags:
+  - Protein aggregation
   - Parkinson's
   - hiPSC
   plugin: sources.py
@@ -78,7 +79,8 @@
   link: https://doi.org/gqqswt
   image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41593/25/9
   tags:
-  - Parkinson's
+  - Alpha-Synuclein
+  - Mitochondria
   - hiPSC
   - 1st Author
   plugin: sources.py
@@ -106,7 +108,6 @@
   image: https://movementdisorders.onlinelibrary.wiley.com/cms/asset/694968c7-fed7-49a1-bf22-c9d5c347547a/mds.v37.8.cover.jpg
   tags:
   - Parkinson's
-  - hiPSC
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41418-020-0542-z
@@ -162,7 +163,7 @@
   link: https://doi.org/gprv3s
   image: https://th.bing.com/th?id=OSK.f00bfb73a4a4b227ae33f35139ff6094&w=92&h=124&c=7&o=6&dpr=1.3&pid=SANGAM
   tags:
-  - Parkinson's
+  - Cell death
   - hiPSC
   plugin: sources.py
   file: sources.yaml
@@ -185,8 +186,8 @@
   link: https://doi.org/gr3w6q
   image: https://www.cell.com/cms/asset/08f4efb2-16ac-4b43-820a-ba45eb40b10f/cov200h.gif
   tags:
-  - Parkinson's
-  - hiPSC
+  - Alpha-Synuclein
+  - Mitochondria
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s00401-018-1907-y
@@ -241,7 +242,7 @@
   link: https://doi.org/gdx5c6
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/5397eb37-34f9-43e6-86f2-0e8509247448/cbic.v19.19.cover.jpg
   tags:
-  - Parkinson's
+  - Protein aggregation
   - hiPSC
   plugin: sources.py
   file: sources.yaml
@@ -257,6 +258,7 @@
   image: https://febs.onlinelibrary.wiley.com/cms/asset/678ff62a-d26a-4566-ba0c-99d67daa3f07/febs.2018.285.issue-19.cover.jpg
   tags:
   - Parkinson's
+  - Alzheimer's
   - hiPSC
   - 1st Author
   plugin: sources.py
@@ -294,7 +296,27 @@
   image: https://th.bing.com/th?id=OSK.63c1f1e26188742d851a457bf4c6e09a&w=92&h=124&c=7&o=6&dpr=1.3&pid=SANGAM
   tags:
   - Parkinson's
+  - Alpha-Synuclein
   - hiPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.freeradbiomed.2018.04.137
+  title: Alpha-synuclein induces ferroptosis through generation of lipid peroxidation
+    and calcium deregulation
+  authors:
+  - Plamena R. Angelova
+  - Minee-Liane Choi
+  - Mathew H. Horrocks
+  - David Klenerman
+  - Sonia Gandhi
+  - Andrey Y. Abramov
+  publisher: Free Radical Biology and Medicine
+  date: '2018-05-01'
+  link: https://doi.org/gr3w6s
+  image: https://ars.els-cdn.com/content/image/S08915849.gif
+  tags:
+  - Alpha-Synuclein
+  - Ferroptosis
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.freeradbiomed.2018.04.532
@@ -313,28 +335,10 @@
   link: https://doi.org/gr3w6r
   image: https://ars.els-cdn.com/content/image/S08915849.gif
   tags:
-  - PD
+  - Parkinson's
+  - Cell death
   - iPSC
   - 1st Author
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.freeradbiomed.2018.04.137
-  title: Alpha-synuclein induces ferroptosis through generation of lipid peroxidation
-    and calcium deregulation
-  authors:
-  - Plamena R. Angelova
-  - Minee-Liane Choi
-  - Mathew H. Horrocks
-  - David Klenerman
-  - Sonia Gandhi
-  - Andrey Y. Abramov
-  publisher: Free Radical Biology and Medicine
-  date: '2018-05-01'
-  link: https://doi.org/gr3w6s
-  image: https://ars.els-cdn.com/content/image/S08915849.gif
-  tags:
-  - Parkinson's
-  - hiPSC
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12915-017-0390-6
@@ -364,8 +368,7 @@
   link: https://doi.org/gr3r89
   image: https://th.bing.com/th?id=OSK.edfab221ed9e56106aadb6b386152e27&w=92&h=124&c=7&o=6&dpr=1.3&pid=SANGAM
   tags:
-  - Parkinson's
-  - hiPSC
+  - Alpha-Synuclein
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.celrep.2017.05.024
@@ -402,7 +405,6 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2211124716X0023X-cov200h.gif
   tags:
   - Parkinson's
-  - hiPSC
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.bpj.2016.11.2351
@@ -427,6 +429,7 @@
   image: https://www.cell.com/cms/asset/780de9ac-5681-4006-8c8b-d1792a98befe/cov200h.gif
   tags:
   - Parkinson's
+  - Mitochondria
   - hiPSC
   plugin: sources.py
   file: sources.yaml
@@ -449,7 +452,7 @@
   image: https://www.openacessjournal.com/assets/membership/2020041548Scien.jpg
   tags:
   - Parkinson's
-  - hiPSC
+  - Alpha-Synuclein
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.1524128113
@@ -475,7 +478,7 @@
   image: https://www.pnas.org/cms/asset/d315b125-8244-4846-b7a6-ae56c58dbfbe/pnas.2016.113.issue-9.largecover.png
   tags:
   - Parkinson's
-  - hiPSC
+  - Alpha-Synuclein
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.bpj.2015.11.2522
