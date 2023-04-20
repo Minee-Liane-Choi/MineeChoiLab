@@ -9,7 +9,7 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags="Parkinson's, Alzheimer's, Dimentia, AI-based drug discovery, Mitochondria, Protein aggregation, Cell death" %}
+{% include tags.html tags="Parkinson's, Lewy Body Dementia, Alzheimer's, AI-based drug discovery, Mitochondrial dysfunction, Protein misfolding, Cell death" %}
 
 {% include search-info.html %}
 
