@@ -11,7 +11,6 @@ links:
   twitter:
   facebook:
   instagram:
-  youtube:
   linkedin: 
 ---
 
