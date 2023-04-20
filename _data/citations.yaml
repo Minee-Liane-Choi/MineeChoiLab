@@ -35,8 +35,8 @@
   link: https://doi.org/gr3pmd
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41531-022-00423-7/MediaObjects/41531_2022_423_Fig8_HTML.png?as=webp
   tags:
-  - PD
-  - iPSC
+  - Parkinson's
+  - hiPSC
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41593-022-01140-3
@@ -78,9 +78,9 @@
   link: https://doi.org/gqqswt
   image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41593/25/9
   tags:
-  - PD
-  - iPSC
-  - Mitocondria
+  - Parkinson's
+  - hiPSC
+  - 1st Author
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/mds.29122
@@ -105,8 +105,8 @@
   link: https://doi.org/gr3ptq
   image: https://movementdisorders.onlinelibrary.wiley.com/cms/asset/694968c7-fed7-49a1-bf22-c9d5c347547a/mds.v37.8.cover.jpg
   tags:
-  - PD
-  - iPSC
+  - Parkinson's
+  - hiPSC
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41418-020-0542-z
@@ -137,8 +137,10 @@
   link: https://doi.org/gqqxzs
   image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41418/27/7
   tags:
-  - PD
-  - iPSC
+  - Parkinson's
+  - Alpha-Synuclein
+  - Ferroptosis
+  - 1st Author
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s42003-020-0792-9
@@ -160,8 +162,8 @@
   link: https://doi.org/gprv3s
   image: https://th.bing.com/th?id=OSK.f00bfb73a4a4b227ae33f35139ff6094&w=92&h=124&c=7&o=6&dpr=1.3&pid=SANGAM
   tags:
-  - PD
-  - iPSC
+  - Parkinson's
+  - hiPSC
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.bpj.2019.11.1289
@@ -183,8 +185,8 @@
   link: https://doi.org/gr3w6q
   image: https://www.cell.com/cms/asset/08f4efb2-16ac-4b43-820a-ba45eb40b10f/cov200h.gif
   tags:
-  - PD
-  - iPSC
+  - Parkinson's
+  - hiPSC
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s00401-018-1907-y
@@ -208,8 +210,9 @@
   link: https://doi.org/gqvfcw
   image: https://media.springernature.com/w138/springer-static/cover/journal/401/137/1.jpg
   tags:
-  - PD
-  - iPSC
+  - Parkinson's
+  - Alpha-Synuclein
+  - 1st Author
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/cbic.201800209
@@ -238,8 +241,8 @@
   link: https://doi.org/gdx5c6
   image: https://chemistry-europe.onlinelibrary.wiley.com/cms/asset/5397eb37-34f9-43e6-86f2-0e8509247448/cbic.v19.19.cover.jpg
   tags:
-  - PD
-  - iPSC
+  - Parkinson's
+  - hiPSC
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/febs.14587
@@ -253,8 +256,9 @@
   link: https://doi.org/gr3ptr
   image: https://febs.onlinelibrary.wiley.com/cms/asset/678ff62a-d26a-4566-ba0c-99d67daa3f07/febs.2018.285.issue-19.cover.jpg
   tags:
-  - PD
-  - iPSC
+  - Parkinson's
+  - hiPSC
+  - 1st Author
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41467-018-04422-2
@@ -289,8 +293,8 @@
   link: https://doi.org/ghhbtp
   image: https://th.bing.com/th?id=OSK.63c1f1e26188742d851a457bf4c6e09a&w=92&h=124&c=7&o=6&dpr=1.3&pid=SANGAM
   tags:
-  - PD
-  - iPSC
+  - Parkinson's
+  - hiPSC
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.freeradbiomed.2018.04.532
@@ -311,6 +315,7 @@
   tags:
   - PD
   - iPSC
+  - 1st Author
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.freeradbiomed.2018.04.137
@@ -328,8 +333,8 @@
   link: https://doi.org/gr3w6s
   image: https://ars.els-cdn.com/content/image/S08915849.gif
   tags:
-  - PD
-  - iPSC
+  - Parkinson's
+  - hiPSC
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1186/s12915-017-0390-6
@@ -359,8 +364,8 @@
   link: https://doi.org/gr3r89
   image: https://th.bing.com/th?id=OSK.edfab221ed9e56106aadb6b386152e27&w=92&h=124&c=7&o=6&dpr=1.3&pid=SANGAM
   tags:
-  - PD
-  - iPSC
+  - Parkinson's
+  - hiPSC
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.celrep.2017.05.024
@@ -396,8 +401,8 @@
   link: https://doi.org/gj249f
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2211124716X0023X-cov200h.gif
   tags:
-  - PD
-  - iPSC
+  - Parkinson's
+  - hiPSC
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.bpj.2016.11.2351
@@ -421,8 +426,8 @@
   link: https://doi.org/gr3w6t
   image: https://www.cell.com/cms/asset/780de9ac-5681-4006-8c8b-d1792a98befe/cov200h.gif
   tags:
-  - PD
-  - iPSC
+  - Parkinson's
+  - hiPSC
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/srep33928
@@ -443,26 +448,8 @@
   link: https://doi.org/f85p8q
   image: https://www.openacessjournal.com/assets/membership/2020041548Scien.jpg
   tags:
-  - PD
-  - iPSC
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.bpj.2015.11.2522
-  title: Strain Dependent Effects of Alpha-Synuclein Mutations on Mitochondrial Dysfunction
-  authors:
-  - Minee L. Choi
-  - Zhi Yao
-  - Laura Tosatto
-  - David Klenerman
-  - Andrey Y. Abramov
-  - Sonia Gandhi
-  publisher: Biophysical Journal
-  date: '2016-02-01'
-  link: https://doi.org/gr3tw2
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006349515X00051-cov200h.gif
-  tags:
-  - PD
-  - iPSC
+  - Parkinson's
+  - hiPSC
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1073/pnas.1524128113
@@ -487,8 +474,28 @@
   link: https://doi.org/f8b39m
   image: https://www.pnas.org/cms/asset/d315b125-8244-4846-b7a6-ae56c58dbfbe/pnas.2016.113.issue-9.largecover.png
   tags:
-  - PD
-  - iPSC
+  - Parkinson's
+  - hiPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.bpj.2015.11.2522
+  title: Strain Dependent Effects of Alpha-Synuclein Mutations on Mitochondrial Dysfunction
+  authors:
+  - Minee L. Choi
+  - Zhi Yao
+  - Laura Tosatto
+  - David Klenerman
+  - Andrey Y. Abramov
+  - Sonia Gandhi
+  publisher: Biophysical Journal
+  date: '2016-02-01'
+  link: https://doi.org/gr3tw2
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0006349515X00051-cov200h.gif
+  tags:
+  - Parkinson's
+  - Alpha-Synuclein
+  - Mitochondria
+  - 1st Author
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/hipo.22541
@@ -504,8 +511,8 @@
   link: https://doi.org/f8ftpd
   image: https://onlinelibrary.wiley.com/cms/asset/cfbcf59f-2b3e-4875-a431-b305a0113459/hipo.v26.4.cover.jpg
   tags:
-  - PD
-  - iPSC
+  - Hippocampus
+  - 1st Author
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neulet.2015.01.084
@@ -525,8 +532,8 @@
   link: https://doi.org/gr3tw3
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0304394015X00073-cov200h.gif
   tags:
-  - PD
-  - iPSC
+  - Fabry
+  - 1st Author
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.nbd.2014.02.004
@@ -548,8 +555,9 @@
   link: https://doi.org/f5zxtc
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0969996114X00033-cov200h.gif
   tags:
-  - PD
-  - iPSC
+  - Neurogenesis
+  - Huntington's
+  - 1st Author
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/science.1173215
@@ -571,8 +579,8 @@
   link: https://doi.org/chcnjd
   image: https://www.science.org/cms/asset/8eb1c9f8-04ac-4c70-ad0c-c655561acdf6/science.2009.325.issue-5937.largecover.jpg
   tags:
-  - PD
-  - iPSC
+  - Neurogenesis
+  - Learning & Memory
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cellsig.2007.12.009
@@ -597,7 +605,6 @@
   link: https://doi.org/cpvn3f
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0898656807X01785-cov200h.gif
   tags:
-  - PD
-  - iPSC
+  - Hippocampus
   plugin: sources.py
   file: sources.yaml
