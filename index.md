@@ -10,7 +10,7 @@ carousels:
 
 # New approaches for brain repair
 
-The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making human neurodegenerative disease curable.
+The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making human neurodegenerative disease more curable than yesterday.
 <br><br>
 We use patient-derived human stem cells as a model for investigating the causes of Parkinson’s disease (PD), aiming to translate our insights into improved diagnostics, biomarkers, and novel targets for therapies. We also extensively use human-induced pluripotent stem cells (hiPSCs) to investigate the key cellular and molecular events underlying neurodegeneration. We examine human stem cells using cutting-edge dynamic imaging to investigate the mechanisms leading to neurodegeneration.
 We are particularly interested in two fundamental mechanisms: protein misfolding and perturbed RNA regulation and how these mechanisms influence cell dysfunction during disease.
