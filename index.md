@@ -24,7 +24,7 @@ We aim to understand how these fundamental processes (protein misfolding and per
 ## {{ site.team }} News
 
 Bon Voyage !!!
-Team {{ site.team }} has set off her voyage to the cures for human neurodegenerative disorders.
+Team {{ site.team }} has set off on her voyage to the cures for human neurodegenerative disorders.
 
 ## {{ site.team }} Courses
 
