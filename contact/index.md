@@ -15,6 +15,9 @@ N5-2260, KAIST <br>
 Yuseong-gu, Daejeon <br>
 South Korea.
 
+# Join Team {{ site.team }}
+There are currently no vacanccies available.
+
 {%
   include button.html
   type="email"
