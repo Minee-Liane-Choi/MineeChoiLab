@@ -9,7 +9,7 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags="AI-based drug discovery, Parkinson's, Alzheimer's, Mitochondria, Protein aggregation, Cell death, Ferroptosis, hiPSC, Imaging, Alpha-Synuclein, Fabry, Huntingdon's, Hippocampus, Learning & Memory" %}
+{% include tags.html tags="AI-based drug discovery, Parkinson's, Alzheimer's, Mitochondria, Protein aggregation, Cell death, Ferroptosis, hiPSC, Imaging, Alpha-Synuclein, Fabry, Huntingdon's, Hippocampus, Learning & Memory, 1st Author, Corresponding Author" %}
 
 {% include search-info.html %}
 
