@@ -11,27 +11,23 @@ carousels:
 # New approaches for brain repair
 
 The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making human neurodegenerative disease more curable than yesterday. The ultimate hope is that by better understanding the molecular and cellular origins of neurodegenerative diseases. 
-<br><br>
+<br>
 
 We aim to build a personalized therapeutic platform to solve the three major problems in neurodegenerative diseases.
-<br><br>
+<br>
 <ol>
   <li>Uniqueness of the human brain </li>
   <li>Clinically individually variable </li>
   <li>Causes mostly unknown</li>
 </ol>
 
-<br><br>
 Our therapeutic platform will utilize the following two technical advances.
-<br><br>
+<br>
 
 <ol>
   <li>Patient-induced pluripotent stem cell (iPSC) technology, which allows the adoption of the “disease in a dish” paradigm to profile an individual’s brain cells and define the mechanism driving their own diseases</li>
   <li>Machine learning, which can capture and understand disease heterogeneity, and ultimately generate a predictive model for an individual patient</li>
 </ol>
-
-<br><br>
-
 
 {% include section.html size="full" %}
 
