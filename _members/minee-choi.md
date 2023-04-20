@@ -5,6 +5,7 @@ role: pi
 aliases:
   - Minee-Liane Choi
   - Minee L. Choi
+  - Minee L Choi
   - Minee Choi
   - M.L. Choi
   - M. Choi
