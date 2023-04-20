@@ -23,6 +23,8 @@ links:
   link="projects"
 %}
 
+<strong>Professional History</strong>
+
 <table>
   <tr>
     <td>2023-Present</td>
@@ -49,10 +51,12 @@ links:
     <td>Research Associate, UCL Wolfson Institute for Biomedical Research, University of London, UK</td>
   </tr>
   <tr>
-    <td>2013 </td>
+    <td>2008-2013 </td>
     <td>PhD in Clinical Neurosciences, University of Cambridge, UK</td>
   </tr>
 </table>
+
+<strong>Biographical Sketch</strong>
 
 Minee is a neurophysiologist specialized in neurodegenerative diseases. She is an assistant professor at the Department of Brain and Cognitive Science at KAIST. She is also an Honorary Fellow of UCL Queen Square Institute of Neurology and the Francis Crick Institute, UK. <br>
 
