@@ -5,14 +5,10 @@ role: ms
 group: alum
 links:
   email: 
-  orcid: 
-  github: Minee-Liane-Choi
-  home-page: 
+  github:
   twitter: 
   facebook: 
   instagram: 
-  youtube: 
-  linkedin: 
 ---
 
 {%
