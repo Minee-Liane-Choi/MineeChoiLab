@@ -13,13 +13,6 @@ nav:
 
 {% include search-info.html %}
 
-## Selected
-
-{% include citation.html lookup="Pathological structural conversion" style="rich" %}
-{% include citation.html lookup="Alpha synuclein aggregation drives ferroptosis" style="rich" %}
-{% include citation.html lookup="Picomolar concentrations of oligomeric" style="rich" %}
-{% include citation.html lookup="Adult Hippocampal Neurogenesis" style="rich" %}
-
 {% include section.html %}
 
 ## All
