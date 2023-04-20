@@ -41,7 +41,7 @@ South Korea.
 
 {%
   include figure.html
-  image="images/contact-kaist.jpg"
+  image="images/contact/kaist.jpg"
   caption="KAIST"
   link="https://kaist.ac.kr"
 %}
@@ -52,7 +52,7 @@ South Korea.
 
 {%
   include figure.html
-  image="images/contact-bcs.jpg"
+  image="images/contact/bcs.jpg"
   caption="Department of Brain & Cognitive Sciences"
   link="https://bcs.kaist.ac.kr"
 %}
@@ -63,7 +63,7 @@ South Korea.
 
 {%
   include figure.html
-  image="images/contact-crick.jpg"
+  image="images/contact/crick.jpg"
   caption="The Francis Crick Institute"
   link="https://www.crick.ac.uk"
 %}
