@@ -5,8 +5,7 @@ role: ms
 group: alum
 links:
   email: 
-  orcid: 
-  github: Minee-Liane-Choi
+  github:
   twitter:
   facebook:
   instagram:
