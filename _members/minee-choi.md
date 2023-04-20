@@ -19,7 +19,7 @@ links:
 
 {%
   include tags.html
-  tags="Parkinson's, Lewy Body Dementia, Alzheimer's, AI-based drug discovery, Mitochondrial dysfunction, Protein misfolding, Cell death"
+  tags="Parkinson's, Lewy Body Dementia, Alzheimer's, AI-based drug discovery, Mitochondrial dysfunction, Protein misfolding, Synucleinopathy, Cell death"
   link="projects"
 %}
 
