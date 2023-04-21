@@ -21,4 +21,4 @@ nav:
 
 ## Microscophy
 
-{% include list.html component="card" data="protocols" filters="group: "}
+{% include list.html component="card" data="protocols" filters="group: " %}
