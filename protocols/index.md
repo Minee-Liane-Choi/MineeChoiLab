@@ -15,10 +15,10 @@ nav:
 
 ## Cell
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="protocols" filters="group: featured" %}
 
 {% include section.html %}
 
 ## Microscophy
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="protocols" filters="group: "}
