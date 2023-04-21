@@ -10,7 +10,7 @@ carousels:
 
 # New approaches for brain repair
 
-The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making human neurodegenerative disease more curable than yesterday. The ultimate hope is that by better understanding the molecular and cellular origins of neurodegenerative diseases. 
+The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making human neurodegenerative disease more curable than yesterday. The ultimate hope is that by better understanding of the molecular and cellular origins of neurodegenerative diseases, we will be able to take a more strategic approach to the development of novel therapies.
 <br>
 
 We aim to build a personalized therapeutic platform to solve the three major problems in neurodegenerative diseases.
