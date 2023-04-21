@@ -37,7 +37,7 @@ South Korea.
 
 {% include section.html %}
 
-# Join Team {{ site.team }}
+## Join Team {{ site.team }}
 
 There are currently no vacanccies available.
 
