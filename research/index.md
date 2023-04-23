@@ -9,7 +9,7 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags="AI, hiPSC, Parkinson's, Alzheimer's, Mitochondria, Protein aggregation, Cell death, Ferroptosis, Inflammation, Synucleinopathy, Fabry disease, Huntington's, Hippocampus, Learning & Memory, Neurogenesis, 1st Author, Corresponding Author" %}
+{% include tags.html tags="AI, hiPSC, Parkinson's, Alzheimer's, Mitochondria, Protein aggregation, Cell death, Ferroptosis, Inflammation, Synucleinopathy, Fabry disease, Huntington's, Hippocampus, Learning Memory, Neurogenesis, 1st Author, Corresponding Author" %}
 
 {% include search-info.html %}
 
