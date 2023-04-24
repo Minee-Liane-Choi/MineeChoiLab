@@ -2,8 +2,8 @@
 title: Home
 carousels:
   - images: 
-    - image: /images/carousel/contact-kaist.jpg
-    - image: /images/carousel/minee.jpg
+    - image: /images/carousel/DA neurons_Hoechst_asyn_MAP2_1_all_edited.png
+    - image: /images/carousel/mutiplex_image_edited.png
     - image: /images/carousel/post2-seminar3.jpg
     - image: /images/carousel/contact-crick.jpg
 ---
