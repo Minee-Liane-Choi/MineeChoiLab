@@ -12,6 +12,7 @@ aliases:
   - L. Choi
 links:  
   email: minee.choi@kaist.ac.kr
+  google-scholar: _N6YhZUAAAAJ
   github: Minee-Liane-Choi
   twitter: MineeChoi
   instagram:
