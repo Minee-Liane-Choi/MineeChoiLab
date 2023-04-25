@@ -1,8 +1,7 @@
 ---
 name: Admin
 image: images/team/bot.jpg
-role: bot
-group: alum
+role: admin
 links:
 ---
 
