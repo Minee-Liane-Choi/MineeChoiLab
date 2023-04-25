@@ -1,7 +1,7 @@
 ---
 name: Bot
 image: images/team/bot.jpg
-role: mascot
+role: bot
 group: alum
 links:
 ---
