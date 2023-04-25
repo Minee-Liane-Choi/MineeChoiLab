@@ -3,8 +3,9 @@ name: EunJin Yang
 image: images/team/eunjin-yang.jpg
 role: ms
 links:
-  email: 
-  github:
+  email:
+  orcid:
+  google-scholar:
   twitter:
   facebook:
   instagram:
