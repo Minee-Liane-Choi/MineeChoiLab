@@ -1,6 +1,6 @@
 ---
 name: Bryan
-image: images/team/bot.jpg
+image: images/team/admin.jpg
 role: admin
 links:
 ---
