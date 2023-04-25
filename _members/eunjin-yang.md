@@ -6,10 +6,10 @@ links:
   email:
   orcid:
   google-scholar:
+  github:
   twitter:
   facebook:
-  instagram:
- 
+  instagram: 
 ---
 
 {%
