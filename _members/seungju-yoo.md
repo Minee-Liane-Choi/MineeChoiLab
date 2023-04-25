@@ -3,10 +3,12 @@ name: SeungJu Yoo
 image: images/team/seungju-yoo.jpg
 role: ms
 links:
-  email: 
+  email:
+  orcid:
+  google-scholar:
   github:
-  twitter: 
-  facebook: 
+  twitter:
+  facebook:
   instagram: 
 ---
 
