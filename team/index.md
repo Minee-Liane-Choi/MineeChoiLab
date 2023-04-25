@@ -14,7 +14,11 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: ms, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: bot, group: " %}
 
 {% include section.html background="images/wallpaper/john-maxwell.jpg" dark=true %}
 
