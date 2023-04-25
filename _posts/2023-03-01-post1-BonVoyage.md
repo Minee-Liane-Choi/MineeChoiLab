@@ -1,6 +1,6 @@
 ---
 title: Bon Voyage !!!
-author: minee-choi
+author: bot
 tags: BRePAIR
 ---
 
