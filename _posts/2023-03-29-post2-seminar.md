@@ -1,6 +1,6 @@
 ---
 title: BCS Spring Colloquium 2023
-author: bot
+author: admin
 tags: Seminar
 ---
 
