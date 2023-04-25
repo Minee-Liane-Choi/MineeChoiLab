@@ -11,6 +11,8 @@ nav:
 
 "The strength of the team is each individual member. The strength of each member is the team." – Phil Jackson
 
+{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="contact" style="button" %}
+
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
