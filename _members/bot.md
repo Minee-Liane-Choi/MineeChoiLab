@@ -1,5 +1,5 @@
 ---
-name: Bot
+name: Admin
 image: images/team/bot.jpg
 role: bot
 group: admin
