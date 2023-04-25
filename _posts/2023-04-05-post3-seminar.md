@@ -1,6 +1,6 @@
 ---
 title: The First Wednesday Multidisciplinary Forum
-author: minee-choi
+author: bot
 tags: Seminar
 ---
 
