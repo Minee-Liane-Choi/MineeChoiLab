@@ -19,10 +19,6 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: ms, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 
-{% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: admin, group: " %}
-
 {% include section.html background="images/wallpaper/john-maxwell.jpg" dark=true %}
 
 "Collaboration is multiplication." – John C. Maxwell
