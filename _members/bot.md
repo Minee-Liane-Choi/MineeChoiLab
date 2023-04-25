@@ -6,4 +6,4 @@ group: admin
 links:
 ---
 
-Bot
+Admin Bot
