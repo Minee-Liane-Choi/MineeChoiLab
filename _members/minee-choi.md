@@ -68,7 +68,7 @@ Minee was awarded the Amogen Rose Prize 2010, a best PhD student award of the de
 
 Minee's research aims to dissect cellular mechanisms of neurodegeneration and develop personalized therapeutic platforms for Alzheimer's and Parkinson's diseases. She extensively utilizes patient-derived pluripotent stem cell (hiPSC) and machine learning-based high-throughput drug screening system. <br>
 
-<strong>Major Field</strong>
+<strong>Major Fields</strong>
 - Human brain modelling for neurodegenerative diseases using human-induced pluripotent stem cells (hiPSCs) and organoids <br>
 - Cell or non-cell autonomous mechanism in neurodegeneration including protein aggregation, mitochondrial dysfunction and cell death <br>  
 - AI-based drug screening <br>   
