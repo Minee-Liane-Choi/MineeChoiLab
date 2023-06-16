@@ -1,6 +1,6 @@
 ---
 title: The First Wednesday Multidisciplinary Forum
-author: admin
+author: bryan
 tags: Seminar
 ---
 
