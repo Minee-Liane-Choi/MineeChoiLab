@@ -70,5 +70,5 @@ Minee's research aims to dissect cellular mechanisms of neurodegeneration and de
 
 <strong>Major Fields</strong>
 - Human brain modelling for neurodegenerative diseases using human-induced pluripotent stem cells (hiPSCs) and organoids <br>
-- Cell or non-cell autonomous mechanism in neurodegeneration including protein aggregation, mitochondrial dysfunction and cell death <br>  
+- Cell and non-cell autonomous mechanism in neurodegeneration including protein aggregation, mitochondrial dysfunction and cell death <br>
 - AI-based drug screening <br>   
