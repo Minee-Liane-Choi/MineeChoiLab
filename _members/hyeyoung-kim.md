@@ -1,6 +1,6 @@
 ---
 name: Hyeyoung Kim
-image: images/team/admin.jpg
+image: images/team/hyeyoung-kim.jpg
 role: admin
 links:
 ---
