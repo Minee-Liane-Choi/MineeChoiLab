@@ -27,8 +27,12 @@ programmer:
   description: Programmer
 
 admin:
-  icon: fa-brands fa-android
+  icon: fa-solid fa-code
   description: Admin
+  
+bot:
+  icon: fa-brands fa-android
+  description: Bot
 
 # general
 
