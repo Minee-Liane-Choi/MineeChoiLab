@@ -188,11 +188,12 @@
   - Sonia Gandhi
   publisher: Biophysical Journal
   date: '2020-02-01'
-  link: https://doi.org/gr3w6q
+  link: https://doi.org/10.1016/j.bpj.2019.11.1289
   image: https://www.cell.com/cms/asset/08f4efb2-16ac-4b43-820a-ba45eb40b10f/cov200h.gif
   tags:
   - Alpha-Synuclein
   - Mitochondria
+  - 1st Author
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s00401-018-1907-y
