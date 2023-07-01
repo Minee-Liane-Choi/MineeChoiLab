@@ -38,8 +38,7 @@ South Korea.
 {% include section.html %}
 
 ## Join Team {{ site.team }}
-
-There are currently no vacanccies available.
+Applications are now open for year 2024.
 
 {% include section.html %}
 
