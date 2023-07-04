@@ -1,5 +1,5 @@
 ---
-title: Postgraduate opportunities for 2024
+title: Postgraduate Opportunities for 2024
 author: bryan
 tags: BRePAIR
 ---
