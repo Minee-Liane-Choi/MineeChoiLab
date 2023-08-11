@@ -60,7 +60,7 @@ links:
 
 <strong>Biographical Sketch</strong>
 
-Minee is a neurophysiologist specialized in neurodegenerative diseases. She is an assistant professor at the Department of Brain and Cognitive Science, KAIST. She is also an Honorary Fellow of UCL Queen Square Institute of Neurology and the Francis Crick Institute, UK. <br>
+Minee is a neurophysiologist specialized in neurodegenerative diseases. She is an assistant professor at the Department of Brain and Cognitive Sciences, KAIST. She is also an Honorary Fellow of UCL Queen Square Institute of Neurology and the Francis Crick Institute, UK. <br>
 
 After obtaining BA and MMSc from Hanyang University, she was awarded Cambridge Overseas Trust Scholarship and earned her PhD in Clinical Neurosciences from the University of Cambridge (supervised by Prof. Roger Barker). After her doctorate, Minee moved to University College London (UCL) for her post-doctoral training (Sonia Gandhi's lab). She was on a laboratory secondment at the Francis Crick Institute as a senior research scientist. KAIST appointed her as an assistant professor as of Feb 2023. <br>
 
