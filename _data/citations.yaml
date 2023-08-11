@@ -1,5 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s42256-023-00702-9
+  title: "Prediction of mechanistic subtypes of Parkinson\u2019s using patient-derived\
+    \ stem cell models"
+  authors:
+  - "Karishma D\u2019Sa"
+  - James R. Evans
+  - Gurvir S. Virdi
+  - Giulia Vecchi
+  - Alexander Adam
+  - Ottavia Bertolli
+  - James Fleming
+  - Hojong Chang
+  - Craig Leighton
+  - Mathew H. Horrocks
+  - Dilan Athauda
+  - Minee L. Choi
+  - Sonia Gandhi
+  publisher: Nature Machine Intelligence
+  date: '2023-08-10'
+  link: https://doi.org/gskrzc
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/42256/5/7?as=webp&q=95
+  tags:
+  - AI
+  - Parkinson's
+  - hiPSC
+  - Corresponding author
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41531-022-00423-7
   title: "Protein aggregation and calcium dysregulation are hallmarks of familial\
     \ Parkinson\u2019s disease in midbrain dopaminergic neurons"
