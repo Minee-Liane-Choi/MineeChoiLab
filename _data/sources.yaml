@@ -1,4 +1,11 @@
-
+- id: doi:10.1038/s42256-023-00702-9
+  image: https://media.springernature.com/w440/springer-static/cover-hires/journal/42256/5/7?as=webp&q=95
+  tags:
+    - AI
+    - Parkinson's
+    - hiPSC
+    - Corresponding author
+    
 - id: doi:10.1038/s41531-022-00423-7
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41531-022-00423-7/MediaObjects/41531_2022_423_Fig8_HTML.png?as=webp
   tags:
