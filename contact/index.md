@@ -38,7 +38,7 @@ South Korea.
 {% include section.html %}
 
 ## Join Team {{ site.team }}
-Applications are now invited for year 2024.
+There are currently no vacancies.
 
 {% include section.html %}
 
