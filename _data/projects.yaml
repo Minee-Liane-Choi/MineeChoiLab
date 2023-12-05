@@ -18,7 +18,7 @@
   tags:
     - Autism
 
-- title: Addiction
+- title: Drug addiction
   subtitle: TBC
   group: featured
   image: images/photo.jpg
@@ -26,9 +26,9 @@
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - Addiction
+    - Drug, Addiction
 
-- title: Alzheimer's
+- title: Intelligent organoid
   subtitle: TBC
   group: featured
   image: images/photo.jpg
@@ -36,7 +36,7 @@
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - Alzheimer's
+    - Brain organoid, Biological computer
 
 - title: AI-based drug discovery
   subtitle: TBC
@@ -47,6 +47,15 @@
   repo: Minee-Liane-Choi
   tags:
     - AI-based drug discovery
+
+- title: Alzheimer's
+  subtitle: TBC
+  image: images/photo.jpg
+  link: https://github.com/
+  description: To be updapted
+  repo: Minee-Liane-Choi
+  tags:
+    - Alzheimer's
 
 - title: Mitochondrial dysfunction
   subtitle: TBC
