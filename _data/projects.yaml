@@ -8,6 +8,26 @@
   tags:
     - Parkinson's
 
+- title: Autism
+  subtitle: TBC
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/
+  description: To be updapted
+  repo: Minee-Liane-Choi
+  tags:
+    - Autism
+
+- title: Addiction
+  subtitle: TBC
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/
+  description: To be updapted
+  repo: Minee-Liane-Choi
+  tags:
+    - Addiction
+
 - title: Alzheimer's
   subtitle: TBC
   group: featured
