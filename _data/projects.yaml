@@ -48,6 +48,16 @@
   tags:
     - AI, Drug discovery
 
+- title: Human iPSC
+  subtitle: TBC
+  group: featured
+  image: images/project/hipsc.jpg
+  link: https://github.com/
+  description: To be updapted
+  repo: Minee-Liane-Choi
+  tags:
+    - Brain, Organoid
+
 - title: Alzheimer's
   subtitle: TBC
   image: images/project/alzheimer.jpg
