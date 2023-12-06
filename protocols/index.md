@@ -9,7 +9,7 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags="Protocal 1, Protocal 2, Protocol 3" %}
+{% include tags.html tags="hiPSC, Brain organoid, Cell culture, Cell imaging" %}
 
 {% include search-info.html %}
 
