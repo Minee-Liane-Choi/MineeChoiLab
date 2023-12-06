@@ -14,7 +14,7 @@ links:
 
 {%
   include tags.html
-  tags="Parkinson's,Alzheimer's, Autism, AI-based drug discovery"
+  tags="Parkinson's, Autism, Drug discovery, hiPSC, Organoid, Neuron, Astrocyte, Microglia"
   link="projects"
 %}
 
