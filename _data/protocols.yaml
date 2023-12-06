@@ -1,6 +1,6 @@
 - title: hiPSC
   subtitle: TBC
-  group: featured
+  group: cell
   image: images/photo.jpg
   link: https://github.com/
   description: To be updapted
@@ -10,7 +10,7 @@
 
 - title: Brain organoid
   subtitle: TBC
-  group: featured
+  group: cell
   image: images/photo.jpg
   link: https://github.com/
   description: To be updapted
@@ -20,7 +20,7 @@
 
 - title: Cell culture
   subtitle: TBC
-  group: featured
+  group: cell
   image: images/photo.jpg
   link: https://github.com/
   description: To be updapted
@@ -30,7 +30,7 @@
 
 - title: Cell imaging
   subtitle: TBC
-  group: featured
+  group: imaging
   image: images/photo.jpg
   link: https://github.com/
   description: To be updapted
@@ -40,6 +40,7 @@
 
 - title: Protocol5
   subtitle: TBC
+  group: imaging
   image: images/photo.jpg
   link: https://github.com/
   description: To be updapted
@@ -49,18 +50,10 @@
     
 - title: Protocol6
   subtitle: TBC
+  group: imaging
   image: images/photo.jpg
   link: https://github.com/
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
     - Protocol6
-
-- title: Protocol7
-  subtitle: TBC
-  image: images/photo.jpg
-  link: https://github.com/
-  description: To be updapted
-  repo: Minee-Liane-Choi
-  tags:
-    - Protocol7
