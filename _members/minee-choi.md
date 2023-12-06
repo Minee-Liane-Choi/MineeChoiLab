@@ -21,7 +21,7 @@ links:
 
 {%
   include tags.html
-  tags="Parkinson's, Lewy Body Dementia, Alzheimer's, hiPSC, AI-based drug discovery, Mitochondrial dysfunction, Protein misfolding, Synucleinopathy, Cell death"
+  tags="Parkinson's, Autism, Drug, Addiction, Brain organoid, AI, Drug discovery, hiPSC, Organoid, Neuron, Astrocyte, Microglia, Alzheimer's, Mitochondria, Protein misfolding, Lewy Body Dementia, Cell death"
   link="projects"
 %}
 
