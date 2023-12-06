@@ -1,6 +1,6 @@
 ---
 title: Bon Voyage !!!
-author: bryan
+author: Soren Lorenson
 tags: BRePAIR
 ---
 
