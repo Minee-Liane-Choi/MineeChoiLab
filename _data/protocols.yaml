@@ -1,4 +1,4 @@
-- title: Protocol1
+- title: hiPSC
   subtitle: TBC
   group: featured
   image: images/photo.jpg
@@ -6,9 +6,9 @@
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - Protocol1
+    - hiPSC
 
-- title: Protocol2
+- title: Brain organoid
   subtitle: TBC
   group: featured
   image: images/photo.jpg
@@ -16,9 +16,9 @@
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - Protocol2
+    - Brain organoid
 
-- title: Protocol3
+- title: Cell culture
   subtitle: TBC
   group: featured
   image: images/photo.jpg
@@ -26,16 +26,17 @@
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - Protocol3
+    - Cell culture
 
-- title: Protocol4
+- title: Cell imaging
   subtitle: TBC
+  group: featured
   image: images/photo.jpg
   link: https://github.com/
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - Protocol4
+    - Cell imaging
 
 - title: Protocol5
   subtitle: TBC
