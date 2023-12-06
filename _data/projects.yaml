@@ -48,15 +48,15 @@
   tags:
     - AI, Drug discovery
 
-- title: Human iPSC
+- title: Disease in a dish
   subtitle: TBC
   group: featured
-  image: images/project/hipsc.jpg
+  image: images/project/dish.jpg
   link: https://github.com/
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - hiPSC
+    - hiPSC, Organoid
 
 - title: Alzheimer's
   subtitle: TBC
