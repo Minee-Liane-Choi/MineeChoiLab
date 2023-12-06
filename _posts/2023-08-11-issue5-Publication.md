@@ -1,6 +1,6 @@
 ---
 title: Paper Published !!!
-author: bryan
+author: soren-lorenson
 tags: Publication
 ---
 
