@@ -1,6 +1,6 @@
 ---
 title: Postgraduate Opportunities for 2024
-author: bryan
+author: soren-lorenson
 tags: BRePAIR
 ---
 
