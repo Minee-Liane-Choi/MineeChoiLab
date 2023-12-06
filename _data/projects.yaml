@@ -41,7 +41,7 @@
 - title: AI-based drug discovery
   subtitle: TBC
   group: featured
-  image: images/photo.jpg
+  image: images/project/ai.jpg
   link: https://github.com/
   description: To be updapted
   repo: Minee-Liane-Choi
@@ -56,7 +56,7 @@
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - Brain, Organoid
+    - hiPSC
 
 - title: Alzheimer's
   subtitle: TBC
