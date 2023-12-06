@@ -1,6 +1,6 @@
 ---
 title: The First Wednesday Multidisciplinary Forum
-author: bryan
+author: soren-lorenson
 tags: Seminar
 ---
 
