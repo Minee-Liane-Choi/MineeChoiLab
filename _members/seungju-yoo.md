@@ -14,7 +14,7 @@ links:
 
 {%
   include tags.html
-  tags="AI-based drug discovery, Parkinson's, Alzheimer's"
+  tags="Parkinson's, Brain organoid, AI, Drug discovery, Alzheimer's"
   link="projects"
 %}
 
