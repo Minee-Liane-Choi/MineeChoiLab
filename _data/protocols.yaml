@@ -1,7 +1,7 @@
 - title: hiPSC
   subtitle: TBC
   group: cell
-  image: images/photo.jpg
+  image: images/protocol/hipsc.jpg
   link: https://github.com/
   description: To be updapted
   repo: Minee-Liane-Choi
@@ -11,7 +11,7 @@
 - title: Brain organoid
   subtitle: TBC
   group: cell
-  image: images/photo.jpg
+  image: images/protocol/organoid.jpg
   link: https://github.com/
   description: To be updapted
   repo: Minee-Liane-Choi
@@ -21,7 +21,7 @@
 - title: Cell culture
   subtitle: TBC
   group: cell
-  image: images/photo.jpg
+  image: images/protocol/culture.jpg
   link: https://github.com/
   description: To be updapted
   repo: Minee-Liane-Choi
@@ -31,7 +31,7 @@
 - title: Cell imaging
   subtitle: TBC
   group: imaging
-  image: images/photo.jpg
+  image: images/protocol/microscopy.jpg
   link: https://github.com/
   description: To be updapted
   repo: Minee-Liane-Choi
