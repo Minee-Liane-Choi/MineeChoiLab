@@ -7,6 +7,16 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
+{% include section.html %}
+
+## Selected
+
+{% include citation.html lookup="Prediction of mechanistic subtypes" style="rich" %}
+
+{% include section.html %}
+
+## All
+
 {% include search-box.html %}
 
 {% include tags.html tags="AI, hiPSC, Parkinson's, Alzheimer's, Mitochondria, Protein aggregation, Cell death, Ferroptosis, Inflammation, Synucleinopathy, Fabry disease, Huntington's, Hippocampus, Learning Memory, Neurogenesis, 1st Author, Corresponding Author" %}
