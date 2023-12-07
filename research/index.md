@@ -7,11 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-{% include section.html %}
-
 ## Selected
 
 {% include citation.html lookup="Prediction of mechanistic subtypes" style="rich" %}
+{% include citation.html lookup="Pathological structural conversion" style="rich" %}
+{% include citation.html lookup="Alpha synuclein aggregation drives" style="rich" %}
 
 {% include section.html %}
 
