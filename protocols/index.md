@@ -9,7 +9,7 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags="hiPSC, Brain organoid, Cell culture, Microscopy, Tomocube, Programming" %}
+{% include tags.html tags="hiPSC, Brain organoid, Cell culture, Microscopy, 3D imaging, Programming" %}
 
 {% include search-info.html %}
 
