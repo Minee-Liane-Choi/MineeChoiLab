@@ -28,7 +28,7 @@
   tags:
     - Cell culture
 
-- title: Cell imaging
+- title: Microscopy
   subtitle: TBC
   group: imaging
   image: images/protocol/microscopy.jpg
@@ -36,24 +36,24 @@
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - Cell imaging
+    - Microscopy
 
-- title: Protocol5
+- title: Tomocube
   subtitle: TBC
   group: imaging
-  image: images/photo.jpg
+  image: images/protocol/tomocube.jpg
   link: https://github.com/
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - Protocol5
-    
-- title: Protocol6
+    - Tomocube
+
+- title: Programming
   subtitle: TBC
-  group: imaging
-  image: images/photo.jpg
+  group: Computing
+  image: images/protocol/programming.jpg
   link: https://github.com/
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
-    - Protocol6
+    - Programming
