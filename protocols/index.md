@@ -13,11 +13,11 @@ nav:
 
 {% include search-info.html %}
 
+{% include section.html %}
+
 ## Cell
 
 {% include list.html component="card" data="protocols" filters="group: cell" %}
-
-{% include section.html %}
 
 ## Imaging
 
