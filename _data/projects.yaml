@@ -48,6 +48,16 @@
   tags:
     - Lewy body dementia
 
+- title: Others
+  subtitle: TBC
+  group: disease
+  image: images/project/others.jpg
+  link: https://github.com/
+  description: To be updapted
+  repo: Minee-Liane-Choi
+  tags:
+    - Others
+
 - title: Intelligent organoid
   subtitle: TBC
   group: tech
