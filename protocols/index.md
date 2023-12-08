@@ -17,12 +17,12 @@ nav:
 
 ## Cell
 
-{% include list.html component="card" data="protocols" filters="group: cell" %}
+{% include list.html component="card" data="protocols" filters="group: cell" style="small" %}
 
 ## Imaging
 
-{% include list.html component="card" data="protocols" filters="group: imaging" %}
+{% include list.html component="card" data="protocols" filters="group: imaging" style="small" %}
 
 ## Computing
 
-{% include list.html component="card" data="protocols" filters="group: computing" %}
+{% include list.html component="card" data="protocols" filters="group: computing" style="small" %}
