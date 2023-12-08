@@ -26,7 +26,7 @@ Our therapeutic platform utilizes the following two technical advances.
 
 <ol>
   <li>Patient-induced pluripotent stem cell (iPSC) technology, which allows the adoption of the “disease in a dish” paradigm to profile an individual’s brain cells and define the mechanism driving their own diseases</li>
-  <li>Machine learning, which can capture and understand disease heterogeneity, and ultimately generate a predictive model for an individual patient</li>
+  <li>Artificial intelligence (AI), which can capture and understand disease heterogeneity, and ultimately generate a predictive model for an individual patient</li>
 </ol>
 
 {% include section.html size="full" %}
