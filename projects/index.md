@@ -15,10 +15,13 @@ nav:
 
 {% include section.html %}
 
+## Disease
 {% include list.html component="card" data="projects" filters="group: disease" style="small" %}
 
+## Tech
 {% include list.html component="card" data="projects" filters="group: tech" style="small" %}
 
+## Mechanism
 {% include list.html component="card" data="projects" filters="group: mechanism" style="small" %}
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
