@@ -1,6 +1,6 @@
 - title: Parkinson's
   subtitle: TBC
-  group: featured
+  group: disease
   image: images/project/parkinson.jpg
   link: https://github.com/
   description: To be updapted
@@ -10,7 +10,7 @@
 
 - title: Autism
   subtitle: TBC
-  group: featured
+  group: disease
   image: images/project/autism.jpg
   link: https://github.com/
   description: To be updapted
@@ -20,7 +20,7 @@
 
 - title: Drug addiction
   subtitle: TBC
-  group: featured
+  group: disease
   image: images/project/addiction.jpg
   link: https://github.com/
   description: To be updapted
@@ -28,9 +28,29 @@
   tags:
     - Drug, Addiction
 
+- title: Alzheimer's
+  subtitle: TBC
+  group: disease
+  image: images/project/alzheimer.jpg
+  link: https://github.com/
+  description: To be updapted
+  repo: Minee-Liane-Choi
+  tags:
+    - Alzheimer's
+
+- title: Lewy body dementia
+  subtitle: TBC
+  group: disease
+  image: images/project/lewybody.jpg
+  link: https://github.com/
+  description: To be updapted
+  repo: Minee-Liane-Choi
+  tags:
+    - Lewy body dementia
+
 - title: Intelligent organoid
   subtitle: TBC
-  group: featured
+  group: tech
   image: images/project/organoid.jpg
   link: https://github.com/
   description: To be updapted
@@ -40,7 +60,7 @@
 
 - title: AI-based drug discovery
   subtitle: TBC
-  group: featured
+  group: tech
   image: images/project/ai.jpg
   link: https://github.com/
   description: To be updapted
@@ -50,7 +70,7 @@
 
 - title: Disease in a dish
   subtitle: TBC
-  group: featured
+  group: tech
   image: images/project/dish.jpg
   link: https://github.com/
   description: To be updapted
@@ -58,19 +78,9 @@
   tags:
     - hiPSC, Organoid
 
-- title: Alzheimer's
-  subtitle: TBC
-  group: featured
-  image: images/project/alzheimer.jpg
-  link: https://github.com/
-  description: To be updapted
-  repo: Minee-Liane-Choi
-  tags:
-    - Alzheimer's
-
 - title: Mitochondrial dysfunction
   subtitle: TBC
-  group: featured
+  group: mechanism
   image: images/project/mitochondria.jpg
   link: https://github.com/
   description: To be updapted
@@ -80,27 +90,17 @@
 
 - title: Protein misfolding
   subtitle: TBC
-  group: featured
+  group: mechanism
   image: images/project/protein.jpg
   link: https://github.com/
   description: To be updapted
   repo: Minee-Liane-Choi
   tags:
     - Protein misfolding
-    
-- title: Lewy body dementia
-  subtitle: TBC
-  group: featured
-  image: images/project/lewybody.jpg
-  link: https://github.com/
-  description: To be updapted
-  repo: Minee-Liane-Choi
-  tags:
-    - Lewy body dementia
 
 - title: Cell death
   subtitle: TBC
-  group: featured
+  group: mechanism
   image: images/project/death.jpg
   link: https://github.com/
   description: To be updapted
