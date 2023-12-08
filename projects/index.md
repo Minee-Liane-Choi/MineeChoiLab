@@ -15,6 +15,10 @@ nav:
 
 {% include section.html %}
 
-{% include list.html component="card" data="projects" filters="group: featured" style="small" %}
+{% include list.html component="card" data="projects" filters="group: disease" style="small" %}
+
+{% include list.html component="card" data="projects" filters="group: tech" style="small" %}
+
+{% include list.html component="card" data="projects" filters="group: mechanism" style="small" %}
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
