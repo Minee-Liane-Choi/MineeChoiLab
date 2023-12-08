@@ -60,6 +60,7 @@
 
 - title: Alzheimer's
   subtitle: TBC
+  group: featured
   image: images/project/alzheimer.jpg
   link: https://github.com/
   description: To be updapted
@@ -69,6 +70,7 @@
 
 - title: Mitochondrial dysfunction
   subtitle: TBC
+  group: featured
   image: images/project/mitochondria.jpg
   link: https://github.com/
   description: To be updapted
@@ -78,6 +80,7 @@
 
 - title: Protein misfolding
   subtitle: TBC
+  group: featured
   image: images/project/protein.jpg
   link: https://github.com/
   description: To be updapted
@@ -87,6 +90,7 @@
     
 - title: Lewy body dementia
   subtitle: TBC
+  group: featured
   image: images/project/lewybody.jpg
   link: https://github.com/
   description: To be updapted
@@ -96,6 +100,7 @@
 
 - title: Cell death
   subtitle: TBC
+  group: featured
   image: images/project/death.jpg
   link: https://github.com/
   description: To be updapted
