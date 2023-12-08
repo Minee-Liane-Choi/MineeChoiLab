@@ -1,7 +1,7 @@
 ---
 title: Postgraduate Opportunities for 2024
 author: soren-lorenson
-tags: BRePAIR
+tags: Vacancy
 ---
 
 Deadline for applying: 06.30.2023(Wed) 10:00 ~ 07.11.2023(Tue) 17:30
