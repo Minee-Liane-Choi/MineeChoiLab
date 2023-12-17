@@ -10,23 +10,31 @@ carousels:
 
 # New approaches for brain repair
 
-The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making human neurodegenerative disease more curable than yesterday. The ultimate hope is that by better understanding of the molecular and cellular origins of neurodegenerative diseases, we will be able to take a more strategic approach to the development of novel therapies.
+The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making human neurodegenerative disease more curable than yesterday. The primary aspiration of this endeavor is to foster a more profound understanding of the molecular and cellular origins of neurodegenerative diseases, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
 <br>
 
-We aim to build a personalized therapeutic platform to solve the three major problems in neurodegenerative diseases.
+The laboratory's objective is to develop a bespoke therapeutic platform to address three major challenges associated with neurodegenerative diseases.
 <br>
 <ol>
-  <li>Uniqueness of the human brain </li>
-  <li>Clinically individually variable </li>
-  <li>Causes mostly unknown</li>
+  <li>The distinctive complexity inherent in the human brain </li>
+  
+  <li>The clinical variability presented on an individual level </li>
+  
+  <li>The predominantly unknown etiological factors of these diseases </li>
 </ol>
 
-Our therapeutic platform utilizes the following two technical advances.
+Our therapeutic platform is underpinned by three pivotal technological advances.
 <br>
 
 <ol>
-  <li>Patient-induced pluripotent stem cell (iPSC) technology, which allows the adoption of the “disease in a dish” paradigm to profile an individual’s brain cells and define the mechanism driving their own diseases</li>
-  <li>Artificial intelligence (AI), which can capture and understand disease heterogeneity, and ultimately generate a predictive model for an individual patient</li>
+  <li> Patient-induced pluripotent stem cell (iPSC) technology, facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.  
+  </li>
+
+  <li> Brain organoid, often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments. 
+  </li>
+  
+  <li> Artificial intelligence (AI), harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.
+  </li>
 </ol>
 
 {% include section.html size="full" %}
