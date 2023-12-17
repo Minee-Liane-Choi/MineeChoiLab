@@ -11,7 +11,7 @@ nav:
 
 {% include citation.html lookup="Prediction of mechanistic subtypes" style="rich" %}
 {% include citation.html lookup="Pathological structural conversion" style="rich" %}
-{% include citation.html lookup="Alpha synuclein aggregation drives" style="rich" %}
+{% include citation.html lookup="Picomolar concentrations of oligomeric" style="rich" %}
 
 {% include section.html %}
 
