@@ -25,3 +25,7 @@ nav:
 {% include list.html component="card" data="projects" filters="group: mechanism" style="small" %}
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
+
+{% include section.html %}
+
+{% include list.html data="members" component="portrait"  %}
