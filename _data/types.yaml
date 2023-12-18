@@ -22,9 +22,9 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-programmer:
+associate:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Research Associate
 
 admin:
   icon: fa-solid fa-code
