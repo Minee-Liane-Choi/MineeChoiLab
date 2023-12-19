@@ -1,7 +1,7 @@
 ---
 name: Autism
 image: images/project/autism.jpg
-type: project
+role: project
 group: syndrome
 links:
   wikipedia:
