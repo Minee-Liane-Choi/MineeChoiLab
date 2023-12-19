@@ -4,7 +4,7 @@ image: images/project/parkinson.jpg
 role: disease
 group: project
 links:
-  wikipedia:
+  wiki:
   news:
   github:
 ---
