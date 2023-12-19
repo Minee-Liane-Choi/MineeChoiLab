@@ -1,6 +1,6 @@
 ---
-title: Lewy Body Dementia
-subtitle: Developmental Disability
+title: Lewy body dementia
+subtitle: Neurodegenerative disease
 role: disease
 group: project
 image: images/project/lewybody.jpg
