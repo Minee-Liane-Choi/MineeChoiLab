@@ -1,12 +1,12 @@
 ---
-name: Mitochondrial dysfunction
-image: images/project/mitochondria.jpg
+title: Mitochondrial dysfunction
+subtitle: Molecular mechanism
 role: mech
 group: project
-links:
-  wiki:
-  news:
-  github:
+image: images/project/mitochondria.jpg
+description: To be updapted
+tags:
+  - Mitochondria
 ---
 
 {%
@@ -15,6 +15,6 @@ links:
   link="projects"
 %}
 
-<strong>Parkinson's</strong>
+<strong>Mitochondrial dysfunction</strong>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
