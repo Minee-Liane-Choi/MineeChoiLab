@@ -8,13 +8,14 @@ description: To be updapted
 tags:
   - Lewy body
   - Dementia
+  - Drug discovery
   - hiPSC
   - Organoid
 ---
 
 {%
   include tags.html
-  tags="Lewy body, Dementia, hiPSC, Organoid"
+  tags="Lewy body, Dementia, Drug discovery, hiPSC, Organoid"
   link="projects"
 %}
 
