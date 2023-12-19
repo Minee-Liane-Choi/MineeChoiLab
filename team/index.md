@@ -20,6 +20,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
 {% include list.html data="members" component="portrait" filters="role: ms, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: associate, group: " %}
 {% include list.html data="members" component="portrait" filters="role: admin, group: " %}
 
 {% include section.html background="images/wallpaper/john-maxwell.jpg" dark=true %}
@@ -44,6 +45,7 @@ nav:
 {% include section.html %}
 
 {% include list.html data="programmes" component="portrait" filters="role: disease" %}
+{% include list.html data="members" component="portrait" filters="role: ms, group: " %}
 
 {% capture content %}
 
