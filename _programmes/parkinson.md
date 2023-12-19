@@ -1,6 +1,6 @@
 ---
 name: Parkinson
-image: images/team/eunjin-yang.jpg
+image: images/project/parkinson.jpg
 role: ms
 links:
   email:
