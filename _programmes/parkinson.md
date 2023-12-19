@@ -1,7 +1,7 @@
 ---
 name: Parkinson's
 image: images/project/parkinson.jpg
-role: Disease
+role: disease
 links:
   email:
   orcid:
