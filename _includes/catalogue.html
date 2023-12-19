@@ -4,26 +4,48 @@
   | default: include
 %}
 
-<div class="portrait-wrapper">
+{{ " " }}
+<div class="card" data-style="{{ include.style }}">
   <a
-    {% if page.slug != programme.slug %}
-      href="{{ programme.url | relative_url }}"
+    {% if include.link %}
+      href="{{ include.link | relative_url }}"
     {% endif %}
-    class="card"
-    data-style="{{ include.style }}"
-    aria-label="{{ programme.title | default: "programme link" }}"
+    aria-label="{{ include.title | default: "card link" }}"
+    class="card-image"
   >
     <img
-      src="{{ programme.image | relative_url }}"
-      class="card-image"
-      alt="programme portrait"
+      src="{{ include.image | relative_url }}"
+      alt="{{ include.title | default: "card image" }}"
       loading="lazy"
       {% include fallback.html %}
     >
-
-    {% if programme.tile or programme.role or programme.description %}
-      <span class="card-text">
-      </span>
-    {% endif %}
   </a>
+
+  <div class="card-text">
+    {% if include.title %}
+      <a
+        {% if include.link %}
+          href="{{ include.link | relative_url }}"
+        {% endif %}
+        {% if include.tooltip %}
+          data-tooltip="{{ include.tooltip }}"
+        {% endif %}
+        class="card-title"
+      >
+        {{ include.title }}
+    </a>
+    {% endif %}
+
+    {% if include.subtitle %}
+      <span class="card-subtitle">{{ include.subtitle }}</span>
+    {% endif %}
+
+    {% if include.description %}
+      {{ include.description | markdownify }}
+    {% endif %}
+
+    {% if include.tags or include.repo %}
+      {% include tags.html tags=include.tags repo=include.repo %}
+    {% endif %}
+  </div>
 </div>
