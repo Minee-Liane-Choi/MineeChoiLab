@@ -28,5 +28,5 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="programmes" component="catalogue" filters="role: disease, group: " %}
-{% include list.html data="members" component="portrait" filters="role: ms, group: " %}
+{% include list.html data="programmes" component="catalogue" filters="group: disease" %}
+{% include list.html data="members" component="portrait" filters="group: disease" %}
