@@ -4,13 +4,9 @@ image: images/project/autism.jpg
 role: disease
 group: disease
 links:
-  email:
-  orcid:
-  google-scholar:
+  wikipedia:
+  news:
   github:
-  twitter:
-  facebook:
-  instagram: 
 ---
 
 {%
