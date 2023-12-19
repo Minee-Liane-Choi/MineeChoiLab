@@ -1,7 +1,7 @@
 ---
 name: Lewy body dementia
 image: images/project/lewybody.jpg
-role: disease
+type: project
 group: disease
 links:
   wikipedia:
