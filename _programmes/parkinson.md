@@ -1,7 +1,7 @@
 ---
-name: Parkinson
-image: images/team/eunjin-yang.jpg
-role: ms
+name: Parkinson's
+image: images/project/parkinson.jpg
+role: Disease
 links:
   email:
   orcid:
@@ -14,10 +14,10 @@ links:
 
 {%
   include tags.html
-  tags="Parkinson's, Autism, Drug discovery, hiPSC, Organoid"
+  tags="Parkinson's, Drug discovery, hiPSC, Organoid"
   link="projects"
 %}
 
-<strong>Research Topic: Personalized diagnosis of brain disease</strong>
+<strong>Parkinson's</strong>
 
-Although the diagnosis of brain disease has been developing, they still have uniform standard compared to various symptoms. My research interest is patient-specific diagnosis for identifying differences in disease progress and providing appropriate treatment.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
