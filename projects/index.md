@@ -28,4 +28,4 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait"  %}
+{% include list.html data="programmes" component="portrait"  %}
