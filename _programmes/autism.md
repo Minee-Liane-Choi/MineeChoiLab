@@ -1,6 +1,6 @@
 ---
 name: Autism
-image: images/team/eunjin-yang.jpg
+image: images/project/autism.jpg
 role: ms
 links:
   email:
