@@ -35,7 +35,7 @@ bot:
   description: Bot
 
 collabo:
-  icon: fa-solid fa-handshake-o
+  icon: fa-regular fa-handshake
   description: Collaborator
 
 # programme group
