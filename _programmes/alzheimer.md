@@ -1,6 +1,6 @@
 ---
 title: Alzheimer's
-subtitle: Neuro degenerative disease
+subtitle: Neurodegenerative Disease
 role: disease
 group: project
 image: images/project/alzheimer.jpg
