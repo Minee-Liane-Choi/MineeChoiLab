@@ -1,7 +1,7 @@
 ---
-name: Autism
-image: images/project/autism.jpg
-role: disease
+name: EunJin Yang
+image: images/team/eunjin-yang.jpg
+role: ms
 links:
   email:
   orcid:
