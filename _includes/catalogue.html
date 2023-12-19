@@ -4,12 +4,12 @@
   | default: include
 %}
 
-<div class="card" >
+<div class="card" data-style="{{ programme.style }}">
   <a
     {% if page.slug != programme.slug %}
       href="{{ programme.url | relative_url }}"
     {% endif %}
-    data-style="{{ programme.style }}"
+    
     aria-label="{{ programme.title | default: "programme link" }}"
     class="card-image"
   >
