@@ -22,7 +22,7 @@ nav:
 {% include list.html data="programmes" component="catalogue" filters="role: syndrome, group: project" %}
 
 ## Technology
-{% include list.html component="card" data="projects" filters="group: tech" style="small" %}
+{% include list.html data="programmes" component="catalogue" filters="role: tech, group: project" %}
 
 ## Mechanism
 {% include list.html component="card" data="projects" filters="group: mechanism" style="small" %}
