@@ -13,7 +13,7 @@ tags:
 {%
   include tags.html
   tags="hiPSC"
-  link="projects"
+  link="protocols"
 %}
 
 <strong>Human iPSC</strong>
