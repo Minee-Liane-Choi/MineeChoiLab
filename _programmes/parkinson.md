@@ -1,12 +1,15 @@
 ---
-name: Parkinson's
-image: images/project/parkinson.jpg
+title: Parkinson's
+subtitle: Neurodegerative Disease
 role: disease
 group: project
-links:
-  wiki:
-  news:
-  github:
+image: images/project/parkinson.jpg
+description: To be updapted
+tags:
+  - Parkinson's
+  - Drug discovery
+  - hiPSC
+  - Organoid
 ---
 
 {%
