@@ -48,6 +48,18 @@ mech:
   icon: fa-solid fa-microscope
   description: Mechanism
 
+cell:
+  icon: fa-solid fa-microscope
+  description: Cell
+
+imaging:
+  icon: fa-solid fa-microscope
+  description: Imaging
+
+computing:
+  icon: fa-solid fa-microscope
+  description: Computing
+
 # general
 
 link:
