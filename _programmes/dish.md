@@ -1,12 +1,13 @@
 ---
-name: Disease in a dish
-image: images/project/dish.jpg
+title: Disease in a dish
+subtitle: Technical advance
 role: tech
 group: project
-links:
-  wiki:
-  news:
-  github:
+image: images/project/dish.jpg
+description: To be updapted
+tags:
+  - hiPSC
+  - Organoid
 ---
 
 {%
