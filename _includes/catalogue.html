@@ -20,9 +20,10 @@
       loading="lazy"
       {% include fallback.html %}
     >
-
+  </a>
+  
     {% if programme.tile or programme.role or programme.description %}
-      <span class="card-text">
+      <div class="card-text">
         {% if include.title %}
           <a
             {% if include.link %}
@@ -48,7 +49,7 @@
         {% if include.tags or include.repo %}
           {% include tags.html tags=include.tags repo=include.repo %}
         {% endif %}
-      </span>
+      </div>
     {% endif %}
-  </a>
+  
 </div>
