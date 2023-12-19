@@ -45,6 +45,8 @@ nav:
 
 {% capture content %}
 
+{% include list.html data="programmes" component="portrait" filters="role: disease" %}
+
 {% include figure.html image="images/photo.jpg"%}
 {% include figure.html image="images/photo.jpg"%}
 {% include figure.html image="images/photo.jpg"%}
