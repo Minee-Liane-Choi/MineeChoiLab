@@ -4,7 +4,7 @@ image: images/project/lewybody.jpg
 role: disease
 group: project
 links:
-  wikipedia:
+  wiki:
   news:
   github:
 ---
