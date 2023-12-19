@@ -4,7 +4,7 @@ image: images/project/alzheimer.jpg
 role: disease
 group: syndrome
 links:
-  wikipedia:
+  wiki:
   news:
   github:
 ---
