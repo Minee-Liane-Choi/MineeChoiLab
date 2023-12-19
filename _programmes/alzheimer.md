@@ -2,7 +2,7 @@
 name: Alzheimer's
 image: images/project/alzheimer.jpg
 role: disease
-group: syndrome
+group: project
 links:
   wiki:
   news:
