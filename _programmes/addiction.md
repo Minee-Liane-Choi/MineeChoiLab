@@ -1,6 +1,6 @@
 ---
 title: Addiction
-subtitle: TBC
+subtitle: Neuropsychological Disorder
 role: syndrome
 group: project
 image: images/project/addiction.jpg
@@ -8,6 +8,8 @@ description: To be updapted
 tags:
   - Addiction
   - Drug
+  - hiPSC
+  - Organoid
 ---
 
 {%
@@ -16,6 +18,6 @@ tags:
   link="projects"
 %}
 
-<strong>Parkinson's</strong>
+<strong>Addiction</strong>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
