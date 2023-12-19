@@ -1,5 +1,5 @@
 ---
-name: Mitochondria dysfunction
+name: Mitochondrial dysfunction
 image: images/project/mitochondria.jpg
 role: mech
 group: project
