@@ -40,6 +40,10 @@ disease:
   icon: fa-solid fa-microscope
   description: Disease
 
+syndrome:
+  icon: fa-solid fa-microscope
+  description: Syndrome
+
 tech:
   icon: fa-solid fa-microscope
   description: Technology
