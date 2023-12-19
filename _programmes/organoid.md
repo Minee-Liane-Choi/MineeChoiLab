@@ -7,12 +7,12 @@ image: images/protocol/organoid.jpg
 description: To be updapted
 tags:
   - in-vitro
-  - hiPSC
+  - Organoid
 ---
 
 {%
   include tags.html
-  tags="Organoid"
+  tags="in-vitro, Organoid"
   link="protocols"
 %}
 
