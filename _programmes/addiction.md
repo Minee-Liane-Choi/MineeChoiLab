@@ -1,7 +1,7 @@
 ---
 title: Addiction
 subtitle: Neuropsychological disorder
-role: syndrome
+role: disorder
 group: project
 image: images/project/addiction.jpg
 description: To be updapted
