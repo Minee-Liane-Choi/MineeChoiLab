@@ -1,12 +1,15 @@
 ---
-name: Lewy body dementia
-image: images/project/lewybody.jpg
+title: Lewy body dementia
+subtitle: Developmental Disability
 role: disease
 group: project
-links:
-  wiki:
-  news:
-  github:
+image: images/project/lewybody.jpg
+description: To be updapted
+tags:
+  - Lewy body
+  - Dementia
+  - hiPSC
+  - Organoid
 ---
 
 {%
@@ -15,6 +18,6 @@ links:
   link="projects"
 %}
 
-<strong>Parkinson's</strong>
+<strong>Lewy body dementia</strong>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
