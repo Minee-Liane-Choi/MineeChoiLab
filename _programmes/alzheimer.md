@@ -7,13 +7,14 @@ image: images/project/alzheimer.jpg
 description: To be updapted
 tags:
   - Alzheimer's
-  - hiPSC
   - Drug discovery
+  - hiPSC
+  - Organoid
 ---
 
 {%
   include tags.html
-  tags="Alzheimer's, hiPSC, Drug discovery"
+  tags="Alzheimer's, Drug discovery, hiPSC, Organoid"
   link="projects"
 %}
 
