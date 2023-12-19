@@ -1,12 +1,13 @@
 ---
 title: Addiction
 subtitle: TBC
+group: disease
 group: project
 image: images/project/addiction.jpg
-link: contact
 description: To be updapted
 tags:
-  - Parkinson's
+  - Addiction
+  - Drug
 ---
 
 {%
