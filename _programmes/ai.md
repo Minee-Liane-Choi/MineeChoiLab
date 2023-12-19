@@ -8,12 +8,11 @@ description: To be updapted
 tags:
   - AI
   - hiPSC
-  - Organoid
 ---
 
 {%
   include tags.html
-  tags="AI, hiPSC, Organoid"
+  tags="AI, hiPSC"
   link="projects"
 %}
 
