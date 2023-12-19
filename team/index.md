@@ -45,7 +45,7 @@ nav:
 {% include section.html %}
 
 {% include list.html data="programmes" component="portrait" filters="role: ms, group: " %}
-{% include list.html data="members" component="portrait" filters="role: ms, group: " %}
+{% include list.html data="members" component="catalogue" filters="role: ms, group: " %}
 
 {% capture content %}
 
