@@ -1,6 +1,6 @@
 ---
 title: Autism
-subtitle: Developmental Disability
+subtitle: Developmental disorder
 role: disease
 group: project
 image: images/project/autism.jpg
