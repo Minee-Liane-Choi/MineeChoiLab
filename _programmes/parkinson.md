@@ -1,6 +1,6 @@
 ---
 title: Parkinson's
-subtitle: Neurodegerative Disease
+subtitle: Neurodegerative disease
 role: disease
 group: project
 image: images/project/parkinson.jpg
