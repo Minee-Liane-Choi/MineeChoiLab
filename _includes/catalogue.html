@@ -4,7 +4,7 @@
   | default: include
 %}
 
-<div class="portrait-wrapper">
+<!-- <div class="portrait-wrapper"> -->
   <a
     {% if page.slug != programme.slug %}
       href="{{ programme.url | relative_url }}"
@@ -20,7 +20,7 @@
       loading="lazy"
       {% include fallback.html %}
     >
-  
+  </a>
   
     {% if programme.tile or programme.role or programme.description %}
       <div class="card-text">
@@ -52,6 +52,5 @@
       </div>
     {% endif %}
     
-   </a>
   
-</div>
+<!-- </div> -->
