@@ -1,12 +1,12 @@
 ---
-name: Intelligent organoid
-image: images/project/organoid.jpg
+title: Intelligent organoid
+subtitle: Technical advance
 role: tech
 group: project
-links:
-  wiki:
-  news:
-  github:
+image: images/project/organoid.jpg
+description: To be updapted
+tags:
+  - Organoid
 ---
 
 {%
@@ -15,6 +15,6 @@ links:
   link="projects"
 %}
 
-<strong>Parkinson's</strong>
+<strong>Intelligent organoid</strong>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
