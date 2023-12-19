@@ -2,6 +2,7 @@
 name: Parkinson's
 image: images/project/parkinson.jpg
 role: disease
+group: disease
 links:
   email:
   orcid:
