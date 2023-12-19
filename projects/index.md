@@ -16,17 +16,13 @@ nav:
 {% include section.html %}
 
 ## Disease
-{% include list.html component="card" data="projects" filters="group: disease" style="small" %}
+{% include list.html data="programmes" component="catalogue" filters="group: disease" %}
 
-## Tech
+## Syndrome
+{% include list.html data="programmes" component="catalogue" filters="group: syndrome" %}
+
+## Technology
 {% include list.html component="card" data="projects" filters="group: tech" style="small" %}
 
 ## Mechanism
 {% include list.html component="card" data="projects" filters="group: mechanism" style="small" %}
-
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
-
-{% include section.html %}
-
-{% include list.html data="programmes" component="catalogue" filters="group: disease" %}
-{% include list.html data="members" component="portrait" filters="group: disease" %}
