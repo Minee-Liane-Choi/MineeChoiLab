@@ -2,6 +2,7 @@
 name: Autism
 image: images/project/autism.jpg
 role: disease
+group: disease
 links:
   email:
   orcid:
