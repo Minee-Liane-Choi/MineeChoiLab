@@ -1,7 +1,7 @@
 ---
 name: Autism
 image: images/project/autism.jpg
-role: ms
+role: disease
 links:
   email:
   orcid:
