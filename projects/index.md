@@ -28,4 +28,5 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="programmes" component="portrait"  %}
+
+{% include list.html data="programmes" component="portrait" filters="role: disease" %} 
