@@ -1,8 +1,8 @@
 ---
 name: Addiction
 image: images/project/addiction.jpg
-role: disease
-group: disease
+type: project
+group: syndrome
 links:
   wikipedia:
   news:
