@@ -44,7 +44,7 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="programmes" component="catalogue" filters="role: disease" %}
+{% include list.html data="members" component="catalogue" filters="role: disease" %}
 {% include list.html data="members" component="portrait" filters="role: ms, group: " %}
 
 {% capture content %}
