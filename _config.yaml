@@ -28,7 +28,7 @@ defaults:
   - scope:
       type: programmes
     values:
-      layout: member
+      layout: programme
 collections:
   members:
     output: true
