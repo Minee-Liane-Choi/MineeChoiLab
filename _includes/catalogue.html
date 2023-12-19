@@ -9,7 +9,7 @@
     {% if page.slug != programme.slug %}
       href="{{ programme.url | relative_url }}"
     {% endif %}
-    class="portrait"
+    class="card"
     data-style="{{ include.style }}"
     aria-label="{{ programme.name | default: "programme link" }}"
   >
