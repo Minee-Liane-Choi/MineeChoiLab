@@ -1,8 +1,8 @@
 ---
 name: Autism
 image: images/project/autism.jpg
-role: disease
-group: disease
+type: project
+group: syndrome
 links:
   wikipedia:
   news:
