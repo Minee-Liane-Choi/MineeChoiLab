@@ -1,7 +1,7 @@
 ---
 name: Parkinson's
 image: images/project/parkinson.jpg
-type: project
+role: project
 group: disease
 links:
   wikipedia:
