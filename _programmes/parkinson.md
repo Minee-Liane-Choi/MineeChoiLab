@@ -1,7 +1,7 @@
 ---
 name: Parkinson
 image: images/team/eunjin-yang.jpg
-role: disease
+role: ms
 links:
   email:
   orcid:
