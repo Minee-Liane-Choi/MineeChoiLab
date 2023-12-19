@@ -1,7 +1,7 @@
 ---
 title: Autism
 subtitle: Developmental disorder
-role: disease
+role: disorder
 group: project
 image: images/project/autism.jpg
 description: To be updapted
