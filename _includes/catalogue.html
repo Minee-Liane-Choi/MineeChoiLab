@@ -4,7 +4,7 @@
   | default: include
 %}
 
-<div class="card" data-style="{{ include.style }}>
+<div class="card" data-style="{{ programme.style }}>
   <a
     {% if page.slug != programme.slug %}
       href="{{ programme.url | relative_url }}"
