@@ -1,4 +1,4 @@
-{% assign member = site.members 
+{% assign member = site.programmes
   | where_exp: "member", "member.slug == include.lookup"
   | first
   | default: include
