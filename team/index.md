@@ -13,6 +13,7 @@ nav:
 
 {% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="contact" style="button" %}
 
+
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
@@ -23,35 +24,22 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: associate, group: " %}
 {% include list.html data="members" component="portrait" filters="role: admin, group: " %}
 
+
 {% include section.html background="images/wallpaper/john-maxwell.jpg" dark=true %}
 
 "Collaboration is multiplication." – John C. Maxwell
 
-{% include section.html %}
 
-{% capture content %}
+{% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: collabo, group: " %}
 
-{% include figure.html image="images/collaborator/sonia-gandhi.jpg" caption="Prof. Sonia Gandhi" link="https://www.crick.ac.uk/research/labs/sonia-gandhi" %}
-{% include figure.html image="images/collaborator/andrey-abramov.jpg" caption="Prof. Andrey Y. Abramov" link="https://www.ucl.ac.uk/ion/research/our-departments/clinical-and-movement-neurosciences/centres-and-projects/andrey-y-abramov" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
 
 {% include section.html background="images/wallpaper/issac-newton.jpg" dark=true %}
 
 "If I have seen further, it is by standing on the shoulders of giants." — Isaac Newton
 
+
 {% include section.html %}
 
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg"%}
-{% include figure.html image="images/photo.jpg"%}
-{% include figure.html image="images/photo.jpg"%}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+{% include list.html data="members" component="portrait" filters="role: partner, group: " %}
