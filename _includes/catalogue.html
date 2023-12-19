@@ -11,7 +11,7 @@
     {% endif %}
     class="card"
     data-style="{{ include.style }}"
-    aria-label="{{ programme.name | default: "programme link" }}"
+    aria-label="{{ programme.title | default: "programme link" }}"
   >
     <img
       src="{{ programme.image | relative_url }}"
@@ -21,7 +21,7 @@
       {% include fallback.html %}
     >
 
-    {% if programme.name or programme.role or programme.description %}
+    {% if programme.tile or programme.role or programme.description %}
       <span class="card-text">
       </span>
     {% endif %}
