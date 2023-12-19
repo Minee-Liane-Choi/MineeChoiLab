@@ -12,7 +12,7 @@ tags:
 
 {%
   include tags.html
-  tags="Cell culture"
+  tags="in-vivo, Cell culture"
   link="protocols"
 %}
 
