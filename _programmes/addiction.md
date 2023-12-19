@@ -1,12 +1,12 @@
 ---
-name: Addiction
-image: images/project/addiction.jpg
-role: syndrome
+title: Addiction
+subtitle: TBC
 group: project
-links:
-  wiki:
-  news:
-  github:
+image: images/project/addiction.jpg
+link: contact
+description: To be updapted
+tags:
+  - Parkinson's
 ---
 
 {%
