@@ -1,7 +1,7 @@
 ---
 name: Alzheimer's
 image: images/project/alzheimer.jpg
-type: project
+role: project
 group: disease
 links:
   wikipedia:
