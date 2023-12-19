@@ -15,15 +15,12 @@ nav:
 
 {% include section.html %}
 
-## Disease & Syndrome
-{% include list.html data="programmes" component="catalogue" filters="role: disease, group: project" %}
+## Diseases & Disorders
+{% include list.html data="programmes" component="catalogue" filters="role: disease, group: project" style="small" %}
+{% include list.html data="programmes" component="catalogue" filters="role: disorder, group: project" style="small" %}
 
-{% include list.html data="programmes" component="catalogue" filters="role: syndrome, group: project" %}
+## Technological Advances
+{% include list.html data="programmes" component="catalogue" filters="role: tech, group: project" style="small" %}
 
-## Technology
-{% include list.html data="programmes" component="catalogue" filters="role: tech, group: project" %}
-
-## Mechanism
+## Mechanisms
 {% include list.html data="programmes" component="catalogue" filters="role: mech, group: project" style="small" %}
-
-<!--{% include list.html component="card" data="projects" filters="group: mechanism" style="small" %} -->
