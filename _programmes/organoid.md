@@ -13,7 +13,7 @@ tags:
 {%
   include tags.html
   tags="Organoid"
-  link="protocol"
+  link="protocols"
 %}
 
 <strong>Brain organoid</strong>
