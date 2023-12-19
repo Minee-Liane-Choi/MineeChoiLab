@@ -1,12 +1,15 @@
 ---
-name: Autism
-image: images/project/autism.jpg
-role: syndrome
+title: Autism
+subtitle: Developmental Disability
+role: disease
 group: project
-links:
-  wiki:
-  news:
-  github:
+image: images/project/autism.jpg
+description: To be updapted
+tags:
+  - Autism
+  - Drug discovery
+  - hiPSC
+  - Organoid
 ---
 
 {%
