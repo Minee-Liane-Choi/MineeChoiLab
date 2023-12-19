@@ -1,5 +1,5 @@
 ---
-title: Lewy body dementia
+title: Lewy Body Dementia
 subtitle: Developmental Disability
 role: disease
 group: project
@@ -14,10 +14,10 @@ tags:
 
 {%
   include tags.html
-  tags="Lewy body dementia, hiPSC, Organoid"
+  tags="Lewy body, Dementia, hiPSC, Organoid"
   link="projects"
 %}
 
-<strong>Lewy body dementia</strong>
+<strong>Lewy Body Dementia</strong>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
