@@ -1,5 +1,5 @@
 ---
-title: AI-based Drug Discovery
+title: AI-based drug discovery
 subtitle: AI
 role: tech
 group: project
