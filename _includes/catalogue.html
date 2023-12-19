@@ -1,39 +1,39 @@
-{% assign member = site.programmes
-  | where_exp: "member", "member.slug == include.lookup"
+{% assign programme = site.programmes
+  | where_exp: "programme", "programme.slug == include.lookup"
   | first
   | default: include
 %}
 
 <div class="portrait-wrapper">
   <a
-    {% if page.slug != member.slug %}
-      href="{{ member.url | relative_url }}"
+    {% if page.slug != programme.slug %}
+      href="{{ programme.url | relative_url }}"
     {% endif %}
     class="portrait"
     data-style="{{ include.style }}"
-    aria-label="{{ member.name | default: "member link" }}"
+    aria-label="{{ programme.name | default: "programme link" }}"
   >
     <img
-      src="{{ member.image | relative_url }}"
+      src="{{ programme.image | relative_url }}"
       class="portrait-image"
-      alt="member portrait"
+      alt="programme portrait"
       loading="lazy"
       {% include fallback.html %}
     >
 
-    {% if member.name or member.role or member.description %}
+    {% if programme.name or programme.role or programme.description %}
       <span class="portrait-text">
-        {% if member.name %}
+        {% if programme.name %}
           <span class="portrait-name">
-            {{ member.name }}
+            {{ programme.name }}
           </span>
         {% endif %}
 
-        {% if member.role or member.description %}
+        {% if programme.role or programme.description %}
           <span class="portrait-role">
-            {% assign type = site.data.types[member.role] %}
+            {% assign type = site.data.types[programme.role] %}
             {% include icon.html icon=type.icon %}
-            <span>{{ member.description | default: type.description }}</span>
+            <span>{{ programme.description | default: type.description }}</span>
           </span>
         {% endif %}
       </span>
