@@ -1,12 +1,12 @@
 ---
-name: Cell death
-image: images/project/death.jpg
+title: Cell death
+subtitle: Molecular mechanism
 role: mech
 group: project
-links:
-  wiki:
-  news:
-  github:
+image: images/project/death.jpg
+description: To be updapted
+tags:
+  - Cell death
 ---
 
 {%
