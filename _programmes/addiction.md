@@ -1,7 +1,7 @@
 ---
 title: Addiction
 subtitle: TBC
-group: disease
+role: syndrome
 group: project
 image: images/project/addiction.jpg
 description: To be updapted
