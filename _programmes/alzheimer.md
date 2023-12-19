@@ -8,12 +8,12 @@ description: To be updapted
 tags:
   - Alzheimer's
   - hiPSC
-  - Organoid
+  - Drug discovery
 ---
 
 {%
   include tags.html
-  tags="Alzheimer's, hiPSC, Organoid"
+  tags="Alzheimer's, hiPSC, Drug discovery"
   link="projects"
 %}
 
