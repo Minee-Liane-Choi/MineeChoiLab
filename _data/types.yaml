@@ -34,6 +34,20 @@ bot:
   icon: fa-brands fa-android
   description: Bot
 
+# programme group
+
+disease:
+  icon: fa-solid fa-microscope
+  description: Disease
+
+tech:
+  icon: fa-solid fa-microscope
+  description: Technology
+
+mech:
+  icon: fa-solid fa-microscope
+  description: Mechanism
+
 # general
 
 link:
