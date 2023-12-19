@@ -1,7 +1,7 @@
 ---
 name: Addiction
 image: images/project/addiction.jpg
-type: project
+role: project
 group: syndrome
 links:
   wikipedia:
