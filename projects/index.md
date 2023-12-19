@@ -15,10 +15,9 @@ nav:
 
 {% include section.html %}
 
-## Disease
+## Disease & Syndrome
 {% include list.html data="programmes" component="catalogue" filters="role: disease, group: project" %}
 
-## Syndrome
 {% include list.html data="programmes" component="catalogue" filters="role: syndrome, group: project" %}
 
 ## Technology
