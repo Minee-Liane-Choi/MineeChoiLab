@@ -27,4 +27,4 @@ nav:
 ## Mechanism
 {% include list.html data="programmes" component="catalogue" filters="role: mech, group: project" style="small" %}
 
-<!--{% include list.html component="card" data="projects" filters="group: mechanism" style="small" %} -->
+<!--{% include list.html component="card" data="projects" filters="group: mechanism" style="large" %} -->
