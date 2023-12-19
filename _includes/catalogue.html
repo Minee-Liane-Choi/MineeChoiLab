@@ -22,20 +22,7 @@
     >
 
     {% if programme.name or programme.role or programme.description %}
-      <span class="portrait-text">
-        {% if programme.name %}
-          <span class="portrait-name">
-            {{ programme.name }}
-          </span>
-        {% endif %}
-
-        {% if programme.role or programme.description %}
-          <span class="portrait-role">
-            {% assign type = site.data.types[programme.role] %}
-            {% include icon.html icon=type.icon %}
-            <span>{{ programme.description | default: type.description }}</span>
-          </span>
-        {% endif %}
+      <span class="card-text">
       </span>
     {% endif %}
   </a>
