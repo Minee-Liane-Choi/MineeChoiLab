@@ -23,16 +23,20 @@ undergrad:
   description: Undergraduate Student
 
 associate:
-  icon: fa-solid fa-code
+  icon: fa-solid fa-flask
   description: Research Associate
 
 admin:
-  icon: fa-solid fa-code
+  icon: fa-solid fa-credit-card
   description: Admin
   
 bot:
   icon: fa-brands fa-android
   description: Bot
+
+collabo:
+  icon: fa-solid fa-glass
+  description: Collaborator
 
 # programme group
 
