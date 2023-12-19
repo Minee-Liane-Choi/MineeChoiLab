@@ -11,7 +11,7 @@ links:
 
 {%
   include tags.html
-  tags="Organoid"
+  tags="AI, hiPSC, Organoid"
   link="projects"
 %}
 
