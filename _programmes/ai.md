@@ -1,12 +1,14 @@
 ---
-name: AI-based drug discovery
-image: images/project/ai.jpg
+title: AI-based Drug Discovery
+subtitle: AI
 role: tech
 group: project
-links:
-  wiki:
-  news:
-  github:
+image: images/project/ai.jpg
+description: To be updapted
+tags:
+  - AI
+  - hiPSC
+  - Organoid
 ---
 
 {%
@@ -15,6 +17,6 @@ links:
   link="projects"
 %}
 
-<strong>Parkinson's</strong>
+<strong>AI-based Drug Discovery</strong>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
