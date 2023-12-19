@@ -1,9 +1,9 @@
 ---
 title: Human iPSC
-subtitle: Neuropsychological disorder
+subtitle: in-vivo model
 role: cell
 group: protocol
-image: images/project/hipsc.jpg
+image: images/protocol/hipsc.jpg
 description: To be updapted
 tags:
   - in-vivo
