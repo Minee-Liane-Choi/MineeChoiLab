@@ -1,12 +1,14 @@
 ---
-name: Alzheimer's
-image: images/project/alzheimer.jpg
+title: Alzheimer's
+subtitle: Neuro degenerative disease
 role: disease
 group: project
-links:
-  wiki:
-  news:
-  github:
+image: images/project/alzheimer.jpg
+description: To be updapted
+tags:
+  - Alzheimer's
+  - hiPSC
+  - Organoid
 ---
 
 {%
@@ -15,6 +17,6 @@ links:
   link="projects"
 %}
 
-<strong>Parkinson's</strong>
+<strong>Alzheimer's</strong>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
