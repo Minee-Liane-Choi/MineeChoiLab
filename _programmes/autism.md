@@ -4,7 +4,7 @@ image: images/project/autism.jpg
 role: syndrome
 group: project
 links:
-  wikipedia:
+  wiki:
   news:
   github:
 ---
