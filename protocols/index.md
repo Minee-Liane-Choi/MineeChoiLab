@@ -9,7 +9,7 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags="hiPSC, Brain organoid, Cell culture, Microscopy, 3D imaging, Programming" %}
+{% include tags.html tags="hiPSC, Organoid, Cell culture, 3D imaging, 3D imaging, AI, in-vitro, ex-vivo, in-silico" %}
 
 {% include search-info.html %}
 
