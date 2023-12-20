@@ -1,6 +1,6 @@
 ---
 title: AI-based drug discovery
-subtitle: AI
+subtitle: Disease subtype classifier
 role: tech
 group: project
 image: images/project/ai.jpg
