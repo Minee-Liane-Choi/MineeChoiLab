@@ -19,6 +19,7 @@ The laboratory's objective is to develop a bespoke therapeutic platform to addre
 {% include figure.html image="images/home/humanbrain.jpg" caption="Animal brains v human brains (from BBC)" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" width="600px" %}
 
 <br>
+<br>
 <ol>
   <li>The distinctive complexity inherent in the human brain </li>
   
