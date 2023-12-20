@@ -10,7 +10,7 @@ carousels:
 
 # New approaches for brain repair
 
-The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making brain diseases more curable than yesterday. The primary aspiration of this endeavor is to foster a more profound understanding of the molecular and cellular origins of <blue>NEURO-DEGENERATIVE, -PSYCHOLOGICAL and -DEVELOPMENTAL</blue> diseases & disorders, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
+The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making brain diseases more curable than yesterday. The primary aspiration of this endeavor is to foster a more profound understanding of the molecular and cellular origins of </blue><blueinvt><em>NEURO-DEGENERATIVE, -PSYCHOLOGICAL and -DEVELOPMENTAL</em></blueinvt><blue> diseases & disorders, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
 <br>
 
 The laboratory's objective is to develop a bespoke therapeutic platform to address three major challenges associated with human brain diseases.
