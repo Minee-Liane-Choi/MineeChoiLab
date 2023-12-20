@@ -10,6 +10,14 @@ tags:
   - Addiction screening
   - hiPSC
   - Organoid
+links:
+  email:
+  orcid:
+  google-scholar:
+  github:
+  twitter:
+  facebook:
+  instagram: 
 ---
 
 {%
