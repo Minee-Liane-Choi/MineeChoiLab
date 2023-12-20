@@ -15,10 +15,8 @@ The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institut
 
 The laboratory's objective is to develop a bespoke therapeutic platform to address three major challenges associated with neurodegenerative diseases.
 
-<br>
 {% include figure.html image="images/home/humanbrain.jpg" caption="Animal brains v human brains (from BBC)" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" width="600px" %}
 
-<br>
 <br>
 <ol>
   <li>The distinctive complexity inherent in the human brain </li>
@@ -28,6 +26,7 @@ The laboratory's objective is to develop a bespoke therapeutic platform to addre
   <li>The predominantly unknown etiological factors of these diseases </li>
 </ol>
 
+<br>
 Our therapeutic platform is underpinned by three pivotal technological advances.
 
 <br>
