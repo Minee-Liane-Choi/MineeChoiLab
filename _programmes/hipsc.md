@@ -6,13 +6,13 @@ group: protocol
 image: images/protocol/hipsc.jpg
 description: To be updapted
 tags:
-  - in-vivo
+  - in-vitro
   - hiPSC
 ---
 
 {%
   include tags.html
-  tags="in-vivo, hiPSC"
+  tags="in-vitro, hiPSC"
   link="protocols"
 %}
 
