@@ -14,10 +14,8 @@ The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institut
 <br>
 
 The laboratory's objective is to develop a bespoke therapeutic platform to address three major challenges associated with neurodegenerative diseases.
-
 {% include figure.html image="images/home/humanbrain.jpg" caption="Animal brains v human brains (from BBC)" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" width="600px" %}
 
-<br>
 <ol>
   <li>The distinctive complexity inherent in the human brain </li>
   
@@ -29,7 +27,6 @@ The laboratory's objective is to develop a bespoke therapeutic platform to addre
 <br>
 Our therapeutic platform is underpinned by three pivotal technological advances.
 
-<br>
 <ol>
   <li> Patient-induced pluripotent stem cell (iPSC) technology, facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.  
   </li>
