@@ -1,6 +1,6 @@
 ---
 title: Brain organoid
-subtitle: in-vitro model
+subtitle: ex-vivo model
 role: cell
 group: protocol
 image: images/protocol/organoid.jpg
@@ -12,7 +12,7 @@ tags:
 
 {%
   include tags.html
-  tags="in-vitro, Organoid"
+  tags="ex-vivo, Organoid"
   link="protocols"
 %}
 
