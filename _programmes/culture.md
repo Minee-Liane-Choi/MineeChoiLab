@@ -1,18 +1,18 @@
 ---
 title: Cell culture
-subtitle: in-vivo model
+subtitle: in-vitro model
 role: cell
 group: protocol
 image: images/protocol/culture.jpg
 description: To be updapted
 tags:
-  - in-vivo
+  - in-vitro
   - Cell culture
 ---
 
 {%
   include tags.html
-  tags="in-vivo, Cell culture"
+  tags="in-vitro, Cell culture"
   link="protocols"
 %}
 
