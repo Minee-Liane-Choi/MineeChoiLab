@@ -13,7 +13,7 @@ carousels:
 The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making human neurodegenerative disease more curable than yesterday. The primary aspiration of this endeavor is to foster a more profound understanding of the molecular and cellular origins of neurodegenerative diseases, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
 <br>
 
-The laboratory's objective is to develop a bespoke therapeutic platform to address three major challenges associated with neurodegenerative diseases.
+The laboratory's objective is to develop a bespoke therapeutic platform to address three major challenges associated with human neurodegenerative diseases.
 {% include figure.html image="images/home/humanbrain.jpg" caption="Animal brains vs. human brains (from BBC)" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" width="600px" %}
 
 <ol>
