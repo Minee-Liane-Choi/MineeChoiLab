@@ -9,7 +9,7 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags="Parkinson's, Autism, Drug, Addiction, AI, Drug discovery, hiPSC, Organoid, Alzheimer's, Mitochondria, Protein misfolding, Lewy body, Dementia, Cell death" %}
+{% include tags.html tags="Parkinson's, Autism, Drug addiction, AI, Drug discovery, hiPSC, Organoid, Alzheimer's, Mitochondria, Protein misfolding, Lewy body dementia, Cell death" %}
 
 {% include search-info.html %}
 
