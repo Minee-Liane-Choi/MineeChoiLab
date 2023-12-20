@@ -1,6 +1,6 @@
 ---
 title: Disease in a dish
-subtitle: Technical advance
+subtitle: Bespoke disease model
 role: tech
 group: project
 image: images/project/dish.jpg
