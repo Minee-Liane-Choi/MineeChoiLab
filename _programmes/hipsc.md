@@ -1,6 +1,6 @@
 ---
 title: Human iPSC
-subtitle: in-vivo model
+subtitle: ex-vivo model
 role: cell
 group: protocol
 image: images/protocol/hipsc.jpg
@@ -12,7 +12,7 @@ tags:
 
 {%
   include tags.html
-  tags="in-vitro, hiPSC"
+  tags="ex-vivo, hiPSC"
   link="protocols"
 %}
 
