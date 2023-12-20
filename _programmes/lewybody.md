@@ -6,8 +6,7 @@ group: project
 image: images/project/lewybody.jpg
 description: To be updapted
 tags:
-  - Lewy body
-  - Dementia
+  - Lewy body dementia
   - Drug discovery
   - hiPSC
   - Organoid
@@ -15,7 +14,7 @@ tags:
 
 {%
   include tags.html
-  tags="Lewy body, Dementia, Drug discovery, hiPSC, Organoid"
+  tags="Lewy body dementia, Drug discovery, hiPSC, Organoid"
   link="projects"
 %}
 
