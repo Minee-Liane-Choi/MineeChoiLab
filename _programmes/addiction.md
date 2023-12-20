@@ -6,16 +6,15 @@ group: project
 image: images/project/addiction.jpg
 description: To be updapted
 tags:
-  - Drug
-  - Addiction
-  - Drug discovery
+  - Drug addiction
+  - Addiction screening
   - hiPSC
   - Organoid
 ---
 
 {%
   include tags.html
-  tags="Drug, Addiction, Drug discovery, hiPSC, Organoid"
+  tags="Drug addiction, Addiction screening, hiPSC, Organoid"
   link="projects"
 %}
 
