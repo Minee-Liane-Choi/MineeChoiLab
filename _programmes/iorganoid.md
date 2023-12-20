@@ -1,6 +1,6 @@
 ---
 title: Intelligent organoid
-subtitle: Technical advance
+subtitle: Biological computer
 role: tech
 group: project
 image: images/project/organoid.jpg
