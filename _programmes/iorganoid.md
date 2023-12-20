@@ -15,6 +15,6 @@ tags:
   link="projects"
 %}
 
-<strong>Intelligent organoid</strong>
+<strong>Intelligent Organoid</strong>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
