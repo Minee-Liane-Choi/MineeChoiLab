@@ -7,11 +7,12 @@ image: images/protocol/programming.jpg
 description: To be updapted
 tags:
   - AI
+  - in-silico
 ---
 
 {%
   include tags.html
-  tags="AI"
+  tags="AI, in-silico"
   link="protocols"
 %}
 
