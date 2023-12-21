@@ -1,5 +1,5 @@
 ---
-name: New Starter3
+name: New Starter
 image: images/team/photo.jpg
 role: intern
 links:
