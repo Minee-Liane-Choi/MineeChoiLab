@@ -32,7 +32,7 @@ intern:
 
 admin:
   icon: fa-solid fa-credit-card
-  description: Admin
+  description: Lab Manager
   
 bot:
   icon: fa-brands fa-android
