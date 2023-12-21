@@ -14,7 +14,7 @@ tags:
 
 {%
   include tags.html
-  tags="Drug addiction, Addiction screening, hiPSC, Organoid"
+  tags="Drug addiction, Screening, hiPSC, Organoid"
   link="projects"
 %}
 
