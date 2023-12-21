@@ -19,8 +19,8 @@ nav:
 {% include list.html data="programmes" component="catalogue" filters="role: disease, group: project" style="small" %}
 {% include list.html data="programmes" component="catalogue" filters="role: disorder, group: project" style="small" %}
 
-## Technological Advances
+## Technological Innovations
 {% include list.html data="programmes" component="catalogue" filters="role: tech, group: project" style="small" %}
 
-## Mechanisms
+## Biological Mechanisms
 {% include list.html data="programmes" component="catalogue" filters="role: mech, group: project" style="small" %}
