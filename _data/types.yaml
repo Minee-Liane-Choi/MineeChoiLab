@@ -27,7 +27,7 @@ associate:
   description: Research Associate
 
 intern:
-  icon: fa-child
+  icon: fa fa-child
   description: Lab Intern
 
 admin:
