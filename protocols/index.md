@@ -15,7 +15,7 @@ nav:
 
 {% include section.html %}
 
-## Cell
+## Cell & Tissue
 
 {% include list.html data="programmes" component="catalogue" filters="role: cell, group: protocol" style="small" %}
 
