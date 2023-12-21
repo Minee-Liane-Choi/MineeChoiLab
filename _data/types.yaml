@@ -26,6 +26,10 @@ associate:
   icon: fa-solid fa-flask
   description: Research Associate
 
+intern:
+  icon: fa-child
+  description: Lab Intern
+
 admin:
   icon: fa-solid fa-credit-card
   description: Admin
