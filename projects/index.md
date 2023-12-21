@@ -22,5 +22,5 @@ nav:
 ## Technological Innovations
 {% include list.html data="programmes" component="catalogue" filters="role: tech, group: project" style="small" %}
 
-## Biological Mechanisms
+## Physiological Mechanisms
 {% include list.html data="programmes" component="catalogue" filters="role: mech, group: project" style="small" %}
