@@ -1,6 +1,6 @@
 ---
 title: Cell culture
-subtitle: in-vitro model
+subtitle: in-vitro technique
 role: cell
 group: protocol
 image: images/protocol/culture.jpg
