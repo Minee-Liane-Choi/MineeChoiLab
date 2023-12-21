@@ -23,6 +23,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 {% include list.html data="members" component="portrait" filters="role: associate, group: " %}
 {% include list.html data="members" component="portrait" filters="role: admin, group: " %}
+{% include list.html data="members" component="portrait" filters="role: inter, group: " %}
 
 
 {% include section.html background="images/wallpaper/john-maxwell.jpg" dark=true %}
