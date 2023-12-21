@@ -1,5 +1,5 @@
 ---
-name: New Starter
+name: New Starter1
 image: images/team/photo.jpg
 role: associate
 links:
