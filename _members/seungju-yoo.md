@@ -14,7 +14,7 @@ links:
 
 {%
   include tags.html
-  tags="Parkinson's, Brain organoid, AI, Drug discovery, Alzheimer's"
+  tags="Parkinson's, AI, Drug discovery, hiPSC, Organoid"
   link="projects"
 %}
 
