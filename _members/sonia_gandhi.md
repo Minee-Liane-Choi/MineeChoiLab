@@ -12,4 +12,4 @@ links:
   instagram: 
 ---
 
-Click the <a href="https://www.crick.ac.uk/research/find-a-researcher/sonia-gandhi"> Link</a>  to move to the Gandhi Lab.
+Click <a href="https://www.crick.ac.uk/research/find-a-researcher/sonia-gandhi"> here</a>  to move to the Gandhi Lab.
