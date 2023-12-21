@@ -28,7 +28,7 @@ associate:
 
 intern:
   icon: fa fa-child
-  description: Lab Intern
+  description: Internship Student
 
 admin:
   icon: fa-solid fa-credit-card
@@ -40,7 +40,7 @@ bot:
 
 collabo:
   icon: fa-regular fa-handshake
-  description: Collaborator
+  description: Partner
 
 # programme group
 
