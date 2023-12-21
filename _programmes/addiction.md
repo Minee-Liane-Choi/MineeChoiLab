@@ -7,7 +7,7 @@ image: images/project/addiction.jpg
 description: To be updapted
 tags:
   - Drug addiction
-  - Addiction screening
+  - Screening
   - hiPSC
   - Organoid
 ---
