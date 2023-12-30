@@ -18,4 +18,4 @@ tags:
 
 <strong>Brain organoid</strong>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+To be updated...
