@@ -10,7 +10,7 @@ nav:
 The {{ site.title }} Lab is part of the Department of Brain and Cognitive Sciences (BCS) of KAIST. Minee is also affiliated with The Francis Crick Institute, London as an honorary fellow. We are located at Building N5 on the main campus of KAIST.
 
 Prof. Minee-Liane Choi <br>
-N5-2260, KAIST <br>
+Room 4, 5F Meta-Fusion Building (W13), KAIST <br>
 291 Daehak-ro <br>
 Yuseong-gu, Daejeon <br>
 South Korea.
