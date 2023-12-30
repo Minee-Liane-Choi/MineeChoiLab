@@ -5,7 +5,7 @@ nav:
   tooltip: Protocols, STPs, and more
 ---
 
-# {% include icon.html icon="fa fa-wikipedia-w" %}Protocols
+# {% include icon.html icon="fa-brands fa-wikipedia-w" %}Protocols
 
 {% include search-box.html %}
 
