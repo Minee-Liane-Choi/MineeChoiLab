@@ -37,7 +37,7 @@ South Korea.
 
 {% include section.html %}
 
-## Join Team {{ site.team }}
+## {% include icon.html icon="fa fa-newspaper-o" %}Join Team {{ site.team }}
 There are currently no vacancies.
 
 {% include section.html %}
