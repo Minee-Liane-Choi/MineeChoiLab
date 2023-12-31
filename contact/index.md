@@ -101,5 +101,5 @@ UK <br>
 
 {% include section.html %}
 
-## {% include icon.html icon="fa-regular fa-id-card" %}Join Team {{ site.team }}
+## {% include icon.html icon="fa-regular fa-id-card" %}Join the {{ site.title }} Lab
 There are currently no vacancies.
