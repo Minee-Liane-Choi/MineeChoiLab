@@ -35,6 +35,12 @@ South Korea
   link="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8"
 %}
 
+{%
+  include figure.html
+  image="images/contact/map.jpg"
+  link="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8"
+%}
+
 {% include section.html dark=true %}
 
 ## {% include icon.html icon="fa-solid fa-location-dot" %}Affiliations
@@ -100,6 +106,3 @@ UK <br>
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% include section.html %}
-
-## {% include icon.html icon="fa-regular fa-id-card" %}Join the {{ site.title }} Lab
-There are currently no vacancies.
