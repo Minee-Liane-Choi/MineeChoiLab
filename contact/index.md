@@ -43,6 +43,8 @@ There are currently no vacancies.
 
 {% include section.html dark=true %}
 
+## {% include icon.html icon="fa-solid fa-location-dot" %}Affiliations
+
 {% capture col1 %}
 
 {%
