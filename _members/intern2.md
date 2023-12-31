@@ -12,5 +12,6 @@ links:
   instagram: 
 ---
 
-<strong>Project:</strong> TBC <br>
+<strong>Project:</strong> TBC 
+<br>
 <strong>Duration:</strong> 6 weeks starting from Jan 2024
