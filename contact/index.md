@@ -8,11 +8,12 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 Prof. Minee-Liane Choi <br>
-Room 4  <br>
-5F Meta-Fusion Building (W13) <br>
-KAIST, 291 Daehak-ro <br>
+Room 4 <br>
+5F Meta-Fusion building (W13) <br>
+Korea Advanced Institute of Science and Technology (KAIST) <br>
+291 Daehak-ro <br>
 Yuseong-gu, Daejeon <br>
-South Korea.
+South Korea
 
 {%
   include button.html
