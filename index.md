@@ -45,6 +45,6 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 
 ## {% include icon.html icon="fa-solid fa-photo-film" %}View us at a glance
 
-{% include carousel.html height="80" unit="%" duration="10" number="1" %}
+{% include carousel.html height="60" unit="%" duration="10" number="1" %}
   
 {% include section.html %}
