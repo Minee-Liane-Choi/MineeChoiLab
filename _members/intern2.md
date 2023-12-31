@@ -12,10 +12,5 @@ links:
   instagram: 
 ---
 
-{%
-  include tags.html
-  tags="Drug addiction, Screening, hiPSC, Organoid"
-  link="projects"
-%}
-
-<strong>Research Topic: TBC</strong>
+<strong>Project: TBC</strong>
+<strong>Duration: 6 weeks starting from Jan 2024</strong>
