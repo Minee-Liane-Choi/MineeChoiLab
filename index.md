@@ -14,7 +14,7 @@ The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institut
 <br>
 
 Our objective is to develop a bespoke therapeutic platform to address three major challenges associated with human brain diseases.
-{% include figure.html image="images/home/humanbrain.jpg" caption="" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" width="600px" %}
+{% include figure.html image="images/home/humanbrain.jpg" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" width="600px" %}
 
 <center><a href="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence">
 Animal brains vs. human brains - let the Battle of the Brains commence! (from BBC)
