@@ -6,10 +6,9 @@ links:
   email:
   orcid:
   google-scholar:
+  research-gate:
   github:
-  twitter:
-  facebook:
-  instagram: 
+
 ---
 
 {%
