@@ -6,7 +6,7 @@ links:
   email:
   orcid:
   google-scholar:
-  research-gate:
+  research-gate: 
   github:
 ---
 
