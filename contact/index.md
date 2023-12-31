@@ -41,7 +41,7 @@ South Korea.
 ## {% include icon.html icon="fa-regular fa-id-card" %}Join Team {{ site.team }}
 There are currently no vacancies.
 
-{% include section.html %}
+{% include section.html dark=true %}
 
 {% capture col1 %}
 
