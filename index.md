@@ -25,7 +25,7 @@ Our objective is to develop a bespoke therapeutic platform to address three majo
 </ol>
 
 <br>
-Our therapeutic platform is underpinned by three pivotal technological advances.
+Our therapeutic platform is underpinned by four pivotal technological advances.
 
 <ol type="A">
   <li> <strong><yellowinvt>Patient-induced pluripotent stem cell (iPSC)</yellowinvt></strong> technology, facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.
@@ -34,10 +34,10 @@ Our therapeutic platform is underpinned by three pivotal technological advances.
   <li> <strong><blueinvt>Brain organoid</blueinvt></strong>, often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments. 
   </li>
 
-  <li> <strong><orangenvt>High-resolution live cell imaging</orangenvt></strong>, a technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions. 
+  <li> <strong><orangeinvt>High-resolution live cell imaging</orangeinvt></strong>, a technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions. 
   </li>
   
-  <li> <strong><greennvt>Artificial intelligence (AI)</greennvt></strong>, harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.
+  <li> <strong><greeninvt>Artificial intelligence (AI)</greeninvt></strong>, harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.
   </li>
 </ol>
 
