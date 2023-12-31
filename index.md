@@ -27,7 +27,7 @@ Our objective is to develop a bespoke therapeutic platform to address three majo
 <br>
 Our therapeutic platform is underpinned by three pivotal technological advances.
 
-<ul>
+<ol type="A">
   <li> <strong><blueinvt>Patient-induced pluripotent stem cell (iPSC)</blueinvt></strong> technology, facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.
   </li>
 
@@ -36,7 +36,7 @@ Our therapeutic platform is underpinned by three pivotal technological advances.
   
   <li> <strong><blueinvt>Artificial intelligence (AI)</blueinvt></strong>, harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.
   </li>
-</ul>
+</ol>
 
 {% include section.html size="full" %}
 
