@@ -27,16 +27,16 @@ The laboratory's objective is to develop a bespoke therapeutic platform to addre
 <br>
 Our therapeutic platform is underpinned by three pivotal technological advances.
 
-<ol>
-  <ul> <strong><blueinvt>Patient-induced pluripotent stem cell (iPSC)</blueinvt></strong> technology, facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.  
-  </ul>
+<ul>
+  <li> <strong><blueinvt>Patient-induced pluripotent stem cell (iPSC)</blueinvt></strong> technology, facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.  
+  </li>
 
-  <ul> <strong><blueinvt>Brain organoid</blueinvt></strong>, often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments. 
-  </ul>
+  <li> <strong><blueinvt>Brain organoid</blueinvt></strong>, often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments. 
+  </li>
   
-  <ul> <strong><blueinvt>Artificial intelligence (AI)</blueinvt></strong>, harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.
-  </ul>
-</ol>
+  <li> <strong><blueinvt>Artificial intelligence (AI)</blueinvt></strong>, harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.
+  </li>
+</ul>
 
 {% include section.html size="full" %}
 
