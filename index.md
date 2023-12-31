@@ -28,7 +28,7 @@ Our objective is to develop a bespoke therapeutic platform to address three majo
 Our therapeutic platform is underpinned by three pivotal technological advances.
 
 <ol type="A">
-  <li> <strong><blueinvt>Patient-induced pluripotent stem cell (iPSC)</blueinvt></strong> technology, facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.
+  <li> <strong><yellowinvt>Patient-induced pluripotent stem cell (iPSC)</yellowinvt></strong> technology, facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.
   </li>
 
   <li> <strong><blueinvt>Brain organoid</blueinvt></strong>, often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments. 
