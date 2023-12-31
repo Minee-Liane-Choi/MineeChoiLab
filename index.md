@@ -34,7 +34,7 @@ Our therapeutic platform is underpinned by three pivotal technological advances.
   <li> <strong><blueinvt>Brain organoid</blueinvt></strong>, often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments. 
   </li>
   
-  <li> <strong><blueinvt>Artificial intelligence (AI)</blueinvt></strong>, harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.
+  <li> <strong><orangenvt>Artificial intelligence (AI)</orangenvt></strong>, harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.
   </li>
 </ol>
 
