@@ -48,7 +48,6 @@ There are currently no vacancies.
 {%
   include figure.html
   image="images/contact/kaist.jpg"
-  caption="KAIST"
   link="https://kaist.ac.kr"
 %}
 
@@ -59,7 +58,6 @@ There are currently no vacancies.
 {%
   include figure.html
   image="images/contact/bcs.jpg"
-  caption="Department of Brain & Cognitive Sciences, KAIST"
   link="https://bcs.kaist.ac.kr"
 %}
 
@@ -70,25 +68,12 @@ There are currently no vacancies.
 {%
   include figure.html
   image="images/contact/crick.jpg"
-  caption="The Francis Crick Institute"
   link="https://www.crick.ac.uk"
 %}
 
 {% endcapture %}
 
-{% capture col4 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption=""
-%}
-
-{% endcapture %}
-
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
-
-{% include section.html dark=true %}
 
 {% capture col1 %}
 Korea Advanced Institute of Science and Technology (KAIST) <br>
@@ -98,7 +83,7 @@ South Korea <br>
 {% endcapture %}
 
 {% capture col2 %}
-Department of Brain and Cognitive Sciences <br>
+Department of Brain & Cognitive Sciences <br>
 5F Meta-Fusion building (W13) <br>
 KAIST
 {% endcapture %}
