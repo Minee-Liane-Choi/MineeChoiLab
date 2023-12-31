@@ -5,9 +5,9 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
+# {% include icon.html icon="fa-brands fa-researchgate" %}Publications
 
-## Selected
+## {% include icon.html icon="fa-regular fa-star" %}Selected
 
 {% include citation.html lookup="Prediction of mechanistic subtypes" style="rich" %}
 {% include citation.html lookup="Pathological structural conversion" style="rich" %}
@@ -15,7 +15,7 @@ nav:
 
 {% include section.html %}
 
-## All
+## {% include icon.html icon="fa-solid fa-landmark-dome" %}All
 
 {% include search-box.html %}
 
