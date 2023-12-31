@@ -6,10 +6,8 @@ links:
   email:
   orcid:
   google-scholar:
+  research-gate:
   github:
-  twitter:
-  facebook:
-  instagram: 
 ---
 
 <strong>Project:</strong> TBC <br>
