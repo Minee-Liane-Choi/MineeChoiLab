@@ -19,6 +19,7 @@ Our objective is to develop a bespoke therapeutic platform to address three majo
   <a href="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence">Animal brains vs. human brains - let the Battle of the Brains commence! (from BBC)</a>
 </center>
 
+<br>
 <ol>
   <li>The distinctive complexity inherent in the human brain </li>
   
