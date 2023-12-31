@@ -5,7 +5,7 @@ nav:
   tooltip: Protocols, STPs, and more
 ---
 
-# {% include icon.html icon="fa-brands fa-wikipedia-w" %}Protocols
+# {% include icon.html icon="fa-brands fa-wikipedia-w" %} Protocols
 
 {% include search-box.html %}
 
@@ -15,14 +15,14 @@ nav:
 
 {% include section.html %}
 
-## Cell & Tissue
+## {% include icon.html icon="fa-solid fa-vial-virus" %} Cell & Tissue
 
 {% include list.html data="programmes" component="catalogue" filters="role: cell, group: protocol" style="small" %}
 
-## Imaging
+## {% include icon.html icon="fa-solid fa-microscope" %} Imaging
 
 {% include list.html data="programmes" component="catalogue" filters="role: imaging, group: protocol" style="small" %}
 
-## Computing
+## {% include icon.html icon="fa-solid fa-microchip" %} Computing
 
 {% include list.html data="programmes" component="catalogue" filters="role: computing, group: protocol" style="small" %}
