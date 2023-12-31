@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["yellowinvt.scss"],"names":[],"mappings":"AAAA;EACE;EACA","sourcesContent":["yellowinvt {\n  background: #FFBF34;\n  color: #FFFFFF;\n}\n"],"file":"yellowinvt.css"}
+{"version":3,"sourceRoot":"","sources":["yellowinvt.scss"],"names":[],"mappings":"AAAA;EACE;EACA","sourcesContent":["yellowinvt {\n  background: #F5C71A;\n  color: #FFFFFF;\n}\n"],"file":"yellowinvt.css"}
