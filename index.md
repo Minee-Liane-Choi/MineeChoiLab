@@ -17,7 +17,6 @@ Our objective is to develop a bespoke therapeutic platform to address three majo
 {% include figure.html image="images/home/humanbrain.jpg" caption="Animal brains vs. human brains - let the Battle of the Brains commence! (from BBC)" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" width="600px" %}
 
 <a href="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence">
-    <img src='images/home/humanbrain.jpg' width="600px">
         <figcaption>Animal brains vs. human brains - let the Battle of the Brains commence! (from BBC)
         </figcaption>
 </a>
