@@ -15,12 +15,12 @@ nav:
 
 {% include section.html %}
 
-## Diseases & Disorders
+## {% include icon.html icon="fa-solid fa-brain" %}Disorders
 {% include list.html data="programmes" component="catalogue" filters="role: disease, group: project" style="small" %}
 {% include list.html data="programmes" component="catalogue" filters="role: disorder, group: project" style="small" %}
 
-## Technological Innovations
+## {% include icon.html icon="fa-regular fa-lightbulb" %}Innovations
 {% include list.html data="programmes" component="catalogue" filters="role: tech, group: project" style="small" %}
 
-## Physiological Mechanisms
+## {% include icon.html icon="fa-solid fa-gears" %}Mechanisms
 {% include list.html data="programmes" component="catalogue" filters="role: mech, group: project" style="small" %}
