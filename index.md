@@ -8,7 +8,7 @@ carousels:
     - image: /images/carousel/DA neurons_Hoechst_asyn_MAP2_1_all_edited.png
 ---
 
-## {% include icon.html icon="fa-solid fa-wand-magic-sparkles" %}New approaches for brain repair
+## {% include icon.html icon="fa-solid fa-wand-magic-sparkles" %}New Approaches for Brain Repair
 
 The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making brain diseases more curable than yesterday. The primary aspiration of this endeavor is to foster a more profound understanding of the molecular and cellular origins of <strong><blueinvt>Neuro-Degenerative, -Psychological & -Developmental</blueinvt></strong> diseases & disorders, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
 <br>
@@ -43,7 +43,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 
 {% include section.html size="80%" %}
 
-## {% include icon.html icon="fa-solid fa-photo-film" %}View us at a glance
+## {% include icon.html icon="fa-solid fa-photo-film" %}View Us at a Glance
 
 {% include carousel.html height="60" unit="%" duration="10" number="1" %}
   
