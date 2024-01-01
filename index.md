@@ -28,6 +28,26 @@ Our objective is to develop a bespoke therapeutic platform to address three majo
   <a href="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence">Animal brains vs. human brains - let the Battle of the Brains commence! (from BBC)</a>
 </center>
 
+{% capture col1 %}
+
+{% include figure.html image="images/home/humanbrain.jpg" caption = "Animal brains vs. human brains - let the Battle of the Brains commence! (from BBC)" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" %}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{% include figure.html image="images/contact/crick.jpg" caption = "Report finds no common cause for mystery brain disease" link="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00473-1/fulltext" %}
+
+{% endcapture %}
+
+{% capture col3 %}
+
+{% include figure.html image="images/contact/ucl.jpg" link="https://www.ucl.ac.uk/ion" %}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
+
 <br>
 Our therapeutic platform is underpinned by four pivotal technological advances.
 
