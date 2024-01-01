@@ -42,7 +42,7 @@ Our objective is to develop a bespoke therapeutic platform to address three majo
 
 {% capture col3 %}
 
-{% include figure.html image="images/contact/ucl.jpg" link="https://www.ucl.ac.uk/ion" %}
+{% include figure.html image="images/home/who.jpg" caption = "There is no cure for Parkinson disease, but therapies including medicines, surgery and rehabilitation can reduce symptoms (WHO)" link="https://www.who.int/news-room/fact-sheets/detail/parkinson-disease" %}
 
 {% endcapture %}
 
