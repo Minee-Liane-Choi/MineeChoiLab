@@ -15,8 +15,10 @@ nav:
 
 {% include section.html %}
 
-## {% include icon.html icon="fa-solid fa-brain" %}Disorders
+## {% include icon.html icon="fa-solid fa-brain" %}Diseases
 {% include list.html data="programmes" component="catalogue" filters="role: disease, group: project" style="small" %}
+
+## {% include icon.html icon="fa-regular fa-face-meh" %}Disorders
 {% include list.html data="programmes" component="catalogue" filters="role: disorder, group: project" style="small" %}
 
 ## {% include icon.html icon="fa-regular fa-lightbulb" %}Innovations
