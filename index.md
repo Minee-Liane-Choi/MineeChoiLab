@@ -23,11 +23,6 @@ Our objective is to develop a bespoke therapeutic platform to address three majo
   <li>The predominantly unknown etiological factors of the human brain diseases </li>
 </ol>
 
-{% include figure.html image="images/home/humanbrain.jpg" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" width="400px" %}
-<center>
-  <a href="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence">Animal brains vs. human brains - let the Battle of the Brains commence! (from BBC)</a>
-</center>
-
 {% capture col1 %}
 
 {% include figure.html image="images/home/bbc.jpg" caption = "Animal brains vs. human brains - let the Battle of the Brains commence! (BBC)" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" %}
