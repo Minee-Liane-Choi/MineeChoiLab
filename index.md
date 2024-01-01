@@ -30,13 +30,13 @@ Our objective is to develop a bespoke therapeutic platform to address three majo
 
 {% capture col1 %}
 
-{% include figure.html image="images/home/humanbrain.jpg" caption = "Animal brains vs. human brains - let the Battle of the Brains commence! (from BBC)" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" %}
+{% include figure.html image="images/home/humanbrain.jpg" caption = "Animal brains vs. human brains - let the Battle of the Brains commence! (BBC)" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" %}
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{% include figure.html image="images/contact/crick.jpg" caption = "Report finds no common cause for mystery brain disease" link="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00473-1/fulltext" %}
+{% include figure.html image="images/contact/crick.jpg" caption = "Report finds no common cause for mystery brain disease (The Lancet)" link="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00473-1/fulltext" %}
 
 {% endcapture %}
 
