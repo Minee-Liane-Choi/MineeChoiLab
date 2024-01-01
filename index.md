@@ -41,8 +41,7 @@ Our objective is to develop a bespoke therapeutic platform to address three majo
 
 {% endcapture %}
 
-{% include cols.html col1= col2=col1 col3= %}
-{% include cols.html col1=col2 col2= col3=col3 %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 Our therapeutic platform is underpinned by four pivotal technological advances.
 
