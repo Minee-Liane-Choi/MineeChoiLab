@@ -12,6 +12,8 @@ links:
 
 # {% include icon.html icon="fa-brands fa-researchgate" %}Publications
 
+We post our published works on this page. You can also find additional information about our research activities via the links below."
+
 {% for link in page.links %}
     {% assign key = link[0] %}
     {% assign value = link[1] %}
