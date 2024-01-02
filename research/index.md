@@ -12,7 +12,7 @@ links:
 
 # {% include icon.html icon="fa-brands fa-researchgate" %}Publications
 
-{% for link in links %}
+{% for link in page.links %}
     {% assign key = link[0] %}
     {% assign value = link[1] %}
     {% include button.html type=key link=value style="bare" %}
