@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-brands fa-wikipedia-w" %}Protocols
 
-We will post and regularly update the essential protocols and techniques we use on this page.
+We post and regularly update the essential protocols and techniques we use on this page.
 
 {% include search-box.html %}
 
