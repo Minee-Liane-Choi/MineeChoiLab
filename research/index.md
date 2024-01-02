@@ -3,9 +3,20 @@ title: Publications
 nav:
   order: 1
   tooltip: Published works
+
+links:  
+  orcid: 0000-0001-9414-8214
+  google-scholar: _N6YhZUAAAAJ
+  research-gate: Minee-Liane-Choi-2
 ---
 
 # {% include icon.html icon="fa-brands fa-researchgate" %}Publications
+
+{% for link in links %}
+    {% assign key = link[0] %}
+    {% assign value = link[1] %}
+    {% include button.html type=key link=value style="bare" %}
+{% endfor %}
 
 ## {% include icon.html icon="fa-regular fa-star" %}Selected
 
