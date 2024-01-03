@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
+Our research portfolio encompasses a diverse array of subjects, ranging from molecular biology, physiology, and medicine to neurophysics and artificial intelligence. Updates on our current projects and forthcoming initiatives will be regularly posted on this page.
+
 {% include search-box.html %}
 
 {% include tags.html tags="Parkinson's, Autism, Drug addiction, Alzheimer's, Lewy body dementia, AI, Drug discovery, Screening, hiPSC, Organoid, Mitochondria, Protein misfolding, Cell death" %}
