@@ -43,9 +43,6 @@ South Korea
 
 {% include section.html dark=true %}
 
-<div id="hero">
-</div>
-
 ## {% include icon.html icon="fa-solid fa-location-dot" %}Affiliations
 
 The {{ site.title }} Lab is part of the Department of Brain and Cognitive Sciences (BCS) of KAIST. We are located at 5F Meta-Fusion building (W13) on the main campus of KAIST.
