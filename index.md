@@ -10,10 +10,10 @@ carousels:
 
 ## {% include icon.html icon="fa-solid fa-lock-open" %}New Keys to the Deadlock of Human Brain Disorders
 
-The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making brain diseases more curable than yesterday. The primary aspiration of this endeavor is to foster a more profound understanding of the molecular and cellular origins of <strong><blueinvt>Neuro-Degenerative, -Psychological & -Developmental</blueinvt></strong> diseases & disorders, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
+The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making brain diseases more curable than yesterday. The primary aspiration of this endeavor is to foster a more profound understanding of the molecular and cellular origins of <strong>Neuro-Degenerative, -Psychological & -Developmental diseases & disorders</strong>, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
 <br>
 
-Our objective is to develop a bespoke therapeutic platform to address three major challenges associated with human brain diseases.
+Our objective is <strong>to develop a bespoke therapeutic platform</strong> to address three major challenges associated with human brain diseases.
 
 <ol>
   <li>The distinctive complexity inherent in the human brain </li>
