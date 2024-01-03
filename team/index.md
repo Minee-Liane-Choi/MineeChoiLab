@@ -7,6 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
+Our lab comprises individuals committed to liberty, diversity, equality, compassion, and collaboration. We firmly oppose and renounce any form of outdated and inflexible thinking and attitudes against the principles we respect.
+
 {% include section.html background="images/wallpaper/phil-jackson.jpg" dark=true %}
 
 "The strength of the team is each individual member. The strength of each member is the team." – Phil Jackson
