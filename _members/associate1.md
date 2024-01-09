@@ -16,5 +16,5 @@ links:
   link="projects"
 %}
 
-<strong>Research Topic: TBC</strong>
+<strong>Project: </strong> TBC
 
