@@ -10,7 +10,7 @@ links:
   github:
 ---
 
-<strong>Project Title:</strong> Cellular profiling for drug screening for Parkinson’s disease using patient-derived iPSC <br>
+<strong>Project:</strong> Cellular profiling for drug screening for Parkinson’s disease using patient-derived iPSC <br>
 
 <strong>Report To:</strong> Minee Choi <br>
 
