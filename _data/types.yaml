@@ -27,7 +27,7 @@ associate:
   description: Research Associate
 
 intern:
-  icon: fa fa-child
+  icon: fa-solid fa-person-walking-luggage
   description: Internship Student
 
 admin:
