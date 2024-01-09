@@ -10,7 +10,7 @@ links:
   github:
 ---
 
-<strong>Project Title:</strong> Drug response profiling of human stem cell-derived dopaminergic/cortical neurons; in-vitro model of Parkinson’s disease with (1) Mitochondrial dysfunction <br>
+<strong>Project:</strong> Drug response profiling of human stem cell-derived dopaminergic/cortical neurons; in-vitro model of Parkinson’s disease with (1) Mitochondrial dysfunction <br>
 
 <strong>Report To:</strong> Minee Choi <br>
 
