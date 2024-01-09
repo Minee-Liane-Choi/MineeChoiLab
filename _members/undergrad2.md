@@ -10,7 +10,7 @@ links:
   github:
 ---
 
-<strong>Project Title:</strong> Drug response profiling of human stem cell-derived dopaminergic/cortical neurons; in-vitro model of Parkinson’s disease with (2) Lysosomal dysfunction <br>
+<strong>Project:</strong> Drug response profiling of human stem cell-derived dopaminergic/cortical neurons; in-vitro model of Parkinson’s disease with (2) Lysosomal dysfunction <br>
 
 <strong>Report To:</strong> Minee Choi <br>
 
