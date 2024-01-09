@@ -1,6 +1,6 @@
 ---
 name: HyeonSeo Choi
-image: images/team/photo.jpg
+image: images/team/lola.jpg
 role: intern
 links:
   email:
