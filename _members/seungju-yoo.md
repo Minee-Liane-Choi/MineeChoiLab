@@ -16,6 +16,6 @@ links:
   link="projects"
 %}
 
-<strong>Research Topic: Brain disease subtype classification through Machine learning</strong>
+<strong>Research Title: Development of an AI-based platform for personalized medicine in sporadic Parkinson's disease using a human stem cell system</strong>
 
 The underlying mechanisms of brain diseases can be diverse and vary between individuals. Precise classification of these varying subtypes enables the provision of patient-specific treatments that improves therapeutic effectiveness and lead to better patient outcomes.
