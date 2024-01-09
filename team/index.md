@@ -22,10 +22,11 @@ Team {{ site.team }} comprises individuals committed to liberty, diversity, equa
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
 {% include list.html data="members" component="portrait" filters="role: ms, group: " %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 {% include list.html data="members" component="portrait" filters="role: associate, group: " %}
-{% include list.html data="members" component="portrait" filters="role: admin, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
 {% include list.html data="members" component="portrait" filters="role: inter, group: " %}
+{% include list.html data="members" component="portrait" filters="role: admin, group: " %}
+
 
 
 {% include section.html background="images/wallpaper/john-maxwell.jpg" dark=true %}
