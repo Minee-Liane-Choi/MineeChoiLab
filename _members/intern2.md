@@ -1,6 +1,6 @@
 ---
 name: JeongJin Lee
-image: images/team/photo.jpg
+image: images/team/charlie.jpg
 role: intern
 links:
   email:
