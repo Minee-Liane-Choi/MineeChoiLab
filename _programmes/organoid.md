@@ -1,6 +1,6 @@
 ---
 title: Brain organoid
-subtitle: ex-vivo model
+subtitle: in-vitro brain model
 role: cell
 group: protocol
 image: images/protocol/organoid.jpg
