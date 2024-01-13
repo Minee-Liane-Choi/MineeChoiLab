@@ -12,7 +12,7 @@ tags:
 
 {%
   include tags.html
-  tags="ex-vivo, Organoid"
+  tags="in-virto, Organoid"
   link="protocols"
 %}
 
