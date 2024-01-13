@@ -12,7 +12,7 @@ tags:
 
 {%
   include tags.html
-  tags="ex-vivo, hiPSC"
+  tags="in-vitro, hiPSC"
   link="protocols"
 %}
 
