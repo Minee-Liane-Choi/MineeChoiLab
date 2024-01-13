@@ -6,7 +6,7 @@ group: protocol
 image: images/protocol/organoid.jpg
 description: To be updapted
 tags:
-  - ex-vivo
+  - in-vitro
   - Organoid
 ---
 
