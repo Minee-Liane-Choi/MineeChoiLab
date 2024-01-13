@@ -11,7 +11,7 @@ We post and regularly update the essential lab protocols and techniques we use o
 
 {% include search-box.html %}
 
-{% include tags.html tags="hiPSC, Organoid, Cell culture, 2D imaging, 3D imaging, AI, in-vitro, ex-vivo, in-silico" %}
+{% include tags.html tags="hiPSC, Organoid, Cell culture, 2D imaging, 3D imaging, AI, in-vitro, in-silico" %}
 
 {% include search-info.html %}
 
