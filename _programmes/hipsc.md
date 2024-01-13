@@ -6,7 +6,7 @@ group: protocol
 image: images/protocol/hipsc.jpg
 description: To be updapted
 tags:
-  - ex-vivo
+  - in-vitro
   - hiPSC
 ---
 
