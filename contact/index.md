@@ -9,7 +9,7 @@ nav:
 
 Prof. Minee-Liane Choi <br>
 Room 4 <br>
-5F Meta-Fusion building (W13) <br>
+5F Meta Convergence building (W13) <br>
 Korea Advanced Institute of Science and Technology (KAIST) <br>
 291 Daehak-ro <br>
 Yuseong-gu, Daejeon <br>
@@ -82,7 +82,7 @@ Minee is also affiliated with two research institutions in London, The Francis C
 
 {% capture col1 %}
 Department of Brain & Cognitive Sciences <br>
-5F Meta-Fusion building (W13) <br>
+5F Meta Convergence building (W13) <br>
 Korea Advanced Institute of Science and Technology (KAIST) <br>
 291 Daehak-ro <br>
 Yuseong-gu, Daejeon <br>
