@@ -45,41 +45,27 @@ Our objective is <strong>to develop a bespoke therapeutic platform</strong> to a
 
 Our therapeutic platform is underpinned by four pivotal technological advances.
 
-<ol type="A">
-  <li> <strong><yellowinvt>Patient-induced pluripotent stem cell (iPSC)</yellowinvt></strong> technology, facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.
-  </li>
-
-  <li> <strong><blueinvt>Brain organoid</blueinvt></strong>, often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments. 
-  </li>
-
-  <li> <strong><orangeinvt>High-resolution live cell imaging</orangeinvt></strong>, a technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions. 
-  </li>
-  
-  <li> <strong><greeninvt>Artificial intelligence (AI)</greeninvt></strong>, harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.
-  </li>
-</ol>
-
 <table style="width:100%">
   <tr style="height:150px">
-    <td style="width:5%" style="background-color:Orange;"></td>
+    <td style="width:10%" style="background-color:Orange;">{% include icon.html icon="fa-solid fa-lock-open" %}</td>
     <td style="width:2%"></td>
     <td style="width:45%"><strong>Patient-induced pluripotent stem cell (iPSC),</strong></td>
     <td>Facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.</td>
   </tr>
   <tr style="height:150px">
-    <td style="background-color:DodgerBlue;"></td>
+    <td style="background-color:DodgerBlue;">{% include icon.html icon="fa-solid fa-lock-open" %}</td>
     <td></td>
     <td><strong>Brain organoid,</strong></td>
     <td>Often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments.</td>
   </tr>
   <tr style="height:150px">
-    <td style="background-color:Tomato;"></td>
+    <td style="background-color:Tomato;">{% include icon.html icon="fa-solid fa-lock-open" %}</td>
     <td></td>
     <td><strong>High-resolution live cell imaging,</strong></td>
     <td>A technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions.</td>
   </tr>
   <tr style="height:150px">
-    <td style="background-color:MediumSeaGreen;"></td>
+    <td style="background-color:MediumSeaGreen;">{% include icon.html icon="fa-solid fa-lock-open" %}</td>
     <td></td>
     <td><strong>Artificial intelligence (AI),</strong></td>
     <td>Harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.</td>
