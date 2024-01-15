@@ -16,7 +16,11 @@ th,
 td {
   text-align: left;
   padding: 5px;
-  line-height: 150%;
+  line-height: 200%;
+}
+
+tr {
+  vertical-align: top;
 }
 
 tr:nth-child(even) {
