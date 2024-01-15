@@ -63,12 +63,22 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   <tr style="vertical-align:top">
     <td style="width:2%" style="background-color:Orange;"></td>
     <td style="width:35%"><strong>Patient-induced pluripotent stem cell (iPSC)</strong></td>
-    <td>facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.</td>
+    <td>, Facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.</td>
   </tr>
-  <tr>
+  <tr style="vertical-align:top" style="height:200px">
     <td style="background-color:DodgerBlue;"></td>
     <td><strong>Brain organoid</strong></td>
-    <td>often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments.</td>
+    <td>, Often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments.</td>
+  </tr>
+  <tr style="vertical-align:top" style="height:200px">
+    <td style="background-color:Tomato;"></td>
+    <td><strong>High-resolution live cell imaging</strong></td>
+    <td>, a technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions.</td>
+  </tr>
+  <tr style="vertical-align:top" style="height:200px">
+    <td style="background-color:MediumSeaGreen;"></td>
+    <td><strong>Artificial intelligence (AI)</strong></td>
+    <td>, Harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.</td>
   </tr>
 </table>
 
