@@ -32,7 +32,7 @@ links:
     <td>2023-Present</td>
     <td align="Left">Assistant Professor, Department of Brain and Cognitive Sciences, KAIST, South Korea</td>
   </tr>
-  <tr>
+  <tr bgcolor= "LightGray">
     <td>2023-Present</td>
     <td align="Left">Honorary Fellow, The Francis Crick Institute, UK</td>
   </tr>
@@ -40,7 +40,7 @@ links:
     <td>2023-Present</td>
     <td align="Left">Honorary Fellow, UCL Queen Square Institute of Neurology, University of London, UK</td>
   </tr>
-  <tr>
+  <tr bgcolor= "LightGray">
     <td>2017-2022</td>
     <td align="Left">Senior Research Scientist (Secondment), The Francis Crick Institute, UK</td>
   </tr>
@@ -48,7 +48,7 @@ links:
     <td>2014-2022</td>
     <td align="Left">Research Fellow, UCL Queen Square Institute of Neurology, University of London, UK</td>
   </tr>
-  <tr>
+  <tr bgcolor= "LightGray">
     <td>2013</td>
     <td align="Left">Research Associate, UCL Wolfson Institute for Biomedical Research, University of London, UK</td>
   </tr>
