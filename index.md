@@ -53,7 +53,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
     <td rowspan="2" style="background-color:Orange;"></td>
   </tr>
   <tr style="height:130px">
-    <td align="right">{% include icon.html icon="fa-solid fa-vials" %} &emsp; &emsp;</td>
+    <td align="right">{% include icon.html icon="fa-solid fa-vials" %} &emsp; &emsp; &emsp;</td>
   </tr>
   
   <tr>
@@ -63,7 +63,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
     <td rowspan="2" style="background-color:DodgerBlue;"></td>
   </tr>
   <tr style="height:130px">
-    <td align="right">{% include icon.html icon="fa-solid fa-brain" %} &emsp; &emsp;</td>
+    <td align="right">{% include icon.html icon="fa-solid fa-brain" %} &emsp; &emsp; &emsp;</td>
   </tr>
   
   <tr>
@@ -73,7 +73,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
     <td rowspan="2" style="background-color:Tomato;"></td>
   </tr>
   <tr style="height:130px">
-    <td align="right">{% include icon.html icon="fa-solid fa-photo-film" %} &emsp; &emsp;</td>
+    <td align="right">{% include icon.html icon="fa-solid fa-photo-film" %} &emsp; &emsp; &emsp;</td>
   </tr>
   
   <tr>
@@ -83,7 +83,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
     <td rowspan="2" style="background-color:MediumSeaGreen;"></td>
   </tr>
   <tr style="height:130px">
-    <td align="right">{% include icon.html icon="fa-solid fa-share-nodes" %} &emsp; &emsp;</td>
+    <td align="right">{% include icon.html icon="fa-solid fa-share-nodes" %} &emsp; &emsp; &emsp;</td>
   </tr>
   
 </table>
