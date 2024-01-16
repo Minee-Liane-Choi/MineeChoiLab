@@ -3,7 +3,7 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-user-secret
   description: Principal Investigator
 
 postdoc:
@@ -23,7 +23,7 @@ undergrad:
   description: Undergraduate Student
 
 associate:
-  icon: fa-solid fa-flask
+  icon: fa-solid fa-user-ninja
   description: Research Associate
 
 intern:
