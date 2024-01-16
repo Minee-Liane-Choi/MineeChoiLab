@@ -27,8 +27,7 @@ links:
 
 <strong>Professional History</strong>
 
-<table>
-  <tbody style="font-size: 28px";>
+<table style="font-size: 15px";>
   <tr>
     <td>2023-Present</td>
     <td align="Left">Assistant Professor, Department of Brain and Cognitive Sciences, KAIST, South Korea</td>
@@ -57,7 +56,6 @@ links:
     <td>2008-2013 </td>
     <td align="Left">PhD in Clinical Neurosciences, University of Cambridge, UK</td>
   </tr>
-  </tbody>
 </table>
 
 <strong>Biographical Sketch</strong>
