@@ -87,6 +87,9 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   link="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8"
 %}
 
+<button> Click me </button>
+
+
 {% include section.html dark=true size="80%" %}
 
 ## {% include icon.html icon="fa-solid fa-photo-film" %}View Us at a Glance
