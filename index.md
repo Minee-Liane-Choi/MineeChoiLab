@@ -47,7 +47,10 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 
 <table style="width:70%">
   <tr style="height:200px; vertical-align:bottom;">
-    <td style="width:48%; background-color:#ff2800;" align="right"><strong>High-resolution live cell imaging</strong> <br> {% include icon.html icon="fa-solid fa-photo-film" %} &emsp; </td>
+    <td style="width:48%; background-color:#ff2800;" align="right">
+      <strong class="tooltip">High-resolution live cell imaging
+        <span class="tooltiptext">Tooltip text</span>
+      </strong> <br> {% include icon.html icon="fa-solid fa-photo-film" %} &emsp; </td>
     <td style="width:48%; background-color:#9dc209;" align="left"> <strong>Artificial intelligence (AI)</strong> <br> &emsp; {% include icon.html icon="fa-solid fa-share-nodes" %}  </td>
   </tr>
   <tr style="height:200px; vertical-align:top;">
