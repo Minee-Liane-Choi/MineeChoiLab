@@ -5,4 +5,4 @@ role: bot
 links:
 ---
 
-Hi! I am BRePAIR's imaginary friend.
+Hi! I am Soren Lorenson, BRePAIR's imaginary friend.
