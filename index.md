@@ -49,14 +49,14 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   <tr>
     <td style="width:50%; background-color:Tomato;" align="left"><strong>High-resolution live cell imaging,</strong></td>
     <td style="width:50%; background-color:MediumSeaGreen;" align="left"><strong>Artificial intelligence (AI),</strong></td>
+  </tr>  
+  <tr>
+    <td style="background-color:Tomato;" align="left">A technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions.</td>
+    <td style="background-color:Tomato;" align="left">Harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.</td>
   </tr>
   <tr>
-    <td align="right">{% include icon.html icon="fa-solid fa-vials" %} &emsp; &emsp; &emsp;</td>
-    <td align="right">{% include icon.html icon="fa-solid fa-share-nodes" %} &emsp; &emsp; &emsp;</td>
-  </tr>
-  <tr>
-    <td align="left">A technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions.</td>
-    <td align="left">Harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.</td>
+    <td style="background-color:Tomato;" align="right">{% include icon.html icon="fa-solid fa-vials" %}</td>
+    <td style="background-color:Tomato;" align="left">{% include icon.html icon="fa-solid fa-share-nodes" %}</td>
   </tr>
 </table>
 
