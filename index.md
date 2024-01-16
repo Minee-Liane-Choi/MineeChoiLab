@@ -79,7 +79,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   </tr>
 </table>
 
-<button class="hoverbutton"><span>Hover </span></button>
+<button2 class="button2"><span>Hover </span></button2>
 
 {% include section.html dark=true size="80%" %}
 
