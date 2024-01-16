@@ -28,33 +28,33 @@ links:
 <strong>Professional History</strong>
 
 <table>
-  <tr style="font-size: 28px;">
+  <tr style="font-size: 12px;">
     <td>2023-Present</td>
-    <td align="Left">Assistant Professor, Department of Brain and Cognitive Sciences, KAIST, South Korea</td>
+    <td align="Left"><strong>Assistant Professor</strong>, Department of Brain and Cognitive Sciences, KAIST, South Korea</td>
   </tr>
   <tr style="font-size: 12px; background-color:LightGray;">
     <td>2023-Present</td>
-    <td align="Left">Honorary Fellow, The Francis Crick Institute, UK</td>
+    <td align="Left"><strong>Honorary Fellow</strong>, The Francis Crick Institute, UK</td>
   </tr>
   <tr style="font-size: 12px;">
     <td>2023-Present</td>
-    <td align="Left">Honorary Fellow, UCL Queen Square Institute of Neurology, University of London, UK</td>
+    <td align="Left"><strong>Honorary Fellow</strong>, UCL Queen Square Institute of Neurology, University of London, UK</td>
   </tr>
   <tr style="font-size: 12px; background-color:LightGray;">
     <td>2017-2022</td>
-    <td align="Left">Senior Research Scientist (Secondment), The Francis Crick Institute, UK</td>
+    <td align="Left"><strong>Senior Research Scientist (Secondment)</strong>, The Francis Crick Institute, UK</td>
   </tr>
   <tr style="font-size: 12px;">
     <td>2014-2022</td>
-    <td align="Left">Research Fellow, UCL Queen Square Institute of Neurology, University of London, UK</td>
+    <td align="Left"><strong>Research Fellow</strong>, UCL Queen Square Institute of Neurology, University of London, UK</td>
   </tr>
   <tr style="font-size: 12px; background-color:LightGray;">
     <td>2013</td>
-    <td align="Left">Research Associate, UCL Wolfson Institute for Biomedical Research, University of London, UK</td>
+    <td align="Left"><strong>Research Associate</strong>, UCL Wolfson Institute for Biomedical Research, University of London, UK</td>
   </tr>
   <tr style="font-size: 12px;">
     <td>2008-2013 </td>
-    <td align="Left">PhD in Clinical Neurosciences, University of Cambridge, UK</td>
+    <td align="Left"><strong>PhD in Clinical Neurosciences</strong>, University of Cambridge, UK</td>
   </tr>
 </table>
 
