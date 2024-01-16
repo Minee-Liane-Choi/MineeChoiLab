@@ -46,9 +46,9 @@ Our objective is <strong>to develop a bespoke therapeutic platform</strong> to a
 Our therapeutic platform is underpinned by four pivotal technological advances.
 
 <table style="width:100%">
-  <tr style="height:150px">
+  <tr>
     <td rowspan="2" style="background-color:Orange;"></td>
-    <td style="width:1%" rowspan="2" ></td>
+    <td rowspan="2" style="width:1%" ></td>
     <td style="width:45%"><strong>Patient-induced pluripotent stem cell (iPSC),</strong></td>
     <td rowspan="2">Facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.</td>
     <td rowspan="2" style="background-color:Orange;"></td>
@@ -57,31 +57,29 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
     <td align="center">{% include icon.html icon="fa-solid fa-vials" %}</td>
   </tr>
   
-  <tr style="height:150px">
+  <tr>
     <td rowspan="2" style="background-color:DodgerBlue;"></td>
     <td rowspan="2"></td>
     <td><strong>Brain organoid,</strong></td>
     <td rowspan="2">Often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments.</td>
     <td rowspan="2" style="background-color:DodgerBlue;"></td>
   </tr>
-  </tr>
   <tr style="height:150px">
     <td align="center">{% include icon.html icon="fa-solid fa-brain" %}</td>
   </tr>
   
-  <tr style="height:150px">
+  <tr>
     <td rowspan="2" style="background-color:Tomato;"></td>
     <td rowspan="2"></td>
     <td><strong>High-resolution live cell imaging,</strong></td>
     <td rowspan="2">A technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions.</td>
     <td rowspan="2" style="background-color:Tomato;"></td>
   </tr>
-  </tr>
   <tr style="height:150px">
     <td align="center">{% include icon.html icon="fa-solid fa-photo-film" %}</td>
   </tr>
   
-  <tr style="height:150px">
+  <tr>
     <td rowspan="2" style="background-color:MediumSeaGreen;"></td>
     <td rowspan="2" ></td>
     <td><strong>Artificial intelligence (AI),</strong></td>
