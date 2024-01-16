@@ -47,12 +47,12 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 
 <table style="width:100%">
   <tr>
-    <td style="width:1%; background-color:Tomato;" rowspan="4"></td>
+    <td style="width:1%; background-color:Tomato;" rowspan="5"></td>
     <td style="width:48%; background-color:Tomato;"></td>
-    <td style="width:1%; background-color:Tomato;" rowspan="4"></td>
-    <td style="width:1%; background-color:MediumSeaGreen;" rowspan="4"></td>
+    <td style="width:1%; background-color:Tomato;" rowspan="5"></td>
+    <td style="width:1%; background-color:MediumSeaGreen;" rowspan="5"></td>
     <td style="width:48%; background-color:MediumSeaGreen;"></td>
-    <td style="width:1%; background-color:MediumSeaGreen;" rowspan="4"></td>
+    <td style="width:1%; background-color:MediumSeaGreen;" rowspan="5"></td>
   </tr>  
   <tr>
     <td align="left">A technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions.</td>
