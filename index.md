@@ -79,7 +79,13 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   </tr>
 </table>
 
-<button class="button2"><span>Hover </span></button>
+{%
+  include button.html
+  type="adress"
+  text="High-resolution live cell imaging"
+  tooltip="A technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions."
+  link="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8"
+%}
 
 {% include section.html dark=true size="80%" %}
 
