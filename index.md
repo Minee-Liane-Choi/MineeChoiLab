@@ -59,12 +59,34 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
     <td align="left">Harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.</td>
   </tr>
   <tr>
-    <td align="right"><strong>High-resolution live cell imaging</strong> {% include icon.html icon="fa-solid fa-photo-film" %}</td>
-    <td align="left">{% include icon.html icon="fa-solid fa-share-nodes" %} <strong>Artificial intelligence (AI)</strong></td>
+    <td align="right"><strong>High-resolution live cell imaging</strong> &emsp; {% include icon.html icon="fa-solid fa-photo-film" %}</td>
+    <td align="left">{% include icon.html icon="fa-solid fa-share-nodes" %} &emsp; <strong>Artificial intelligence (AI)</strong></td>
   </tr>
   <tr>
     <td style="background-color:Tomato;"></td>
     <td style="background-color:MediumSeaGreen;"></td>
+  </tr>
+
+
+  <tr>
+    <td style="width:1%; background-color:DodgerBlue;" rowspan="4"></td>
+    <td style="width:48%; background-color:DodgerBlue;"></td>
+    <td style="width:1%; background-color:DodgerBlue;" rowspan="4"></td>
+    <td style="width:1%; background-color:Orange;" rowspan="4"></td>
+    <td style="width:48%; background-color:Orange;"></td>
+    <td style="width:1%; background-color:Orange;" rowspan="4"></td>
+  </tr>  
+  <tr>
+    <td align="left">Often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments.</td>
+    <td align="left">Facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.</td>
+  </tr>
+  <tr>
+    <td align="right"><strong>Brain organoid</strong> &emsp; {% include icon.html icon="fa-solid fa-brain" %}</td>
+    <td align="left">{% include icon.html icon="fa-solid fa-vials" %} &emsp; <strong>Patient-induced pluripotent stem cell (iPSC)</strong></td>
+  </tr>
+  <tr>
+    <td style="background-color:DodgerBlue;"></td>
+    <td style="background-color:Orange;"></td>
   </tr> 
 </table>
 
