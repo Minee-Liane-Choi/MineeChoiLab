@@ -48,10 +48,10 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 <table style="width:70%">
   <tr style="height:200px; vertical-align:bottom;">
     <td style="width:48%; background-color:#ff2800;" align="right"><strong>High-resolution live cell imaging</strong> <br> {% include icon.html icon="fa-solid fa-photo-film" %} &emsp; </td>
-    <td style="width:48%; background-color:#9dc209;" align="left"> &emsp; {% include icon.html icon="fa-solid fa-share-nodes" %} <br> <strong>Artificial intelligence (AI)</strong></td>
+    <td style="width:48%; background-color:#9dc209;" align="left"> <strong>Artificial intelligence (AI)</strong> <br> &emsp; {% include icon.html icon="fa-solid fa-share-nodes" %}  </td>
   </tr>
   <tr style="height:200px; vertical-align:top;">
-    <td style="width:48%; background-color:DodgerBlue;" align="right"><strong>Brain organoid</strong> <br> {% include icon.html icon="fa-solid fa-brain" %} &emsp; </td>
+    <td style="width:48%; background-color:DodgerBlue;" align="right">{% include icon.html icon="fa-solid fa-brain" %} &emsp; <br> <strong>Brain organoid</strong> </td>
     <td style="width:48%; background-color:Orange;" align="left"> &emsp; {% include icon.html icon="fa-solid fa-vials" %} <br> <strong>Patient-induced pluripotent stem cell (iPSC)</strong></td>
   </tr>
 </table>
