@@ -74,7 +74,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   </tr>
   
   <tr>
-    <td rowspan="2" style="background-color:#a6d608;"></td>
+    <td rowspan="2" style="background-color:#8db600;"></td>
     <td align="right"><strong>Artificial intelligence (AI),</strong></td>
     <td rowspan="2" align="left">Harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.</td>
   </tr>
