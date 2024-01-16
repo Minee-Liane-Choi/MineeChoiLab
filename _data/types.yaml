@@ -11,15 +11,15 @@ postdoc:
   description: Postdoctoral Researcher
 
 phd:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-user-graduate
   description: PhD Student
   
 ms:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-user-graduate
   description: MS Student
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-user-pen
   description: Undergraduate Student
 
 associate:
