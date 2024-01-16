@@ -47,21 +47,30 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 
 <table style="width:70%">
   <tr style="height:200px; vertical-align:bottom;">
+    
     <td style="width:48%; background-color:#ff2800;" align="right">
       <strong class="tooltip">High-resolution live cell imaging
-        <span class="tooltiptext">Tooltip text</span>
+        <span class="tooltiptext">A technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions.</span>
       </strong> <br> {% include icon.html icon="fa-solid fa-photo-film" %} &emsp; </td>
-    <td style="width:48%; background-color:#9dc209;" align="left"> <strong>Artificial intelligence (AI)</strong> <br> &emsp; {% include icon.html icon="fa-solid fa-share-nodes" %}  </td>
+    
+    <td style="width:48%; background-color:#9dc209;" align="left">
+      <strong class="tooltip">Artificial intelligence (AI)
+        <span class="tooltiptext">Harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.</span>
+      </strong> <br> &emsp; {% include icon.html icon="fa-solid fa-share-nodes" %} </td>
   </tr>
+  
   <tr style="height:200px; vertical-align:top;">
-    <td style="width:48%; background-color:DodgerBlue;" align="right">{% include icon.html icon="fa-solid fa-brain" %} &emsp; <br> <strong>Brain organoid</strong> </td>
-    <td style="width:48%; background-color:Orange;" align="left"> &emsp; {% include icon.html icon="fa-solid fa-vials" %} <br> <strong>Patient-induced pluripotent stem cell (iPSC)</strong></td>
+    <td style="width:48%; background-color:DodgerBlue;" align="right">{% include icon.html icon="fa-solid fa-brain" %} &emsp; <br>
+      <strong class="tooltip">Brain organoid
+        <span class="tooltiptext">Often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments.</span>
+      </strong> </td>
+    
+    <td style="width:48%; background-color:Orange;" align="left"> &emsp; {% include icon.html icon="fa-solid fa-vials" %} <br>
+      <strong class="tooltip">Patient-induced pluripotent stem cell (iPSC)
+        <span class="tooltiptext">Facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.</span>
+      </strong></td>
   </tr>
 </table>
-
-<div class="tooltip">Hover over me
-  <span class="tooltiptext">Tooltip text</span>
-</div>
 
 {% include section.html dark=true size="80%" %}
 
