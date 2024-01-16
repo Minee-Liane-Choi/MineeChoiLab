@@ -30,31 +30,31 @@ links:
 <table>
   <tr>
     <td>2023-Present</td>
-    <td>Assistant Professor, Department of Brain and Cognitive Sciences, KAIST, South Korea</td>
+    <td align="Left">Assistant Professor, Department of Brain and Cognitive Sciences, KAIST, South Korea</td>
   </tr>
   <tr>
     <td>2023-Present</td>
-    <td>Honorary Fellow, The Francis Crick Institute, UK</td>
+    <td align="Left">Honorary Fellow, The Francis Crick Institute, UK</td>
   </tr>
   <tr>
     <td>2023-Present</td>
-    <td>Honorary Fellow, UCL Queen Square Institute of Neurology, University of London, UK</td>
+    <td align="Left">Honorary Fellow, UCL Queen Square Institute of Neurology, University of London, UK</td>
   </tr>
   <tr>
     <td>2017-2022</td>
-    <td>Senior Research Scientist (Secondment), The Francis Crick Institute, UK</td>
+    <td align="Left">Senior Research Scientist (Secondment), The Francis Crick Institute, UK</td>
   </tr>
   <tr>
     <td>2014-2022</td>
-    <td>Research Fellow, UCL Queen Square Institute of Neurology, University of London, UK</td>
+    <td align="Left">Research Fellow, UCL Queen Square Institute of Neurology, University of London, UK</td>
   </tr>
   <tr>
     <td>2013</td>
-    <td>Research Associate, UCL Wolfson Institute for Biomedical Research, University of London, UK</td>
+    <td align="Left">Research Associate, UCL Wolfson Institute for Biomedical Research, University of London, UK</td>
   </tr>
   <tr>
     <td>2008-2013 </td>
-    <td>PhD in Clinical Neurosciences, University of Cambridge, UK</td>
+    <td align="Left">PhD in Clinical Neurosciences, University of Cambridge, UK</td>
   </tr>
 </table>
 
