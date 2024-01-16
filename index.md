@@ -46,49 +46,19 @@ Our objective is <strong>to develop a bespoke therapeutic platform</strong> to a
 Our therapeutic platform is underpinned by four pivotal technological advances.
 
 <table style="width:100%">
-  <tr>
-    <td style="width:1%; background-color:#ff2800;" rowspan="4"></td>
-    <td style="width:48%; background-color:#ff2800;"></td>
-    <td style="width:1%; background-color:#ff2800;" rowspan="4"></td>
-    <td style="width:1%; background-color:#9dc209;" rowspan="4"></td>
-    <td style="width:48%; background-color:#9dc209;"></td>
-    <td style="width:1%; background-color:#9dc209;" rowspan="4"></td>
-  </tr>  
   <tr style="height:200px">
-    <td align="left">A technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions.</td>
-    <td align="left">Harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.</td>
-  </tr>
-  <tr>
-    <td align="right"><strong>High-resolution live cell imaging</strong> &emsp; {% include icon.html icon="fa-solid fa-photo-film" %}</td>
-    <td align="left">{% include icon.html icon="fa-solid fa-share-nodes" %} &emsp; <strong>Artificial intelligence (AI)</strong></td>
-  </tr>
-  <tr>
-    <td style="background-color:#ff2800;"></td>
-    <td style="background-color:#9dc209;"></td>
-  </tr>
-
-
-  <tr>
-    <td style="width:1%; background-color:DodgerBlue;" rowspan="4"></td>
-    <td style="width:48%; background-color:DodgerBlue;"></td>
-    <td style="width:1%; background-color:DodgerBlue;" rowspan="4"></td>
-    <td style="width:1%; background-color:Orange;" rowspan="4"></td>
-    <td style="width:48%; background-color:Orange;"></td>
-    <td style="width:1%; background-color:Orange;" rowspan="4"></td>
-  </tr>  
-  <tr>
-    <td align="right"><strong>Brain organoid</strong> &emsp; {% include icon.html icon="fa-solid fa-brain" %}</td>
-    <td align="left">{% include icon.html icon="fa-solid fa-vials" %} &emsp; <strong>Patient-induced pluripotent stem cell (iPSC)</strong></td>
+    <td style="width:48%; background-color:#ff2800;" align="right"><strong>High-resolution live cell imaging</strong> &emsp; {% include icon.html icon="fa-solid fa-photo-film" %}</td>
+    <td style="width:48%; background-color:#9dc209;" align="left">{% include icon.html icon="fa-solid fa-share-nodes" %} &emsp; <strong>Artificial intelligence (AI)</strong></td>
   </tr>
   <tr style="height:200px">
-    <td align="left">Often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments.</td>
-    <td align="left">Facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.</td>
+    <td style="width:48%; background-color:DodgerBlue;" align="right"><strong>Brain organoid</strong> &emsp; {% include icon.html icon="fa-solid fa-brain" %}</td>
+    <td style="width:48%; background-color:Orange;" align="left">{% include icon.html icon="fa-solid fa-vials" %} &emsp; <strong>Patient-induced pluripotent stem cell (iPSC)</strong></td>
   </tr>
-    <tr>
-    <td style="background-color:DodgerBlue;"></td>
-    <td style="background-color:Orange;"></td>
-  </tr> 
 </table>
+
+<div class="tooltip">Hover over me
+  <span class="tooltiptext">Tooltip text</span>
+</div>
 
 {% include section.html dark=true size="80%" %}
 
