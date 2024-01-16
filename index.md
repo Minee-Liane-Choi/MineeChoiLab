@@ -47,8 +47,8 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 
 <table style="width:100%">
   <tr>
-    <td style="width:1%; background-color:Tomato;" rowspan="4"></td>
-    <td style="width:48%; background-color:Tomato;"></td>
+    <td style="width:1%; background-color:#ff2800;" rowspan="4"></td>
+    <td style="width:48%; background-color:#ff2800;"></td>
     <td style="width:1%; background-color:Tomato;" rowspan="4"></td>
     <td style="width:1%; background-color:#9dc209;" rowspan="4"></td>
     <td style="width:48%; background-color:#9dc209;"></td>
@@ -63,7 +63,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
     <td align="left">{% include icon.html icon="fa-solid fa-share-nodes" %} &emsp; <strong>Artificial intelligence (AI)</strong></td>
   </tr>
   <tr>
-    <td style="background-color:Tomato;"></td>
+    <td style="background-color:#ff2800;"></td>
     <td style="background-color:#9dc209;"></td>
   </tr>
 
