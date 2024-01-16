@@ -47,7 +47,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 
 <table style="width:100%">
   <tr>
-    <td rowspan="2" style="width:10%; background-color:Orange;"></td>
+    <td rowspan="2" style="width:5%; background-color:#fcc200;"></td>
     <td style="width:42%" align="right"><strong>Patient-induced pluripotent stem cell (iPSC),</strong></td>
     <td rowspan="2" align="left">Facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.</td>
   </tr>
@@ -56,7 +56,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   </tr>
   
   <tr>
-    <td rowspan="2" style="background-color:DodgerBlue;"></td>
+    <td rowspan="2" style="background-color:#0070ff;"></td>
     <td align="right"><strong>Brain organoid,</strong></td>
     <td rowspan="2" align="left">Often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments.</td>
   </tr>
@@ -65,7 +65,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   </tr>
   
   <tr>
-    <td rowspan="2" style="background-color:Tomato;"></td>
+    <td rowspan="2" style="background-color:#ff2800;"></td>
     <td align="right"><strong>High-resolution live cell imaging,</strong></td>
     <td rowspan="2" align="left">A technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions.</td>
   </tr>
@@ -74,7 +74,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   </tr>
   
   <tr>
-    <td rowspan="2" style="background-color:MediumSeaGreen;"></td>
+    <td rowspan="2" style="background-color:#a6d608;"></td>
     <td align="right"><strong>Artificial intelligence (AI),</strong></td>
     <td rowspan="2" align="left">Harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.</td>
   </tr>
