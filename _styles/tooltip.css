@@ -79,10 +79,10 @@
 /* Tooltip text */
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
+  width: 400px;
+  background-color: white;
+  color: #000000;
+  text-align: left;
   padding: 5px 0;
   border-radius: 6px;
   /* Position the tooltip text - see examples below! */
