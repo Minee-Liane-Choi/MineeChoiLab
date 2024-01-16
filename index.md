@@ -49,9 +49,10 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   <tr style="height:200px; vertical-align:bottom;">
     
     <td style="width:48%; background-color:#ff2800;" align="right">
-      <strong class="tooltip">High-resolution live cell imaging
+      <div class="tooltip"><strong>High-resolution live cell imaging</strong>
         <span class="tooltiptext">A technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions.</span>
-      </strong> <br> {% include icon.html icon="fa-solid fa-photo-film" %} &emsp; </td>
+      </div>
+       <br> {% include icon.html icon="fa-solid fa-photo-film" %} &emsp; </td>
     
     <td style="width:48%; background-color:#9dc209;" align="left">
       <strong class="tooltip">Artificial intelligence (AI)
