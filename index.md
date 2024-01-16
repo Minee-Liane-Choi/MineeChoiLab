@@ -55,21 +55,22 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
        <br> {% include icon.html icon="fa-solid fa-photo-film" %} &emsp; </td>
     
     <td style="width:48%; background-color:#9dc209;" align="left">
-      <strong class="tooltip">Artificial intelligence (AI)
+      <div class="tooltip"><strong>Artificial intelligence</strong>
         <span class="tooltiptext">Harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.</span>
-      </strong> <br> &emsp; {% include icon.html icon="fa-solid fa-share-nodes" %} </td>
+      </div>
+      <br> &emsp; {% include icon.html icon="fa-solid fa-share-nodes" %} </td>
   </tr>
   
   <tr style="height:200px; vertical-align:top;">
     <td style="width:48%; background-color:DodgerBlue;" align="right">{% include icon.html icon="fa-solid fa-brain" %} &emsp; <br>
-      <strong class="tooltip">Brain organoid
+      <div class="tooltip"><strong>Brain organoid</strong>
         <span class="tooltiptext">Often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments.</span>
-      </strong> </td>
+      </div></td>
     
     <td style="width:48%; background-color:Orange;" align="left"> &emsp; {% include icon.html icon="fa-solid fa-vials" %} <br>
-      <strong class="tooltip">Patient-induced pluripotent stem cell (iPSC)
+      <div class="tooltip"><strong>Patient-induced pluripotent stem cell (iPSC)</strong>
         <span class="tooltiptext">Facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.</span>
-      </strong></td>
+      </div></td>
   </tr>
 </table>
 
