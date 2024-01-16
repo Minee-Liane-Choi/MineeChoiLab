@@ -45,14 +45,14 @@ Our objective is <strong>to develop a bespoke therapeutic platform</strong> to a
 
 Our therapeutic platform is underpinned by four pivotal technological advances.
 
-<table style="width:100%">
-  <tr style="height:200px">
-    <td style="width:48%; background-color:#ff2800;" align="right"><strong>High-resolution live cell imaging</strong> &emsp; {% include icon.html icon="fa-solid fa-photo-film" %}</td>
-    <td style="width:48%; background-color:#9dc209;" align="left">{% include icon.html icon="fa-solid fa-share-nodes" %} &emsp; <strong>Artificial intelligence (AI)</strong></td>
+<table style="width:70%">
+  <tr style="height:200px; vertical-align:bottom;">
+    <td style="width:48%; background-color:#ff2800;" align="right"><strong>High-resolution live cell imaging</strong> <br> {% include icon.html icon="fa-solid fa-photo-film" %} &emsp; </td>
+    <td style="width:48%; background-color:#9dc209;" align="left"> &emsp; {% include icon.html icon="fa-solid fa-share-nodes" %} <br> <strong>Artificial intelligence (AI)</strong></td>
   </tr>
-  <tr style="height:200px">
-    <td style="width:48%; background-color:DodgerBlue;" align="right"><strong>Brain organoid</strong> &emsp; {% include icon.html icon="fa-solid fa-brain" %}</td>
-    <td style="width:48%; background-color:Orange;" align="left">{% include icon.html icon="fa-solid fa-vials" %} &emsp; <strong>Patient-induced pluripotent stem cell (iPSC)</strong></td>
+  <tr style="height:200px; vertical-align:top;">
+    <td style="width:48%; background-color:DodgerBlue;" align="right"><strong>Brain organoid</strong> <br> {% include icon.html icon="fa-solid fa-brain" %} &emsp; </td>
+    <td style="width:48%; background-color:Orange;" align="left"> &emsp; {% include icon.html icon="fa-solid fa-vials" %} <br> <strong>Patient-induced pluripotent stem cell (iPSC)</strong></td>
   </tr>
 </table>
 
