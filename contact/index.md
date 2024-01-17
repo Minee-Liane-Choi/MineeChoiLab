@@ -101,7 +101,7 @@ UK
 {% endcapture %}
 
 {% capture col3 %}
-<p style="font-size: 13px; color: --primary;">
+<p style="font-size: 13px; color: #0ea5e9;">
 The UCL Queen Square Institute of Neurology <br>
 Queen Square<br>
 London WC1N 3BG <br>
