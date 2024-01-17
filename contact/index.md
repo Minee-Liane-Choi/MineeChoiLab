@@ -97,10 +97,10 @@ UK <br>
 {% endcapture %}
 
 {% capture col3 %}
-The UCL Queen Square Institute of Neurology <br>
+<p>The UCL Queen Square Institute of Neurology <br>
 Queen Square<br>
 London WC1N 3BG <br>
-UK <br>
+UK <br></p>
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
