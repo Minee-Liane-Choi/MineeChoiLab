@@ -84,14 +84,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   
 </table>
 
-<figure>
-	<picture id="picture">
-		<source srcset="https://www.gstatic.com/webp/gallery/1.sm.webp" type="image/webp">
-		<source srcset="https://www.gstatic.com/webp/gallery/1.sm.jpg" type="image/jpeg"> 
-		<img loading="lazy" src="https://www.gstatic.com/webp/gallery/1.sm.jpg" alt="Alt Text!">
-	</picture>
-	<figcaption><strong>Image credit:</strong> <a href="https://developers.google.com/speed/webp/gallery1" target="_blank">WebP</a></figcaption>
-</figure>
+{% include figure.html image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42256-023-00702-9/MediaObjects/42256_2023_702_Fig6_HTML.png?as=webp" caption = "" link="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42256-023-00702-9/MediaObjects/42256_2023_702_Fig6_HTML.png?as=webp" %}
 
 {% include section.html dark=true size="80%" %}
 
