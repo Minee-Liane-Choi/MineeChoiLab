@@ -81,7 +81,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 
 {% include figure.html image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42256-023-00702-9/MediaObjects/42256_2023_702_Fig3_HTML.png?as=webp" caption = "A classifier trained on cell profiles of key organelles predicts disease states with 82% accuracy." link="https://www.nature.com/articles/s42256-023-00702-9/figures/3" %}
 
-{% include section.html dark=true size="80%" %}
+{% include section.html dark=false size="80%" %}
 
 ## {% include icon.html icon="fa-solid fa-photo-film" %}View Us at a Glance
 
