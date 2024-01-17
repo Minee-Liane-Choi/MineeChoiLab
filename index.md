@@ -84,6 +84,15 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   
 </table>
 
+<figure>
+	<picture id="picture">
+		<source srcset="https://www.gstatic.com/webp/gallery/1.sm.webp" type="image/webp">
+		<source srcset="https://www.gstatic.com/webp/gallery/1.sm.jpg" type="image/jpeg"> 
+		<img loading="lazy" src="https://www.gstatic.com/webp/gallery/1.sm.jpg" alt="Alt Text!">
+	</picture>
+	<figcaption><strong>Image credit:</strong> <a href="https://developers.google.com/speed/webp/gallery1" target="_blank">WebP</a></figcaption>
+</figure>
+
 {% include section.html dark=true size="80%" %}
 
 ## {% include icon.html icon="fa-solid fa-photo-film" %}View Us at a Glance
