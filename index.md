@@ -25,19 +25,19 @@ Our objective is <strong>to develop a bespoke therapeutic platform</strong> to a
 
 {% capture col1 %}
 
-{% include figure.html image="images/home/bbc.jpg" caption = "Animal brains vs. human brains - let the Battle of the Brains commence! (BBC)" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" %}
+{% include figure.html image="images/home/bbc.jpg" caption = "[BBC] Animal brains vs. human brains - let the Battle of the Brains commence!" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" %}
 
 {% endcapture %}
 
 {% capture col2 %}
 
-{% include figure.html image="images/home/lancet.jpg" caption = "Report finds no common cause for mystery brain disease (The Lancet)" link="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00473-1/fulltext" %}
+{% include figure.html image="images/home/lancet.jpg" caption = "[The Lancet] Report finds no common cause for mystery brain disease." link="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00473-1/fulltext" %}
 
 {% endcapture %}
 
 {% capture col3 %}
 
-{% include figure.html image="images/home/who.jpg" caption = "There is no cure for Parkinson disease, but therapies including medicines, surgery and rehabilitation can reduce symptoms (WHO)" link="https://www.who.int/news-room/fact-sheets/detail/parkinson-disease" %}
+{% include figure.html image="images/home/who.jpg" caption = "[WHO] There is no cure for Parkinson's disease, but therapies including medicines, surgery and rehabilitation can reduce symptoms." link="https://www.who.int/news-room/fact-sheets/detail/parkinson-disease" %}
 
 {% endcapture %}
 
@@ -86,7 +86,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 
 {% include figure.html image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42256-023-00702-9/MediaObjects/42256_2023_702_Fig2_HTML.png?as=webp" caption = "[How we do] Workflow to develop a classifier to make a prediction of cellular subtypes in PD" link="https://www.nature.com/articles/s42256-023-00702-9/figures/2" %}
 
-{% include figure.html image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42256-023-00702-9/MediaObjects/42256_2023_702_Fig3_HTML.png?as=webp" caption = "[How it's done] A classifier trained on cell profiles of key organelles predicts disease states with 82% accuracy" link="https://www.nature.com/articles/s42256-023-00702-9/figures/3" %}
+{% include figure.html image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42256-023-00702-9/MediaObjects/42256_2023_702_Fig3_HTML.png?as=webp" caption = "[How it's done] A classifier trained on cell profiles of key organelles predicts disease states with 82% accuracy." link="https://www.nature.com/articles/s42256-023-00702-9/figures/3" %}
 
 {% include section.html dark=true size="80%" %}
 
