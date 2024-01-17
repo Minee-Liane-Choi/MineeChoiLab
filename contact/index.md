@@ -41,7 +41,7 @@ South Korea
   link="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8"
 %}
 
-{% include section.html dark=true %}
+{% include section.html dark=false %}
 
 ## {% include icon.html icon="fa-solid fa-location-dot" %}Affiliations
 
