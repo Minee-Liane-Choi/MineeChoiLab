@@ -24,25 +24,18 @@ Our objective is <strong>to develop a bespoke therapeutic platform</strong> to a
 </ol>
 
 {% capture col1 %}
-
-{% include figure.html image="images/home/bbc.jpg" caption = "[BBC] Animal brains vs. human brains - let the Battle of the Brains commence!" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" %}
-
+  {% include figure.html image="images/home/bbc.jpg" caption = "[BBC] Animal brains vs. human brains - let the Battle of the Brains commence!" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" %}
 {% endcapture %}
 
 {% capture col2 %}
-
-{% include figure.html image="images/home/lancet.jpg" caption = "[The Lancet] Report finds no common cause for mystery brain disease." link="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00473-1/fulltext" %}
-
+  {% include figure.html image="images/home/lancet.jpg" caption = "[The Lancet] Report finds no common cause for mystery brain disease." link="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00473-1/fulltext" %}
 {% endcapture %}
 
 {% capture col3 %}
-
-{% include figure.html image="images/home/who.jpg" caption = "[WHO] There is no cure for Parkinson's disease, but therapies including medicines, surgery and rehabilitation can reduce symptoms." link="https://www.who.int/news-room/fact-sheets/detail/parkinson-disease" %}
-
+  {% include figure.html image="images/home/who.jpg" caption = "[WHO] There is no cure for Parkinson's disease, but therapies including medicines, surgery and rehabilitation can reduce symptoms." link="https://www.who.int/news-room/fact-sheets/detail/parkinson-disease" %}
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
-
 Our therapeutic platform is underpinned by four pivotal technological advances.
 
 <table style="width:100%">
