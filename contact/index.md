@@ -81,26 +81,32 @@ Minee is also affiliated with two research institutions in London, The Francis C
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 {% capture col1 %}
+<p style="font-size: 13px; color: #1e90ff;">
 Department of Brain & Cognitive Sciences <br>
 5F Meta Convergence building (W13) <br>
 Korea Advanced Institute of Science and Technology (KAIST) <br>
 291 Daehak-ro <br>
 Yuseong-gu, Daejeon <br>
-South Korea <br>
+South Korea
+</p>
 {% endcapture %}
 
 {% capture col2 %}
+<p style="font-size: 13px; color: #1e90ff;">
 The Francis Crick Institute <br>
 1 Midland Road <br>
 London NW1 1AT <br>
-UK <br>
+UK
+</p>
 {% endcapture %}
 
 {% capture col3 %}
-<p style="font-size: 13px; color: #1e90ff;">The UCL Queen Square Institute of Neurology <br>
+<p style="font-size: 13px; color: #1e90ff;">
+The UCL Queen Square Institute of Neurology <br>
 Queen Square<br>
 London WC1N 3BG <br>
-UK <br></p>
+UK
+</p>
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
