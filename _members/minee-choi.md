@@ -66,9 +66,4 @@ After obtaining BA and MMSc from Hanyang University, she was awarded Cambridge O
 
 Minee was awarded the Imogen Rose Prize 2010, a best PhD student award of the department of clinical neuroscience, University of Cambridge. The British Royal Society of Biology acknowledged her achievements in neurodegeneration and nominated her as a new full member in 2019. She represented the post-doctoral fellows of the British Neuroscience Association in the committeefor BNA 2021 conference (2021). She also joined the grant and fellowship committee of the Athena Swan at the Crick Institute (2019 - 2022), the British female scientist empowerment programme. She has been working for the Journal of Alzheimer's, Parkinsonism and Dementia as an editorial board member since 2016. <br>
 
-Minee's research aims to dissect cellular mechanisms of neurodegeneration and develop personalized therapeutic platforms for Alzheimer's and Parkinson's diseases. She extensively utilizes patient-derived pluripotent stem cell (hiPSC) and machine learning-based high-throughput drug screening system. <br>
-
-<strong>Major Fields</strong>
-- Human brain modelling for neurodegenerative diseases using human-induced pluripotent stem cells (hiPSCs) and organoids <br>
-- Cell and non-cell autonomous mechanism in neurodegeneration including protein aggregation, mitochondrial dysfunction and cell death <br>
-- AI-based drug screening <br>   
+Minee's research aims to dissect cellular mechanisms of neurodegeneration and develop personalized therapeutic platforms for Alzheimer's and Parkinson's diseases. She extensively utilizes patient-derived pluripotent stem cell (hiPSC) and machine learning-based high-throughput drug screening system.
