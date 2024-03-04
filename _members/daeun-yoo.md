@@ -1,5 +1,5 @@
 ---
-name: New Starter
+name: DaEun Yoo
 image: images/team/starter.jpg
 role: associate
 links:
