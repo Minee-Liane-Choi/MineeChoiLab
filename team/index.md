@@ -24,9 +24,7 @@ Team {{ site.team }} comprises individuals committed to liberty, diversity, equa
 {% include list.html data="members" component="portrait" filters="role: ms, group: " %}
 {% include list.html data="members" component="portrait" filters="role: associate, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
-{% include list.html data="members" component="portrait" filters="role: inter, group: " %}
 {% include list.html data="members" component="portrait" filters="role: admin, group: " %}
-
 
 
 {% include section.html background="images/wallpaper/john-maxwell.jpg" dark=true %}
@@ -36,7 +34,7 @@ Team {{ site.team }} comprises individuals committed to liberty, diversity, equa
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: collabo, group: " %}
+{% include list.html data="members" component="portrait" filters="role: inter, group: " %}
 
 
 {% include section.html background="images/wallpaper/issac-newton.jpg" dark=true %}
@@ -46,4 +44,5 @@ Team {{ site.team }} comprises individuals committed to liberty, diversity, equa
 
 {% include section.html %}
 
+{% include list.html data="members" component="portrait" filters="role: collabo, group: " %}
 {% include list.html data="members" component="portrait" filters="role: partner, group: " %}
