@@ -1,6 +1,6 @@
 ---
 name: DaEun Yoo
-image: images/team/starter.jpg
+image: images/team/daeun-yoo.jpg
 role: associate
 links:
   email:
@@ -12,7 +12,7 @@ links:
 
 {%
   include tags.html
-  tags="Drug addiction, Screening, hiPSC, Organoid"
+  tags="Parkinson's, Screening, hiPSC, Organoid"
   link="projects"
 %}
 
