@@ -14,4 +14,4 @@ links:
 
 <strong>Report To:</strong> EunJin Yang <br>
 
-<strong>Duration:</strong> 6 weeks starting from Jan 2024
+<strong>Duration:</strong> Jan - Feb, 2024
