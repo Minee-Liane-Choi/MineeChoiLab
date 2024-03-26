@@ -1,5 +1,5 @@
 ---
-name: Brhanemesqel Amen Woldesenbet
+name: Amen Woldesenbet
 image: images/team/student.jpg
 role: undergrad
 links:
@@ -14,4 +14,4 @@ links:
 
 <strong>Report To:</strong> Minee Choi <br>
 
-<strong>Duration:</strong> 6 weeks starting from Mar 2024
+<strong>Duration:</strong> Mar 2024 - Present
