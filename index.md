@@ -42,7 +42,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   <tr>
     <td style="background-color:#fcc200;"></td>
     <td style="background-color:#fcc200;"></td>
-    <td align="left"> test</td>
+    <td></td>
   </tr>
   
   <tr>
