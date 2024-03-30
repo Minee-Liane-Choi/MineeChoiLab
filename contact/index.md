@@ -45,7 +45,7 @@ South Korea
 
 ## {% include icon.html icon="fa-solid fa-location-dot" %}Affiliations
 
-The {{ site.title }} Lab is part of the Department of Brain and Cognitive Sciences (BCS) of KAIST. We are located at 5F Meta Convergence building (W13) on the main campus of KAIST.
+The {{ site.title }} Lab is part of the Department of Brain and Cognitive Sciences (BCS) of KAIST. We are located at 5F Meta Convergence building (W13) in the main campus of KAIST.
 Minee is also affiliated with two research institutions in London, The Francis Crick Institute and the UCL Queen Square Institute of Neurology, as an honorary fellow. 
 
 {% capture col1 %}
