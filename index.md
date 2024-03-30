@@ -60,11 +60,12 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
     <td></td>
   </tr>  
   <tr>
-    <td rowspan="2" style="background-color:#0070ff;"></td>
+    <td style="background-color:#0070ff;"></td>
     <td align="right"><strong>Brain organoid,</strong></td>
     <td rowspan="2" align="left">Often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments.</td>
   </tr>
   <tr style="height:130px">
+    <td></td>
     <td align="right">{% include icon.html icon="fa-solid fa-brain" %} &emsp; &emsp; </td>
   </tr>
 
@@ -74,11 +75,12 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
     <td></td>
   </tr>  
   <tr>
-    <td rowspan="2" style="background-color:#ff2800;"></td>
+    <td style="background-color:#ff2800;"></td>
     <td align="right"><strong>High-resolution live cell imaging,</strong></td>
     <td rowspan="2" align="left">A technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions.</td>
   </tr>
   <tr style="height:130px">
+    <td></td>
     <td align="right">{% include icon.html icon="fa-solid fa-photo-film" %} &emsp; &emsp; </td>
   </tr>
 
@@ -88,11 +90,12 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
     <td></td>
   </tr>  
   <tr>
-    <td rowspan="2" style="background-color:#8db600;"></td>
+    <td style="background-color:#8db600;"></td>
     <td align="right"><strong>Artificial intelligence (AI),</strong></td>
     <td rowspan="2" align="left">Harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.</td>
   </tr>
   <tr style="height:130px">
+    <td></td>
     <td align="right">{% include icon.html icon="fa-solid fa-share-nodes" %} &emsp; &emsp; </td>
   </tr>
   
