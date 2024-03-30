@@ -40,9 +40,9 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 
 <table style="width:100%">
   <tr>
-    <td rowspan="2" style="width:1%; background-color:#fcc200;"></td>
-    <td style="width:42%" align="right"><strong>Patient-induced pluripotent stem cell (iPSC),</strong></td>
-    <td rowspan="2" align="left">Facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.</td>
+    <td style="width:1%; background-color:#fcc200;"></td>
+    <td style="width:42%" align="right">test</td>
+    <td align="left"> test</td>
   </tr>
   <tr style="height:130px">
     <td align="right">{% include icon.html icon="fa-solid fa-vials" %} &emsp; &emsp; </td>
