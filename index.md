@@ -43,8 +43,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
     <td style="background-color:#fcc200;"></td>
     <td style="background-color:#fcc200;"></td>
     <td></td>
-  </tr>
-  
+  </tr>  
   <tr>
     <td rowspan="2" style="width:1%; background-color:#fcc200;"></td>
     <td style="width:42%" align="right"><strong>Patient-induced pluripotent stem cell (iPSC),</strong></td>
@@ -53,7 +52,12 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   <tr style="height:130px">
     <td align="right">{% include icon.html icon="fa-solid fa-vials" %} &emsp; &emsp; </td>
   </tr>
-  
+
+  <tr>
+    <td style="background-color:#0070ff;"></td>
+    <td style="background-color:#0070ff;"></td>
+    <td></td>
+  </tr>  
   <tr>
     <td rowspan="2" style="background-color:#0070ff;"></td>
     <td align="right"><strong>Brain organoid,</strong></td>
@@ -62,7 +66,12 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   <tr style="height:130px">
     <td align="right">{% include icon.html icon="fa-solid fa-brain" %} &emsp; &emsp; </td>
   </tr>
-  
+
+  <tr>
+    <td style="background-color:#ff2800;"></td>
+    <td style="background-color:#ff2800;"></td>
+    <td></td>
+  </tr>  
   <tr>
     <td rowspan="2" style="background-color:#ff2800;"></td>
     <td align="right"><strong>High-resolution live cell imaging,</strong></td>
@@ -71,7 +80,12 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   <tr style="height:130px">
     <td align="right">{% include icon.html icon="fa-solid fa-photo-film" %} &emsp; &emsp; </td>
   </tr>
-  
+
+  <tr>
+    <td style="background-color:#8db600;"></td>
+    <td style="background-color:#8db600;"></td>
+    <td></td>
+  </tr>  
   <tr>
     <td rowspan="2" style="background-color:#8db600;"></td>
     <td align="right"><strong>Artificial intelligence (AI),</strong></td>
