@@ -1,5 +1,5 @@
 ---
-name: Sir David Klenerman
+name: David Klenerman
 image: images/collaborator/david-klenerman.jpg
 role: collabo
 links:
