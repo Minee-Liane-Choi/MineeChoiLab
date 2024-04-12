@@ -3,7 +3,7 @@ name: Andrey Y. Abramov
 image: images/collaborator/andrey-abramov.jpg
 role: collabo
 links:
-  email: https://www.ucl.ac.uk/ion/research/our-departments/clinical-and-movement-neurosciences/centres-and-projects/andrey-y-abramov
+  email: a.abramov@ucl.ac.uk
   orcid:
   google-scholar:
   research-gate:
