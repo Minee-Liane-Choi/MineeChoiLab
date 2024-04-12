@@ -3,7 +3,7 @@ name: Sonia Gandhi
 image: images/collaborator/sonia-gandhi.jpg
 role: collabo
 links:
-  email: https://www.crick.ac.uk/research/labs/sonia-gandhi
+  email: sonia.gandhi@crick.ac.uk
   orcid:
   google-scholar:
   research-gate:
