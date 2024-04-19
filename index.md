@@ -50,17 +50,17 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   
   <tr>
     <td style="background-color:#fcc200;"></td><td style="background-color:#0070ff;"></td><td style="background-color:#ff2800;"></td><td style="background-color:#8db600;"></td>
-	<td></td>
+	<td></td><td></td>
   </tr>
   
   <tr>
     <td style="background-color:#fcc200;"></td><td style="background-color:#0070ff;"></td><td style="background-color:#ff2800;"></td><td style="background-color:#8db600;"></td>
-    <td></td>
+    <td></td><td></td>
   </tr>
   
   <tr>
     <td style="background-color:#fcc200;"></td><td style="background-color:#0070ff;"></td><td style="background-color:#ff2800;"></td><td style="background-color:#8db600;"></td>
-    <td></td>
+    <td></td><td></td>
   </tr>  
 </table>
 
