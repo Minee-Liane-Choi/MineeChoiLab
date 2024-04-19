@@ -41,26 +41,26 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 <table style="width:100%">
   <tr>
     <td style="background-color:#fcc200;"></td><td style="background-color:#0070ff;"></td><td style="background-color:#ff2800;"></td><td style="background-color:#8db600;"></td>
-    <td></td><td></td>
+    <td></td>
   </tr>
   <tr>
-    <td rowspan="2" style="width:42%" align="right"><strong>Patient-induced pluripotent stem cell (iPSC),</strong></td>
+    <td colspan="4" style="width:42%" align="right"><strong>Patient-induced pluripotent stem cell (iPSC),</strong></td>
     <td rowspan="2" align="left">Facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.</td>
   </tr>
   
   <tr>
     <td style="background-color:#fcc200;"></td><td style="background-color:#0070ff;"></td><td style="background-color:#ff2800;"></td><td style="background-color:#8db600;"></td>
-	<td></td><td></td>
+	<td></td>
   </tr>
   
   <tr>
     <td style="background-color:#fcc200;"></td><td style="background-color:#0070ff;"></td><td style="background-color:#ff2800;"></td><td style="background-color:#8db600;"></td>
-    <td></td><td></td>
+    <td></td>
   </tr>
   
   <tr>
     <td style="background-color:#fcc200;"></td><td style="background-color:#0070ff;"></td><td style="background-color:#ff2800;"></td><td style="background-color:#8db600;"></td>
-    <td></td><td></td>
+    <td></td>
   </tr>  
 </table>
 
