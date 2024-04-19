@@ -39,52 +39,25 @@ Our objective is <strong>to develop a bespoke therapeutic platform</strong> to a
 Our therapeutic platform is underpinned by four pivotal technological advances.
 
 <table style="width:100%">
+
   <tr>
     <td style="background-color:#fcc200;"></td><td></td><td></td><td></td>
-    <td></td>
-  </tr>  
-  <tr>
-    <td rowspan="4" style="width:42%" align="right"><strong>Patient-induced pluripotent stem cell (iPSC),</strong></td>
-    <td rowspan="2" align="left">Facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.</td>
-  </tr>  
-  <tr style="height:130px">
-    <td rowspan="4" align="right">{% include icon.html icon="fa-solid fa-vials" %} &emsp; &emsp; </td>
+	<td></td>
   </tr>
-
+  
   <tr>
     <td style="background-color:#fcc200;"><td style="background-color:#0070ff;"></td><td></td><td></td>
-    <td></td>
-  </tr>  
-  <tr>
-    <td rowspan="4" align="right"><strong>Brain organoid,</strong></td>
-    <td rowspan="2" align="left">Often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments.</td>
+	<td></td>
   </tr>
-  <tr style="height:130px">
-    <td rowspan="4" align="right">{% include icon.html icon="fa-solid fa-brain" %} &emsp; &emsp; </td>
-  </tr>
-
+  
   <tr>
     <td style="background-color:#fcc200;"><td style="background-color:#0070ff;"><td style="background-color:#ff2800;"></td><td></td>
     <td></td>
-  </tr>  
-  <tr>
-    <td rowspan="4" align="right"><strong>High-resolution live cell imaging,</strong></td>
-    <td rowspan="2" align="left">A technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions.</td>
   </tr>
-  <tr style="height:130px">
-    <td rowspan="4" align="right">{% include icon.html icon="fa-solid fa-photo-film" %} &emsp; &emsp; </td>
-  </tr>
-
+  
   <tr>
     <td style="background-color:#fcc200;"><td style="background-color:#0070ff;"><td style="background-color:#ff2800;"><td style="background-color:#8db600;"></td>
     <td></td>
-  </tr>  
-  <tr>
-    <td rowspan="4" align="right"><strong>Artificial intelligence (AI),</strong></td>
-    <td rowspan="2" align="left">Harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.</td>
-  </tr>
-  <tr style="height:130px">
-    <td rowspan="4" align="right">{% include icon.html icon="fa-solid fa-share-nodes" %} &emsp; &emsp; </td>
   </tr>
   
 </table>
