@@ -38,6 +38,7 @@ Our objective is <strong>to develop a bespoke therapeutic platform</strong> to a
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
 Our therapeutic platform is underpinned by four pivotal technological advances.
 
+
 <table style="width:100%">
   <tr>
     <td style="background-color:#fcc200;"></td><td></td><td></td><td></td><td></td>
@@ -86,7 +87,6 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
     <td colspan="4" align="right">{% include icon.html icon="fa-solid fa-share-nodes" %} &emsp; &emsp; </td>
   </tr>
 </table>
-
 
 {% include figure.html image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42256-023-00702-9/MediaObjects/42256_2023_702_Fig2_HTML.png?as=webp" caption = "Workflow to develop a classifier to make a prediction of cellular subtypes in PD" link="https://www.nature.com/articles/s42256-023-00702-9/figures/2" %}
 
