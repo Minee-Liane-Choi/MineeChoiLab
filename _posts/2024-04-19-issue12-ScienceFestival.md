@@ -10,10 +10,4 @@ The Korea Science Festival is an annual event aimed at promoting science and tec
 
 For more information, including event dates and details, you can visit the official Korea Science Festival website or look for announcements on related educational and science websites in Korea.
 
-https://www.scienceall.com/sciencefestival2024
-
-{% include figure.html image="images/post/issue7/prize.jpg" caption="Q-Day" width="560px" %}
-
-{% include figure.html image="images/post/issue7/soren lorensen.jpg" caption="Soren Lorensen, Lola's imaginary friend" width="560px" %}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1iFBKTmApck?si=6Qn0mkcsHJrL0eUy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include figure.html image="images/post/issue12/KSF2024.jpg" link="https://www.scienceall.com/sciencefestival2024" %}
