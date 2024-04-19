@@ -1,0 +1,13 @@
+---
+title: KAIST Q-Day
+author: soren-lorenson
+tags: Prize
+---
+
+Minee received the KAIST Q-Day prize in recognition of her dedication to crafting creative teaching methodologies through generative AI.
+
+{% include figure.html image="images/post/issue7/prize.jpg" caption="Q-Day" width="560px" %}
+
+{% include figure.html image="images/post/issue7/soren lorensen.jpg" caption="Soren Lorensen, Lola's imaginary friend" width="560px" %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1iFBKTmApck?si=6Qn0mkcsHJrL0eUy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
