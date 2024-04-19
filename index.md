@@ -40,7 +40,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 
 <table style="width:100%">
   <tr>
-    <td style="background-color:#fcc200;"></td><td style="background-color:#0070ff;"></td><td style="background-color:#ff2800;"></td><td style="background-color:#8db600;"></td>
+    <td style="background-color:#fcc200;"></td><td style="background-color:#0070ff;"></td><td style="background-color:#ff2800;"></td><td style="background-color:#8db600;"></td><td></td>
   </tr>
   <tr>
     <td colspan="4" style="width:42%" align="right"><strong>Patient-induced pluripotent stem cell (iPSC),</strong></td>
