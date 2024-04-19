@@ -1,7 +1,7 @@
 ---
-title: KAIST Q-Day
+title: 2024 Korea Science Festival
 author: soren-lorenson
-tags: Prize
+tags: BRePair
 ---
 
 Minee received the KAIST Q-Day prize in recognition of her dedication to crafting creative teaching methodologies through generative AI.
