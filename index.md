@@ -13,13 +13,6 @@ carousels:
 The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making brain diseases more curable than yesterday. The primary aspiration of this endeavor is to foster a more profound understanding of the molecular and cellular origins of <strong>Neuro-Degenerative, -Psychological & -Developmental diseases & disorders</strong>, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
 <br>
 
-<video id="background-video" autoplay loop muted poster="https://assets.codepen.io/6093409/river.jpg">
-  <source src="https://assets.codepen.io/6093409/river.mp4" type="video/mp4">
-</video>
-
-<h1>THIS IS A RIVER.</h1>
-<h2>How majestic.</h2>
-
 Our objective is <strong>to develop a bespoke therapeutic platform</strong> to address three major challenges associated with human brain diseases.
 
 <ol>
