@@ -21,7 +21,7 @@ links:
 
 {%
   include tags.html
-  tags="Parkinson's, Autism, Drug addiction, Alzheimer's, Lewy body dementia, AI, Drug discovery, Screening, hiPSC, Organoid, Mitochondria, Protein misfolding, Cell death"
+  tags="Parkinson's, Alzheimer's, Lewy body dementia, Autism, Drug addiction, AI, Drug discovery, Screening, hiPSC, Organoid, Mitochondria, Protein misfolding, Cell death"
   link="projects"
 %}
 
