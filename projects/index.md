@@ -11,7 +11,7 @@ Our research portfolio encompasses a diverse array of subjects, ranging from neu
 
 {% include search-box.html %}
 
-{% include tags.html tags="Parkinson's, Autism, Drug addiction, Alzheimer's, Lewy body dementia, AI, Drug discovery, Screening, hiPSC, Organoid, Mitochondria, Protein misfolding, Cell death" %}
+{% include tags.html tags="Parkinson's, Alzheimer's, Lewy body dementia, Autism, Drug addiction, AI, Drug discovery, Screening, hiPSC, Organoid, Mitochondria, Protein misfolding, Cell death" %}
 
 {% include search-info.html %}
 
