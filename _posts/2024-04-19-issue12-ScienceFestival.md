@@ -1,7 +1,7 @@
 ---
 title: Korea Science Festival 2024
 author: soren-lorenson
-tags: BRePair
+tags: BRePAIR
 ---
 
 Team {{ site.team }} will be participating in the Korea Science Festival 2024 to present our research works to the public.
