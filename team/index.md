@@ -24,7 +24,7 @@ Team {{ site.team }} comprises individuals committed to liberty, diversity, equa
 {% include list.html data="members" component="portrait" filters="role: ms, group: " %}
 {% include list.html data="members" component="portrait" filters="role: associate, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
-{% include list.html data="members" component="portrait" filters="role: inter, group: " %}
+{% include list.html data="members" component="portrait" filters="role: intern, group: " %}
 {% include list.html data="members" component="portrait" filters="role: admin, group: " %}
 
 
@@ -40,7 +40,7 @@ Team {{ site.team }} comprises individuals committed to liberty, diversity, equa
 {% include list.html data="members" component="portrait" filters="role: ms_alumni, group: " %}
 {% include list.html data="members" component="portrait" filters="role: associate_alumni, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrad_alumni, group: " %}
-{% include list.html data="members" component="portrait" filters="role: inter_alumni, group: " %}
+{% include list.html data="members" component="portrait" filters="role: intern_alumni, group: " %}
 {% include list.html data="members" component="portrait" filters="role: admin_alumni, group: " %}
 
 
