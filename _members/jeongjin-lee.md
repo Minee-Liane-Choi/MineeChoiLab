@@ -1,7 +1,7 @@
 ---
 name: JeongJin Lee
 image: images/team/student.jpg
-role: intern_alumni
+role: ex-intern
 links:
   email:
   orcid:
