@@ -1,7 +1,7 @@
 ---
 name: New Starter
 image: images/team/student.jpg
-role: intern
+role: phd_alumni
 links:
   email:
   orcid:
