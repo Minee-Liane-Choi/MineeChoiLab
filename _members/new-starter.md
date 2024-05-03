@@ -12,6 +12,6 @@ links:
 
 <strong>Project:</strong> TBC <br>
 
-<strong>Report To:</strong> Daeun Yoo <br>
+<strong>Report To:</strong> DaEun Yoo <br>
 
 <strong>Duration:</strong> May - July, 2024
