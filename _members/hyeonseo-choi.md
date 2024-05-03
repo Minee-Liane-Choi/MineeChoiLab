@@ -1,7 +1,7 @@
 ---
 name: HyeonSeo Choi
 image: images/team/student.jpg
-role: intern_alumni
+role: ex-intern
 links:
   email:
   orcid:
