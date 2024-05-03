@@ -35,12 +35,12 @@ Team {{ site.team }} comprises individuals committed to liberty, diversity, equa
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: postdoc_alumni, group: " %}
-{% include list.html data="members" component="portrait" filters="role: phd_alumni, group: " %}
-{% include list.html data="members" component="portrait" filters="role: ms_alumni, group: " %}
-{% include list.html data="members" component="portrait" filters="role: associate_alumni, group: " %}
-{% include list.html data="members" component="portrait" filters="role: undergrad_alumni, group: " %}
-{% include list.html data="members" component="portrait" filters="role: intern_alumni, group: " %}
+{% include list.html data="members" component="portrait" filters="role: ex-postdoc, group: " %}
+{% include list.html data="members" component="portrait" filters="role: ex-phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: ex-ms, group: " %}
+{% include list.html data="members" component="portrait" filters="role: ex-associate, group: " %}
+{% include list.html data="members" component="portrait" filters="role: ex-undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: ex-intern, group: " %}
 
 
 {% include section.html background="images/wallpaper/issac-newton.jpg" dark=true %}
