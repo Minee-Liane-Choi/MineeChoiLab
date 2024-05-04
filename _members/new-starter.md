@@ -1,7 +1,7 @@
 ---
 name: New Starter
 image: images/team/student.jpg
-role: intern
+role: associate
 links:
   email:
   orcid:
@@ -12,6 +12,6 @@ links:
 
 <strong>Project:</strong> TBC <br>
 
-<strong>Report To:</strong> DaEun Yoo <br>
+<strong>Report To:</strong> Minee Choi <br>
 
 <strong>Duration:</strong> May - July, 2024
