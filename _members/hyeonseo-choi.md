@@ -1,7 +1,7 @@
 ---
 name: HyeonSeo Choi
 image: images/team/student.jpg
-role: xinter
+role: interx
 links:
   email:
   orcid:
