@@ -18,39 +18,39 @@ phd:
   icon: fa-solid fa-user-graduate
   description: PhD Student
 
-ex-phd:
+xphd:
   icon: fa-solid fa-user-graduate
-  description: PhD Student
+  description: Former PhD Student
   
 ms:
   icon: fa-solid fa-user-graduate
   description: MS Student
 
-ex-ms:
+xms:
   icon: fa-solid fa-user-graduate
-  description: MS Student
+  description: Former MS Student
 
 undergrad:
   icon: fa-solid fa-user-pen
   description: Undergraduate Student
 
-ex-undergrad:
+xundergrad:
   icon: fa-solid fa-user-pen
-  description: Undergraduate Student
+  description: Former Undergraduate Student
 
 associate:
   icon: fa-solid fa-user-ninja
   description: Research Associate
 
-ex-associate:
+xassociate:
   icon: fa-solid fa-user-ninja
-  description: Research Associate
+  description: Former Research Associate
 
 intern:
   icon: fa-solid fa-person-walking-luggage
   description: Internship Student
 
-ex:
+xintern:
   icon: fa-solid fa-person-walking-luggage
   description: Former Internship Student
 
