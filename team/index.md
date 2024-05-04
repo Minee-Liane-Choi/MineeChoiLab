@@ -40,7 +40,7 @@ Team {{ site.team }} comprises individuals committed to liberty, diversity, equa
 {% include list.html data="members" component="portrait" filters="role: xms, group: " %}
 {% include list.html data="members" component="portrait" filters="role: xassociate, group: " %}
 {% include list.html data="members" component="portrait" filters="role: xundergrad, group: " %}
-{% include list.html data="members" component="portrait" filters="role: xintern, group: " %}
+{% include list.html data="members" component="portrait" filters="role: intern, group: " %}
 
 
 {% include section.html background="images/wallpaper/issac-newton.jpg" dark=true %}
