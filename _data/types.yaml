@@ -10,7 +10,7 @@ postdoc:
   icon: fa-solid fa-user-astronaut
   description: Postdoctoral Researcher
 
-ex-postdoc:
+postdox:
   icon: fa-solid fa-user-astronaut
   description: Postdoctoral Researcher
 
@@ -18,7 +18,7 @@ phd:
   icon: fa-solid fa-user-graduate
   description: PhD Student
 
-xphd:
+phx:
   icon: fa-solid fa-user-graduate
   description: Former PhD Student
   
@@ -34,7 +34,7 @@ undergrad:
   icon: fa-solid fa-user-pen
   description: Undergraduate Student
 
-xundergrad:
+undergrax:
   icon: fa-solid fa-user-pen
   description: Former Undergraduate Student
 
@@ -42,7 +42,7 @@ associate:
   icon: fa-solid fa-user-ninja
   description: Research Associate
 
-xassociate:
+associatx:
   icon: fa-solid fa-user-ninja
   description: Former Research Associate
 
@@ -50,7 +50,7 @@ intern:
   icon: fa-solid fa-person-walking-luggage
   description: Internship Student
 
-xinter:
+interx:
   icon: fa-solid fa-person-walking-luggage
   description: Former Internship Student
 
