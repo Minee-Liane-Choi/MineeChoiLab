@@ -12,6 +12,8 @@ Formosa Group, a leading Taiwanese conglomerate, primarily operates in the chemi
 
 <a href="https://www.kaist.ac.kr/news/html/news/?mode=V&mng_no=36690&skey=keyword&sval=%ED%98%91%EB%A0%A5&list_s_date=&list_e_date=&GotoPage=1"> KAIST, 대만 포모사그룹과 본격적인 협력 시작하다​ </a>
 
+<a href="https://www.mk.co.kr/news/it/11017135"> 대만 포모사그룹, 파킨슨 유전자치료제 개발 위해 KAIST 벤처에 투자​ </a>
+
 <iframe width="560" height="315" src="https://youtu.be/qV_4sJSkz3U?si=hAUf608uDJdm2W51" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {% include figure.html image="images/post/issue14/1.jpg" caption="FORMOSA Visit" width="560px" %}
