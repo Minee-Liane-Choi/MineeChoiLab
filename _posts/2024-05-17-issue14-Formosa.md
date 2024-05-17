@@ -6,7 +6,7 @@ tags: BRePair
 
 Her Excellency Sandy Wang, the Chairman of Formosa Group, along with executives from Formosa, made an official visit to KAIST BCS.
 
-On May 13, 2024, KAIST and Formosa agreed to establish mid- to long-term collaborations focusing on stem cell and gene-editing technologies, in partnership with Chang Gung University and Chang Gung Memorial Hospital. The {{ site.title }} lab will take part in the joint research program between KAIST and Formosa.
+On May 13, 2024, KAIST and Formosa agreed to establish mid- to long-term collaborations focusing on stem cell and gene-editing technologies, in partnership with Chang Gung University and Chang Gung Memorial Hospital. The {{ site.title }} lab will take part in the joint R&D programme between KAIST and Formosa.
 
 Formosa Group, a leading Taiwanese conglomerate, primarily operates in the chemical industry but has expanded its interests to include biotechnology, electronics, and healthcare. Established in 1954 by Wang Yung-ching and his brother Wang Yung-tsai, the group has since become one of the world's largest conglomerates and a top global producer of polyvinyl chloride (PVC).
 
