@@ -13,5 +13,3 @@ links:
 <strong>Project:</strong> TBC <br>
 
 <strong>Report To:</strong> Minee Choi <br>
-
-<strong>Duration:</strong> May - July, 2024
