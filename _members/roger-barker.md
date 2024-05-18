@@ -1,7 +1,9 @@
 ---
-name: Roger A. Barker
+name: Roger Barker
 image: images/collaborator/roger-barker.jpg
 role: collabo
+aliases:
+  - Roger A. Barker
 links:
   email: rab46@cam.ac.uk
   orcid:
