@@ -14,4 +14,4 @@ Roger Barker is the Professor of Clinical Neuroscience and Honorary Consultant i
 
 Roger combines basic research looking at novel therapies to treat chronic neurodegenerative disorders of the brain with clinically-based work aimed at better defining such disorders. He co-ordinated the TRANSEURO project looking at fetal cell grafting in patients with early Parkinson's Disease (PD) and is now leading a new stem cell trial in PD, STEM-PD. He is a Director of the ISSCR and is the Lead Academic Scientist on the ADDI in Cambridge.
 
-Click <a href="http://www.thebarkerwilliamsgraylab.co.uk/"> here</a>  to move to the Roger's Lab.
+Click <a href="https://ccpp.cam.ac.uk/directory/Barker"> here</a>  to move to the Roger's Lab.
