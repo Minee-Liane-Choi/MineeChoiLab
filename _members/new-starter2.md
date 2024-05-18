@@ -1,0 +1,17 @@
+---
+name: New Starter2
+image: images/team/starter.jpg
+role: associate
+links:
+  email:
+  orcid:
+  google-scholar:
+  research-gate:
+  github:
+---
+
+<strong>Project:</strong> TBC <br>
+
+<strong>Report To:</strong> Minee Choi <br>
+
+<strong>Duration:</strong> May - July, 2024
