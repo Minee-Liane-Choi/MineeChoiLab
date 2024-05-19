@@ -12,13 +12,3 @@ For more information, including event dates and details, you can visit the offic
 
 {% include figure.html image="images/post/issue12/KSF2024.jpg" link="https://www.scienceall.com/sciencefestival2024" %}
 
-<div class="images">&times;
-<imgview src="https://www.w3schools.com/howto/img_fjords.jpg" alt="" width="300" height="200">
-  <imgview src="https://www.w3schools.com/howto/img_fjords.jpg" alt="" width="300" height="200">
-  <imgview src="https://www.w3schools.com/howto/img_fjords.jpg" alt="" width="300" height="200">
-</div>
-
-<div id="image-viewer">
-  <span class="close">&times;</span>
-  <img class="modal-content" id="full-image">
-</div>
