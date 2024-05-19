@@ -12,3 +12,4 @@ For more information, including event dates and details, you can visit the offic
 
 {% include figure.html image="images/post/issue12/KSF2024.jpg" link="https://www.scienceall.com/sciencefestival2024" %}
 
+<a href="https://news.kaist.ac.kr/news/html/news/?mode=V&mng_no=36411"> KAIST 첨단 연구의 체험·전시·제품을 짜릿하게 만나다​ </a>
