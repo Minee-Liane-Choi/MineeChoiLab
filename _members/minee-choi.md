@@ -29,13 +29,13 @@ links:
 
 <table>
   <tr style="font-size: 12px;">
-    <td>2023-Present</td>
-    <td align="Left"><strong>Assistant Professor</strong>, Department of Brain and Cognitive Sciences, KAIST, South Korea</td>
-  </tr>
-  <tr style="font-size: 12px;">
     <td>2024-Present</td>
     <td align="Left"><strong>Adjunct Professor</strong>, Chang Gung University & Chang Gung Memorial Hospital, Taiwan</td>
   </tr>
+  <tr style="font-size: 12px;">
+    <td>2023-Present</td>
+    <td align="Left"><strong>Assistant Professor</strong>, Department of Brain and Cognitive Sciences, KAIST, South Korea</td>
+  </tr>  
   <tr style="font-size: 12px; background-color:LightGray;">
     <td>2023-Present</td>
     <td align="Left"><strong>Honorary Fellow</strong>, The Francis Crick Institute, UK</td>
