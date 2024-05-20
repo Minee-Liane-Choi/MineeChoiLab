@@ -47,9 +47,3 @@ Formosa Group, a leading Taiwanese conglomerate, primarily operates in the chemi
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
-
-{% capture content %}
-
-{% endcapture %}
-
-{% include imgviewer.html %}
