@@ -22,9 +22,9 @@ Formosa Group, a leading Taiwanese conglomerate, primarily operates in the chemi
 
 
 <div class="images">&times;
-<img src="https://www.w3schools.com/howto/img_fjords.jpg" alt="" width="300" height="200">
-  <img src="https://www.w3schools.com/howto/img_fjords.jpg" alt="" width="300" height="200">
-  <img src="https://www.w3schools.com/howto/img_fjords.jpg" alt="" width="300" height="200">
+  <imgvr src="https://www.w3schools.com/howto/img_fjords.jpg" alt="" width="300" height="200">
+  <imgvr src="https://www.w3schools.com/howto/img_fjords.jpg" alt="" width="300" height="200">
+  <imgvr src="https://www.w3schools.com/howto/img_fjords.jpg" alt="" width="300" height="200">
 </div>
 
 <div id="image-viewer">
