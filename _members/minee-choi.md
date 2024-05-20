@@ -28,7 +28,7 @@ links:
 <strong>Professional History</strong>
 
 <table>
-  <tr style="font-size: 12px;">
+  <tr style="font-size: 12px; background-color:LightGray;">
     <td>2024-Present</td>
     <td align="Left"><strong>Adjunct Professor</strong>, Chang Gung University & Chang Gung Memorial Hospital, Taiwan</td>
   </tr>
