@@ -61,10 +61,10 @@
 
   <meta name="author" content="soren-lorenson">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2024-05-20T11:44:35+00:00">
+  <meta property="og:updated_time" content="2024-05-20T11:53:43+00:00">
   <meta property="article:published_time" content="2024-05-17T00:00:00+00:00">
-  <meta property="article:modified_time" content="2024-05-20T11:44:35+00:00">
-  <meta name="revised" content="2024-05-20T11:44:35+00:00">
+  <meta property="article:modified_time" content="2024-05-20T11:53:43+00:00">
+  <meta name="revised" content="2024-05-20T11:53:43+00:00">
 
 
 <script type="application/ld+json">
@@ -74,7 +74,7 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "KAIST-Formosa Partnership" },
       "datePublished": "2024-05-17T00:00:00+00:00",
-      "dateModified": "2024-05-20T11:44:35+00:00",
+      "dateModified": "2024-05-20T11:53:43+00:00",
     
     "name": "KAIST-Formosa Partnership",
     "description": "KAIST Brain Repair Lab",
@@ -348,8 +348,6 @@
 
   <script src="/_scripts/fetch-tags.js"></script>
 
-  <script src="/_scripts/imgviewer.js"></script>
-
   <script src="/_scripts/search.js"></script>
 
   <script src="/_scripts/site-search.js"></script>
@@ -574,110 +572,33 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qV_4sJSkz3U?si=hAUf608uDJdm2W51" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
-
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  font-family: Arial;
-}
-
-/* The grid: Four equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 25%;
-  padding: 10px;
-}
-
-/* Style the images inside the grid */
-.column img {
-  opacity: 0.8; 
-  cursor: pointer; 
-}
-
-.column img:hover {
-  opacity: 1;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* The expanding image container */
-.container {
-  position: relative;
-  display: none;
-}
-
-/* Expanding image text */
-#imgtext {
-  position: absolute;
-  bottom: 15px;
-  left: 15px;
-  color: white;
-  font-size: 20px;
-}
-
-/* Closable button inside the expanded image */
-.closebtn {
-  position: absolute;
-  top: 10px;
-  right: 15px;
-  color: white;
-  font-size: 35px;
-  cursor: pointer;
-}
-</style>
-
-
-
-<div style="text-align:center">
-  <h2>Tabbed Image Gallery</h2>
-  <p>Click on the images below:</p>
+<div class="gallery">
+  <a target="_blank" href="images/post/issue14/Formosa1.jpg">
+    <img src="images/post/issue14/Formosa1.jpg" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
 </div>
 
-<!-- The four columns -->
-<div class="row">
-  <div class="column">
-    <img src="Formosa1.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
-  </div>
-  <div class="column">
-    <img src="Formosa1.jpg" alt="Snow" style="width:100%" onclick="myFunction(this);">
-  </div>
-  <div class="column">
-    <img src="Formosa1.jpg" alt="Mountains" style="width:100%" onclick="myFunction(this);">
-  </div>
-  <div class="column">
-    <img src="Formosa1.jpg" alt="Lights" style="width:100%" onclick="myFunction(this);">
-  </div>
+<div class="gallery">
+  <a target="_blank" href="images/post/issue14/Formosa1.jpg">
+    <img src="images/post/issue14/Formosa1.jpg" alt="Forest" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
 </div>
 
-<div class="container">
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">×</span>
-  <img id="expandedImg" style="width:100%">
-  <div id="imgtext"></div>
+<div class="gallery">
+  <a target="_blank" href="images/post/issue14/Formosa1.jpg">
+    <img src="images/post/issue14/Formosa1.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
 </div>
 
-<script>
-function myFunction(imgs) {
-  var expandImg = document.getElementById("expandedImg");
-  var imgText = document.getElementById("imgtext");
-  expandImg.src = imgs.src;
-  imgText.innerHTML = imgs.alt;
-  expandImg.parentElement.style.display = "block";
-}
-</script>
-
-
-
+<div class="gallery">
+  <a target="_blank" href="images/post/issue14/Formosa1.jpg">
+    <img src="images/post/issue14/Formosa1.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
   </section>
 
   
