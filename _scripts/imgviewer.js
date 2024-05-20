@@ -1,7 +1,8 @@
-function myFunction(imgs) {
-  var expandImg = document.getElementById("expandedImg");
-  var imgText = document.getElementById("imgtext");
-  expandImg.src = imgs.src;
-  imgText.innerHTML = imgs.alt;
-  expandImg.parentElement.style.display = "block";
-}
+$(".images img").click(function(){
+  $("#full-image").attr("src", $(this).attr("src"));
+  $('#image-viewer').show();
+});
+
+$("#image-viewer .close").click(function(){
+  $('#image-viewer').hide();
+});
