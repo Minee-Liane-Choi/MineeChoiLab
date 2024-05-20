@@ -6,7 +6,7 @@ tags: BRePAIR
 
 Team {{ site.team }} participated in the Korea Science Festival 2024 to present our research works to the public.
 
-{% include figure.html image="images/post/issue12/ScienceFest1.jpg" caption="Prof. HyeonJeong Suk (Nub-Ju-Gi's mum), Nub-Ju-Gi (A monster of grad student's epic grudge), and Prof. JaeKyoung Kim (Dr. Sleep)" width="560px" %}
+{% include figure.html image="images/post/issue12/ScienceFest1.jpg" caption="Prof. HyeonJeong Suk (Nub-Ju-Gi's mum), Nub-Ju-Gi (The monster of KAIST grad student's epic grudge), and Prof. JaeKyoung Kim (Dr. Sleep)" width="560px" %}
 
 {% include figure.html image="images/post/issue12/ScienceFest2.jpg" caption="Team BRePAIR" width="560px" %}
 
