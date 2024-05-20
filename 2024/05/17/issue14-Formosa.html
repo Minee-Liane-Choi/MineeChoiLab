@@ -61,10 +61,10 @@
 
   <meta name="author" content="soren-lorenson">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2024-05-20T13:03:11+00:00">
+  <meta property="og:updated_time" content="2024-05-20T13:04:10+00:00">
   <meta property="article:published_time" content="2024-05-17T00:00:00+00:00">
-  <meta property="article:modified_time" content="2024-05-20T13:03:11+00:00">
-  <meta name="revised" content="2024-05-20T13:03:11+00:00">
+  <meta property="article:modified_time" content="2024-05-20T13:04:10+00:00">
+  <meta name="revised" content="2024-05-20T13:04:10+00:00">
 
 
 <script type="application/ld+json">
@@ -74,7 +74,7 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "KAIST-Formosa Partnership" },
       "datePublished": "2024-05-17T00:00:00+00:00",
-      "dateModified": "2024-05-20T13:03:11+00:00",
+      "dateModified": "2024-05-20T13:04:10+00:00",
     
     "name": "KAIST-Formosa Partnership",
     "description": "KAIST Brain Repair Lab",
@@ -572,43 +572,75 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qV_4sJSkz3U?si=hAUf608uDJdm2W51" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="images/post/issue14/Formosa1.jpg">
-      <img src="images/post/issue14/Formosa1.jpg" alt="Cinque Terre">
-    </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
 
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img_forest.jpg">
-      <img src="img_forest.jpg" alt="Forest">
-    </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
 
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img_lights.jpg">
-      <img src="img_lights.jpg" alt="Northern Lights">
-    </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
+<style>
+   .image-gallery {
+      display: flex;
+      justify-content: space-between;
+      float: center;
+   }
+   .image-container { 
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 25%;
+      height: 250px;
+      left: 0;
+      top: 0;
+   }
+   .image-container img {
+      width: 200px;
+      height: 150px;
+      cursor: pointer; 
+   }
+   .gallery-tab {
+      display: none;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+   }
+   .tab-content {
+      margin: auto;
+      display: block;
+      width: 80%;
+      height: 80%;
+   }
+   .tab-content img {
+      width: 100%;
+      height: auto;
+   }
+</style>
 
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img_mountains.jpg">
-      <img src="img_mountains.jpg" alt="Mountains">
-    </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
 
-<div class="clearfix"></div>
+   <div class="image-gallery">
+      <div class="image-container" onclick="opentab('red')">
+         <img src="images/red-flower.jpg" alt="Red Flower" id="red">
+      </div>
+      <div class="image-container" onclick="opentab('white')">
+         <img src="images/white-flower.jpg" alt="White Flower" id="white">
+      </div>
+      <div class="image-container" onclick="opentab('orange')">
+         <img src="images/orange-flower.jpg" alt="Orange Flower" id="orange">
+      </div>
+   </div>
+
+   <div id="tab" class="gallery-tab">
+      <img class="tab-content" id="tabImg">
+   </div>
+
+   <script>
+      function opentab(imageId) {
+         var tab = document.getElementById("tab");
+         var tabImg = document.getElementById("tabImg");
+   
+         tab.style.display = "block";
+         tabImg.src = document.getElementById(imageId).src;
+      }
+   </script>
+
+
   </section>
 
   
