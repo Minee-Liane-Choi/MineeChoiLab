@@ -21,40 +21,4 @@ Formosa Group, a leading Taiwanese conglomerate, primarily operates in the chemi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qV_4sJSkz3U?si=hAUf608uDJdm2W51" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="images/post/issue14/Formosa1.jpg">
-      <img src="images/post/issue14/Formosa1.jpg" alt="Cinque Terre">
-    </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img_forest.jpg">
-      <img src="img_forest.jpg" alt="Forest">
-    </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img_lights.jpg">
-      <img src="img_lights.jpg" alt="Northern Lights">
-    </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
-
-<div class="responsive">
-  <div class="gallery">
-    <a target="_blank" href="img_mountains.jpg">
-      <img src="img_mountains.jpg" alt="Mountains">
-    </a>
-    <div class="desc">Add a description of the image here</div>
-  </div>
-</div>
-
-<div class="clearfix"></div>
+{% include gallery.html image="images/post/issue3/seminar1.jpg" caption="" %}
