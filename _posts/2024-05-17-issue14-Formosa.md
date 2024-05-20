@@ -20,30 +20,16 @@ Formosa Group, a leading Taiwanese conglomerate, primarily operates in the chemi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qV_4sJSkz3U?si=hAUf608uDJdm2W51" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<div class="gallery">
-  <a target="_blank" href="images/post/issue14/Formosa1.jpg">
-    <img src="images/post/issue14/Formosa1.jpg" alt="Cinque Terre" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+{% capture content %}
 
-<div class="gallery">
-  <a target="_blank" href="images/post/issue14/Formosa1.jpg">
-    <img src="images/post/issue14/Formosa1.jpg" alt="Forest" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+{% include figure.html image="images/post/issue14/Formosa1.jpg" caption="" %}
 
-<div class="gallery">
-  <a target="_blank" href="images/post/issue14/Formosa1.jpg">
-    <img src="images/post/issue14/Formosa1.jpg" alt="Northern Lights" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+{% include figure.html image="images/post/issue14/Formosa2.jpg" caption="" %}
 
-<div class="gallery">
-  <a target="_blank" href="images/post/issue14/Formosa1.jpg">
-    <img src="images/post/issue14/Formosa1.jpg" alt="Mountains" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
+{% include figure.html image="images/post/issue14/Formosa3.jpg" caption="" %}
+
+{% endcapture %}
+
+{% include grid.html content=content style="square" %}
+
+{% include gallery.html content=content style="square" %}
