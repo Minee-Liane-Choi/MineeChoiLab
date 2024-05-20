@@ -1,4 +1,4 @@
-$(".images imgvr").click(function(){
+$(".images img").click(function(){
   $("#full-image").attr("src", $(this).attr("src"));
   $('#image-viewer').show();
 });
