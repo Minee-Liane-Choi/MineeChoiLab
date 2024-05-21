@@ -1,6 +1,6 @@
 ---
-name: DaEun Yoo
-image: images/team/daeun-yoo.jpg
+name: DaUn Yoo
+image: images/team/daun-yoo.jpg
 role: associate
 links:
   email:
