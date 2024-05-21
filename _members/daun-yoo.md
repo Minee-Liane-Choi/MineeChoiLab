@@ -19,5 +19,3 @@ links:
 <strong>Project:</strong> TBC <br>
 
 <strong>Report To:</strong> Minee Choi <br>
-
-
