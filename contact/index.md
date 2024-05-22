@@ -139,6 +139,7 @@ UK
 
 {% capture col1 %}
 <p style="font-size: 13px; color: #0ea5e9;">
+Chang Gung University <br>
 No.259, Wenhua 1st Rd <br>
 Guishan Dist <br>
 Taoyuan City 33302 <br>
@@ -148,10 +149,8 @@ Taiwan (R.O.C.)
 
 {% capture col2 %}
 <p style="font-size: 13px; color: #0ea5e9;">
-The Francis Crick Institute <br>
-1 Midland Road <br>
-London NW1 1AT <br>
-UK
+Chang Gung Memorial Hospital <br>
+Taiwan
 </p>
 {% endcapture %}
 
