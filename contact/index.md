@@ -45,8 +45,7 @@ South Korea
 
 ## {% include icon.html icon="fa-solid fa-location-dot" %}Affiliations
 
-The {{ site.title }} Lab is part of the Department of Brain and Cognitive Sciences (BCS) of KAIST. We are located at 5F Meta Convergence building (W13) in the main campus of KAIST.
-Minee is also affiliated with two research institutions in London, the Francis Crick Institute and the UCL Queen Square Institute of Neurology, as an honorary fellow. 
+The {{ site.title }} Lab is part of the Department of Brain and Cognitive Sciences (BCS) of KAIST. Minee holds an honorary fellowship at two research institutions in London, the Francis Crick Institute and the UCL Queen Square Institute of Neurology. She also serves as an adjunct professor in collaboration with Chang Gung University and Memorial Hospital in Taiwan.
 
 {% capture col1 %}
 
@@ -106,6 +105,59 @@ The UCL Queen Square Institute of Neurology <br>
 Queen Square<br>
 London WC1N 3BG <br>
 UK
+</p>
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+{% capture col1 %}
+
+{%
+  include figure.html
+  image="images/contact/cgu.jpg"
+  link="https://www.cgu.edu.tw/en"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include figure.html
+  image="images/contact/cgm.jpg"
+  link="https://www.cgmh.org.tw/eng"
+%}
+
+{% endcapture %}
+
+{% capture col3 %}
+
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+{% capture col1 %}
+<p style="font-size: 13px; color: #0ea5e9;">
+No.259, Wenhua 1st Rd <br>
+Guishan Dist <br>
+Taoyuan City 33302 <br>
+Taiwan (R.O.C.)
+</p>
+{% endcapture %}
+
+{% capture col2 %}
+<p style="font-size: 13px; color: #0ea5e9;">
+The Francis Crick Institute <br>
+1 Midland Road <br>
+London NW1 1AT <br>
+UK
+</p>
+{% endcapture %}
+
+{% capture col3 %}
+<p style="font-size: 13px; color: #0ea5e9;">
+
 </p>
 {% endcapture %}
 
