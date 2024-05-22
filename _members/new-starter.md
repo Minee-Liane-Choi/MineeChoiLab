@@ -1,7 +1,7 @@
 ---
 name: New Starter
 image: images/team/starter.jpg
-role: associate
+role: 
 links:
   email:
   orcid:
