@@ -4,7 +4,7 @@ author: soren-lorenson
 tags: BRePAIR
 ---
 
-Team {{ site.team }} participated in the Korea Science Festival 2024 to present our research works to the public.
+Team {{ site.team }} participated in the Korea Science Festival 2024 to present our research works to the public. Prof. HyeonJeong Suk (Nub-ju-gi's mum) and Prof. JaeKyoung Kim (a.k.a Dr. Sleep) also showcased fascinating AI products based on their research.
 
 {% capture content %}
 
@@ -12,7 +12,7 @@ Team {{ site.team }} participated in the Korea Science Festival 2024 to present 
   include figure.html
   image="images/archive/2024-04-ScienceFest1.jpg"
   link="images/archive/2024-04-ScienceFest1.jpg"
-  caption="Prof. HyeonJeong Suk (Nub-Ju-Gi's mum), Nub-Ju-Gi (The monster of KAIST grad student's epic grudge), and Prof. JaeKyoung Kim (Dr. Sleep)"
+  caption="Prof. HyeonJeong Suk & JaeKyoung Kim"
 %}
 
 {%
