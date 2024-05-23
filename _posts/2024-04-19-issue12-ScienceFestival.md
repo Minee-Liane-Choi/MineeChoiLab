@@ -6,17 +6,17 @@ tags: BRePAIR
 
 Team {{ site.team }} participated in the Korea Science Festival 2024 to present our research works to the public.
 
-{% include figure.html image="images/post/issue12/ScienceFest1.jpg" caption="Prof. HyeonJeong Suk (Nub-Ju-Gi's mum), Nub-Ju-Gi (The monster of KAIST grad student's epic grudge), and Prof. JaeKyoung Kim (Dr. Sleep)" width="560px" %}
+{% include figure.html image="images/archive/2024-04-ScienceFest1.jpg" caption="Prof. HyeonJeong Suk (Nub-Ju-Gi's mum), Nub-Ju-Gi (The monster of KAIST grad student's epic grudge), and Prof. JaeKyoung Kim (Dr. Sleep)" width="560px" %}
 
-{% include figure.html image="images/post/issue12/ScienceFest2.jpg" caption="Team BRePAIR" width="560px" %}
+{% include figure.html image="images/archive/2024-04-ScienceFest2.jpg" caption="Team BRePAIR" width="560px" %}
 
-{% include figure.html image="images/post/issue12/ScienceFest3.jpg" caption="Our crews" width="560px" %}
+{% include figure.html image="images/archive/2024-04-ScienceFest3.jpg" caption="Our crews" width="560px" %}
 
-{% include figure.html image="images/post/issue12/ScienceFest4.jpg" caption="Our crews" width="560px" %}
+{% include figure.html image="images/archive/2024-04-ScienceFest4.jpg" caption="Our crews" width="560px" %}
 
-{% include figure.html image="images/post/issue12/ScienceFest5.jpg" caption="Our crews" width="560px" %}
+{% include figure.html image="images/archive/2024-04-ScienceFest5.jpg" caption="Our crews" width="560px" %}
 
-{% include figure.html image="images/post/issue12/ScienceFest6.jpg" caption="Girls having fun with us" width="560px" %}
+{% include figure.html image="images/archive/2024-04-ScienceFest6.jpg" caption="Girls having fun with us" width="560px" %}
 
 <a href="https://news.kaist.ac.kr/news/html/news/?mode=V&mng_no=36411"> KAIST 첨단 연구의 체험·전시·제품을 짜릿하게 만나다​ </a>
 
