@@ -5,7 +5,7 @@ role: admin
 links:
 ---
 
-<strong>Senior Lab Manager</strong>
+<strong>Lab Manager</strong>
 
 <ol>
   <li> Budget Management </li>
