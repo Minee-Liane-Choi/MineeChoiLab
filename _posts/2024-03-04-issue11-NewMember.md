@@ -8,7 +8,7 @@ We wholeheartedly welcome DaUn Yoo as a new addition to Team {{ site.team }}. Sh
 
 {%
   include figure.html
-  image="images/post/issue1/bonvoyage.jpg"
+  image="images/archive/20XX-Swashbuckle.jpg"
   caption="Welcome aboard !!!"
   link=""
   width="600px"
