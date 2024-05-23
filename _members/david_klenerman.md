@@ -1,6 +1,6 @@
 ---
 name: David Klenerman
-image: images/collaborator/david-klenerman.jpg
+image: images/team/collaborator/david-klenerman.jpg
 role: collabo
 links:
   email: dk10012@cam.ac.uk
