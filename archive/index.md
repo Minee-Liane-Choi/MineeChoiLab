@@ -7,4 +7,4 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-panorama" %}Archive
 
-{% include archive2.html %}
+{% include archive.html %}
