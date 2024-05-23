@@ -6,9 +6,9 @@ tags: BRePAIR
 
 Her Excellency Sandy Wang, the Chairman of Formosa Group, along with executives from Formosa Group, made an official visit to the KAIST BCS.
 
-{% include figure.html image="images/post/issue14/Formosa1.jpg" caption="Ms. Sandy Wang with KAIST professors " width="560px" %}
+{% include figure.html image="images/archive/Formosa1.jpg" caption="Ms. Sandy Wang with KAIST professors " width="560px" %}
 
-{% include figure.html image="images/post/issue14/Formosa2.jpg" caption="Formosa executives visiting the KAIST BCS" width="560px" %}
+{% include figure.html image="images/archive/Formosa2.jpg" caption="Formosa executives visiting the KAIST BCS" width="560px" %}
 
 On May 13, 2024, KAIST and Formosa agreed to establish mid- to long-term collaborations focusing on stem cell and gene-editing technologies, in partnership with Chang Gung University and Chang Gung Memorial Hospital. The {{ site.title }} lab will take part in the joint R&D programme between KAIST and Formosa Group.
 
