@@ -1,7 +1,7 @@
 ---
 title: KAIST Research Highlight 2024
 author: soren-lorenson
-tags: BRePAIR
+tags: Prize
 ---
 
 Our research has been selected as one of the KAIST's research highlights in 2024.
