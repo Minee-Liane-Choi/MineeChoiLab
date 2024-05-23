@@ -1,6 +1,6 @@
 ---
 name: Sonia Gandhi
-image: images/collaborator/sonia-gandhi.jpg
+image: images/team/collaborator/sonia-gandhi.jpg
 role: collabo
 links:
   email: sonia.gandhi@crick.ac.uk
