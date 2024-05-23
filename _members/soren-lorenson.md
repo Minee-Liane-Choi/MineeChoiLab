@@ -1,6 +1,6 @@
 ---
 name: Soren Lorenson
-image: images/team/soren-lorenson.jpg
+image: images/team/brepair/soren-lorenson.jpg
 role: bot
 links:
 ---
