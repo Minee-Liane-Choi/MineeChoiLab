@@ -1,6 +1,6 @@
 ---
 name: YuChae Lee
-image: images/team/yuchae-lee.jpg
+image: images/team/brepair/yuchae-lee.jpg
 role: associate
 links:
   email:
