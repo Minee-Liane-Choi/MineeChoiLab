@@ -1,6 +1,6 @@
 ---
 name: Andrey Y. Abramov
-image: images/collaborator/andrey-abramov.jpg
+image: images/team/collaborator/andrey-abramov.jpg
 role: collabo
 links:
   email: a.abramov@ucl.ac.uk
