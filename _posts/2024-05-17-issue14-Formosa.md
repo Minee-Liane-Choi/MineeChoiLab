@@ -26,7 +26,7 @@ Her Excellency Sandy Wang, the Chairman of Formosa Group, along with executives 
   include figure.html
   image="images/archive/2024-05-Formosa3.jpg"
   link="images/archive/2024-05-Formosa3.jpg"
-  caption=""
+  caption="Minee busy talking"
 %}
 
 {% endcapture %}
