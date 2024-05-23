@@ -1,6 +1,6 @@
 ---
 name: EunJin Yang
-image: images/team/eunjin-yang.jpg
+image: images/team/brepair/eunjin-yang.jpg
 role: ms
 links:
   email:
