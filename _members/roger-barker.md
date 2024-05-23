@@ -1,6 +1,6 @@
 ---
 name: Roger Barker
-image: images/collaborator/roger-barker.jpg
+image: images/team/collaborator/roger-barker.jpg
 role: collabo
 aliases:
   - Roger A. Barker
