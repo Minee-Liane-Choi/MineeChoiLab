@@ -1,6 +1,6 @@
 ---
 name: DaUn Yoo
-image: images/team/daun-yoo.jpg
+image: images/team/brepair/daun-yoo.jpg
 role: associate
 links:
   email:
