@@ -1,6 +1,6 @@
 ---
 name: Minee Choi
-image: images/team/minee-choi.jpg
+image: images/team/brepair/minee-choi.jpg
 role: pi
 aliases:
   - Minee-Liane Choi
