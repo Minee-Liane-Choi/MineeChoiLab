@@ -10,15 +10,22 @@ Our much-anticipated relocation has now been completed. We cannot be more please
 
 {%
   include figure.html
-  image="images/archive/2023-12-Office1.jpg"
-  link="images/archive/2023-12-Office1.jpg"
+  image="images/archive/2023-12-NewOffice1.jpg"
+  link="images/archive/2023-12-NewOffice2.jpg"
   caption=""
 %}
 
 {%
   include figure.html
-  image="images/archive/2023-12-Office2.jpg"
-  link="images/archive/2023-12-Office2.jpg"
+  image="images/archive/2023-12-NewOffice2.jpg"
+  link="images/archive/2023-12-NewOffice2.jpg"
+  caption=""
+%}
+
+{%
+  include figure.html
+  image="images/archive/2023-12-NewOffice3.jpg"
+  link="images/archive/2023-12-NewOffice3.jpg"
   caption=""
 %}
 
