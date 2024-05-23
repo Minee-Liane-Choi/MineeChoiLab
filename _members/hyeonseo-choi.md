@@ -1,6 +1,6 @@
 ---
 name: HyeonSeo Choi
-image: images/team/student.jpg
+image: images/team/intern.jpg
 role: interx
 links:
   email:
