@@ -45,7 +45,7 @@ South Korea
 
 ## {% include icon.html icon="fa-solid fa-location-dot" %}Affiliations
 
-The {{ site.title }} Lab is part of the Department of Brain and Cognitive Sciences (BCS) of KAIST. Minee holds an honorary fellowship at two research institutions in London, the Francis Crick Institute and the UCL Queen Square Institute of Neurology. She also serves as an adjunct professor in collaboration with Chang Gung University and Memorial Hospital in Taiwan.
+The {{ site.title }} Lab is part of the Department of Brain and Cognitive Sciences (BCS) of KAIST. Minee holds an honorary fellowship at two research institutions in London, the Francis Crick Institute and the UCL Queen Square Institute of Neurology. She also serves in an adjunct professorship at Chang Gung University and Memorial Hospital in Taiwan.
 
 {% capture col1 %}
 
