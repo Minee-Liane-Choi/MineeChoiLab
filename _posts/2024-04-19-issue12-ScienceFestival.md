@@ -19,14 +19,14 @@ Team {{ site.team }} participated in the Korea Science Festival 2024 to present 
   include figure.html
   image="images/archive/2024-04-ScienceFest2.jpg"
   link="images/archive/2024-04-ScienceFest2.jpg"
-  caption=""
+  caption="Minee "Smile, smile or die""
 %}
 
 {%
   include figure.html
   image="images/archive/2024-04-ScienceFest3.jpg"
   link="images/archive/2024-04-ScienceFest3.jpg"
-  caption=""
+  caption="Waiting for customers"
 %}
 
 {% endcapture %}
@@ -39,21 +39,21 @@ Team {{ site.team }} participated in the Korea Science Festival 2024 to present 
   include figure.html
   image="images/archive/2024-04-ScienceFest4.jpg"
   link="images/archive/2024-04-ScienceFest4.jpg"
-  caption=""
+  caption="What was the best deal you found today?"
 %}
 
 {%
   include figure.html
   image="images/archive/2024-04-ScienceFest5.jpg"
   link="images/archive/2024-04-ScienceFest5.jpg"
-  caption=""
+  caption="Two victories"
 %}
 
 {%
   include figure.html
   image="images/archive/2024-04-ScienceFest6.jpg"
   link="images/archive/2024-04-ScienceFest6.jpg"
-  caption=""
+  caption="Girls having fun with VR"
 %}
 
 {% endcapture %}
