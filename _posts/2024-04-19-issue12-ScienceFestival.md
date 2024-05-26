@@ -39,7 +39,7 @@ Team {{ site.team }} participated in the Korea Science Festival 2024 to present 
   include figure.html
   image="images/archive/2024-04-ScienceFest4.jpg"
   link="images/archive/2024-04-ScienceFest4.jpg"
-  caption="What's the best deal so far? I can beat."
+  caption="What's the best deal so far? I can beat it."
 %}
 
 {%
