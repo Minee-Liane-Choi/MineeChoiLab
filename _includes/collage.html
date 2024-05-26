@@ -1,0 +1,187 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  text-align: center;
+  padding: 32px;
+}
+
+.row {
+  display: -ms-flexbox; /* IE 10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE 10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  -ms-flex: 25%; /* IE 10 */
+  flex: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header" id="myHeader">
+  <button class="btn" onclick="one()">1</button>
+  <button class="btn" onclick="two()">2</button>
+  <button class="btn active" onclick="four()">4</button>
+</div>
+
+<!-- Photo Grid -->
+<div class="row"> 
+  <div class="column">
+    <a target="_blank" href="../images/archive/2024-05-Formosa1.jpg">
+                   <img src="../images/archive/2024-05-Formosa1.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2024-05-AnnualReport.jpg">
+                   <img src="../images/archive/2024-05-AnnualReport.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2024-04-ScienceFest2.jpg">
+                   <img src="../images/archive/2024-04-ScienceFest2.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-12-YearEndParty3.jpg">
+                   <img src="../images/archive/2023-12-YearEndParty3.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-11-Qday1.jpg">
+                   <img src="../images/archive/2023-11-Qday1.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-11-Qday3.jpg">
+                   <img src="../images/archive/2023-11-Qday3.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-04-Seminar1.jpg">
+                   <img src="../images/archive/2023-04-Seminar1.jpg" style="width:100%"> </a>
+  </div>
+  
+  <div class="column">
+    <a target="_blank" href="../images/archive/2024-05-Formosa2.jpg">
+                   <img src="../images/archive/2024-05-Formosa2.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2024-04-ScienceFest3.jpg">
+                   <img src="../images/archive/2024-04-ScienceFest3.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2024-04-ScienceFest6.jpg">
+                   <img src="../images/archive/2024-04-ScienceFest6.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-12-YearEndParty1.jpg">
+                   <img src="../images/archive/2023-12-YearEndParty1.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-11-Qday2.jpg">
+                   <img src="../images/archive/2023-11-Qday2.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-04-Seminar2.jpg">
+                   <img src="../images/archive/2023-04-Seminar2.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-04-Seminar3.jpg">
+                   <img src="../images/archive/2023-04-Seminar3.jpg" style="width:100%"> </a>
+  </div>
+  
+  <div class="column">
+    <a target="_blank" href="../images/archive/2024-05-Formosa3.jpg">
+                   <img src="../images/archive/2024-05-Formosa3.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2024-04-ScienceFest4.jpg">
+                   <img src="../images/archive/2024-04-ScienceFest4.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2024-04-ScienceFest7.jpg">
+                   <img src="../images/archive/2024-04-ScienceFest7.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2024-04-ScienceFest5.jpg">
+                   <img src="../images/archive/2024-04-ScienceFest5.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-12-YearEndParty2.jpg">
+                   <img src="../images/archive/2023-12-YearEndParty2.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-05-SFN1.jpg">
+                   <img src="../images/archive/2023-05-SFN1.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-05-SFN2.jpg">
+                   <img src="../images/archive/2023-05-SFN2.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-03-Colloquiym1.jpg">
+                   <img src="../images/archive/2023-03-Colloquiym1.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-03-Colloquiym2.jpg">
+                   <img src="../images/archive/2023-03-Colloquiym2.jpg" style="width:100%"> </a>
+  </div>
+  
+  <div class="column">
+    <a target="_blank" href="../images/archive/2024-05-Formosa4.jpg">
+                   <img src="../images/archive/2024-05-Formosa4.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2024-04-ScienceFest1.jpg">
+                   <img src="../images/archive/2024-04-ScienceFest1.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-12-NewOffice1.jpg">
+                   <img src="../images/archive/2023-12-NewOffice1.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-12-NewOffice2.jpg">
+                   <img src="../images/archive/2023-12-NewOffice2.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-05-SFN3.jpg">
+                   <img src="../images/archive/2023-05-SFN3.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-03-Colloquiym3.jpg">
+                   <img src="../images/archive/2023-03-Colloquiym3.jpg" style="width:100%"> </a>
+    <a target="_blank" href="../images/archive/2023-00-Swashbuckle.jpg">
+                   <img src="../images/archive/2023-00-Swashbuckle.jpg" style="width:100%"> </a>
+  </div>
+</div>
+
+<script>
+// Get the elements with class="column"
+var elements = document.getElementsByClassName("column");
+
+// Declare a loop variable
+var i;
+
+// Full-width images
+function one() {
+    for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "100%";  // IE10
+    elements[i].style.flex = "100%";
+  }
+}
+
+// Two images side by side
+function two() {
+  for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "50%";  // IE10
+    elements[i].style.flex = "50%";
+  }
+}
+
+// Four images side by side
+function four() {
+  for (i = 0; i < elements.length; i++) {
+    elements[i].style.msFlex = "25%";  // IE10
+    elements[i].style.flex = "25%";
+  }
+}
+
+// Add active class to the current button (highlight it)
+var header = document.getElementById("myHeader");
+var btns = header.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+    var current = document.getElementsByClassName("active");
+    current[0].className = current[0].className.replace(" active", "");
+    this.className += " active";
+  });
+}
+</script>
+
+</body>
+</html>
