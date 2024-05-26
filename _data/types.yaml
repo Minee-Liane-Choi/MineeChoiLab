@@ -21,6 +21,10 @@ phd:
 phx:
   icon: fa-solid fa-user-graduate
   description: Former PhD Student
+
+msphd:
+  icon: fa-solid fa-user-graduate
+  description: MS-PhD Student
   
 ms:
   icon: fa-solid fa-user-graduate
