@@ -19,7 +19,7 @@ Team {{ site.team }} participated in the Korea Science Festival 2024 to present 
   include figure.html
   image="images/archive/2024-04-ScienceFest2.jpg"
   link="images/archive/2024-04-ScienceFest2.jpg"
-  caption=" Guys, smile or die"
+  caption="Hey guys, smile or you die"
 %}
 
 {%
