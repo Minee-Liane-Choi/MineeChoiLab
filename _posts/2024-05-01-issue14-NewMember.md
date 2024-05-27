@@ -8,7 +8,7 @@ We wholeheartedly welcome Yuchae Lee as a new addition to Team {{ site.team }}. 
 
 {%
   include figure.html
-  image="images/archive/2023-00-Swashbuckle.jpg"
+  image="images/archive/0000-00-Swashbuckle.jpg"
   caption="Welcome aboard !!!"
   link=""
   width="600px"
