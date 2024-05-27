@@ -74,7 +74,7 @@ links:
 
 Minee is a neurophysiologist specializing in neurodegenerative diseases. She currently serves as an assistant professor at the Department of Brain and Cognitive Science at KAIST. Additionally, she holds the distinguished position of Honorary Fellow at both the UCL Queen Square Institute of Neurology and the Francis Crick Institute in the UK. In 2024, she began working as an adjunct professor at Chang Gung University & Memorial Hospital.<br>
 
-After obtaining BA and MMSc degree from Hanyang University, she received the prestigious Cambridge Overseas Trust Scholarship, which enabled her to pursue a PhD degree in Clinical Neurosciences at the University of Cambridge, under the supervision of a neurologist, Professor Roger Barker. She successfully completed her PhD in Clinical Neurosciences in 2013. <br>
+After obtaining BA and MMSc from Hanyang University, she received the prestigious Cambridge Overseas Trust Scholarship, which enabled her to pursue a PhD degree in Clinical Neurosciences at the University of Cambridge, under the supervision of a neurologist, Professor Roger Barker. She successfully completed her PhD in Clinical Neurosciences in 2013. <br>
 
 Following her doctoral studies, Minee continued her research career as a post-doctoral research fellow at University College London (UCL), where she worked in the Professor John Wood's lab from 2013 to 2014 and later in the Professor Sonia Gandhi's lab from 2014 to 2022. During this time, she also undertook a laboratory secondment at the Francis Crick Institute as a senior research scientist from 2017 to 2022. In February 2023, she was appointed as an assistant professor at KAIST. <br>
 
