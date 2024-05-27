@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["pinkinvt.scss"],"names":[],"mappings":"AAAA;EACE;EACA","sourcesContent":["blueinvt {\n  background: #ED4FAF;\n  color: #FFFFFF;\n}\n"],"file":"pinkinvt.css"}
+{"version":3,"sourceRoot":"","sources":["pinkinvt.scss"],"names":[],"mappings":"AAAA;EACE;EACA","sourcesContent":["pinkinvt {\n  background: #ED4FAF;\n  color: #FFFFFF;\n}\n"],"file":"pinkinvt.css"}
