@@ -29,7 +29,7 @@ nav:
     <td align="Left">+82 (0)42-350-651</td>
   </tr>
   <tr style="font-size: 16px;">
-    <td>{% include icon.html icon="fa-regular fa-map" %}</td>
+    <td>{% include icon.html icon="fa-regular fa-compass" %}</td>
     <td align="Center"> {%
                           include button.html
                           type="adress"
