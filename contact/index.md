@@ -19,7 +19,7 @@ nav:
                      South Korea </td>
   </tr>
   <tr style="font-size: 14px; background-color:LightGray;">
-    <td>{% include icon.html icon="fa-regular fa-envelope" %</td>
+    <td>{% include icon.html icon="fa-regular fa-envelope" %}</td>
     <td align="Left">minee.choi@kaist.ac.kr</td>
   </tr>  
   <tr style="font-size: 14px;">
