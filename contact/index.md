@@ -6,7 +6,7 @@ nav:
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope-open" %}Contact
-
+<div>
 <table align="left">
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-solid fa-user-secret" %}</td>
@@ -29,7 +29,8 @@ nav:
     <td align="Left">+82 (0)42-350-651</td>
   </tr>
 </table>
-<br>
+</div>
+
 {%
   include button.html
   type="adress"
