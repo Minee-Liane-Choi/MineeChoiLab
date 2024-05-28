@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope-open" %}Contact
 
-<table align="right">
+<table align="left">
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-solid fa-user-secret" %}</td>
     <td align="Left">Prof. Minee-Liane Choi</td>
@@ -29,7 +29,7 @@ nav:
     <td align="Left">+82 (0)42-350-651</td>
   </tr>
 </table>
-
+<br>
 {%
   include button.html
   type="adress"
