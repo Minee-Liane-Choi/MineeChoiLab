@@ -20,7 +20,7 @@ nav:
                      291 Daehak-ro <br>
                      Yuseong-gu, Daejeon <br>
                      South Korea </td>
-    <td></td>
+    <td> <img src="../images/archive/000-00-BR.jpg" style="width:100%"> </td>
   </tr>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-regular fa-envelope" %}</td>
