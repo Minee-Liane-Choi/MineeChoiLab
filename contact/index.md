@@ -19,13 +19,13 @@ South Korea
   include button.html
   type="email"
   text="minee.choi@kaist.ac.kr"
-  link="minee.choi@kaist.ac.kr"
+  link=""
 %}
 {%
   include button.html
   type="phone"
   text="+82 (0)42-350-6516"
-  link="+82-42-350-6516"
+  link=""
 %}
 {%
   include button.html
