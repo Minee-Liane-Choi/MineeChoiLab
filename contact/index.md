@@ -39,7 +39,7 @@ South Korea
   type="adress"
   text="Naver Maps"
   tooltip="Our location on Naver Maps"
-  link="https://naver.me/FsqWM5cw"
+  link="https://naver.me/GdiqLWG9"
 %}
 {%
   include figure.html
