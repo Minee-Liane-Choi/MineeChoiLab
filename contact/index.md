@@ -31,10 +31,16 @@ South Korea
   include button.html
   type="adress"
   text="Google Maps"
-  tooltip="Our location on Google Maps for easy navigation"
+  tooltip="Our location on Google Maps"
   link="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8"
 %}
-
+{%
+  include button.html
+  type="adress"
+  text="Naver Maps"
+  tooltip="Our location on Naver Maps"
+  link="https://naver.me/xAVbMQLu"
+%}
 {%
   include figure.html
   image="images/contact/map.jpg"
