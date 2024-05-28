@@ -9,12 +9,11 @@ nav:
 
 Team {{ site.team }} comprises individuals committed to "LIBERTY, DIVERSITY, EQUALITY, COMPASSION, and most importantly COLLABORATION". We firmly oppose and renounce any form of outdated and inflexible thinking, attitudes and personalities against the principles we value.
 
+{% include button.html icon="fa-solid fa-door-open" text="Join the Team" link="contact" style="button" %}
+
 {% include section.html background="images/wallpaper/phil-jackson.jpg" dark=true %}
 
 "The strength of the team is each individual member. The strength of each member is the team." – Phil Jackson
-
-{% include button.html icon="fa-solid fa-handshake-angle" text="Join the Team" link="contact" style="button" %}
-
 
 {% include section.html %}
 
