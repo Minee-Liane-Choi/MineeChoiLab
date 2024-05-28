@@ -10,7 +10,7 @@ nav:
 <table align="left">
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-solid fa-user-secret" %}</td>
-    <td align="Left" style="width:50%" >Prof. Minee Choi</td>
+    <td align="Left" style="width:60%" >Prof. Minee Choi</td>
     <td></td>
   </tr>
   <tr style="font-size: 16px;">
@@ -20,7 +20,7 @@ nav:
                      291 Daehak-ro <br>
                      Yuseong-gu, Daejeon <br>
                      South Korea </td>
-    <td align="Left"> <img src="images/archive/0000-00-BR.jpg"> </td>
+    <td align="Left"> <img src="../images/archive/0000-00-BR.jpg"> </td>
   </tr>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-regular fa-envelope" %}</td>
