@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+# {% include icon.html icon="fa-regular fa-envelope-open" %}Contact
 
 {% include icon.html icon="fa-regular fa-map" %} Prof. Minee-Liane Choi <br>
 &nbsp; &nbsp; Room 4, 5F Meta Convergence building (W13) <br>
