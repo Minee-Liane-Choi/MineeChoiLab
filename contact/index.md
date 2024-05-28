@@ -11,6 +11,7 @@ nav:
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-solid fa-user-secret" %}</td>
     <td align="Left">Prof. Minee Choi</td>
+    <td></td>
   </tr>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-regular fa-building" %}</td>
@@ -19,14 +20,17 @@ nav:
                      291 Daehak-ro <br>
                      Yuseong-gu, Daejeon <br>
                      South Korea </td>
+    <td></td>
   </tr>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-regular fa-envelope" %}</td>
     <td align="Left">minee.choi@kaist.ac.kr</td>
+    <td></td>
   </tr>  
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-solid fa-phone" %}</td>
     <td align="Left">+82 (0)42-350-651</td>
+    <td></td>
   </tr>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-regular fa-compass" %}</td>
@@ -56,6 +60,7 @@ nav:
                           image="images/contact/map.jpg"
                           link="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8"
                         %} </td>
+    <td></td>
   </tr>
 </table>
 
