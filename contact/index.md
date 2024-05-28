@@ -6,14 +6,14 @@ nav:
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope-open" %}Contact
-<div>
+
 <table align="left">
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-solid fa-user-secret" %}</td>
     <td align="Left">Prof. Minee-Liane Choi</td>
   </tr>
   <tr style="font-size: 16px;">
-    <td>{% include icon.html icon="fa-regular fa-map" %}</td>
+    <td>{% include icon.html icon="fa-regular fa-building" %}</td>
     <td align="Left">Room 4, 5F Meta Convergence building (W13) <br>
                      Korea Advanced Institute of Science and Technology (KAIST) <br>
                      291 Daehak-ro <br>
@@ -28,35 +28,36 @@ nav:
     <td>{% include icon.html icon="fa-solid fa-phone" %}</td>
     <td align="Left">+82 (0)42-350-651</td>
   </tr>
+  <tr style="font-size: 16px;">
+    <td>{% include icon.html icon="fa-regular fa-map" %}</td>
+    <td align="Center"> {%
+                          include button.html
+                          type="adress"
+                          text="Google Maps"
+                          tooltip="Our location on Google Maps"
+                          link="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8"
+                        %}
+                        {%
+                          include button.html
+                          type="adress"
+                          text="Naver Map"
+                          tooltip="Our location on Naver Map"
+                          link="https://naver.me/GdiqLWG9"
+                        %}
+                        {%
+                          include button.html
+                          type="adress"
+                          text="Kakao Map"
+                          tooltip="Our location on Kakao Map"
+                          link="https://kko.to/e_0hLHT5B6"
+                        %}
+                        {%
+                          include figure.html
+                          image="images/contact/map.jpg"
+                          link="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8"
+                        %} </td>
+  </tr>
 </table>
-</div>
-<br>
-{%
-  include button.html
-  type="adress"
-  text="Google Maps"
-  tooltip="Our location on Google Maps"
-  link="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8"
-%}
-{%
-  include button.html
-  type="adress"
-  text="Naver Map"
-  tooltip="Our location on Naver Map"
-  link="https://naver.me/GdiqLWG9"
-%}
-{%
-  include button.html
-  type="adress"
-  text="Kakao Map"
-  tooltip="Our location on Kakao Map"
-  link="https://kko.to/e_0hLHT5B6"
-%}
-{%
-  include figure.html
-  image="images/contact/map.jpg"
-  link="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8"
-%}
 
 {% include section.html dark=false %}
 
