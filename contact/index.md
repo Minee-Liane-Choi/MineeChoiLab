@@ -13,21 +13,12 @@ Room 4 <br>
 Korea Advanced Institute of Science and Technology (KAIST) <br>
 291 Daehak-ro <br>
 Yuseong-gu, Daejeon <br>
-South Korea
+South Korea <br>
 
-{%
-  include button.html
-  type="email"
-  text="minee.choi@kaist.ac.kr"
-  link=""
-%}
-{%
-  include button.html
-  type="phone"
-  text="+82 (0)42-350-6516"
-  link=""
-%}
-<br>
+{% include icon.html icon="fa-regular fa-envelope" %}  minee.choi@kaist.ac.kr  <br>
+
+{% include icon.html icon="fa-solid fa-phone" %}  +82 (0)42-350-651  <br>
+
 {%
   include button.html
   type="adress"
@@ -38,21 +29,21 @@ South Korea
 {%
   include button.html
   type="adress"
-  text="Naver Maps"
+  text="Naver Map"
   tooltip="Our location on Naver Map"
   link="https://naver.me/GdiqLWG9"
 %}
 {%
   include button.html
   type="adress"
-  text="Naver Maps"
+  text="Kakao Map"
   tooltip="Our location on Kakao Map"
   link="https://kko.to/e_0hLHT5B6"
 %}
 {%
   include figure.html
   image="images/contact/map.jpg"
-  link=""
+  link="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8"
 %}
 
 {% include section.html dark=false %}
