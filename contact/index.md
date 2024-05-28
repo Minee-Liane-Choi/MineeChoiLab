@@ -27,6 +27,7 @@ South Korea
   text="+82 (0)42-350-6516"
   link=""
 %}
+<br>
 {%
   include button.html
   type="adress"
@@ -38,13 +39,20 @@ South Korea
   include button.html
   type="adress"
   text="Naver Maps"
-  tooltip="Our location on Naver Maps"
+  tooltip="Our location on Naver Map"
   link="https://naver.me/GdiqLWG9"
+%}
+{%
+  include button.html
+  type="adress"
+  text="Naver Maps"
+  tooltip="Our location on Kakao Map"
+  link="https://kko.to/e_0hLHT5B6"
 %}
 {%
   include figure.html
   image="images/contact/map.jpg"
-  link="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8"
+  link=""
 %}
 
 {% include section.html dark=false %}
