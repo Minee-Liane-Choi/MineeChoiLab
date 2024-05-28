@@ -34,7 +34,8 @@ nav:
   </tr>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-regular fa-compass" %}</td>
-    <td align="Center"> {%
+    <td colspan="2" align="Center"> 
+                        {%
                           include button.html
                           type="adress"
                           text="Google Maps"
@@ -60,7 +61,6 @@ nav:
                           image="images/contact/map.jpg"
                           link="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8"
                         %} </td>
-    <td></td>
   </tr>
 </table>
 
