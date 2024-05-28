@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope-open" %}Contact
 
-&emsp; &emsp; Prof. Minee-Liane Choi <br>
-
 <table>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-solid fa-user-secret" %}</td>
@@ -31,18 +29,6 @@ nav:
     <td align="Left">+82 (0)42-350-651</td>
   </tr>
 </table>
-
-&emsp; &emsp; Prof. Minee-Liane Choi <br>
-
-{% include icon.html icon="fa-regular fa-map" %} &emsp; Room 4, 5F Meta Convergence building (W13) <br>
-&emsp; &emsp; Korea Advanced Institute of Science and Technology (KAIST) <br>
-&emsp; &emsp; 291 Daehak-ro <br>
-&emsp; &emsp; Yuseong-gu, Daejeon <br>
-&emsp; &emsp; South Korea <br>
-
-{% include icon.html icon="fa-regular fa-envelope" %} &emsp; minee.choi@kaist.ac.kr  <br>
-
-{% include icon.html icon="fa-solid fa-phone" %} &emsp; +82 (0)42-350-651  <br>
 
 {%
   include button.html
