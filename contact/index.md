@@ -30,7 +30,7 @@ nav:
   </tr>
 </table>
 </div>
-
+<br>
 {%
   include button.html
   type="adress"
