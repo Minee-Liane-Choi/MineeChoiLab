@@ -7,14 +7,16 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope-open" %}Contact
 
-{% include icon.html icon="fa-regular fa-map" %} Prof. Minee-Liane Choi <br>
-&nbsp; &nbsp; Room 4, 5F Meta Convergence building (W13) <br>
+&nbsp; &nbsp; Prof. Minee-Liane Choi <br>
+
+{% include icon.html icon="fa-regular fa-map" %} Room 4, 5F Meta Convergence building (W13) <br>
 &nbsp; &nbsp; Korea Advanced Institute of Science and Technology (KAIST) <br>
 &nbsp; &nbsp; 291 Daehak-ro <br>
 &nbsp; &nbsp; Yuseong-gu, Daejeon <br>
 &nbsp; &nbsp; South Korea <br>
 
 {% include icon.html icon="fa-regular fa-envelope" %}  minee.choi@kaist.ac.kr  <br>
+
 {% include icon.html icon="fa-solid fa-phone" %}  +82 (0)42-350-651  <br>
 
 {%
