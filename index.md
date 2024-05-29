@@ -12,23 +12,23 @@ carousels:
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong>One Goal</strong>
 
-The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making brain diseases more curable than yesterday. The primary aspiration of this endeavor is to foster a more profound understanding of the molecular and cellular origins of <strong>Neuro-Degenerative, -Psychological & -Developmental diseases & disorders</strong>, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
+The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making brain diseases more curable than yesterday. The primary aspiration of this endeavor is <strong>to foster a more profound understanding of the molecular and cellular origins of Neuro-Degenerative, -Psychological & -Developmental diseases & disorders, thereby enabling a more strategic approach to the innovation of new therapeutic intervention</strong>.
 <br>
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong>Two Sides of 'One-Size-Fits-All' Approach</strong>
 
-The most common therapeutics in neurodegenerative diseases, such as Dopamine Agonists and Levodopa, follow a one-size-fits-all approach. This approach applies the same treatment regimen to all patients with a particular condition, regardless of individual differences. While this method simplifies the treatment process, making it easier to standardise care and ensure consistency across different healthcare providers, it often fails to account for the unique characteristics and needs of individual patients. As a result, this can lead to less effective disease management and an increased risk of adverse effects, highlighting the need for personalised medicine.
+The most common therapeutics in neurodegenerative diseases, such as Dopamine Agonists and Levodopa, follow a one-size-fits-all approach. This approach applies the same treatment regimen to all patients with a particular condition, regardless of individual differences. While this method simplifies the treatment process, <strong>making it easier to standardise care and ensure consistency across different healthcare providers</strong>, it often fails to account for the unique characteristics and needs of individual patients. As a result, this can lead to <strong>less effective disease management and an increased risk of adverse effects</strong>, highlighting the need for personalised medicine.
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong>Three Challenges</strong>
 
 Our objective is <strong>to develop a bespoke therapeutic platform</strong> to address three major challenges associated with human brain diseases.
 
 <ol>
-  <li>The distinctive complexity inherent in the human brain </li>
+  <li>The distinctive <strong>complexity</strong> inherent in the human brain </li>
   
-  <li>The clinical variability presented on an individual level </li>
+  <li>The <strong>clinical variability</strong> presented on an individual level </li>
   
-  <li>The predominantly unknown etiological factors of the human brain diseases </li>
+  <li>The predominantly <strong>unknown etiological factors</strong> of the human brain diseases </li>
 </ol>
 
 {% capture col1 %}
