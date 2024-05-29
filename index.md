@@ -24,7 +24,7 @@ The most common therapeutics in neurodegenerative diseases, such as Dopamine Ago
 Our mid-term objective is <strong>to develop a bespoke therapeutic platform that addresses three major challenges</strong> associated with human brain diseases.
 
 <ol>
-  <li>The distinctive <strong>complexity</strong> inherent in the human brain </li>
+  <li>The <strong>distinctive complexity</strong> inherent in the human brain </li>
   
   <li>The <strong>clinical variability</strong> presented on an individual level </li>
   
