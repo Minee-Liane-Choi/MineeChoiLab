@@ -20,7 +20,7 @@ nav:
                      291 Daehak-ro <br>
                      Yuseong-gu, Daejeon <br>
                      South Korea </td>
-    <td><img src="../images/archive/0000-00-drNubzuki.jpg" alt="Dr. Nubzuki" width="150"></td>
+    <td align="Left"><img src="../images/archive/0000-00-drNubzuki.jpg" alt="Dr. Nubzuki" width="150"></td>
   </tr>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-regular fa-envelope" %}</td>
