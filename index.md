@@ -15,7 +15,7 @@ carousels:
 The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making brain diseases more curable than yesterday. The primary aspiration of this endeavor is to foster a more profound understanding of the molecular and cellular origins of <strong>Neuro-Degenerative, -Psychological & -Developmental diseases & disorders</strong>, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
 <br>
 
-### Three Challenges
+### <b><pink>Three</pink> <blue>Challenges</blue></b>
 
 Our objective is <strong>to develop a bespoke therapeutic platform</strong> to address three major challenges associated with human brain diseases.
 
@@ -41,7 +41,7 @@ Our objective is <strong>to develop a bespoke therapeutic platform</strong> to a
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
 
-### Four Keys
+### <b><pink>Four</pink> <blue>Keys</blue></b>
 
 Our therapeutic platform is underpinned by four pivotal technological advances.
 
@@ -95,7 +95,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   </tr>
 </table>
 
-### [Example] AI-based Prediction of Disease State and Cellular Subtypes in Parkinson's Disease (PD)
+### <b><pink>The 1st</pink> <blue>Solution</blue> : </b> AI-based Prediction of Disease State and Cellular Subtypes in Parkinson's Disease (PD)
 
 {% include figure.html image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42256-023-00702-9/MediaObjects/42256_2023_702_Fig2_HTML.png?as=webp" caption = "The workflow of our classifier predicting cellular subtypes in Parkinson's Disease (PD)" link="https://www.nature.com/articles/s42256-023-00702-9/figures/2" %}
 
