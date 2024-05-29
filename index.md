@@ -95,7 +95,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   </tr>
 </table>
 
-### {% include icon.html icon="fa-regular fa-square-check" %} <strong>Recent Breakthrough : </strong> AI-based Prediction of Disease State and Cellular Subtypes in Parkinson's Disease (PD)
+### {% include icon.html icon="fa-regular fa-square-check" %} <strong>A Recent Breakthrough : </strong> AI-based Prediction of Disease State and Cellular Subtypes in Parkinson's Disease (PD)
 
 {% include figure.html image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42256-023-00702-9/MediaObjects/42256_2023_702_Fig2_HTML.png?as=webp" caption = "The workflow of our classifier predicting cellular subtypes in Parkinson's Disease (PD)" link="https://www.nature.com/articles/s42256-023-00702-9/figures/2" %}
 
