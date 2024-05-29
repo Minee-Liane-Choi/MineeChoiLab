@@ -83,7 +83,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
             <td></td>
   </tr>	
   <tr>
-    <td colspan="3" style="width:42%" align="left"><strong>Brain organoid,</strong></td>
+    <td colspan="3" style="width:42%" align="Center"><strong>Brain organoid,</strong></td>
       <td></td>
         <td rowspan="2" align="left">often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments.</td>
   </tr>
