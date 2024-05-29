@@ -55,7 +55,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
       <td style="width:11%"></td>
         <td style="width:11%"></td>
           <td style="width:11%"></td>
-            <td style="width:3%"></td>
+            <td style="width:2%"></td>
 	      <td></td>
   </tr>
   <tr>
