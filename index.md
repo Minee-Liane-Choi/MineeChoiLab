@@ -10,6 +10,7 @@ carousels:
 
 ## {% include icon.html icon="fa-solid fa-lock-open" %}New Keys to the Deadlock of Human Brain Disorders
 
+# One Goal & Three Challenges
 The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making brain diseases more curable than yesterday. The primary aspiration of this endeavor is to foster a more profound understanding of the molecular and cellular origins of <strong>Neuro-Degenerative, -Psychological & -Developmental diseases & disorders</strong>, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
 <br>
 
@@ -36,6 +37,8 @@ Our objective is <strong>to develop a bespoke therapeutic platform</strong> to a
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+# Four Keys
 Our therapeutic platform is underpinned by four pivotal technological advances.
 
 
@@ -88,7 +91,9 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   </tr>
 </table>
 
-{% include figure.html image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42256-023-00702-9/MediaObjects/42256_2023_702_Fig2_HTML.png?as=webp" caption = "Our workflow for developing a classifier to predict cellular subtypes in Parkinson's Disease (PD)" link="https://www.nature.com/articles/s42256-023-00702-9/figures/2" %}
+# Prediction of Disease State and Cellular Subtypes in Parkinson's Disease (PD)
+
+{% include figure.html image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42256-023-00702-9/MediaObjects/42256_2023_702_Fig2_HTML.png?as=webp" caption = "The workflow of our classifier predicting cellular subtypes in Parkinson's Disease (PD)" link="https://www.nature.com/articles/s42256-023-00702-9/figures/2" %}
 
 {% include figure.html image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42256-023-00702-9/MediaObjects/42256_2023_702_Fig3_HTML.png?as=webp" caption = "Our classifier, trained on cell profiles of key organelles, predicts disease states with an accuracy of 82%." link="https://www.nature.com/articles/s42256-023-00702-9/figures/3" %}
 
