@@ -59,7 +59,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
     <td rowspan="2" align="left">facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.</td>
   </tr>
   <tr style="height:110px">
-    <td align="center">{% include icon.html icon="fa-solid fa-vials" %} &emsp; &emsp; </td><td></td><td></td><td></td><td></td>
+    <td colspan="4" align="center">{% include icon.html icon="fa-solid fa-vials" %} &emsp; &emsp; </td>
   </tr>
   
   <tr>
