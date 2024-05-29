@@ -49,13 +49,19 @@ Our mid-term objective is <strong>to develop a bespoke therapeutic platform that
 
 Our therapeutic platform is underpinned by four pivotal technological advances.
 
-
 <table style="width:100%">
   <tr>
-    <td style="background-color:#fcc200;" style="width:10%"></td>
-      <td style="width:10%"></td>
-        <td style="width:10%"></td>
-          <td style="width:10%"></td>
+    <td style="width:11%"></td>
+      <td style="width:11%"></td>
+        <td style="width:11%"></td>
+          <td style="width:11%"></td>
+            <td></td>
+  </tr>
+  <tr>
+    <td style="background-color:#fcc200;"></td>
+      <td></td>
+        <td></td>
+          <td></td>
             <td></td>
   </tr>
   <tr>
