@@ -15,6 +15,10 @@ carousels:
 The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making brain diseases more curable than yesterday. The primary aspiration of this endeavor is to foster a more profound understanding of the molecular and cellular origins of <strong>Neuro-Degenerative, -Psychological & -Developmental diseases & disorders</strong>, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
 <br>
 
+### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong>Two Aspects of 'One-Size-Fits-All' Approach</strong>
+
+The most common clinical therapeutics for neurodegenerative diseases, such as Dopamine Agonists and Levodopa, are based on a one-size-fits-all approach. This approach involves applying the same treatment regimen to all patients with a particular condition, regardless of individual differences. While this method simplifies the treatment process, making it easier to standardise care and ensure consistency across different healthcare providers, it often fails to consider the unique characteristics and needs of individual patients. Consequently, this can lead to less effective disease management and an increased risk of adverse effects.
+
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong>Three Challenges</strong>
 
 Our objective is <strong>to develop a bespoke therapeutic platform</strong> to address three major challenges associated with human brain diseases.
