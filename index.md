@@ -55,7 +55,8 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
       <td style="width:11%"></td>
         <td style="width:11%"></td>
           <td style="width:11%"></td>
-            <td></td>
+            <td style="width:3%"></td>
+	      <td></td>
   </tr>
   <tr>
     <td style="background-color:#fcc200;"></td>
@@ -63,9 +64,11 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
         <td></td>
           <td></td>
             <td></td>
+	      <td></td>
   </tr>
   <tr>
-    <td colspan="4" style="width:40%" align="left"><strong>Patient-induced pluripotent stem cell (iPSC),</strong></td>
+    <td colspan="4" style="width:40%" align="left"><strong>Patient-induced pluripotent stem cell (iPSC)</strong></td>
+      <td></td>
         <td rowspan="2" align="left">facilitating the implementation of the 'Disease in a dish' model. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.</td>
   </tr>
   <tr style="height:110px">
@@ -73,6 +76,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
       <td></td>
         <td></td>
           <td></td>
+	    <td></td>
   </tr>
 	
   <tr>
@@ -81,17 +85,20 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
         <td></td>	
           <td></td>
             <td></td>
+	      <td></td>
   </tr>	
   <tr>
-    <td colspan="3" style="width:42%" align="Center"><strong>Brain organoid,</strong></td>
+    <td colspan="3" style="width:42%" align="Center"><strong>Brain organoid</strong></td>
       <td></td>
-        <td rowspan="2" align="left">often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments.</td>
+        <td></td>
+          <td rowspan="2" align="left">often described as "Mini-brain", a powerful tool in neuroscience, offering a unique window into the human brain's complexities, diseases, and potential treatments.</td>
   </tr>
   <tr style="height:110px">
     <td></td>	
       <td align="center">{% include icon.html icon="fa-solid fa-brain" %}</td>
         <td></td>
           <td></td>
+	    <td></td>
   </tr>
   
   <tr>
@@ -100,17 +107,20 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
         <td style="background-color:#FF3EA5;"></td>
           <td></td>
             <td></td>
+	      <td></td>
   </tr>
   <tr>
     <td></td>
-      <td colspan="3" style="width:42%" align="center"><strong>High-resolution live cell imaging,</strong></td>
-        <td rowspan="2" align="left">a technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions.</td>
+      <td colspan="3" style="width:42%" align="center"><strong>High-resolution live cell imaging</strong></td>
+        <td></td>
+          <td rowspan="2" align="left">a technique used in cell biology to study living cells using time-lapse microscopy. This technology allows scientists to observe the dynamic processes and behavior of cells in real-time, providing valuable insights into cellular function, morphology, and interactions.</td>
   </tr>
   <tr style="height:110px">
     <td></td>
       <td></td>
         <td align="center">{% include icon.html icon="fa-solid fa-photo-film" %}</td>
 	  <td></td>
+	    <td></td>
   </tr>
   
   <tr>
@@ -119,16 +129,19 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
         <td style="background-color:#FF3EA5;"></td>
           <td style="background-color:#8db600;"></td>
             <td></td>
+	      <td></td>
   </tr>
   <tr>
-    <td></td><td colspan="3" style="width:42%" align="right"><strong>Artificial intelligence (AI),</strong></td>
-    <td rowspan="2" align="left">harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.</td>
+    <td></td><td colspan="3" style="width:42%" align="right"><strong>Artificial intelligence (AI)</strong></td>
+      <td></td>
+        <td rowspan="2" align="left">harnessed to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.</td>
   </tr>
   <tr style="height:110px">
     <td></td>
       <td></td>
         <td></td>
           <td align="center">{% include icon.html icon="fa-solid fa-share-nodes" %}</td>
+	    <td></td>
   </tr>
 </table>
 
