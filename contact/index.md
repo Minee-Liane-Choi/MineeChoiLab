@@ -7,8 +7,6 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope-open" %}Contact
 
-{% include videobg.html %}
-
 <table align="left">
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-solid fa-user-secret" %}</td>
