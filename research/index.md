@@ -10,7 +10,7 @@ links:
   research-gate: Minee-Liane-Choi-2
 ---
 
-# {% include icon.html icon="fa-brands fa-researchgate" %}Publications
+# {% include icon.html icon="fa-solid fa-layer-group" %}Publications
 
 We post our published works on this page. You can also find additional information about our research activities via the links below.
 
