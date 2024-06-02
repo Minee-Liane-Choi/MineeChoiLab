@@ -1,6 +1,6 @@
 ---
 name: JeongYoon Nam
-image: images/team/student.jpg
+image: images/team/jeonyoon-nam.jpg
 role: undergrad
 links:
   email:
