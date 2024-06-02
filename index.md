@@ -145,7 +145,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   </tr>
 </table>
 
-### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong>Five-fold Enhancement in Human Brain Repair</strong>
+### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong>Five-fold Enhancement in Human Brain Repairability</strong>
 
 A Recent Breakthrough : AI-based Prediction of Disease State and Cellular Subtypes in Parkinson's Disease (PD)
 
