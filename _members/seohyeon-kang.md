@@ -1,6 +1,6 @@
 ---
 name: SeoHyeon Kang
-image: images/team/student.jpg
+image: images/team/seohyeon-kang.jpg
 role: undergrad
 links:
   email:
