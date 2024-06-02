@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Team {{ site.team }} comprises individuals committed to "LIBERTY, DIVERSITY, EQUALITY, COMPASSION, and most importantly COLLABORATION". We firmly oppose and renounce any form of outdated and inflexible thinking, attitudes and personalities against the principles we value.
+Team {{ site.team }} comprises talented individuals committed to "LIBERTY, DIVERSITY, EQUALITY, COMPASSION, and most importantly COLLABORATION". We firmly oppose and renounce any form of outdated and inflexible thinking, attitudes, and personalities that contradict the principles we value. Do you?
 
 {% include button.html icon="fa-solid fa-door-open" text="Join the Team" link="contact" style="button" %}
 
