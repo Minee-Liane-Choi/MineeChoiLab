@@ -1,6 +1,6 @@
 ---
 name: Ian Choi
-image: images/team/ian-choi.jpg
+image: images/team/brepair/ian-choi.jpg
 role: undergrad
 links:
   email:
