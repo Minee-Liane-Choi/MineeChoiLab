@@ -17,7 +17,7 @@ The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institut
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong>Two Sides of 'One-Size-Fits-All' Approach</strong>
 
-The most common therapeutics in neurodegenerative diseases, such as Dopamine Agonists and Levodopa, follow a one-size-fits-all approach. This approach applies the same treatment regimen to all patients with a particular condition, regardless of individual differences. While this method <strong>simplifies the treatment process</strong>, making it easier to standardise care and ensure consistency across different healthcare providers, it often fails to account for the unique characteristics and needs of individual patients. As a result, this can lead to <strong>less effective disease management and an increased risk of adverse effects</strong>, highlighting the need for personalised medicine.
+The most common therapeutics in neurodegenerative diseases, such as Dopamine Agonists and Levodopa, follow a one-size-fits-all approach. This approach applies the same treatment regimen to all patients with a particular condition, regardless of individual differences. While <strong>this method simplifies the treatment process</strong>, making it easier to standardise care and ensure consistency across different healthcare providers, it often fails to account for the unique characteristics and needs of individual patients. As a result, this can lead to <strong>less effective disease management and an increased risk of adverse effects</strong>, highlighting the need for personalised medicine.
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong>Three Challenges</strong>
 
