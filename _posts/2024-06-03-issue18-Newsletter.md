@@ -1,5 +1,5 @@
 ---
-title: News Letter of the College of Natural Sciences
+title: Newsletter of the College of Natural Sciences
 author: soren-lorenson
 tags: Publication
 ---
