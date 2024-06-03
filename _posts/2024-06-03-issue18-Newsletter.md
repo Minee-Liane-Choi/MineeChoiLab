@@ -1,5 +1,5 @@
 ---
-title: Newsletter of the College of Natural Sciences
+title: Our Story in the College Newsletter
 author: soren-lorenson
 tags: Publication
 ---
