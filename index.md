@@ -10,16 +10,16 @@ carousels:
 
 ## {% include icon.html icon="fa-solid fa-lock-open" %}Finding New Keys to the Deadlock of Human Brain Disorders
 
-### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong>One Goal</strong>
+### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>One</pink> <blue>Goal</blue></strong>
 
 The {{ site.title }} Lab is a team of researchers at the Korea Advanced Institute of Science and Technology (KAIST) dedicated to making brain diseases more curable than yesterday. The primary aspiration of this endeavor is <strong>to foster a more profound understanding of the molecular and cellular origins of Neuro-Degenerative, -Psychological & -Developmental diseases & disorders</strong>, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
 <br>
 
-### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong>Two Sides of 'One-Size-Fits-All' Approach</strong>
+### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Two</pink> <blue>Sides of 'One-Size-Fits-All' Approach</blue></strong>
 
 The most common therapeutics in neurodegenerative diseases, such as Dopamine Agonists and Levodopa, follow a 'one-size-fits-all' approach. This approach applies the same treatment regimen to all patients with a particular condition, regardless of individual differences. While <strong>this method simplifies the treatment process</strong>, making it easier to standardise care and ensure consistency across different healthcare providers, it often fails to account for the unique characteristics and needs of individual patients. As a result, <strong>this can lead to less effective disease management and an increased risk of adverse effects</strong>, highlighting the need for personalised medicine.
 
-### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong>Three Challenges</strong>
+### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Three</pink> <blue>Challenges</blue></strong>
 
 Our mid-term objective is <strong>to develop a bespoke therapeutic platform that addresses three major challenges</strong> associated with human brain diseases.
 
@@ -45,7 +45,7 @@ Our mid-term objective is <strong>to develop a bespoke therapeutic platform that
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
 
-### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong>Four Powerful Keys</strong>
+### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Four</pink> <blue>Powerful Keys</blue></strong>
 
 Our therapeutic platform is underpinned by four pivotal technological advances.
 
@@ -145,7 +145,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   </tr>
 </table>
 
-### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong>Five-fold Enhancement in Human Brain Repairability</strong>
+### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Five</pink><blue>-fold Enhancement in Human Brain Repairability</blue></strong>
 
 A Recent Breakthrough : AI-based Prediction of Disease State and Cellular Subtypes in Parkinson's Disease (PD)
 
