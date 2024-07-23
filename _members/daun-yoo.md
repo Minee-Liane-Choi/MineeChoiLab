@@ -1,7 +1,7 @@
 ---
 name: DaUn Yoo
 image: images/team/brepair/daun-yoo.jpg
-role: msphd
+role: mhd
 links:
   email:
   orcid:
