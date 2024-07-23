@@ -1,7 +1,7 @@
 ---
 name: YuChae Lee
 image: images/team/brepair/yuchae-lee.jpg
-role: associate
+role: msphd
 links:
   email:
   orcid:
