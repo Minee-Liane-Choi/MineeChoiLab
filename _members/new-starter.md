@@ -1,6 +1,6 @@
 ---
 name: New Starter
-image: images/team/starter.jpg
+image: images/team/intern.jpg
 role: intern
 links:
   email:
