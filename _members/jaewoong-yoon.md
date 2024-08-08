@@ -1,5 +1,5 @@
 ---
-name: New Starter
+name: JaeWoong Yoon
 image: images/team/intern.jpg
 role: intern
 links:
