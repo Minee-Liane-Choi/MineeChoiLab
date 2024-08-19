@@ -118,7 +118,7 @@
     - Alpha-Synuclein
     
 - id: doi:10.1073/pnas.1524128113
-  image: https://www.pnas.org/cms/asset/d315b125-8244-4846-b7a6-ae56c58dbfbe/pnas.2016.113.issue-9.largecover.png
+  image: https://www.pnas.org/cms/asset/a462bb9e-4343-4e0d-a824-4b8b4eaf50c2/pnas.2016.113.issue-7.cover.gif
   tags:
     - Parkinson's
     - Alpha-Synuclein
@@ -151,7 +151,7 @@
     - 1st Author
 
 - id: doi:10.1126/science.1173215
-  image: https://www.science.org/cms/asset/8eb1c9f8-04ac-4c70-ad0c-c655561acdf6/science.2009.325.issue-5937.largecover.jpg
+  image: https://www.science.org/cms/asset/408abee2-8833-410f-b2fb-8c7815bc0df4/science.2009.325.issue-5937.largecover.jpg
   tags:
     - Neurogenesis
     - Learning Memory
