@@ -14,4 +14,4 @@ links:
 
 <strong>Report To:</strong> Minee Choi <br>
 
-<strong>Duration:</strong> Jan 2024 - Present
+<strong>Duration:</strong> Spring & Winter terms, 2023
