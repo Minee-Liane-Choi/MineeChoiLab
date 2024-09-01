@@ -14,4 +14,4 @@ links:
 
 <strong>Report To:</strong> EunJin Yang <br>
 
-<strong>Duration:</strong> Jan - Feb, 2024
+<strong>Duration:</strong> Winter break, 2023
