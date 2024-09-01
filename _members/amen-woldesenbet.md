@@ -14,4 +14,4 @@ links:
 
 <strong>Report To:</strong> Minee Choi <br>
 
-<strong>Duration:</strong> Mar 2024 - Present
+<strong>Duration:</strong> Spring ter, 2024
