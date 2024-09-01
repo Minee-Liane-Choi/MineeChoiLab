@@ -14,4 +14,4 @@ links:
 
 <strong>Report To:</strong> Minee Choi <br>
 
-<strong>Duration:</strong> Winter term, 2022 - Present
+<strong>Duration:</strong> Winter term, 2023 - Present
