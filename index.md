@@ -22,7 +22,7 @@ carousels:
   
 </ol>
 
-<iframe width="560" height="315" src="https://youtu.be/tGAAIi8KsvI?si=_5wpF0ZxwF04Al7X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tGAAIi8KsvI?si=pVYHdJKArDnkUnr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {% include section.html dark=false size="80%" %}
 
