@@ -83,7 +83,7 @@ links:
   </tr>
   <tr style="font-size: 12px; background-color:LightGray;">
     <td>2010</td>
-    <td align="Left"><strong>3.	Cambridge Parry Dutton Student Fund Award</strong>, University of Cambridge, UK</td>
+    <td align="Left"><strong>Cambridge Parry Dutton Student Fund Award</strong>, University of Cambridge, UK</td>
   </tr>  
   <tr style="font-size: 12px;">
     <td>2010</td>
