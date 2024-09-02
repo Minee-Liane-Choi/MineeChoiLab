@@ -12,4 +12,6 @@ All members of Team {{ site.team }} attended the 15th Annual Conference of the N
 
 {% include figure.html image="images/archive/2024-07-Conference2.jpg" link="images/archive/2024-07-Conference2.jpg" caption="" %}
 
+{% include figure.html image="images/archive/2024-07-Conference2.jpg" link="images/archive/2024-07-Conference2.jpg" caption="" %}
+
 {% endcapture %}
