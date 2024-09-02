@@ -4,7 +4,7 @@ author: soren-lorenson
 tags: BRePAIR
 ---
 
-All members of Team {{ site.team }} attended the 15th Annual Conference of the Neurodevelopment Division, the Korean Society for Molecular and Cellular Biology held in Busan.
+All members of Team {{ site.team }} attended the 15th annual conference of the KSMCB Neurodevelopment Division, a division of the Korean Society for Molecular and Cellular Biology, held in Busan.
 
 {% capture content %}
 
