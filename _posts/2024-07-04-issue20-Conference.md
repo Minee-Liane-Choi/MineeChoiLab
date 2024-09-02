@@ -1,4 +1,4 @@
-All members of the BR lab attended the 15th Annual Conference of the Neurodevelopment Division of the Korean Society for Molecular and Cellular Biology
+All members of Team {{ site.team }} attended the 15th Annual Conference of the Neurodevelopment Division, the Korean Society of Molecular and Cellular Biology held in Busan.
 
 {% capture content %}
 
