@@ -13,3 +13,5 @@ Team {{ site.team }}, together with Prof. Jimin Park's, showcased our prototype 
 {% include figure.html image="images/archive/2024-08-KIPrototype2.jpg" link="images/archive/2024-08-KIPrototype2.jpg" caption="" %}
 
 {% endcapture %}
+
+{% include grid.html content=content style="square" %}
