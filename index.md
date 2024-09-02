@@ -8,6 +8,11 @@ carousels:
     - image: /images/carousel/DA neurons_Hoechst_asyn_MAP2_1_all_edited.png
 ---
 
+## {% include icon.html icon="fa-solid fa-lock-open" %}Who we are
+The {{ site.title }} Lab study diseases of the nervous system, focusing on Parkinson’s diseaes and Dementia. These diseases are challenging to treat due to the difficulty of accessing the diseased brain and their individual heterogeneity. To overcome the inherent limitations of studying brain disorders, we use human stem cells generated from real patients (hiPSC). This approach allows us to profile the diseased state of a patient's individual brain cells and identifying mechanistic subtypes using a 'disease-in-a-dish' paradigm. By utilizing patient-derived iPSCs, our overarching goal is to develop a preclinical testbed for brain disorders. We also employ AI to predict the most suitable drug combinations for individual patients’ pathological and cellular subtypes, thereby overcoming the limitations of biological experiments in accurately capturing the heterogeneity of diseases.
+
+{{ site.title }} 연구실은 인간 뇌질환의 난제를 해결하기 위해, 뇌질환 치료제 전임상 테스트베드 개발을 위한 연구를 하고 있습니다. 이를 위해 뇌질환 환자 역분화 줄기 세포 (hiPSC)를 표적 뇌세포 또는 뇌-오가노이드로 분화시켜, 환자 개인의 뇌 세포 질병상태를 프로파일링하고, 그에 맞는 기전적 하위 유형을 찾는 ‘접시 속의 질병’ 패러다임을 사용합니다. 또한 생물학적 실험 관측만으로는 질병의 이질성을 정확하게 포착못하는 현재의 한계를 극복하기 위해 인공지능을 활용함으로써 개인 환자의 발병 인자에 가장 적합한 약물 조합을 예측합니다.
+
 ## {% include icon.html icon="fa-solid fa-lock-open" %}Finding New Keys to the Deadlock of Human Brain Disorders
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>One</pink> <blue>Goal</blue></strong>
