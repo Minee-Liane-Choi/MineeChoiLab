@@ -1,3 +1,8 @@
+---
+title: KAIST-Chang Gung University workshop
+author: soren-lorenson
+tags: Seminar
+---
 Minee attended the KAIST-Chang Gung University workshop in Taiwan.
 
 {% capture content %}
