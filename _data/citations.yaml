@@ -1,5 +1,121 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.02.26.582055
+  title: Alpha-synuclein aggregates trigger anti-viral immune pathways and RNA editing
+    in human astrocytes
+  authors:
+  - "Karishma D\u2019Sa"
+  - Minee L. Choi
+  - Aaron Z. Wagen
+  - "N\xFAria Set\xF3-Salvia"
+  - Olga Kopach
+  - James R. Evans
+  - Margarida Rodrigues
+  - Patricia Lopez-Garcia
+  - Ali Ghareeb
+  - James Bayne
+  - Melissa Grant-Peters
+  - Sonia Garcia-Ruiz
+  - Zhongbo Chen
+  - Samuel Rodriques
+  - Dilan Athauda
+  - Emil Gustavsson
+  - Sarah A. Gagliano Taliun
+  - Regina H. Reynolds
+  - George Young
+  - Stephanie Strohbuecker
+  - Tom Warner
+  - Dmitri A. Rusakov
+  - Rickie Patani
+  - Clare Bryant
+  - David A. Klenerman
+  - Sonia Gandhi
+  - Mina Ryten
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-02-28'
+  link: https://doi.org/gt82tp
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+  tags:
+  - Parkinson's
+  - hiPSC
+  - 1st Author
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.05.30.596437
+  title: The diversity of<i>SNCA</i>transcripts in neurons, and its impact on antisense
+    oligonucleotide therapeutics
+  authors:
+  - James R. Evans
+  - Emil K. Gustavsson
+  - Ivan Doykov
+  - David Murphy
+  - Gurvir S. Virdi
+  - Joanne Lachica
+  - "Alexander R\xF6ntgen"
+  - Mhd Hussein Murtada
+  - Chun Wei Pang
+  - Hannah Macpherson
+  - Anna I. Wernick
+  - Christina E. Toomey
+  - Dilan Athauda
+  - Minee L. Choi
+  - John Hardy
+  - Nicholas W. Wood
+  - Michele Vendruscolo
+  - Kevin Mills
+  - Wendy Heywood
+  - Mina Ryten
+  - Sonia Gandhi
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-05-31'
+  link: https://doi.org/gt82tq
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+  tags:
+  - Parkinson's
+  - hiPSC
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2024.02.28.582460
+  title: "GLP1 receptor agonism ameliorates Parkinson\u2019s disease through modulation\
+    \ of neuronal insulin signalling and glial suppression"
+  authors:
+  - Dilan Athauda
+  - James R Evans
+  - Laura Mahoney-Sanchez
+  - Gurvir S Virdi
+  - Patricia Lopez-Garcia
+  - Anna Wernick
+  - Aaron Wagen
+  - "Karishma D\u2019Sa"
+  - Joanne Lachica
+  - Stephanie Strohbuecker
+  - Giulia Vecchi
+  - Craig Leighton
+  - Rebecca S. Saleeb
+  - "Judi O\u2019Shaughnessy"
+  - Christina E. Toomey
+  - Nirosen Vijiaratnam
+  - Christine Girges
+  - Yazhou Li
+  - Maja Mustapic
+  - Khalida Ismail
+  - Melanie Davies
+  - Dimitrios Kapogiannis
+  - Minee L Choi
+  - Mina Ryten
+  - Mathew H. Horrocks
+  - Nigel Greig
+  - Thomas Foltynie
+  - Sonia Gandhi
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-02-28'
+  link: https://doi.org/gt82tr
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+  tags:
+  - Parkinson's
+  - hiPSC
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s42256-023-00702-9
   title: "Prediction of mechanistic subtypes of Parkinson\u2019s using patient-derived\
     \ stem cell models"
