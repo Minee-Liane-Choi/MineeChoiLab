@@ -1,3 +1,22 @@
+- id: doi:10.1101/2024.02.26.582055
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+  tags:
+    - Parkinson's
+    - hiPSC
+    - 1st Author
+    
+- id: doi:10.1101/2024.05.30.596437
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+  tags:
+    - Parkinson's
+    - hiPSC
+
+- id: doi:10.1101/2024.02.28.582460
+  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+  tags:
+    - Parkinson's
+    - hiPSC
+
 - id: doi:10.1038/s42256-023-00702-9
   image: https://media.springernature.com/w440/springer-static/cover-hires/journal/42256/5/8
   tags:
