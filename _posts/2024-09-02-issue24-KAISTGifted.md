@@ -1,5 +1,5 @@
 ---
-title: KAIST Gifted Talk
+title: KAIST Gifted Question Loft
 author: soren-lorenson
 tags: Publication
 ---
