@@ -4,7 +4,7 @@ author: soren-lorenson
 tags: BRePAIR
 ---
 
-Team {{ site.team }}, together with Prof. Jimin Park's, showcased our prototype brain-machine interface for dimentia patients at the 2024 KI Prototype Day.
+Team {{ site.team }}, together with Prof. Jimin Park's team, showcased our prototype brain-machine interface for dimentia patients at the 2024 KI Prototype Day.
 
 {% capture content %}
 
