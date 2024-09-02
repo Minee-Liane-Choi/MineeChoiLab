@@ -1,6 +1,6 @@
 ---
 name: JaeWoong Yoon
-image: images/team/intern.jpg
+image: images/archive/0000-00-BR.jpg
 role: interx
 links:
   email:
