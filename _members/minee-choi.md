@@ -34,11 +34,11 @@ links:
   </tr>  
   <tr style="font-size: 12px;">
     <td>2024-Present</td>
-    <td align="Left"><strong>Adjunct Professor</strong>, Graduate School of Stem Cell and Regenerative Biology, KAIST, South Korea</td>
+    <td align="Left"><strong>Adjunct Professor</strong>, Graduate School of Stem Cell and Regenerative Biology, KAIST, Korea</td>
   </tr>
   <tr style="font-size: 12px; background-color:LightGray;">
     <td>2023-Present</td>
-    <td align="Left"><strong>Assistant Professor</strong>, Department of Brain and Cognitive Sciences, KAIST, South Korea</td>
+    <td align="Left"><strong>Assistant Professor</strong>, Department of Brain and Cognitive Sciences, KAIST, Korea</td>
   </tr>  
   <tr style="font-size: 12px;">
     <td>2023-Present</td>
@@ -67,6 +67,35 @@ links:
   <tr style="font-size: 12px;">
     <td>2008-2013 </td>
     <td align="Left"><strong>PhD in Clinical Neurosciences</strong>, University of Cambridge, UK</td>
+  </tr>
+</table>
+
+<strong>Honours & Awards</strong>
+
+<table>
+  <tr style="font-size: 12px; background-color:LightGray;">
+    <td>2024</td>
+    <td align="Left"><strong>KAIST Outstanding Lecture Award </strong>, KAIST, Korea</td>
+  </tr>  
+  <tr style="font-size: 12px;">
+    <td>2023</td>
+    <td align="Left"><strong>KAIST Q-DAY Special Prize </strong>, KAIST, Korea</td>
+  </tr>
+  <tr style="font-size: 12px; background-color:LightGray;">
+    <td>2010</td>
+    <td align="Left"><strong>3.	Cambridge Parry Dutton Student Fund Award</strong>, University of Cambridge, UK</td>
+  </tr>  
+  <tr style="font-size: 12px;">
+    <td>2010</td>
+    <td align="Left"><strong>Imogen Rose Prize</strong>, University of Cambridge, UK</td>
+  </tr>
+  <tr style="font-size: 12px; background-color:LightGray;">
+    <td>2008-2012</td>
+    <td align="Left"><strong>Cambridge Overseas Trust</strong>, University of Cambridge, UK</td>
+  </tr>  
+  <tr style="font-size: 12px;">
+    <td>2008</td>
+    <td align="Left"><strong>Mogam Overseas Student Fund Award</strong>, Mogam Foundation, Korea</td>
   </tr>
 </table>
 
