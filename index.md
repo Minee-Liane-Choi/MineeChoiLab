@@ -22,8 +22,6 @@ The {{ site.title }} Lab studies diseases of the nervous system, focusing on Par
   
 </ol>
 
-● 환자 유래 줄기 세포 뇌 오가노이드 기반 뇌질환 치료제 전임상 테스트베드 개발
-● 퇴행성 뇌질환 핵심 병리 기전 연구; 뇌세포 사멸, 단백질 응집, 미토콘드리아 기능 장애
 
 ## {% include icon.html icon="fa-solid fa-lock-open" %}Finding New Keys to the Deadlock of Human Brain Disorders
 
