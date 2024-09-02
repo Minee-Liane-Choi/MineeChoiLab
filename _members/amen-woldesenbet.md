@@ -14,4 +14,4 @@ links:
 
 <strong>Report To:</strong> Minee Choi <br>
 
-<strong>Duration:</strong> Spring ter, 2024
+<strong>Duration:</strong> Spring term, 2024
