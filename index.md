@@ -22,6 +22,7 @@ The {{ site.title }} Lab studies diseases of the nervous system, focusing on Par
   
 </ol>
 
+{% include section.html dark=false size="80%" %}
 
 ## {% include icon.html icon="fa-solid fa-lock-open" %}Finding New Keys to the Deadlock of Human Brain Disorders
 
