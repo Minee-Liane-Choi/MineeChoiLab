@@ -5,4 +5,4 @@ tags: Seminar
 ---
 Minee is going to deliver a keynote speech on the potential of generative AI in English education at National Assembly of Korea.
 
-{% include figure.html image="images/archive/2024-09-KeynoteSpeech.jpg" link="https://n.news.naver.com/article/011/0004386284?sid=101" %}
+{% include figure.html image="images/archive/2024-09-KeynoteSpeed.jpg" link="https://n.news.naver.com/article/011/0004386284?sid=101" %}
