@@ -8,8 +8,8 @@ Team {{ site.team }}, together with Prof. Jimin Park's, showcased our prototype 
 
 {% capture content %}
 
-{% include figure.html image="images/archive/2024-08-KIShow1.jpg" link="images/archive/2024-08-KIShow1.jpg" caption="" %}
+{% include figure.html image="images/archive/2024-08-KIPrototype1.jpg" link="images/archive/2024-08-KIPrototype1.jpg" caption="" %}
 
-{% include figure.html image="images/archive/2024-08-KIShow2.jpg" link="images/archive/2024-08-KIShow2.jpg" caption="" %}
+{% include figure.html image="images/archive/2024-08-KIPrototype2.jpg" link="images/archive/2024-08-KIPrototype2.jpg" caption="" %}
 
 {% endcapture %}
