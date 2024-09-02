@@ -1,5 +1,5 @@
 ---
-title: Keynote speech at the National Assembly of Korea
+title: Keynote Speech at the National Assembly of Korea
 author: soren-lorenson
 tags: Seminar
 ---
