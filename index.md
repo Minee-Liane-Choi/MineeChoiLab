@@ -28,7 +28,7 @@ carousels:
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>One</pink> <blue>Goal</blue></strong>
 
-The {{ site.title }} Lab is dedicated to making brain diseases more curable than yesterday. The primary aspiration of this endeavor is <strong>to foster a more profound understanding of the molecular and cellular origins of Neuro-Degenerative, -Psychological & -Developmental diseases & disorders</strong>, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
+We are dedicated to making brain diseases more curable than yesterday. The primary aspiration of this endeavor is <strong>to foster a more profound understanding of the molecular and cellular origins of Neuro-Degenerative, -Psychological & -Developmental diseases & disorders</strong>, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
 <br>
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Two</pink> <blue>Faces of 'One-Size-Fits-All' Approach</blue></strong>
