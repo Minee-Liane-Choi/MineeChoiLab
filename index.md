@@ -10,6 +10,13 @@ carousels:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tGAAIi8KsvI?si=pVYHdJKArDnkUnr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<div style="width: 100%; min-width: 400px; max-width: 800px;">
+<div style="position: relative; width: 100%; overflow: hidden; padding-top: 56.25%;">
+<p><iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/tGAAIi8KsvI?si=pVYHdJKArDnkUnr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+</div>
+</div>
+
 ## {% include icon.html icon="fa-solid fa-people-group" %}The {{ site.title }} is ...
 ... a team of researchers at KAIST studying diseases of the nervous system, focusing on Parkinson’s diseaes and Dementia. These diseases are challenging to treat due to the difficulty of accessing the diseased brain and their individual heterogeneity. To overcome the inherent limitations of studying brain disorders, we use human stem cells generated from real patients (hiPSC). This approach allows us to profile the diseased state of a patient's individual brain cells and identifying mechanistic subtypes using a 'disease-in-a-dish' paradigm. By utilizing patient-derived iPSCs, <strong>our overarching goal is to develop a preclinical testbed for brain disorders</strong>. We also employ AI to predict the most suitable drug combinations for individual patients’ pathological and cellular subtypes, thereby overcoming the limitations of biological experiments in accurately capturing the heterogeneity of diseases.
 
