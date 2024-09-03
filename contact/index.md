@@ -21,17 +21,19 @@ nav:
                      291 Daehak-ro <br>
                      Yuseong-gu, Daejeon <br>
                      South Korea </td>
-    <td rowspan="3"><img align="right" src= 
+    <td rowspan="1"><img align="right" src= 
 "/images/archive/0000-00-drNubzuki.jpg" 
-                alt="" width="300"></td>
+                alt="" width="200"></td>
   </tr>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-regular fa-envelope" %}</td>
     <td align="Left">minee.choi@kaist.ac.kr</td>
+    <td></td>
   </tr>  
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-solid fa-phone" %}</td>
     <td align="Left">+82 (0)42-350-6516</td>
+    <td></td>
   </tr>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-regular fa-compass" %}</td>
