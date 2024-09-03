@@ -184,7 +184,7 @@ Taiwan
 
 {% capture col3 %}
 <p style="font-size: 13px; color: #0ea5e9;">
-Graduate School of Stem Cell and Regenerative Biology <br>
+Graduate School of Stem Cell & Regenerative Biology<br>
 KAIST <br>
 South Korea
 </p>
