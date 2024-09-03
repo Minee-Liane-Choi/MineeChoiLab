@@ -21,7 +21,10 @@ nav:
                      291 Daehak-ro <br>
                      Yuseong-gu, Daejeon <br>
                      South Korea </td>
-    <td rowspan="3"><img style="display:block;" width="100%" height="100%" src="images/archive/0000-00-drNubzuki.jpg"></td>
+    <td rowspan="3"><img src= 
+"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" 
+                alt="GFG Logo" width="100" 
+                height="100"></td>
   </tr>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-regular fa-envelope" %}</td>
