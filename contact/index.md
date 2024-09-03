@@ -12,7 +12,7 @@ nav:
     <td>{% include icon.html icon="fa-solid fa-user-secret" %}</td>
     <td align="Left" style="width:35%" >Prof. Minee Choi</td>
     <td rowspan="4">
-      <a href="https://brandkaist.com/product-category/accessories/page/3/" target="_blank"> <img align="middle" src= "/images/archive/0000-00-drNubzuki.jpg" alt="Dr Nubzuki" width="300" /></a>    
+      <a href="https://brandkaist.com/product-category/accessories/page/3/" target="_blank"> <img align="middle" src= "/images/archive/0000-00-drNubzuki.jpg" alt="" width="300" /></a>    
     </td>
   </tr>
   <tr style="font-size: 16px;">
