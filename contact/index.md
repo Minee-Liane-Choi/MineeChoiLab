@@ -14,7 +14,7 @@ nav:
     <td align="right" rowspan="4">
       Welcome to the {{ site.title }} lab. <br>
       {{ site.title }} 연구실에 오신 것을 환영합니다. <br>
-      <a href="https://brandkaist.com/product-category/accessories/page/3/" target="_blank"> <img align="right" src= "/images/archive/0000-00-drNubzuki.jpg" alt="" width="300" /></a>    
+      <a href="https://brandkaist.com/product-category/accessories/page/3/" target="_blank"> <img align="right" src= "/images/archive/0000-00-drNubzuki.jpg" alt="" width="250" /></a>    
     </td>
   </tr>
   <tr style="font-size: 16px;">
