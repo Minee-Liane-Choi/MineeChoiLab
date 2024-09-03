@@ -21,7 +21,7 @@ nav:
                      291 Daehak-ro <br>
                      Yuseong-gu, Daejeon <br>
                      South Korea </td>
-    <td rowspan="3"><img src= 
+    <td rowspan="3"><img align="right" src= 
 "/images/archive/0000-00-drNubzuki.jpg" 
                 alt="" width="300"></td>
   </tr>
