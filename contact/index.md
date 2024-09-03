@@ -153,6 +153,11 @@ UK
 
 {% capture col3 %}
 
+{%
+  include figure.html
+  image="images/contact/ssr.jpg"
+  link=""
+%}
 
 {% endcapture %}
 
@@ -177,7 +182,11 @@ Taiwan
 
 {% capture col3 %}
 <p style="font-size: 13px; color: #0ea5e9;">
-
+Graduate School of Stem Cell and Regenerative Biology <br>
+Korea Advanced Institute of Science and Technology (KAIST) <br>
+291 Daehak-ro <br>
+Yuseong-gu, Daejeon <br>
+South Korea
 </p>
 {% endcapture %}
 
