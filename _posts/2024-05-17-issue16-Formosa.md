@@ -4,7 +4,7 @@ author: soren-lorenson
 tags: BRePAIR
 ---
 
-Her Excellency Sandy Wang, the Chairman of Formosa Group, along with executives from Formosa Group, made an official visit to the KAIST BCS.
+Her Excellency Sandy Wang, the Chairman of Formosa Group, along with Formosa executives, made an official visit to the KAIST BCS.
 
 {% capture content %}
 
