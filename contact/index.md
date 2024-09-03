@@ -155,7 +155,7 @@ UK
 
 {%
   include figure.html
-  image="images/contact/ssr.jpg"
+  image="images/contact/scrb.jpg"
   link=""
 %}
 
