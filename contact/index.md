@@ -22,8 +22,8 @@ nav:
                      Yuseong-gu, Daejeon <br>
                      South Korea </td>
     <td rowspan="3"><img src= 
-"images/archive/2023-03-Colloquiym1.jpg" 
-                alt="GFG Logo" width="100" 
+"/images/archive/0000-00-drNubzuki.jpg" 
+                alt="" width="100" 
                 height="100"></td>
   </tr>
   <tr style="font-size: 16px;">
