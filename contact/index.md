@@ -11,7 +11,7 @@ nav:
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-solid fa-user-secret" %}</td>
     <td align="Left" style="width:50%" >Prof. Minee Choi</td>
-    <td rowspan="4">{% include figure.html image="images/archive/0000-00-Swashbuckle.jpg" caption="Welcome to BRePAIR" link="" width="200px" %}</td>
+    <td rowspan="4">{% include figure.html image="images/archive/0000-00-drNubzuki.jpg" caption="" link="" width="200px" %}</td>
   </tr>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-regular fa-building" %}</td>
