@@ -10,8 +10,8 @@ nav:
 <table align="left">
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-solid fa-user-secret" %}</td>
-    <td align="Left" style="width:50%" >Prof. Minee Choi</td>
-    <td rowspan="4">{% include figure.html image="images/archive/0000-00-drNubzuki.jpg" caption="" link="" width="200px" %}</td>
+    <td align="Left" style="width:55%" >Prof. Minee Choi</td>
+    <td rowspan="4">{% include figure.html image="images/archive/0000-00-drNubzuki.jpg" caption="" link="" width="300px" %}</td>
   </tr>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-regular fa-building" %}</td>
