@@ -11,11 +11,12 @@ nav:
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-solid fa-user-secret" %}</td>
     <td align="Left" style="width:55%" >Prof. Minee Choi</td>
-    <td rowspan="4">{% include figure.html image="images/archive/0000-00-drNubzuki.jpg" caption="" link="" width="300px" %}</td>
+    <td rowspan="4">{% include figure.html image="images/archive/0000-00-drNubzuki.jpg" caption="" link="" width="280px" %}</td>
   </tr>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-regular fa-building" %}</td>
-    <td align="Left">Room 4, 5F Meta Convergence building (W13) <br>
+    <td align="Left">Room 4 <br>
+                     5F Meta Convergence building (W13) <br>
                      Korea Advanced Institute of Science and Technology (KAIST) <br>
                      291 Daehak-ro <br>
                      Yuseong-gu, Daejeon <br>
