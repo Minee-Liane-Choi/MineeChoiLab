@@ -22,7 +22,7 @@ nav:
                      Yuseong-gu, Daejeon <br>
                      South Korea </td>
     <td rowspan="3"><img src= 
-"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png" 
+"images/archive/2023-03-Colloquiym1.jpg" 
                 alt="GFG Logo" width="100" 
                 height="100"></td>
   </tr>
