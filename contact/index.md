@@ -10,7 +10,7 @@ nav:
 <table align="left">
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-solid fa-user-secret" %}</td>
-    <td align="Left" style="width:55%" >Prof. Minee Choi</td>
+    <td align="Left" style="width:35%" >Prof. Minee Choi</td>
     <td rowspan="4"></td>
   </tr>
   <tr style="font-size: 16px;">
