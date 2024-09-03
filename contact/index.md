@@ -17,7 +17,7 @@ nav:
     <td>{% include icon.html icon="fa-regular fa-building" %}</td>
     <td align="Left">Room 4 <br>
                      5F Meta Convergence building (W13) <br>
-                     Korea Advanced Institute of Science and Technology (KAIST) <br>
+                     KAIST <br>
                      291 Daehak-ro <br>
                      Yuseong-gu, Daejeon <br>
                      South Korea </td>
@@ -104,7 +104,7 @@ The {{ site.title }} Lab is part of the Department of Brain and Cognitive Scienc
 <p style="font-size: 13px; color: #0ea5e9;">
 Department of Brain & Cognitive Sciences <br>
 5F Meta Convergence building (W13) <br>
-Korea Advanced Institute of Science and Technology (KAIST) <br>
+KAIST <br>
 291 Daehak-ro <br>
 Yuseong-gu, Daejeon <br>
 South Korea
