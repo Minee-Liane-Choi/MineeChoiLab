@@ -23,8 +23,7 @@ nav:
                      South Korea </td>
     <td rowspan="3"><img src= 
 "/images/archive/0000-00-drNubzuki.jpg" 
-                alt="" width="100" 
-                height="100"></td>
+                alt="" ></td>
   </tr>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-regular fa-envelope" %}</td>
