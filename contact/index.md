@@ -12,8 +12,8 @@ nav:
     <td>{% include icon.html icon="fa-solid fa-user-secret" %}</td>
     <td align="Left" style="width:35%" >Prof. Minee Choi</td>
     <td rowspan="4">
-      환영합니다.<br>
-      브레인 리페어 연구실입니다. <br>
+      Welcome to the {{ site.title }} lab. <br>
+      {{ site.title }} 연구실에 오신 것을 환영합니다. <br>
       <a href="https://brandkaist.com/product-category/accessories/page/3/" target="_blank"> <img align="right" src= "/images/archive/0000-00-drNubzuki.jpg" alt="" width="300" /></a>    
     </td>
   </tr>
