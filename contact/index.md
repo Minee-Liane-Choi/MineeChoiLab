@@ -11,7 +11,7 @@ nav:
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-solid fa-user-secret" %}</td>
     <td align="Left" style="width:35%" >Prof. Minee Choi</td>
-    <td rowspan="4"><img align="left" src= 
+    <td rowspan="4"><img align="center" src= 
 "/images/archive/0000-00-drNubzuki.jpg" 
                 alt="" width="300"></td>
   </tr>
