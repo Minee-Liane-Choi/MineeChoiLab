@@ -28,7 +28,7 @@ nav:
   </tr>  
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-solid fa-phone" %}</td>
-    <td align="Left">+82 (0)42-350-651</td>
+    <td align="Left">+82 (0)42-350-6516</td>
   </tr>
   <tr style="font-size: 16px;">
     <td>{% include icon.html icon="fa-regular fa-compass" %}</td>
