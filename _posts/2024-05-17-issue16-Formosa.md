@@ -41,4 +41,4 @@ Formosa Group, a leading Taiwanese conglomerate, primarily operates in the chemi
 
 <a href="https://www.mk.co.kr/news/it/11017135"> 대만 포모사그룹, 파킨슨 유전자치료제 개발 위해 KAIST 벤처에 투자​ </a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qV_4sJSkz3U?si=hAUf608uDJdm2W51" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qV_4sJSkz3U?si=hAUf608uDJdm2W51" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
