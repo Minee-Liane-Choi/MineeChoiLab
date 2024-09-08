@@ -1,5 +1,5 @@
 ---
-name: DaUn Yoo
+name: DaEun Yoo
 image: images/team/brepair/daun-yoo.jpg
 role: mhd
 links:
