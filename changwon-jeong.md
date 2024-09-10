@@ -1,5 +1,5 @@
 ---
-name: New Starter
+name: ChangWon Jeong
 image: images/team/starter.jpg
 role: mhd
 links:
