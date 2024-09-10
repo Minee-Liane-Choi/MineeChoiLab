@@ -1,7 +1,7 @@
 ---
 title: KI Prototype Day 2024
 author: soren-lorenson
-tags: BRePAIR
+tags: Prize
 ---
 
 Team {{ site.team }}, together with Prof. Jimin Park's research team, showcased our prototype brain-machine interface for dimentia patients at the KI Prototype Day 2024, and received the award for the best prototype.
