@@ -1,7 +1,7 @@
 ---
 title: Bon Voyage !!!
 author: soren-lorenson
-tags: BROI
+tags: BRØ1
 ---
 
 Team {{ site.team }} has set off on her hopeful voyage with Minee, EunJin and SeungJu onboard. <br>
