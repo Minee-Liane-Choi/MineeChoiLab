@@ -1,7 +1,7 @@
 ---
 title: KAIST-Formosa Partnership
 author: soren-lorenson
-tags: BRePAIR
+tags: BROI
 ---
 
 Her Excellency Sandy Wang, the Chairman of Formosa Group, along with Formosa executives, made an official visit to the KAIST BCS.
