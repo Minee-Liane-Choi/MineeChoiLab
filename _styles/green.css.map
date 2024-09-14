@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["green.scss"],"names":[],"mappings":"AAAA;EACE;EACA","sourcesContent":["red {\n  background: #0000;\n  color: #F70D1A;\n}\n"],"file":"green.css"}
