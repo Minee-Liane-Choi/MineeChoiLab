@@ -1,7 +1,7 @@
 ---
 title: Korea Science Festival 2024
 author: soren-lorenson
-tags: BRePAIR
+tags: BROI
 ---
 
 Team {{ site.team }} participated in the Korea Science Festival 2024 to present our research works to the public. Prof. HyeonJeong Suk (a.k.a Nubzuki's mum) and Prof. JaeKyoung Kim (a.k.a Dr. Sleep) also showcased fascinating AI products based on their research.
