@@ -1,7 +1,7 @@
 ---
 title: New Home, New Mojo, New Start !!!
 author: soren-lorenson
-tags: BROI
+tags: BRØ1
 ---
 
 Our much-anticipated relocation has now been completed. We cannot be more pleased to announce that our new home is situated at 5F, Meta Convergence Building (W13).
