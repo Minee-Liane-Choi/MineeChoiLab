@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["orangeinvt.scss"],"names":[],"mappings":"AAAA;EACE;EACA","sourcesContent":["orangeinvt {\n  background: #FF4500;\n  color: #FFFFFF;\n}\n"],"file":"orangeinvt.css"}
+{"version":3,"sourceRoot":"","sources":["orangeinvt.scss"],"names":[],"mappings":"AAAA;EACE;EACA","sourcesContent":["orangeinvt {\n  background: #FFD700;\n  color: #FFFFFF;\n}\n"],"file":"orangeinvt.css"}
