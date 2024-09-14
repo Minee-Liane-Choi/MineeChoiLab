@@ -10,7 +10,7 @@ Please be with us and bless our two extraordinary young scientists, EunJin and S
 {%
   include figure.html
   image="images/archive/0000-00-Swashbuckle.jpg"
-  caption="Bon Voyage to BRePAIR !!!"
+  caption="Bon Voyage !!!"
   link=""
   width="600px"
 %}
