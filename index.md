@@ -82,7 +82,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 	      <td></td>
   </tr>
   <tr>
-    <td style="background-color:#fcc200;"></td>
+    <td style="background-color:#0070ff;"></td>
       <td></td>
         <td></td>
           <td></td>
@@ -103,8 +103,8 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   </tr>
 	
   <tr>
-    <td style="background-color:#fcc200;"></td>
-      <td style="background-color:#0070ff;"></td>
+    <td style="background-color:#0070ff;"></td>
+      <td style="background-color:#FF3EA5;"></td>
         <td></td>	
           <td></td>
             <td></td>
@@ -125,9 +125,9 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   </tr>
   
   <tr>
-    <td style="background-color:#fcc200;"></td>
-      <td style="background-color:#0070ff;"></td>
-        <td style="background-color:#FF3EA5;"></td>
+    <td style="background-color:#0070ff;"></td>
+      <td style="background-color:#FF3EA5;"></td>
+        <td style="background-color:#fcc200;"></td>
           <td></td>
             <td></td>
 	      <td></td>
@@ -147,9 +147,9 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
   </tr>
   
   <tr>
-    <td style="background-color:#fcc200;"></td>
-      <td style="background-color:#0070ff;"></td>
-        <td style="background-color:#FF3EA5;"></td>
+    <td style="background-color:#0070ff;"></td>
+      <td style="background-color:#FF3EA5;"></td>
+        <td style="background-color:#fcc200;"></td>
           <td style="background-color:#8db600;"></td>
             <td></td>
 	      <td></td>
