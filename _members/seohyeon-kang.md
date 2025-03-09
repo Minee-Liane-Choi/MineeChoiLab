@@ -1,5 +1,5 @@
 ---
-name: SeoHyeon Kang
+name: Seohyeon Kang
 image: images/team/brepair/seohyeon-kang.jpg
 role: undergrad
 links:
