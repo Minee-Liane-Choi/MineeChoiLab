@@ -1,6 +1,6 @@
 ---
 name: DaEun Yoo
-image: images/team/brepair/daun-yoo.jpg
+image: images/team/brepair/daeun-yoo.jpg
 role: mhd
 links:
   email:
