@@ -20,35 +20,35 @@ chief:
 
 phd:
   icon: fa-solid fa-user-graduate
-  description: PhD Student
+  description: PhD
 
 phx:
   icon: fa-solid fa-user-graduate
-  description: Ex-PhD Student
+  description: Ex-PhD
 
 mhd:
   icon: fa-solid fa-user-graduate
-  description: MS/PhD Student
+  description: MS/PhD
 
 mhx:
   icon: fa-solid fa-user-graduate
-  description: Ex-MS/PhD Student
+  description: Ex-MS/PhD
   
 ms:
   icon: fa-solid fa-user-graduate
-  description: MS Student
+  description: MS
 
 mx:
   icon: fa-solid fa-user-graduate
-  description: Ex-MS Student
+  description: Ex-MS
 
 undergrad:
   icon: fa-solid fa-user-pen
-  description: Undergraduate Student
+  description: Undergraduate
 
 undergrax:
   icon: fa-solid fa-user-pen
-  description: Ex-Undergraduate Student
+  description: Ex-Undergraduate
 
 associate:
   icon: fa-solid fa-user-ninja
@@ -60,11 +60,11 @@ associatx:
 
 intern:
   icon: fa-solid fa-person-walking-luggage
-  description: Internship Student
+  description: Internship
 
 interx:
   icon: fa-solid fa-person-walking-luggage
-  description: Ex-Internship Student
+  description: Ex-Internship
 
 admin:
   icon: fa-solid fa-credit-card
