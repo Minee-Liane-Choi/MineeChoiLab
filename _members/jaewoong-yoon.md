@@ -1,5 +1,5 @@
 ---
-name: JaeWoong Yoon
+name: Jaewoong Yoon
 image: images/team/intern.jpg
 role: interx
 links:
