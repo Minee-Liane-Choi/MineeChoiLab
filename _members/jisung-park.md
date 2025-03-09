@@ -1,5 +1,5 @@
 ---
-name: JiSung Park
+name: Jisung Park
 image: images/team/brepair/jisung-park.jpg
 role: mhd
 links:
