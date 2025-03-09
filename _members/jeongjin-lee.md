@@ -1,5 +1,5 @@
 ---
-name: JeongJin Lee
+name: Jeongjin Lee
 image: images/team/intern.jpg
 role: interx
 links:
