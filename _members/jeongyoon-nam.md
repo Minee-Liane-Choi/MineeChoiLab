@@ -1,7 +1,7 @@
 ---
 name: JeongYoon Nam
 image: images/team/brepair/jeongyoon-nam.jpg
-role: undergrax
+role: undergrad
 links:
   email:
   orcid:
