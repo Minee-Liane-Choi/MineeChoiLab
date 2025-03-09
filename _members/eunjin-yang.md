@@ -1,7 +1,7 @@
 ---
 name: EunJin Yang
 image: images/team/brepair/eunjin-yang.jpg
-role: ms
+role: associate
 links:
   email:
   orcid:
