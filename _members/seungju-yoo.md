@@ -1,5 +1,5 @@
 ---
-name: SeungJu Yoo
+name: Seungju Yoo
 image: images/team/brepair/seungju-yoo.jpg
 role: associate
 links:
