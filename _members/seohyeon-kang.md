@@ -1,7 +1,7 @@
 ---
 name: SeoHyeon Kang
 image: images/team/brepair/seohyeon-kang.jpg
-role: undergrad
+role: undergrax
 links:
   email:
   orcid:
