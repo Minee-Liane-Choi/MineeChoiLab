@@ -1,5 +1,5 @@
 ---
-name: HyeonSeo Choi
+name: Hyeonseo Choi
 image: images/team/intern.jpg
 role: interx
 links:
