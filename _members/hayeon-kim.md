@@ -1,5 +1,5 @@
 ---
-name: HaYeon Kim
+name: Hayeon Kim
 image: images/team/brepair/hayeon-kim.jpg
 role: mhd
 links:
