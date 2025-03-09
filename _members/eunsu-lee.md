@@ -1,5 +1,5 @@
 ---
-name: Eunsu Lee
+name: EunSu Lee
 image: images/team/brepair/eunsu-lee.jpg
 role: intern
 links:
