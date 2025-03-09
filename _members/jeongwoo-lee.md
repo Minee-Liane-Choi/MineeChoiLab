@@ -1,5 +1,5 @@
 ---
-name: JeongWoo Lee
+name: Jeongwoo Lee
 image: images/team/brepair/jeongwoo-lee.jpg
 role: undergrad
 links:
