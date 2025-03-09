@@ -1,6 +1,6 @@
 ---
 name: ChangWon Jeong
-image: images/team/starter.jpg
+image: images/team/brepair/changwon-jung.jpg
 role: mhd
 links:
   email:
