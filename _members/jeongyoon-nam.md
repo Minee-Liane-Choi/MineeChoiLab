@@ -1,5 +1,5 @@
 ---
-name: JeongYoon Nam
+name: Jeongyoon Nam
 image: images/team/brepair/jeongyoon-nam.jpg
 role: undergrad
 links:
