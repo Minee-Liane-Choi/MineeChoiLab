@@ -16,6 +16,8 @@ links:
   link="projects"
 %}
 
+<strong>Lab Chief</strong> <br>
+
 <strong>Project:</strong> TBC <br>
 
 <strong>Report To:</strong> Minee Choi <br>
