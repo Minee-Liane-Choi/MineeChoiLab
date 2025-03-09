@@ -1,7 +1,7 @@
 ---
 name: Daeun Yoo
 image: images/team/brepair/daeun-yoo.jpg
-role: mhd
+role: chief
 links:
   email:
   orcid:
@@ -15,8 +15,6 @@ links:
   tags="Parkinson's, Screening, hiPSC, Organoid"
   link="projects"
 %}
-
-<strong>Lab Chief</strong> <br>
 
 <strong>Project:</strong> TBC <br>
 
