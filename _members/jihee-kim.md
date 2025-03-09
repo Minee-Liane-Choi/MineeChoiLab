@@ -1,5 +1,5 @@
 ---
-name: JiHee Kim
+name: Jihee Kim
 image: images/team/brepair/jihee-kim.jpg
 role: intern
 links:
