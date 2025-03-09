@@ -1,5 +1,5 @@
 ---
-name: HyeYoung Kim
+name: Hyeyoung Kim
 image: images/team/brepair/hyeyoung-kim.jpg
 role: admin
 links:
