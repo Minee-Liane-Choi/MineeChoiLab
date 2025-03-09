@@ -1,5 +1,5 @@
 ---
-name: YuChae Lee
+name: Yuchae Lee
 image: images/team/brepair/yuchae-lee.jpg
 role: mhd
 links:
