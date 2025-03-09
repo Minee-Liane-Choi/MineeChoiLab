@@ -12,11 +12,11 @@ postdoc:
 
 postdox:
   icon: fa-solid fa-user-astronaut
-  description: Postdoctoral Researcher
+  description: Ex-Postdoctoral Researcher
 
 chief:
   icon: fa-solid fa-person-military-rifle
-  description: Lab Chief
+  description: Lab Chief (MS/PhD)
 
 phd:
   icon: fa-solid fa-user-graduate
@@ -24,11 +24,15 @@ phd:
 
 phx:
   icon: fa-solid fa-user-graduate
-  description: Former PhD Student
+  description: Ex-PhD Student
 
 mhd:
   icon: fa-solid fa-user-graduate
-  description: MS-PhD Student
+  description: MS/PhD Student
+
+mhx:
+  icon: fa-solid fa-user-graduate
+  description: Ex-MS/PhD Student
   
 ms:
   icon: fa-solid fa-user-graduate
@@ -36,7 +40,7 @@ ms:
 
 mx:
   icon: fa-solid fa-user-graduate
-  description: Former MS Student
+  description: Ex-MS Student
 
 undergrad:
   icon: fa-solid fa-user-pen
@@ -44,7 +48,7 @@ undergrad:
 
 undergrax:
   icon: fa-solid fa-user-pen
-  description: Former Undergraduate Student
+  description: Ex-Undergraduate Student
 
 associate:
   icon: fa-solid fa-user-ninja
@@ -52,7 +56,7 @@ associate:
 
 associatx:
   icon: fa-solid fa-user-ninja
-  description: Former Research Associate
+  description: Ex-Research Associate
 
 intern:
   icon: fa-solid fa-person-walking-luggage
@@ -60,7 +64,7 @@ intern:
 
 interx:
   icon: fa-solid fa-person-walking-luggage
-  description: Former Internship Student
+  description: Ex-Internship Student
 
 admin:
   icon: fa-solid fa-credit-card
