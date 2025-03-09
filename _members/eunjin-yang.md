@@ -1,5 +1,5 @@
 ---
-name: EunJin Yang
+name: Eunjin Yang
 image: images/team/brepair/eunjin-yang.jpg
 role: associate
 links:
