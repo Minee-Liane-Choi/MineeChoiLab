@@ -1,7 +1,7 @@
 ---
 name: Amen Woldesenbet
 image: images/team/student.jpg
-role: undergrad
+role: undergrax
 links:
   email:
   orcid:
