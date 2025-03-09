@@ -1,6 +1,6 @@
 ---
 name: Eunsu Lee
-image: images/team/intern.jpg
+image: images/team/brepair/eunsu-lee.jpg
 role: interx
 links:
   email:
