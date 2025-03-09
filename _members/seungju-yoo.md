@@ -1,7 +1,7 @@
 ---
 name: SeungJu Yoo
 image: images/team/brepair/seungju-yoo.jpg
-role: ms
+role: associate
 links:
   email:
   orcid:
