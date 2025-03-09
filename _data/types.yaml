@@ -14,6 +14,10 @@ postdox:
   icon: fa-solid fa-user-astronaut
   description: Postdoctoral Researcher
 
+chief:
+  icon: fa-solid fa-person-military-rifle
+  description: Lab Chief
+
 phd:
   icon: fa-solid fa-user-graduate
   description: PhD Student
