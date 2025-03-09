@@ -1,5 +1,5 @@
 ---
-name: ChangWon Jeong
+name: ChangWon Jung
 image: images/team/brepair/changwon-jung.jpg
 role: mhd
 links:
