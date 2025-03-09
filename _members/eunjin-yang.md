@@ -28,3 +28,6 @@ We aim to optimize the differentiation protocol for brain organoids derived from
   
   <li>Profile the optimized brain organoids for high-throughput drug screening in terms of cellular morphology and genetic expression (transcription), providing foundational data for new drug development by comparing the natural pathological state of Parkinson's patients and their response to existing clinical drugs.</li>
 </ol>
+
+<strong>Matriculation:</strong> Mar, 2022 <br>
+<strong>Graduation:</strong>  Feb, 2024
