@@ -18,4 +18,5 @@ links:
 
 <strong>Project:</strong> TBC <br>
 
-<strong>Report To:</strong> Minee Choi <br>
+<strong>Matriculation:</strong> Mar, 2025 <br>
+<strong>Graduation:</strong>
