@@ -30,4 +30,4 @@ We aim to optimize the differentiation protocol for brain organoids derived from
 </ol>
 
 <strong>Matriculation:</strong> Mar, 2022 <br>
-<strong>Graduation:</strong>  Feb, 2024
+<strong>Graduation:</strong>  Feb, 2025
