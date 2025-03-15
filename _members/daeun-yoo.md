@@ -18,5 +18,5 @@ links:
 
 <strong>Project:</strong> TBC <br>
 
-<strong>Matriculation:</strong> Mar, 2023 <br>
+<strong>Matriculation:</strong> Mar, 2024 <br>
 <strong>Graduation:</strong>
