@@ -22,5 +22,5 @@ We induce representative pathological cell subtypes of Parkinson's disease in ne
 
 These chemically induced cells are classified into pathological mechanistic subtypes of Parkinson's disease using machine learning trained with "complete images" that are label-free in 3D holotomography. This provides an easily accessible therapeutic screening platform, allowing visualization of the neuronal differentiation and maturation processes without technical contamination such as fluorescent labels, following the cell culture time. This technology can define a series of pathological events occurring over time. This method has the advantage of clearly distinguishing early developmental pathological events and late events in neuronal differentiation. This approach establishes a powerful drug screening paradigm that can be used to identify specific drug-target disease subtypes, thereby significantly enhancing the efficiency of novel drug development based on the molecular nature of each patient's disease.
 
-<strong>Matriculation:</strong> Mar, 2022 <br>
+<strong>Matriculation:</strong> Mar, 2023 <br>
 <strong>Graduation:</strong> Feb, 2025
