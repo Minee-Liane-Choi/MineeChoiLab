@@ -1,7 +1,7 @@
 ---
 name: Jihee Kim
 image: images/team/brepair/jihee-kim.jpg
-role: intern
+role: mdintern
 links:
   email:
   orcid:
