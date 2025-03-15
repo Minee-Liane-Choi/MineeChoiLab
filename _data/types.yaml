@@ -66,6 +66,10 @@ interx:
   icon: fa-solid fa-person-walking-luggage
   description: Ex-Internship
 
+mdintern:
+  icon: fa-solid fa-person-walking-luggage
+  description: MD Internship
+  
 admin:
   icon: fa-solid fa-credit-card
   description: Lab Manager
