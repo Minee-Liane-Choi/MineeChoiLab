@@ -1,5 +1,50 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1126/sciadv.adp8504
+  title: Astrocytic RNA editing regulates the host immune response to alpha-synuclein
+  authors:
+  - Karishma D'Sa
+  - Minee L. Choi
+  - Aaron Z. Wagen
+  - "N\xFAria Set\xF3-Salvia"
+  - Olga Kopach
+  - James R. Evans
+  - Margarida Rodrigues
+  - Patricia Lopez-Garcia
+  - Joanne Lachica
+  - Benjamin E. Clarke
+  - Jaijeet Singh
+  - Ali Ghareeb
+  - James Bayne
+  - Melissa Grant-Peters
+  - Sonia Garcia-Ruiz
+  - Zhongbo Chen
+  - Samuel Rodriques
+  - Dilan Athauda
+  - Emil K. Gustavsson
+  - Sarah A. Gagliano Taliun
+  - Christina Toomey
+  - Regina H. Reynolds
+  - George Young
+  - Stephanie Strohbuecker
+  - Thomas Warner
+  - Dmitri A. Rusakov
+  - Rickie Patani
+  - Clare Bryant
+  - David A. Klenerman
+  - Sonia Gandhi
+  - Mina Ryten
+  publisher: Science Advances
+  date: '2025-04-11'
+  link: https://doi.org/g9fvg4
+  image: https://www.science.org/cms/asset/73ebd9e6-81df-452f-9ab8-19f63bc44fc2/sciadv.2025.11.issue-16.largecover.jpg
+  tags:
+  - Parkinson's
+  - Alpha-Synuclein
+  - Protein aggregation
+  - 1st Author
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2024.02.26.582055
   title: Astrocytic RNA editing regulates the host immune response to alpha-synuclein
   authors:
