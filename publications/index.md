@@ -22,9 +22,9 @@ We post our published works on this page. You can also find additional informati
 
 ## {% include icon.html icon="fa-regular fa-star" %}Selected
 
+{% include citation.html lookup="Astrocytic RNA editing" style="rich" %}
 {% include citation.html lookup="Prediction of mechanistic subtypes" style="rich" %}
 {% include citation.html lookup="Pathological structural conversion" style="rich" %}
-{% include citation.html lookup="Astrocytic RNA editing" style="rich" %}
 
 {% include section.html %}
 
