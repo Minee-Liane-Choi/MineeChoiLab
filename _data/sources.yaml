@@ -8,20 +8,20 @@
     - 1st Author
 
 - id: doi:10.1101/2024.02.26.582055
-  image: https://www.biorxiv.org/sites/default/files/biorxiv_logo_homepage.png
+  image: ../images/archive/0000-00-BioRxiv-cover.jpg
   tags:
     - Parkinson's
     - hiPSC
     - 1st Author
     
 - id: doi:10.1101/2024.05.30.596437
-  image: https://www.biorxiv.org/sites/default/files/biorxiv_article.jpg
+  image: ../images/archive/0000-00-BioRxiv-cover.jpg
   tags:
     - Parkinson's
     - hiPSC
 
 - id: doi:10.1101/2024.02.28.582460
-  image: https://www.biorxiv.org/sites/default/files/biorxiv_article.jpg
+  image: ../images/archive/0000-00-BioRxiv-cover.jpg
   tags:
     - Parkinson's
     - hiPSC
