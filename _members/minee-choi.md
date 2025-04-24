@@ -73,13 +73,17 @@ links:
 <strong>Honours & Awards</strong>
 
 <table>
+  <tr style="font-size: 12px;">
+    <td>2024</td>
+    <td align="Left"><strong>KAIST Q-DAY Special Prize (Internatinalization) </strong>, KAIST, Korea</td>
+  </tr>
   <tr style="font-size: 12px; background-color:LightGray;">
     <td>2024</td>
     <td align="Left"><strong>KAIST Outstanding Lecture Award </strong>, KAIST, Korea</td>
   </tr>  
   <tr style="font-size: 12px;">
     <td>2023</td>
-    <td align="Left"><strong>KAIST Q-DAY Special Prize </strong>, KAIST, Korea</td>
+    <td align="Left"><strong>KAIST Q-DAY Special Prize (Education) </strong>, KAIST, Korea</td>
   </tr>
   <tr style="font-size: 12px; background-color:LightGray;">
     <td>2010</td>
