@@ -14,8 +14,7 @@ carousels:
 </div>
 
 <div class='player'>
-  <iframe width="560" height="315" src="https://www.canva.com/design/DAGiIS0RWbE/euFIaCnNQFmrqJ3b63pCag/watch" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-  </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W68qzmwzHVU?si=2yvhr05CXkF_OU3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## {% include icon.html icon="fa-solid fa-people-group" %}<strong>The K<em>A</em>IST <pink>BR<em>A</em>IN</pink> <blue>ReP<em>A</em>IR</blue> & <orange>ORG<em>A</em>NOID</orange> <green>INTELLIGENCE</green> L<em>A</em>B</strong> is ...
