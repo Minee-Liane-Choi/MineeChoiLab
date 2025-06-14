@@ -189,4 +189,3 @@ A Recent Breakthrough : AI-based Prediction of Disease State and Cellular Subtyp
 {::comment}
 {% include carousel.html height="60" unit="%" duration="10" number="1" %}
 {:/comment}
-
