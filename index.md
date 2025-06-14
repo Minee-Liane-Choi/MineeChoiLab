@@ -1,11 +1,11 @@
 ---
 title: Home
-carousels:
-  - images: 
-    - image: /images/carousel/p1_control1 (20)_edited.png
-    - image: /images/carousel/mutiplex_image_edited.png
-    - image: /images/carousel/BF_iPSC neurons.png
-    - image: /images/carousel/DA neurons_Hoechst_asyn_MAP2_1_all_edited.png
+#carousels:
+#  - images: 
+#    - image: /images/carousel/p1_control1 (20)_edited.png
+#    - image: /images/carousel/mutiplex_image_edited.png
+#    - image: /images/carousel/BF_iPSC neurons.png
+#    - image: /images/carousel/DA neurons_Hoechst_asyn_MAP2_1_all_edited.png
 ---
 
 <div class='player'>
