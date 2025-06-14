@@ -1,11 +1,11 @@
 ---
 title: Home
-#carousels:
-#  - images: 
-#    - image: /images/carousel/p1_control1 (20)_edited.png
-#    - image: /images/carousel/mutiplex_image_edited.png
-#    - image: /images/carousel/BF_iPSC neurons.png
-#    - image: /images/carousel/DA neurons_Hoechst_asyn_MAP2_1_all_edited.png
+carousels:
+  - images: 
+    - image: /images/carousel/p1_control1 (20)_edited.png
+    - image: /images/carousel/mutiplex_image_edited.png
+    - image: /images/carousel/BF_iPSC neurons.png
+    - image: /images/carousel/DA neurons_Hoechst_asyn_MAP2_1_all_edited.png
 ---
 
 <div class='player'>
@@ -180,8 +180,8 @@ A Recent Breakthrough : AI-based Prediction of Disease State and Cellular Subtyp
 
 {% include figure.html image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42256-023-00702-9/MediaObjects/42256_2023_702_Fig3_HTML.png?as=webp" caption = "Our classifier, trained on cell profiles of key organelles, predicts disease states with an accuracy of 82%." link="https://www.nature.com/articles/s42256-023-00702-9/figures/3" %}
 
-{% include section.html dark=false size="80%" %}
+# {% include section.html dark=false size="80%" %}
 
-## {% include icon.html icon="fa-solid fa-panorama" %}View Us at a Glance
+# ## {% include icon.html icon="fa-solid fa-panorama" %}View Us at a Glance
 
-{% include carousel.html height="60" unit="%" duration="10" number="1" %}
+# {% include carousel.html height="60" unit="%" duration="10" number="1" %}
