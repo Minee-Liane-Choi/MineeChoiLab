@@ -21,6 +21,8 @@ links:
 
 <strong>Biographical Sketch</strong>
 
+Click <a href="https://www.linkedin.com/in/minee-liane-choi-99149ba4/"> here</a> to view Minee's CV.
+
 Minee is a neurophysiologist specializing in neurodegenerative diseases. She currently serves as an assistant professor at the Department of Brain and Cognitive Science at KAIST. Additionally, she holds the distinguished position of Honorary Fellow at both the UCL Queen Square Institute of Neurology and the Francis Crick Institute in the UK. In 2024, she began working as an adjunct professor at Chang Gung University & Memorial Hospital.<br>
 
 After obtaining BA and MMSc from Hanyang University, she received the prestigious Cambridge Overseas Trust Scholarship, which enabled her to pursue a PhD degree in Clinical Neurosciences at the University of Cambridge, under the supervision of a neurologist, Professor Roger Barker. She successfully completed her PhD in Clinical Neurosciences in 2013. <br>
