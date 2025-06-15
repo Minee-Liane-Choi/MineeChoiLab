@@ -23,7 +23,7 @@ We recreate the cellular pathology of individual patients by differentiating the
 
 Often described as “Mini-brain”, a powerful tool in neuroscience, offering a unique window into the human brain’s complexities, diseases, and potential treatments.
 
-### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Tech</pink> <blue>Three</blue></strong> &nbsp; Organoid Intelligence
+### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Tech</pink> <blue>Three</blue></strong> &nbsp; Brain Organoid Intelligence
 
 Inspired by recent findings that human brain organoids can learn simple tasks (Kagan et al., Neuron, 2021), we explore the concept of biological computing. Team {{ site.team }} is pioneering the development of neural computers that combine mini-brains derived from human cells with computational interfaces. These platforms serve as cognitive function testbeds, enabling the assessment of how candidate drugs impact learning and memory in a human-relevant context.
 
@@ -56,7 +56,7 @@ Ultimately, the {{ site.team }} Lab aims to digitize the cellular pathology of n
 흔히 ‘미니 브레인’으로 불리며, 인간 뇌의 복잡성과 질환, 그리고 잠재적 치료법을 이해하는 데 있어 독보적인 창을 제공하는 강력한 신경과학 도구입니다.
 
 
-### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Tech</pink> <blue>Three</blue></strong> &nbsp; 오가노이드 지능 (Organoid Intelligence)
+### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Tech</pink> <blue>Three</blue></strong> &nbsp; 뇌 오가노이드 지능 (Organoid Intelligence)
 
 최근 인간 뇌세포 기반의 미니 브레인이 간단한 게임을 학습했다는 연구 결과(Kagan et al., Neuron, 2021)는 생물학적 컴퓨팅의 가능성을 열었습니다. {{ site.team }} 연구팀은 이러한 개념을 확장하여, 인간 유래 미니 브레인과 컴퓨팅 시스템을 연결한 신경 컴퓨터를 개발하고, 이를 환자 인지기능의 반응 테스트베드로 활용합니다. 이를 통해 약물의 인지 기능 영향까지 평가 가능한 새로운 전임상 테스트 플랫폼을 구축하고자 합니다.
 
