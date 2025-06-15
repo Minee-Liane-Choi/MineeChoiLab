@@ -1,7 +1,7 @@
 ---
 title: Collage
 nav:
-  order: 7
+  order: 6
   tooltip: Image archive
 ---
 
