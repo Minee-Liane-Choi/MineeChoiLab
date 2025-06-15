@@ -1,21 +1,21 @@
 ---
-title: Disease in a dish
-subtitle: Bespoke disease model
+title: Cellular World model
+subtitle: AI disease model
 role: tech
 group: project
 image: images/project/dish.jpg
 description: To be updapted
 tags:
-  - hiPSC
+  - AI
   - Organoid
 ---
 
 {%
   include tags.html
-  tags="hiPSC, Organoid"
+  tags="AI, Organoid"
   link="projects"
 %}
 
-<strong>Disease in a Dish</strong>
+<strong>Cellular World model</strong>
 
 To be updated...
