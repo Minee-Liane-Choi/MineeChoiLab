@@ -19,9 +19,20 @@ carousels:
 
 ## {% include icon.html icon="fa-solid fa-people-group" %}<strong>The K<em>A</em>IST <pink>BR<em>A</em>IN</pink> <blue>ReP<em>A</em>IR</blue> & <orange>ORG<em>A</em>NOID</orange> <green>INTELLIGENCE</green> L<em>A</em>B</strong> is ...
 
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DCxy5QLtugO/?utm_source=ig_web_copy_link" data-instgrm-version="14" style="max-width:540px; margin:auto;">
-</blockquote>
-<script async src="//www.instagram.com/embed.js"></script>
+<table align="left">
+  <tr style="font-size: 16px;">
+    <td align="Left" style="width:35%" >
+	<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DCxy5QLtugO/?utm_source=ig_web_copy_link" data-instgrm-version="14" style="max-width:540px; margin:auto;">
+	</blockquote>
+	<script async src="//www.instagram.com/embed.js"></script>
+    </td>
+    <td align="Left">
+
+    </td>
+  </tr>
+</table>
+	
+
 
 ... a team of researchers at KAIST studying diseases of the nervous system, focusing on Parkinson’s diseaes and Dementia. These diseases are challenging to treat due to the difficulty of accessing the diseased brain and their individual heterogeneity. To overcome the inherent limitations of studying brain disorders, we use human stem cells generated from real patients (hiPSC). This approach allows us to profile the diseased state of a patient's individual brain cells and identifying mechanistic subtypes using a 'disease-in-a-dish' paradigm. By utilizing patient-derived iPSCs, <strong>our overarching goal is to develop a preclinical testbed for brain disorders</strong>. We also employ AI to predict the most suitable drug combinations for individual patients’ pathological and cellular subtypes, thereby overcoming the limitations of biological experiments in accurately capturing the heterogeneity of diseases.
 
