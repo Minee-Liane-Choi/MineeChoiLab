@@ -8,6 +8,10 @@ carousels:
     - image: /images/carousel/DA neurons_Hoechst_asyn_MAP2_1_all_edited.png
 ---
 
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DCxy5QLtugO/?utm_source=ig_web_copy_link" data-instgrm-version="14" style="max-width:540px; margin:auto;">
+</blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+
 <div class='player'>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/tGAAIi8KsvI?si=pVYHdJKArDnkUnr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
   </iframe>
