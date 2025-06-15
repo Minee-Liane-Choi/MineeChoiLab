@@ -13,7 +13,6 @@ We post and share our news, thoughts, announcements, vacancies, opportunities, a
 
 {% include tags.html tags=site.tags %}
 
-{% include search-info.html %}
 
 {% include section.html %}
 
