@@ -26,8 +26,10 @@ carousels:
 	</blockquote>
 	<script async src="//www.instagram.com/embed.js"></script>
     </td>
-    <td align="Left" style="width:65%" >
-	... a team of researchers at KAIST studying diseases of the nervous system, focusing on Parkinson’s diseaes and Dementia. These diseases are challenging to treat due to the difficulty of accessing the diseased brain and their individual heterogeneity. To overcome the inherent limitations of studying brain disorders, we use human stem cells generated from real patients (hiPSC). This approach allows us to profile the diseased state of a patient's individual brain cells and identifying mechanistic subtypes using a 'disease-in-a-dish' paradigm. By utilizing patient-derived iPSCs, <strong>our overarching goal is to develop a preclinical testbed for brain disorders</strong>. We also employ AI to predict the most suitable drug combinations for individual patients’ pathological and cellular subtypes, thereby overcoming the limitations of biological experiments in accurately capturing the heterogeneity of diseases.
+    <td style="width:65%" >
+	... a team of researchers at KAIST studying diseases of the nervous system, focusing on Parkinson’s diseaes and Dementia. These diseases are challenging to treat due to the difficulty of accessing the diseased brain and their individual heterogeneity.<br>
+	    To overcome the inherent limitations of studying brain disorders, we use human stem cells generated from real patients (hiPSC). This approach allows us to profile the diseased state of a patient's individual brain cells and identifying mechanistic subtypes using a 'disease-in-a-dish' paradigm. By utilizing patient-derived iPSCs, <strong>our overarching goal is to develop a preclinical testbed for brain disorders</strong>.<br>
+	    We also employ AI to predict the most suitable drug combinations for individual patients’ pathological and cellular subtypes, thereby overcoming the limitations of biological experiments in accurately capturing the heterogeneity of diseases.
     </td>
   </tr>
 </table>
@@ -42,8 +44,7 @@ carousels:
   
   <li>퇴행성 뇌질환 핵심 병리 기전 연구: 뇌세포 사멸, 단백질 응집, 미토콘드리아 기능 장애 </li>
 
-  <li>뇌 오가노이드 지능 연구: 오가노이드 임베디드 컴퓨팅</li>
-  
+  <li>뇌 오가노이드 지능 연구: 오가노이드 임베디드 컴퓨팅</li>  
 </ol>
 
 {% include section.html dark=false size="80%" %}
