@@ -10,12 +10,6 @@ links:
   github:
 ---
 
-{%
-  include tags.html
-  tags="Parkinson's, AI, Drug discovery, hiPSC, Organoid"
-  link="projects"
-%}
-
 <strong>Project: </strong> Development of an AI-based platform for personalized medicine in sporadic Parkinson's disease using a human stem cell system
 
 We induce representative pathological cell subtypes of Parkinson's disease in neurons differentiated from human-derived stem cells with chemicals: 1) ATP reduction due to mitochondrial disorders, 2) limited processing of aggregated proteins (misfolding protein) due to ribosome disorders, 3) imbalance in the removal of abnormal mitochondria due to mitophagy disorders, 4) activation of cell death mechanisms induced by lipid peroxidation (ferroptosis), 5) infection, 6) increased reactive oxygen species.
