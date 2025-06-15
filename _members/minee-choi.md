@@ -19,12 +19,6 @@ links:
   twitter: MineeChoi
 ---
 
-{%
-  include tags.html
-  tags="Parkinson's, Alzheimer's, Lewy body dementia, Autism, Drug addiction, AI, Drug discovery, Screening, hiPSC, Organoid, Mitochondria, Protein misfolding, Cell death"
-  link="projects"
-%}
-
 <strong>Biographical Sketch</strong>
 
 Minee is a neurophysiologist specializing in neurodegenerative diseases. She currently serves as an assistant professor at the Department of Brain and Cognitive Science at KAIST. Additionally, she holds the distinguished position of Honorary Fellow at both the UCL Queen Square Institute of Neurology and the Francis Crick Institute in the UK. In 2024, she began working as an adjunct professor at Chang Gung University & Memorial Hospital.<br>
