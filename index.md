@@ -25,14 +25,14 @@ Often described as “Mini-brain”, a powerful tool in neuroscience, offering a
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Tech</pink> <blue>Three</blue></strong> &nbsp; Organoid Intelligence
 
-Inspired by recent findings that human brain organoids can learn simple tasks (Kagan et al., Neuron, 2021), we explore the concept of biological computing. BROI is pioneering the development of neural computers that combine mini-brains derived from human cells with computational interfaces. These platforms serve as cognitive function testbeds, enabling the assessment of how candidate drugs impact learning and memory in a human-relevant context.
+Inspired by recent findings that human brain organoids can learn simple tasks (Kagan et al., Neuron, 2021), we explore the concept of biological computing. Team {{ site.team }} is pioneering the development of neural computers that combine mini-brains derived from human cells with computational interfaces. These platforms serve as cognitive function testbeds, enabling the assessment of how candidate drugs impact learning and memory in a human-relevant context.
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Tech</pink> <blue>Four</blue></strong> &nbsp; AI - Digital Brain Cell Foundation Model
 
 We customized artificial intelligence—including large language models (LLMs) and convolutional neural networks (CNNs)—to build predictive models trained on dynamic cellular and molecular data from patient-derived brain cells. These AI models incorporate patient heterogeneity and complex disease mechanisms, enabling precise drug response predictions and the digital transformation of neuropathological features.
 We harnessed AI to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.
 
-Ultimately, the BROI Lab aims to digitize the cellular pathology of neurological diseases and establish an AI-powered precision drug prediction system—setting a new standard for the future of neurotherapeutics.
+Ultimately, the {{ site.team }} Lab aims to digitize the cellular pathology of neurological diseases and establish an AI-powered precision drug prediction system—setting a new standard for the future of neurotherapeutics.
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DCxy5QLtugO/?utm_source=ig_web_copy_link" data-instgrm-version="14" style="max-width:540px; margin:auto;">
 </blockquote>
@@ -44,7 +44,7 @@ Ultimately, the BROI Lab aims to digitize the cellular pathology of neurological
 
 카이스트 {{ site.title }} 연구실은 뇌질환 정복을 위한 핵심 기반으로, 환자 맞춤형 치료제를 평가하고 예측할 수 있는 전임상 약물 테스트베드 개발에 집중하고 있습니다. 이를 위해 우리는 환자 유래 역분화 줄기세포(human induced pluripotent stem cell, hiPSC)를 표적 뇌세포 및 뇌 오가노이드로 분화시키고, 환자 개별의 병태생리학적 특징을 정밀하게 프로파일링합니다. 이렇게 획득한 생물학적 데이터를 인공지능 분석과 결합함으로써, 환자 고유의 발병 인자에 최적화된 약물 조합을 예측하고, 개인 맞춤형 치료전략을 구현합니다.
 
-<strong>뇌질환 정밀 치료를 위한 완전한 전임상 테스트베드</strong>를 구축하기 위해 {{ site.team }} 연구팀은 다음의 네 가지 전략 기술을 심도 있게 연구하고 있습니다.
+{{ site.team }} 연구실은 <strong>뇌질환 정밀 치료를 위한 완전한 전임상 테스트베드</strong>를 구축하기 위해 다음의 네 가지 전략 기술을 심도 있게 연구하고 있습니다.
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Tech</pink> <blue>One</blue></strong> &nbsp; 환자 유래 줄기세포 (접시 속의 질병 패러다임)
 
@@ -58,14 +58,14 @@ Ultimately, the BROI Lab aims to digitize the cellular pathology of neurological
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Tech</pink> <blue>Three</blue></strong> &nbsp; 오가노이드 인텔리전스 (Organoid Intelligence)
 
-최근 인간 뇌세포 기반의 미니 브레인이 간단한 게임을 학습했다는 연구 결과(Kagan et al., Neuron, 2021)는 생물학적 컴퓨팅의 가능성을 열었습니다. BROI는 이러한 개념을 확장하여, 인간 유래 미니 브레인과 컴퓨팅 시스템을 연결한 신경 컴퓨터를 개발하고, 이를 환자 인지기능의 반응 테스트베드로 활용합니다. 이를 통해 약물의 인지 기능 영향까지 평가 가능한 새로운 전임상 테스트 플랫폼을 구축하고자 합니다.
+최근 인간 뇌세포 기반의 미니 브레인이 간단한 게임을 학습했다는 연구 결과(Kagan et al., Neuron, 2021)는 생물학적 컴퓨팅의 가능성을 열었습니다. {{ site.team }} 연구팀은 이러한 개념을 확장하여, 인간 유래 미니 브레인과 컴퓨팅 시스템을 연결한 신경 컴퓨터를 개발하고, 이를 환자 인지기능의 반응 테스트베드로 활용합니다. 이를 통해 약물의 인지 기능 영향까지 평가 가능한 새로운 전임상 테스트 플랫폼을 구축하고자 합니다.
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Tech</pink> <blue>Four</blue></strong> &nbsp; 디지털 뇌세포 파운데이션 모델
 
-뇌질환의 세포·분자 수준 병태 정보를 학습한 인공지능 모델을 통해, 복잡한 질환 기전과 환자 간 이질성을 반영한 예측 기반 치료 전략을 개발합니다. BROI는 대규모 언어모델(LLM)과 합성곱신경망(CNN) 등 최신 AI 기술을 통합하여, 환자의 병리학적 데이터를 디지털화하고, 약물 반응성 예측 모델을 정밀하게 최적화하고 있습니다. 
-BRIO 인공지능을 활용하여 이러한 질환들의 이질성을 정밀하게 분석하고 이해함으로써, 환자 개개인에 맞춘 예측 모델 개발에 기여하였습니다.
+뇌질환의 세포·분자 수준 병태 정보를 학습한 인공지능 모델을 통해, 복잡한 질환 기전과 환자 간 이질성을 반영한 예측 기반 치료 전략을 개발합니다. {{ site.team }} 연구실은 대규모 언어모델(LLM)과 합성곱신경망(CNN) 등 최신 AI 기술을 통합하여, 환자의 병리학적 데이터를 디지털화하고, 약물 반응성 예측 모델을 정밀하게 최적화하고 있습니다. 
+인공지능을 활용하여 뇌 질환들의 이질성을 정밀하게 분석하고 이해함으로써, 환자 개개인에 맞춘 예측 모델 개발에 기여하고 있습니다.
 
-KAIST Brain Repair & Organoid Intelligence 연구실은 궁극적 목표는 환자의 세포 수준 병리 정보를 디지털화하여, 인공지능 기반의 정밀 약물 예측 시스템을 완성하고, 이를 통해 뇌질환 치료의 새로운 표준을 제시하는 것입니다.
+{{ site.team }} 연구실의 궁극적 목표는 환자의 세포 수준 병리 정보를 디지털화하여, 인공지능 기반의 정밀 약물 예측 시스템을 완성하고, 이를 통해 뇌질환 치료의 새로운 표준을 제시하는 것입니다.
 
 <div class='player'>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W68qzmwzHVU?si=2yvhr05CXkF_OU3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
