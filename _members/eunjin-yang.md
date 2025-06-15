@@ -1,7 +1,7 @@
 ---
 name: Eunjin Yang
 image: images/team/brepair/eunjin-yang.jpg
-role: associatx
+role: mx
 links:
   email:
   orcid:
