@@ -20,9 +20,6 @@ Our research portfolio encompasses a diverse array of subjects, ranging from neu
 ## {% include icon.html icon="fa-solid fa-brain" %}Diseases
 {% include list.html data="programmes" component="catalogue" filters="role: disease, group: project" style="small" %}
 
-## {% include icon.html icon="fa-regular fa-face-meh" %}Disorders
-{% include list.html data="programmes" component="catalogue" filters="role: disorder, group: project" style="small" %}
-
 ## {% include icon.html icon="fa-regular fa-lightbulb" %}Innovations
 {% include list.html data="programmes" component="catalogue" filters="role: tech, group: project" style="small" %}
 
