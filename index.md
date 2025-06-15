@@ -13,7 +13,7 @@ carousels:
 The KAIST {{ site.title }} Lab is a team of researchers, dedicated to developing a next-generation preclinical testbed that enables the evaluation and prediction of patient-specific therapeutics for neurological disorders. Our core approach involves differentiating patient-derived human induced pluripotent stem cells (hiPSCs) into target brain cell types and brain organoids. These personalized models allow us to profile the disease state of each patient at the cellular level with high resolution.
 By integrating these biological insights with advanced artificial intelligence, we aim to identify optimal drug combinations tailored to each individual’s pathophysiological features—paving the way for true precision medicine.
 
-To realize <strong>a Comprehensive Preclinical Testbed for Precision Neurotherapeutics</strong>, Team {{ site.team }} focuses on three strategic technological pillars:
+To realize <strong>a Comprehensive Preclinical Testbed for Precision Neurotherapeutics</strong>, Team {{ site.team }} focuses on the four strategic technological pillars.
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Tech</pink> <blue>One</blue></strong> &nbsp; Patient-derived iPSC (Disease-in-a-Dish Paradigm) 
 
