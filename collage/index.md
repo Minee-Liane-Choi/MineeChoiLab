@@ -5,6 +5,6 @@ nav:
   tooltip: Image archive
 ---
 
-# {% include icon.html icon="fa-solid fa-panorama" %}Collage
+# {% include icon.html icon="fa-solid fa-panorama" %}Photo News
 
 {% include collage.html %}
