@@ -10,7 +10,13 @@ carousels:
 
 ## {% include icon.html icon="fa-solid fa-people-group" %}<strong>The K<em>A</em>IST <pink>BR<em>A</em>IN</pink> <blue>ReP<em>A</em>IR</blue> & <orange>ORG<em>A</em>NOID</orange> <green>INTELLIGENCE</green> L<em>A</em>B</strong> is ...
 
-... a team of researchers at KAIST studying diseases of the nervous system, focusing on Parkinson’s diseaes and Dementia. These diseases are challenging to treat due to the difficulty of accessing the diseased brain and their individual heterogeneity. To overcome the inherent limitations of studying brain disorders, we use human stem cells generated from real patients (hiPSC). This approach allows us to profile the diseased state of a patient's individual brain cells and identifying mechanistic subtypes using a 'disease-in-a-dish' paradigm. By utilizing patient-derived iPSCs, <strong>our overarching goal is to develop a preclinical testbed for brain disorders</strong>. We also employ AI to predict the most suitable drug combinations for individual patients’ pathological and cellular subtypes, thereby overcoming the limitations of biological experiments in accurately capturing the heterogeneity of diseases.
+### Building a Comprehensive Preclinical Testbed for Precision Neurotherapeutics
+
+KAIST {{ site.title }} Lab is a team of researchers at KAIST, dedicated to developing a next-generation preclinical testbed that enables the evaluation and prediction of patient-specific therapeutics for neurological disorders. Our core approach involves differentiating patient-derived human induced pluripotent stem cells (hiPSCs) into target brain cell types and brain organoids. These personalized models allow us to profile the disease state of each patient at the cellular level with high resolution.
+By integrating these biological insights with advanced artificial intelligence, we aim to identify optimal drug combinations tailored to each individual’s pathophysiological features—paving the way for true precision medicine.
+
+To realize this vision, BROI focuses on three strategic technological pillars:
+
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DCxy5QLtugO/?utm_source=ig_web_copy_link" data-instgrm-version="14" style="max-width:540px; margin:auto;">
 </blockquote>
