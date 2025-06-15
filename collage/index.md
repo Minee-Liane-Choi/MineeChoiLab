@@ -1,7 +1,7 @@
 ---
-title: Collage
+title: News
 nav:
-  order: 6
+  order: 5
   tooltip: Image archive
 ---
 
