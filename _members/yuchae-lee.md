@@ -10,12 +10,6 @@ links:
   github:
 ---
 
-{%
-  include tags.html
-  tags="Parkinson's, Screening, hiPSC, Organoid"
-  link="projects"
-%}
-
 <strong>Project:</strong> TBC <br>
 
 <strong>Matriculation:</strong> Mar, 2024 <br>
