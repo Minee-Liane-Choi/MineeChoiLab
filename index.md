@@ -8,7 +8,7 @@ carousels:
     - image: /images/carousel/DA neurons_Hoechst_asyn_MAP2_1_all_edited.png
 ---
 
-## {% include icon.html icon="fa-solid fa-people-group" %}<strong>The K<em>A</em>IST BR<em>A</em>IN ReP<em>A</em>IR & ORG<em>A</em>NOID INTELLIGENCE L<em>A</em>B</strong> is ...
+## {% include icon.html icon="fa-solid fa-microscope" %}<strong>The K<em>A</em>IST BR<em>A</em>IN ReP<em>A</em>IR & ORG<em>A</em>NOID INTELLIGENCE L<em>A</em>B</strong> is ...
 
 The KAIST {{ site.title }} Lab is a team of researchers, dedicated to developing a next-generation preclinical testbed that enables the evaluation and prediction of patient-specific therapeutics for neurological disorders. Our core approach involves differentiating patient-derived human induced pluripotent stem cells (hiPSCs) into target brain cell types and brain organoids. These personalized models allow us to profile the disease state of each patient at the cellular level with high resolution.
 By integrating these biological insights with advanced artificial intelligence, we aim to identify optimal drug combinations tailored to each individual’s pathophysiological features—paving the way for true precision medicine.
@@ -40,7 +40,7 @@ Ultimately, the {{ site.team }} Lab aims to digitize the cellular pathology of n
 
 {% include section.html dark=false size="80%" %}
 
-## {% include icon.html icon="fa-solid fa-people-group" %}카이스트 "뇌 치료 및 오가노이드 지능" 연구실 소개
+## {% include icon.html icon="fa-solid fa-microscope" %}카이스트 "뇌 치료 및 오가노이드 지능" 연구실 소개
 
 카이스트 {{ site.title }} 연구실은 뇌질환 정복을 위한 핵심 기반으로, 환자 맞춤형 치료제를 평가하고 예측할 수 있는 전임상 약물 테스트베드 개발에 집중하고 있습니다. 이를 위해 우리는 환자 유래 역분화 줄기세포(human induced pluripotent stem cell, hiPSC)를 표적 뇌세포 및 뇌 오가노이드로 분화시키고, 환자 개별의 병태생리학적 특징을 정밀하게 프로파일링합니다. 이렇게 획득한 생물학적 데이터를 인공지능 분석과 결합함으로써, 환자 고유의 발병 인자에 최적화된 약물 조합을 예측하고, 개인 맞춤형 치료전략을 구현합니다.
 
