@@ -8,7 +8,7 @@ carousels:
     - image: /images/carousel/DA neurons_Hoechst_asyn_MAP2_1_all_edited.png
 ---
 
-## {% include icon.html icon="fa-solid fa-people-group" %}<strong>The K<em>A</em>IST <pink>BR<em>A</em>IN</pink> <blue>ReP<em>A</em>IR</blue> & <orange>ORG<em>A</em>NOID</orange> <green>INTELLIGENCE</green> L<em>A</em>B</strong> is ...
+## {% include icon.html icon="fa-solid fa-people-group" %}<strong>The K<em>A</em>IST BR<em>A</em>IN ReP<em>A</em>IR & ORG<em>A</em>NOID INTELLIGENCE L<em>A</em>B</strong> is ...
 
 ### Building a Comprehensive Preclinical Testbed for Precision Neurotherapeutics
 
@@ -17,26 +17,28 @@ By integrating these biological insights with advanced artificial intelligence, 
 
 To realize this vision, BROI focuses on three strategic technological pillars:
 
+#### {% include icon.html icon="fa-regular fa-pen-to-square" %}1. Patient-derived iPSC (Disease-in-a-Dish Paradigm) 
+
+We recreate the cellular pathology of individual patients by differentiating their hiPSCs into mature human neurons and brain organoids. This in vitro modeling system recapitulates adult brain tissue structure and function through the integration of cutting-edge techniques in cellular reprogramming, neurodevelopment, and stem cell biology. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.
+
+#### {% include icon.html icon="fa-regular fa-pen-to-square" %} 2. Patient Brain-Organoid Production
+
+Often described as “Mini-brain”, a powerful tool in neuroscience, offering a unique window into the human brain’s complexities, diseases, and potential treatments.
+
+#### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Four</pink> <blue>Powerful Keys</blue></strong> 3. Organoid Intelligence
+
+Inspired by recent findings that human brain organoids can learn simple tasks (Kagan et al., Neuron, 2021), we explore the concept of biological computing. BROI is pioneering the development of neural computers that combine mini-brains derived from human cells with computational interfaces. These platforms serve as cognitive function testbeds, enabling the assessment of how candidate drugs impact learning and memory in a human-relevant context.
+
+#### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Four</pink> <blue>Powerful Keys</blue></strong> 4. AI - Digital Brain Cell Foundation Model
+
+We customized artificial intelligence—including large language models (LLMs) and convolutional neural networks (CNNs)—to build predictive models trained on dynamic cellular and molecular data from patient-derived brain cells. These AI models incorporate patient heterogeneity and complex disease mechanisms, enabling precise drug response predictions and the digital transformation of neuropathological features.
+We harnessed AI to discern and comprehend the heterogeneity of these diseases, thereby contributing to the development of a predictive model individualized for each patient.
+
+Ultimately, the BROI Lab aims to digitize the cellular pathology of neurological diseases and establish an AI-powered precision drug prediction system—setting a new standard for the future of neurotherapeutics.
 
 <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/DCxy5QLtugO/?utm_source=ig_web_copy_link" data-instgrm-version="14" style="max-width:540px; margin:auto;">
 </blockquote>
 <script async src="//www.instagram.com/embed.js"></script>
-     
-카이스트 {{ site.title }} 랩은 치매 등 난치성 인간 뇌질환의 병리 기전을 연구하고, 뇌질환 정복에 반드시 필요한 <strong>뇌질환 치료제 전임상 테스트베드를 개발</strong>하는 연구실입니다. 이를 위해 우리는 뇌질환 환자 역분화 줄기 세포 (hiPSC)를 표적 뇌세포 또는 뇌-오가노이드로 분화시켜, 환자 개인의 뇌 세포 질병상태를 프로파일링하고, 그에 맞는 기전적 하위 유형을 찾는 ‘접시 속의 질병’ 패러다임을 사용합니다. 또한 질병 특이성(이질성) 판별에 있어 오류 가능성이 높은 생물학적 실험 관측의 한계를 극복하기 위해 인공지능을 활용함으로써 개별 환자의 발병 인자에 가장 적합한 약물 조합을 예측합니다.
-
-주요 연구분야
-
-<ol>
-  <li>환자 유래 줄기 세포 뇌 오가노이드 기반 뇌질환 치료제 전임상 테스트베드 개발 </li>
-  
-  <li>퇴행성 뇌질환 핵심 병리 기전 연구: 뇌세포 사멸, 단백질 응집, 미토콘드리아 기능 장애 </li>
-
-  <li>뇌 오가노이드 지능 연구: 오가노이드 임베디드 컴퓨팅</li>  
-</ol>
-
-<div class='player'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W68qzmwzHVU?si=2yvhr05CXkF_OU3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
 
 {% include section.html dark=false size="80%" %}
 
@@ -69,10 +71,23 @@ BRIO 인공지능을 활용하여 이러한 질환들의 이질성을 정밀하�
 KAIST Brain Repair & Organoid Intelligence 연구실은 궁극적 목표는 환자의 세포 수준 병리 정보를 디지털화하여, 인공지능 기반의 정밀 약물 예측 시스템을 완성하고, 이를 통해 뇌질환 치료의 새로운 표준을 제시하는 것입니다.
 
 <div class='player'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W68qzmwzHVU?si=2yvhr05CXkF_OU3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
+<div class='player'>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/tGAAIi8KsvI?si=pVYHdJKArDnkUnr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
   </iframe>
 </div>
-<br>
+
+{::comment}
+<ol>
+  <li>환자 유래 줄기 세포 뇌 오가노이드 기반 뇌질환 치료제 전임상 테스트베드 개발 </li>
+  
+  <li>퇴행성 뇌질환 핵심 병리 기전 연구: 뇌세포 사멸, 단백질 응집, 미토콘드리아 기능 장애 </li>
+
+  <li>뇌 오가노이드 지능 연구: 오가노이드 임베디드 컴퓨팅</li>  
+</ol>
+{:/comment}
 
 {::comment}
 <table style="width:100%">
