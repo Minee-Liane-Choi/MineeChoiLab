@@ -13,7 +13,7 @@ carousels:
 The KAIST {{ site.title }} Lab is a team of researchers, dedicated to developing a next-generation preclinical testbed that enables the evaluation and prediction of patient-specific therapeutics for neurological disorders. Our core approach involves differentiating patient-derived human induced pluripotent stem cells (hiPSCs) into target brain cell types and brain organoids. These personalized models allow us to profile the disease state of each patient at the cellular level with high resolution.
 By integrating these biological insights with advanced artificial intelligence, we aim to identify optimal drug combinations tailored to each individual’s pathophysiological features—paving the way for true precision medicine.
 
-To realize <strong>a Comprehensive Preclinical Testbed for Precision Neurotherapeutics</strong>, BROI focuses on three strategic technological pillars:
+To realize <strong>a Comprehensive Preclinical Testbed for Precision Neurotherapeutics</strong>, {{ site.team }} focuses on three strategic technological pillars:
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Tech</pink> <blue>One</blue></strong> &nbsp; Patient-derived iPSC (Disease-in-a-Dish Paradigm) 
 
@@ -40,11 +40,11 @@ Ultimately, the BROI Lab aims to digitize the cellular pathology of neurological
 
 {% include section.html dark=false size="80%" %}
 
-## {% include icon.html icon="fa-solid fa-lock-open" %}카이스트 {{ site.title }} 연구실 소개
+## {% include icon.html icon="fa-solid fa-people-group" %}카이스트 "뇌 치료 및 오가노이드 지능" 연구실 소개
 
 카이스트 {{ site.title }} 연구실은 뇌질환 정복을 위한 핵심 기반으로, 환자 맞춤형 치료제를 평가하고 예측할 수 있는 전임상 약물 테스트베드 개발에 집중하고 있습니다. 이를 위해 우리는 환자 유래 역분화 줄기세포(human induced pluripotent stem cell, hiPSC)를 표적 뇌세포 및 뇌 오가노이드로 분화시키고, 환자 개별의 병태생리학적 특징을 정밀하게 프로파일링합니다. 이렇게 획득한 생물학적 데이터를 인공지능 분석과 결합함으로써, 환자 고유의 발병 인자에 최적화된 약물 조합을 예측하고, 개인 맞춤형 치료전략을 구현합니다.
 
-<strong>뇌질환 정밀 치료를 위한 완전한 전임상 테스트베드</strong>를 구축하기 위해 BROI는 다음의 네 가지 전략 기술을 심도 있게 연구하고 있습니다.
+<strong>뇌질환 정밀 치료를 위한 완전한 전임상 테스트베드</strong>를 구축하기 위해 {{ site.team }}는 다음의 네 가지 전략 기술을 심도 있게 연구하고 있습니다.
 
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Tech</pink> <blue>One</blue></strong> &nbsp; 환자 유래 줄기세포 (접시 속의 질병 패러다임)
 
