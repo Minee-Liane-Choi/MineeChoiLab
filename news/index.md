@@ -9,11 +9,4 @@ nav:
 
 We post and share our news, thoughts, announcements, vacancies, opportunities, and more on this page.
 
-{% include search-box.html %}
-
-{% include tags.html tags=site.tags %}
-
-
-{% include section.html %}
-
 {% include list.html data="posts" component="post-excerpt" %}
