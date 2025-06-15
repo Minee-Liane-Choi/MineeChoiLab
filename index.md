@@ -8,15 +8,6 @@ carousels:
     - image: /images/carousel/DA neurons_Hoechst_asyn_MAP2_1_all_edited.png
 ---
 
-<div class='player'>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/tGAAIi8KsvI?si=pVYHdJKArDnkUnr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-  </iframe>
-</div>
-<br>
-<div class='player'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W68qzmwzHVU?si=2yvhr05CXkF_OU3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
 ## {% include icon.html icon="fa-solid fa-people-group" %}<strong>The K<em>A</em>IST <pink>BR<em>A</em>IN</pink> <blue>ReP<em>A</em>IR</blue> & <orange>ORG<em>A</em>NOID</orange> <green>INTELLIGENCE</green> L<em>A</em>B</strong> is ...
 
 <table align="left">
@@ -38,7 +29,7 @@ carousels:
 </table>
 
 
-{{ site.title }} 랩은 치매 등 난치성 인간 뇌질환의 병리 기전을 연구하고, 뇌질환 정복에 반드시 필요한 <strong>뇌질환 치료제 전임상 테스트베드를 개발</strong>하는 연구실입니다. 이를 위해 우리는 뇌질환 환자 역분화 줄기 세포 (hiPSC)를 표적 뇌세포 또는 뇌-오가노이드로 분화시켜, 환자 개인의 뇌 세포 질병상태를 프로파일링하고, 그에 맞는 기전적 하위 유형을 찾는 ‘접시 속의 질병’ 패러다임을 사용합니다. 또한 질병 특이성(이질성) 판별에 있어 오류 가능성이 높은 생물학적 실험 관측의 한계를 극복하기 위해 인공지능을 활용함으로써 개별 환자의 발병 인자에 가장 적합한 약물 조합을 예측합니다.
+카이스트 {{ site.title }} 랩은 치매 등 난치성 인간 뇌질환의 병리 기전을 연구하고, 뇌질환 정복에 반드시 필요한 <strong>뇌질환 치료제 전임상 테스트베드를 개발</strong>하는 연구실입니다. 이를 위해 우리는 뇌질환 환자 역분화 줄기 세포 (hiPSC)를 표적 뇌세포 또는 뇌-오가노이드로 분화시켜, 환자 개인의 뇌 세포 질병상태를 프로파일링하고, 그에 맞는 기전적 하위 유형을 찾는 ‘접시 속의 질병’ 패러다임을 사용합니다. 또한 질병 특이성(이질성) 판별에 있어 오류 가능성이 높은 생물학적 실험 관측의 한계를 극복하기 위해 인공지능을 활용함으로써 개별 환자의 발병 인자에 가장 적합한 약물 조합을 예측합니다.
 
 주요 연구분야
 
@@ -188,6 +179,15 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 	    <td></td>
   </tr>
 </table>
+
+<div class='player'>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tGAAIi8KsvI?si=pVYHdJKArDnkUnr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+  </iframe>
+</div>
+<br>
+<div class='player'>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W68qzmwzHVU?si=2yvhr05CXkF_OU3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 {::comment}
 {% include figure.html image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42256-023-00702-9/MediaObjects/42256_2023_702_Fig3_HTML.png?as=webp" caption = "Our classifier, trained on cell profiles of key organelles, predicts disease states with an accuracy of 82%." link="https://www.nature.com/articles/s42256-023-00702-9/figures/3" %}
