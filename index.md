@@ -34,9 +34,9 @@ carousels:
 
 {% include section.html dark=false size="80%" %}
 
-## {% include icon.html icon="fa-solid fa-lock-open" %}Finding New Keys to the Deadlock of Human Brain Disorders
+## {% include icon.html icon="fa-solid fa-lock-open" %}카이스트 {{ site.title }} 연구실 소개
 
-### {% include icon.html icon="fa-regular fa-pen-to-square" %}정밀한 뇌질환 치료를 위한 완전한 전임상 테스트베드 구축
+### 정밀한 뇌질환 치료를 위한 완전한 전임상 테스트베드 구축
 카이스트 {{ site.title }} 연구실은 뇌질환 정복을 위한 핵심 기반으로, 환자 맞춤형 치료제를 평가하고 예측할 수 있는 전임상 약물 테스트베드 개발에 집중하고 있습니다. 이를 위해 우리는 환자 유래 역분화 줄기세포(human induced pluripotent stem cell, hiPSC)를 표적 뇌세포 및 뇌 오가노이드로 분화시키고, 환자 개별의 병태생리학적 특징을 정밀하게 프로파일링합니다. 이렇게 획득한 생물학적 데이터를 인공지능 분석과 결합함으로써, 환자 고유의 발병 인자에 최적화된 약물 조합을 예측하고, 개인 맞춤형 치료전략을 구현합니다.
 
 이를 실현하기 위해 BROI는 다음의 네 가지 전략 기술을 심도 있게 연구하고 있습니다.
