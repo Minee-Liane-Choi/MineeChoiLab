@@ -6,3 +6,5 @@ nav:
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope-open" %}Jobs & Vacancies
+
+There are currently no vacancies.
