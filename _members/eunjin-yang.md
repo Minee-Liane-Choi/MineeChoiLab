@@ -11,12 +11,6 @@ links:
 
 ---
 
-{%
-  include tags.html
-  tags="Parkinson's, Autism, Drug discovery, hiPSC, Organoid"
-  link="projects"
-%}
-
 <strong>Project: </strong> Profiling patient iPSC-derived brain organoid for drug screening in Parkinson's disease
 
 We aim to optimize the differentiation protocol for brain organoids derived from Parkinson's patients for use in high-throughput drug screening pipelines, and to profile their cellular phenotypes and gene expression characteristics, laying the groundwork for the pipeline construction of mass drug screening. The brief research process is summarized as follows:
