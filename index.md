@@ -68,12 +68,16 @@ Ultimately, the {{ site.team }} Lab aims to digitize the cellular pathology of n
 {{ site.team }} 연구실의 궁극적 목표는 환자의 세포 수준 병리 정보를 디지털화하여, 인공지능 기반의 정밀 약물 예측 시스템을 완성하고, 이를 통해 뇌질환 치료의 새로운 표준을 제시하는 것입니다.
 
 <div class='player'>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W68qzmwzHVU?si=2yvhr05CXkF_OU3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/W68qzmwzHVU?si=2yvhr05CXkF_OU3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 <br>
 <div class='player'>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/tGAAIi8KsvI?si=pVYHdJKArDnkUnr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/tGAAIi8KsvI?si=pVYHdJKArDnkUnr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
   </iframe>
+</div>
+<br>
+<div class='player'>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/aKNxBKiNuPg?si=zqaAOxmKOG1VWXne" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 {::comment}
