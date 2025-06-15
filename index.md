@@ -36,45 +36,34 @@ carousels:
 
 ## {% include icon.html icon="fa-solid fa-lock-open" %}Finding New Keys to the Deadlock of Human Brain Disorders
 
-### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>One</pink> <blue>Goal</blue></strong>
+### {% include icon.html icon="fa-regular fa-pen-to-square" %}1. 환자 유래 줄기세포 (접시 속의 질병 패러다임)
 
-We are dedicated to making brain diseases more curable than yesterday. The primary aspiration of this endeavor is <strong>to foster a more profound understanding of the molecular and cellular origins of Neuro-Degenerative, -Psychological & -Developmental diseases & disorders</strong>, thereby enabling a more strategic approach to the innovation of new therapeutic intervention.
+환자 개별 hiPSC를 기반으로 성인형 신경세포 및 뇌 오가노이드를 분화·배양함으로써, 환자의 뇌세포 수준에서 발생하는 병리 현상을 실험실 내에서 직접 재현합니다. 이러한 모델은 역분화 기술, 신경발생학, 줄기세포 생물학에 기반하여 성숙한 인간 뇌조직의 구조와 기능을 재현할 수 있도록 정교하게 설계됩니다. 이 접근법은 개인의 뇌세포를 정밀하게 프로파일링하고, 질병을 유발하는 특정 기전을 밝히는 데 중요한 역할을 합니다.
 <br>
 
-### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Two</pink> <blue>Faces of 'One-Size-Fits-All' Approach</blue></strong>
+### {% include icon.html icon="fa-regular fa-pen-to-square" %} 2. 환자 뇌 오가노이드 생산
 
-The most common therapeutics in neurodegenerative diseases, such as Dopamine Agonists and Levodopa, follow a 'one-size-fits-all' approach. This approach applies the same treatment regimen to all patients with a particular condition, regardless of individual differences. While <strong>this method simplifies the treatment process</strong>, making it easier to standardise care and ensure consistency across different healthcare providers, it often fails to account for the unique characteristics and needs of individual patients. As a result, <strong>this can lead to less effective disease management and an increased risk of adverse effects</strong>, highlighting the need for personalised medicine.
+흔히 ‘미니 브레인’으로 불리며, 인간 뇌의 복잡성과 질환, 그리고 잠재적 치료법을 이해하는 데 있어 독보적인 창을 제공하는 강력한 신경과학 도구입니다.
 
-### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Three</pink> <blue>Challenges</blue></strong>
 
-Our mid-term objective is <strong>to develop a bespoke therapeutic platform that addresses three major challenges</strong> associated with human brain diseases.
+### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Four</pink> <blue>Powerful Keys</blue></strong> 3. 오가노이드 인텔리전스 (Organoid Intelligence)
 
-<ol>
-  <li>The <strong>distinctive complexity</strong> inherent in the human brain </li>
-  
-  <li>The <strong>clinical variability</strong> presented on an individual level </li>
-  
-  <li>The predominantly <strong>unknown etiological factors</strong> of the human brain diseases </li>
-</ol>
+최근 인간 뇌세포 기반의 미니 브레인이 간단한 게임을 학습했다는 연구 결과(Kagan et al., Neuron, 2021)는 생물학적 컴퓨팅의 가능성을 열었습니다. BROI는 이러한 개념을 확장하여, 인간 유래 미니 브레인과 컴퓨팅 시스템을 연결한 신경 컴퓨터를 개발하고, 이를 환자 인지기능의 반응 테스트베드로 활용합니다. 이를 통해 약물의 인지 기능 영향까지 평가 가능한 새로운 전임상 테스트 플랫폼을 구축하고자 합니다.
 
-{% capture col1 %}
-  {% include figure.html image="images/home/bbc.jpg" caption = "[BBC] Animal brains vs. human brains - let the Battle of the Brains commence!" link="https://www.sciencefocus.com/nature/animal-brains-v-human-brains-let-the-battle-of-the-brains-commence" %}
-{% endcapture %}
+### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Four</pink> <blue>Powerful Keys</blue></strong> 4. 디지털 뇌세포 파운데이션 모델
 
-{% capture col2 %}
-  {% include figure.html image="images/home/lancet.jpg" caption = "[The Lancet] Report finds no common cause for mystery brain disease." link="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00473-1/fulltext" %}
-{% endcapture %}
+뇌질환의 세포·분자 수준 병태 정보를 학습한 인공지능 모델을 통해, 복잡한 질환 기전과 환자 간 이질성을 반영한 예측 기반 치료 전략을 개발합니다. BROI는 대규모 언어모델(LLM)과 합성곱신경망(CNN) 등 최신 AI 기술을 통합하여, 환자의 병리학적 데이터를 디지털화하고, 약물 반응성 예측 모델을 정밀하게 최적화하고 있습니다. 
+BRIO 인공지능을 활용하여 이러한 질환들의 이질성을 정밀하게 분석하고 이해함으로써, 환자 개개인에 맞춘 예측 모델 개발에 기여하였습니다.
 
-{% capture col3 %}
-  {% include figure.html image="images/home/who.jpg" caption = "[WHO] There is no cure for Parkinson's disease, but therapies including medicines, surgery and rehabilitation can reduce symptoms." link="https://www.who.int/news-room/fact-sheets/detail/parkinson-disease" %}
-{% endcapture %}
+KAIST Brain Repair & Organoid Intelligence 연구실은 궁극적 목표는 환자의 세포 수준 병리 정보를 디지털화하여, 인공지능 기반의 정밀 약물 예측 시스템을 완성하고, 이를 통해 뇌질환 치료의 새로운 표준을 제시하는 것입니다.
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+<div class='player'>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tGAAIi8KsvI?si=pVYHdJKArDnkUnr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+  </iframe>
+</div>
+<br>
 
-### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Four</pink> <blue>Powerful Keys</blue></strong>
-
-Our therapeutic platform is underpinned by four pivotal technological advances.
-
+{::comment}
 <table style="width:100%">
   <tr>
     <td style="width:11%"></td>
@@ -170,13 +159,7 @@ Our therapeutic platform is underpinned by four pivotal technological advances.
 	    <td></td>
   </tr>
 </table>
-
-<div class='player'>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/tGAAIi8KsvI?si=pVYHdJKArDnkUnr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-  </iframe>
-</div>
-<br>
-
+{:/comment}
 
 {::comment}
 {% include figure.html image="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42256-023-00702-9/MediaObjects/42256_2023_702_Fig3_HTML.png?as=webp" caption = "Our classifier, trained on cell profiles of key organelles, predicts disease states with an accuracy of 82%." link="https://www.nature.com/articles/s42256-023-00702-9/figures/3" %}
