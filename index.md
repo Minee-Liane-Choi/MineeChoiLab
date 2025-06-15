@@ -36,6 +36,11 @@ carousels:
 
 ## {% include icon.html icon="fa-solid fa-lock-open" %}Finding New Keys to the Deadlock of Human Brain Disorders
 
+### {% include icon.html icon="fa-regular fa-pen-to-square" %}정밀한 뇌질환 치료를 위한 완전한 전임상 테스트베드 구축
+BROI 연구실은 뇌질환 정복을 위한 핵심 기반으로, 환자 맞춤형 치료제를 평가하고 예측할 수 있는 전임상 약물 테스트베드 개발에 집중하고 있습니다. 이를 위해 우리는 환자 유래 역분화 줄기세포(human induced pluripotent stem cell, hiPSC)를 표적 뇌세포 및 뇌 오가노이드로 분화시키고, 환자 개별의 병태생리학적 특징을 정밀하게 프로파일링합니다. 이렇게 획득한 생물학적 데이터를 인공지능 분석과 결합함으로써, 환자 고유의 발병 인자에 최적화된 약물 조합을 예측하고, 개인 맞춤형 치료전략을 구현합니다.
+
+이를 실현하기 위해 BROI는 다음의 세 가지 전략 기술을 심도 있게 연구하고 있습니다.
+
 ### {% include icon.html icon="fa-regular fa-pen-to-square" %}1. 환자 유래 줄기세포 (접시 속의 질병 패러다임)
 
 환자 개별 hiPSC를 기반으로 성인형 신경세포 및 뇌 오가노이드를 분화·배양함으로써, 환자의 뇌세포 수준에서 발생하는 병리 현상을 실험실 내에서 직접 재현합니다. 이러한 모델은 역분화 기술, 신경발생학, 줄기세포 생물학에 기반하여 성숙한 인간 뇌조직의 구조와 기능을 재현할 수 있도록 정교하게 설계됩니다. 이 접근법은 개인의 뇌세포를 정밀하게 프로파일링하고, 질병을 유발하는 특정 기전을 밝히는 데 중요한 역할을 합니다.
