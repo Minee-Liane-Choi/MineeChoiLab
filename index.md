@@ -19,7 +19,7 @@ To realize <strong>a Comprehensive Preclinical Testbed for Precision Neurotherap
 
 We recreate the cellular pathology of individual patients by differentiating their hiPSCs into mature human neurons and brain organoids. This in vitro modeling system recapitulates adult brain tissue structure and function through the integration of cutting-edge techniques in cellular reprogramming, neurodevelopment, and stem cell biology. This approach is instrumental in profiling an individual’s brain cells and elucidating the specific mechanisms driving their disease.
 
-### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Tech</pink> <blue>Two</blue></strong> &nbsp; Patient Brain-Organoid Production
+### {% include icon.html icon="fa-regular fa-pen-to-square" %} <strong><pink>Tech</pink> <blue>Two</blue></strong> &nbsp; Patient-derived Brain-Organoid Production
 
 Often described as “Mini-brain”, a powerful tool in neuroscience, offering a unique window into the human brain’s complexities, diseases, and potential treatments.
 
