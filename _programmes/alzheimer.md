@@ -12,12 +12,6 @@ tags:
   - Organoid
 ---
 
-{%
-  include tags.html
-  tags="Alzheimer's, Drug discovery, hiPSC, Organoid"
-  link="projects"
-%}
-
 <strong>Alzheimer's</strong>
 
 To be updated...
