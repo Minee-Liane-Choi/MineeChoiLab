@@ -12,12 +12,6 @@ tags:
   - Organoid
 ---
 
-{%
-  include tags.html
-  tags="Parkinson's, Drug discovery, hiPSC, Organoid"
-  link="projects"
-%}
-
 <strong>Parkinson's</strong>
 
 To be updated...
