@@ -10,12 +10,6 @@ tags:
   - Organoid
 ---
 
-{%
-  include tags.html
-  tags="AI, Organoid"
-  link="projects"
-%}
-
 <strong>Cellular World model</strong>
 
 To be updated...
