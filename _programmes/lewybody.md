@@ -12,12 +12,6 @@ tags:
   - Organoid
 ---
 
-{%
-  include tags.html
-  tags="Lewy body dementia, Drug discovery, hiPSC, Organoid"
-  link="projects"
-%}
-
 <strong>Lewy Body Dementia</strong>
 
 To be updated...
