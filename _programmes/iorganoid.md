@@ -9,12 +9,6 @@ tags:
   - Organoid
 ---
 
-{%
-  include tags.html
-  tags="Organoid"
-  link="projects"
-%}
-
 <strong>Intelligent Organoid</strong>
 
 To be updated...
