@@ -10,12 +10,6 @@ tags:
   - hiPSC
 ---
 
-{%
-  include tags.html
-  tags="AI, hiPSC"
-  link="projects"
-%}
-
 <strong>AI-based Drug Discovery</strong>
 
 To be updated...
