@@ -9,12 +9,6 @@ tags:
   - Mitochondria
 ---
 
-{%
-  include tags.html
-  tags="Mitochondria"
-  link="projects"
-%}
-
 <strong>Mitochondrial dysfunction</strong>
 
 To be updated...
