@@ -9,12 +9,6 @@ tags:
   - Protein misfolding
 ---
 
-{%
-  include tags.html
-  tags="Protein misfolding"
-  link="projects"
-%}
-
 <strong>Protein misfolding</strong>
 
 To be updated...
