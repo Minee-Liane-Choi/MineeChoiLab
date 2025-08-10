@@ -1,4 +1,3 @@
-
 ---
 name: Yonghun Son
 image: images/team/brepair/yonghun-son.jpg
