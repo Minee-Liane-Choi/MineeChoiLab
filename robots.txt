@@ -1,1 +1,1 @@
-Sitemap: /MineeChoiLab/sitemap.xml
+Sitemap: /sitemap.xml
