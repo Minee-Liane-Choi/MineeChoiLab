@@ -23,7 +23,7 @@ Team {{ site.team }} comprises talented individuals committed to "LIBERTY, DIVER
 {% include list.html data="members" component="portrait" filters="role: phd, group: " %}
 {% include list.html data="members" component="portrait" filters="role: mhd, group: " %}
 {% include list.html data="members" component="portrait" filters="role: ms, group: " %}
-{% include list.html data="members" component="portrait" filters="role: uphd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: uhd, group: " %}
 {% include list.html data="members" component="portrait" filters="role: ug, group: " %}
 {% include list.html data="members" component="portrait" filters="role: intern, group: " %}
 {% include list.html data="members" component="portrait" filters="role: associate, group: " %}
