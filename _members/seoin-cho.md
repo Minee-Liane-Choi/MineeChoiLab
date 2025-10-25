@@ -1,7 +1,7 @@
 ---
 name: Seoin Cho
 image: images/team/brepair/seoin-cho.jpg
-role: undergrad
+role: ug
 links:
   email:
   orcid:
