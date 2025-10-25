@@ -50,6 +50,10 @@ undergrax:
   icon: fa-solid fa-user-pen
   description: Ex-Undergraduate
 
+underphd:
+  icon: fa-solid fa-user-pen
+  description: Undergraduate/PhD (TUBE)
+
 associate:
   icon: fa-solid fa-user-ninja
   description: Research Associate
