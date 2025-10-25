@@ -44,7 +44,7 @@ mx:
 
 undergrad:
   icon: fa-solid fa-user-pen
-  description: Undergraduate
+  description: UG Research
 
 undergrax:
   icon: fa-solid fa-user-pen
@@ -52,7 +52,7 @@ undergrax:
 
 underphd:
   icon: fa-solid fa-user-pen
-  description: Undergraduate/PhD (TUBE)
+  description: UG/PhD (TUBE)
 
 associate:
   icon: fa-solid fa-user-ninja
