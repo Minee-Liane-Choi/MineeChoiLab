@@ -1,7 +1,7 @@
 ---
 name: Yonghun Son
 image: images/team/brepair/yonghun-son.jpg
-role: undergrad
+role: ug
 links:
   email:
   orcid:
