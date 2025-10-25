@@ -1,7 +1,7 @@
 ---
 name: Ian Choi
 image: images/team/brepair/ian-choi.jpg
-role: underphd
+role: uphd
 links:
   email:
   orcid:
