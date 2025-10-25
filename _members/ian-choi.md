@@ -1,7 +1,7 @@
 ---
 name: Ian Choi
 image: images/team/brepair/ian-choi.jpg
-role: uphd
+role: uhd
 links:
   email:
   orcid:
