@@ -1,7 +1,7 @@
 ---
 name: Ian Choi
 image: images/team/brepair/ian-choi.jpg
-role: undergrad
+role: underphd
 links:
   email:
   orcid:
@@ -14,4 +14,4 @@ links:
 
 <strong>Report To:</strong> Minee Choi <br>
 
-<strong>Duration:</strong> Sep, 2023 - Present
+<strong>Duration:</strong> Sep, 2025 - Present
