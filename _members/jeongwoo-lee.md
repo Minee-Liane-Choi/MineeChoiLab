@@ -1,7 +1,7 @@
 ---
 name: Jeongwoo Lee
 image: images/team/brepair/jeongwoo-lee.jpg
-role: undergrad
+role: ug
 links:
   email:
   orcid:
