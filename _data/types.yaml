@@ -42,7 +42,7 @@ mx:
   icon: fa-solid fa-user-graduate
   description: Ex-MS
 
-undergrad:
+ug:
   icon: fa-solid fa-user-pen
   description: UG Research
 
@@ -50,7 +50,7 @@ undergrax:
   icon: fa-solid fa-user-pen
   description: Ex-Undergraduate
 
-underphd:
+uphd:
   icon: fa-solid fa-user-pen
   description: UG/PhD (TUBE)
 
