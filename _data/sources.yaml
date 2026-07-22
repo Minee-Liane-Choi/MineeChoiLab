@@ -1,5 +1,6 @@
 - id: doi:10.48550/arXiv.2606.31394
-  tags: ../images/archive/0000-00-arXiv-cover.jpg
+  image: ../images/archive/0000-00-arXiv-cover.jpg
+  tags:
     - AI
     - Mechanistic Interpretability
     - hiPSC
@@ -22,7 +23,7 @@
     - Corresponding Author
 
 - id: doi:10.1126/sciadv.adp8504
-  image: https://www.science.org/cms/asset/73ebd9e6-81df-452f-9ab8-19f63bc44fc2/sciadv.2025.11.issue-16.largecover.jpg
+  image: ../images/archive/2025-04-SciAdv-cover.jpg
   tags:
     - Parkinson's
     - hiPSC
