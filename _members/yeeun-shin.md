@@ -1,7 +1,7 @@
 ---
 name: Yeeun Shin
 image: images/team/brepair/
-role: MS/PhD
+role: mhd
 links:
   email:
   orcid:
