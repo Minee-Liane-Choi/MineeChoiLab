@@ -1,7 +1,7 @@
 ---
 name: Hyeonjin Kwak
 image: images/team/intern.jpg
-role: intern
+role: 
 links:
   email:
   orcid:
