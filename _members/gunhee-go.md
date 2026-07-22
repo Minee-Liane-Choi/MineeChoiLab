@@ -1,5 +1,5 @@
 ---
-name: Geonhee GO
+name: Geonhee Go
 image: 
 role: intern
 links:
