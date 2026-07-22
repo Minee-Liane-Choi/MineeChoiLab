@@ -1,6 +1,6 @@
 ---
-name: Geonhee GO
-image: 
+name: Yejin Hong
+image: images/team/intern.jpg
 role: intern
 links:
   email:
@@ -10,7 +10,7 @@ links:
   github:
 ---
 
-<strong>Project:</strong> TBC (via KAIST-NEURO Internship) <br>
+<strong>Project:</strong> TBC (via 2026 Summer Stem Cell URP) <br>
 
 <strong>Report To:</strong> Minee Choi <br>
 
