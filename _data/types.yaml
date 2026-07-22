@@ -73,6 +73,10 @@ interx:
 mdintern:
   icon: fa-solid fa-person-walking-luggage
   description: MD Internship
+
+mdinterx:
+  icon: fa-solid fa-person-walking-luggage
+  description: Ex-MD Internship
   
 admin:
   icon: fa-solid fa-credit-card
