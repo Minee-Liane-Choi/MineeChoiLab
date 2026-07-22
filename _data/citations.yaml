@@ -1,5 +1,70 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.48550/arXiv.2606.31394
+  title: Resolving superposition in AI for interpretability and cross-modal alignment
+    in patient-neuronal images
+  authors:
+  - Jisung Park
+  - Seohyeon Kang
+  - Daeun Yoo
+  - Eunsu Lee
+  - Seoin Cho
+  - Wooyeop Choi
+  - Ian Choi
+  - James R. Evan
+  - Daesoo Kim
+  - Sonia Gandhi
+  - Minee L. Choi
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hcb9wv
+  tags:
+  - AI
+  - Mechanistic Interpretability
+  - hiPSC
+  - Corresponding Author
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.08.15.670492
+  title: Autonomous neuronal resilience under metabolic stress highlights fundamental
+    differences between hESC and hiPSC-derived neurons
+  authors:
+  - SeungJu Yoo
+  - Eunjin Yang
+  - Minee L. Choi
+  publisher: openRxiv
+  date: '2025-08-18'
+  link: https://doi.org/hcb9ww
+  image: ../images/archive/0000-00-BioRxiv-cover.jpg
+  tags:
+  - hiPSC
+  - Mitochondria
+  - Cell death
+  - Corresponding Author
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.10.12.681848
+  title: Organelle-Aware Representation Learning Enables Label-Free Detection of Mitochondrial
+    Dysfunction in Live Human Neurons
+  authors:
+  - SeungJu Yoo
+  - Eunjin Yang
+  - Seo-Hyun Kim
+  - Hoewon Park
+  - Daesoo Kim
+  - Ki-Jun Yoon
+  - Minee L. Choi
+  publisher: openRxiv
+  date: '2025-10-14'
+  link: https://doi.org/hcb9wx
+  image: ../images/archive/0000-00-BioRxiv-cover.jpg
+  tags:
+  - AI
+  - hiPSC
+  - Mitochondria
+  - Corresponding Author
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1126/sciadv.adp8504
   title: Astrocytic RNA editing regulates the host immune response to alpha-synuclein
   authors:
