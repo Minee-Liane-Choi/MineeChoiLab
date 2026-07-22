@@ -1,7 +1,7 @@
 ---
 name: Eunsu Lee
 image: images/team/brepair/eunsu-lee.jpg
-role: mdinterx
+role: mdintx
 links:
   email:
   orcid:
