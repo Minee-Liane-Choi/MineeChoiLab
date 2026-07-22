@@ -1,7 +1,7 @@
 ---
 name: Jihee Kim
 image: images/team/brepair/jihee-kim.jpg
-role: mdintern
+role: mdinterx
 links:
   email:
   orcid:
@@ -14,4 +14,4 @@ links:
 
 <strong>Report To:</strong> Minee Choi & Daeun Yoo <br>
 
-<strong>Duration:</strong> Nov, 2024 - Present
+<strong>Duration:</strong> Nov, 2024 - July, 2025
