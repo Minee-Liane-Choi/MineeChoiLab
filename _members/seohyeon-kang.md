@@ -1,7 +1,7 @@
 ---
 name: Seohyeon Kang
 image: images/team/brepair/seohyeon-kang.jpg
-role: MS/PhD
+role: mhd
 links:
   email:
   orcid:
