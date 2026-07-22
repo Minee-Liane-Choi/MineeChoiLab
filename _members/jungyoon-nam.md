@@ -1,5 +1,5 @@
 ---
-name: Jeongyoon Nam
+name: Jungyoon Nam
 image: images/team/brepair/jeongyoon-nam.jpg
 role: undergrax
 links:
