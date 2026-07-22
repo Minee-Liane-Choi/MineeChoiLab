@@ -12,6 +12,6 @@ links:
 
 <strong>Project:</strong> TBC (via 2026 Summer Stem Cell URP) <br>
 
-<strong>Report To:</strong> Minee Choi <br>
+<strong>Report To:</strong> Jeonghyun Kim <br>
 
 <strong>Duration:</strong> Summer break, 2026
