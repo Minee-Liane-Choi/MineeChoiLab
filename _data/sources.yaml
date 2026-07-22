@@ -1,3 +1,26 @@
+- id: doi:10.48550/arXiv.2606.31394
+  tags:
+    - AI
+    - Mechanistic Interpretability
+    - hiPSC
+    - Corresponding Author
+
+- id: doi:10.1101/2025.08.15.670492
+  image: ../images/archive/0000-00-BioRxiv-cover.jpg
+  tags:
+    - hiPSC
+    - Mitochondria
+    - Cell death
+    - Corresponding Author
+
+- id: doi:10.1101/2025.10.12.681848
+  image: ../images/archive/0000-00-BioRxiv-cover.jpg
+  tags:
+    - AI
+    - hiPSC
+    - Mitochondria
+    - Corresponding Author
+
 - id: doi:10.1126/sciadv.adp8504
   image: https://www.science.org/cms/asset/73ebd9e6-81df-452f-9ab8-19f63bc44fc2/sciadv.2025.11.issue-16.largecover.jpg
   tags:
