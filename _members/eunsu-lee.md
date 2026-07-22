@@ -14,4 +14,4 @@ links:
 
 <strong>Report To:</strong> Minee Choi & Daeun Yoo <br>
 
-<strong>Duration:</strong> Dec, 2024 - Present
+<strong>Duration:</strong> Dec, 2024 - July, 2026
