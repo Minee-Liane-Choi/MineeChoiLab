@@ -78,7 +78,7 @@
   - David A. Klenerman
   - Sonia Gandhi
   - Mina Ryten
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-02-28'
   link: https://doi.org/gt82tp
   image: ../images/archive/0000-00-BioRxiv-cover.jpg
@@ -89,8 +89,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2024.05.30.596437
-  title: The diversity of<i>SNCA</i>transcripts in neurons, and its impact on antisense
-    oligonucleotide therapeutics
+  title: "The diversity of\n                  <i>SNCA</i>\n                  transcripts\
+    \ in neurons, and its impact on antisense oligonucleotide therapeutics"
   authors:
   - James R. Evans
   - Emil K. Gustavsson
@@ -113,7 +113,7 @@
   - Wendy Heywood
   - Mina Ryten
   - Sonia Gandhi
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-05-31'
   link: https://doi.org/gt82tq
   image: ../images/archive/0000-00-BioRxiv-cover.jpg
@@ -154,7 +154,7 @@
   - Nigel Greig
   - Thomas Foltynie
   - Sonia Gandhi
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-02-28'
   link: https://doi.org/gt82tr
   image: ../images/archive/0000-00-BioRxiv-cover.jpg
