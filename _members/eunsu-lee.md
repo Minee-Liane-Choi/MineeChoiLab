@@ -10,7 +10,7 @@ links:
   github:
 ---
 
-<strong>Project:</strong> via Exchange programme with Konyang University College of Medicine <br>
+<strong>Project:</strong> via Exchange programme with Konyang medical school <br>
 
 <strong>Report To:</strong> Minee Choi & Daeun Yoo <br>
 
