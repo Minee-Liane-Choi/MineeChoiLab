@@ -43,7 +43,7 @@ Team {{ site.team }} comprises talented individuals committed to "LIBERTY, DIVER
 {% include list.html data="members" component="portrait" filters="role: associatx, group: " %}
 {% include list.html data="members" component="portrait" filters="role: undergrax, group: " %}
 {% include list.html data="members" component="portrait" filters="role: interx, group: " %}
-{% include list.html data="members" component="portrait" filters="role: mdinternx, group: " %}
+{% include list.html data="members" component="portrait" filters="role: mdinterx, group: " %}
 
 
 {% include section.html background="images/wallpaper/issac-newton.jpg" dark=true %}
