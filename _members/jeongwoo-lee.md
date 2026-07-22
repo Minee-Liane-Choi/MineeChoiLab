@@ -10,8 +10,8 @@ links:
   github:
 ---
 
-<strong>Project:</strong> Development of Growth-Adaptive MEA for 3D Spatiotemporal Monitoring of Brain Organoids (via URP) <br>
+<strong>Project:</strong> Development of Growth-Adaptive MEA for 3D Spatiotemporal Monitoring of Brain Organoids (via 2025 URP) <br>
 
 <strong>Report To:</strong> Minee Choi <br>
 
-<strong>Duration:</strong> Mar, 2024 - Present
+<strong>Duration:</strong> Mar, 2024 - Dec, 2025
