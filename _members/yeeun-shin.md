@@ -1,6 +1,6 @@
 ---
-name: Seohyeon Kang
-image: images/team/brepair/seohyeon-kang.jpg
+name: Yeeun Shin
+image: images/team/brepair/
 role: MS/PhD
 links:
   email:
@@ -12,5 +12,5 @@ links:
 
 <strong>Project:</strong> TBC <br>
 
-<strong>Matriculation:</strong> Mar, 2026 <br>
+<strong>Matriculation:</strong> Sep, 2026 <br>
 <strong>Graduation:</strong>
