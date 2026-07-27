@@ -1,6 +1,6 @@
 ---
 name: Geonhee Go
-image: 
+image: images/team/intern.jpg
 role: intern
 links:
   email:
