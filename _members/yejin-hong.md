@@ -1,7 +1,7 @@
 ---
 name: Yejin Hong
 image: images/team/intern.jpg
-role: intern
+role: interx
 links:
   email:
   orcid:
