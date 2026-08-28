@@ -1,6 +1,6 @@
 ---
 name: Wooyeop Choi
-image: images/team/student.jpg
+image: images/team/brepair/wooyeop-choi.jpg
 role: ug
 links:
   email:
