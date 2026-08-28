@@ -1,6 +1,6 @@
 ---
 name: Yejin Hong
-image: images/team/intern.jpg
+image: images/team/brepair/yejin-hong.jpg
 role: interx
 links:
   email:
