@@ -1,6 +1,6 @@
 ---
 name: Yeeun Shin
-image: images/team/student.jpg
+image: images/team/brepair/yeeun-shin.jpg
 role: mhd
 links:
   email:
