@@ -10,6 +10,6 @@ links:
   github:
 ---
 
-<strong>Project:</strong> TBC (InnoCore AI-CRED) <br>
+<strong>Project:</strong> InnoCore AI-CRED <br>
 
 <strong>Matriculation:</strong> 
