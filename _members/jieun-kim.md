@@ -1,6 +1,6 @@
 ---
 name: Jieun Kim
-image: 
+image: images/team/brepair/jieun-kim.jpg
 role: postdoc
 links:
   email:
