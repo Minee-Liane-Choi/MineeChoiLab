@@ -2,6 +2,7 @@
 name: Jieun Kim
 image: images/team/brepair/jieun-kim.jpg
 role: postdoc
+description: Post-Doc (InnoCore AI-CRED)
 links:
   email:
   orcid: 0009-0001-8992-4060 
