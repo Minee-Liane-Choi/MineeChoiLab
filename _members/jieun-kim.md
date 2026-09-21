@@ -12,4 +12,4 @@ links:
 
 <strong>Project:</strong> InnoCore AI-CRED <br>
 
-<strong>Matriculation:</strong> 2025.09 ~ Present
+<strong>Matriculation:</strong> Sep, 2025 - Present
