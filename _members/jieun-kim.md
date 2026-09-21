@@ -4,7 +4,7 @@ image: images/team/brepair/jieun-kim.jpg
 role: postdoc
 links:
   email:
-  orcid:
+  orcid: https://orcid.org/0009-0001-8992-4060 
   google-scholar:
   research-gate:
   github:
