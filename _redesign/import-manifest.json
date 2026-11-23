@@ -1,0 +1,374 @@
+{
+  "source_dist": "dist",
+  "prefix": "/redesign",
+  "path_resolution": "Liquid relative_url at build time (works for root and /preview/pr-N)",
+  "pages": 31,
+  "scripts": 4,
+  "files": [
+    {
+      "source": "assets/base.css",
+      "sha256": "2bfb79a49b2389f4ff5fb9a6a9862b49447869a43190ffe7968822f7e8c151d1",
+      "output": "copy"
+    },
+    {
+      "source": "assets/detail-pages.css",
+      "sha256": "1391233f37990b218802fe2dd40cac429407fadf241a5894b7eecfb1606d3c14",
+      "output": "copy"
+    },
+    {
+      "source": "assets/favicon.svg",
+      "sha256": "6689734dfa25149925e76631e8a0ad0f5e776430cf18c688ab6519d034c15232",
+      "output": "copy"
+    },
+    {
+      "source": "assets/hero-ai-v6.webp",
+      "sha256": "4227066872e82291df1bdce7dc5115d1e82511bebd7beaae9075fbef95509fb8",
+      "output": "copy"
+    },
+    {
+      "source": "assets/hero-carousel.css",
+      "sha256": "0357c876187f4aeed9877a29eb4c3800393405f313c61bbc3afb46f722dce1be",
+      "output": "copy"
+    },
+    {
+      "source": "assets/hero-carousel.js",
+      "sha256": "ba2a2dee5768d51f62cc1385beba6ea0f29a6896769702a6e6f0afa59c9263b1",
+      "output": "script"
+    },
+    {
+      "source": "assets/hero-dark.webp",
+      "sha256": "9464063ef2b6a52e254c1cb23ed938bc9e66792dead19ca88fafe1ae4ca9d231",
+      "output": "copy"
+    },
+    {
+      "source": "assets/hero-ipsc-v6.webp",
+      "sha256": "b60a4f63a9291e4cd216faa5d7c67ee41b12f83c2532f1c0a10a72222d4f4d32",
+      "output": "copy"
+    },
+    {
+      "source": "assets/hero-light.webp",
+      "sha256": "e3a6e37a5c79b4048c591015df43bdfa4fc88d821e4ce799f9bb7d006cdbbcbe",
+      "output": "copy"
+    },
+    {
+      "source": "assets/hero-organoid-v6.webp",
+      "sha256": "0141e09d52ca2392c4183c70970f1b9101b96ddda107a0dd498fb657115473d2",
+      "output": "copy"
+    },
+    {
+      "source": "assets/icc-choi-2022.webp",
+      "sha256": "a426bf334f8e625a2a5f28ff14a92db3398a3f22a3ecba960da4a399408fe708",
+      "output": "copy"
+    },
+    {
+      "source": "assets/icc-midbrain-2022.webp",
+      "sha256": "fc2b9be7edf2b3c0dbffd30d2312c9d757e7b404561c1c2aad23bf19e4a5c846",
+      "output": "copy"
+    },
+    {
+      "source": "assets/interactive.css",
+      "sha256": "58f5010812b42c9950c2cb2d704b28f76d2c591a97a6690874e3670aed495bc7",
+      "output": "copy"
+    },
+    {
+      "source": "assets/interactive.js",
+      "sha256": "a2aeb562b855d9edd124886b7484612e82ad289c988e2a99fbab7911e98af874",
+      "output": "script"
+    },
+    {
+      "source": "assets/kaist-logo-blue.png",
+      "sha256": "5da4908513cd41e7c6efa0d8c1929177cf560487ee6abc39453043472712e594",
+      "output": "copy"
+    },
+    {
+      "source": "assets/kaist-logo-white.png",
+      "sha256": "08dc5292d86a5d2e554f1e9deb56e52ce2ec0fc03306625053087d7d40a07668",
+      "output": "copy"
+    },
+    {
+      "source": "assets/lab-cell-brightfield.webp",
+      "sha256": "e5fd90033fc6d29d684a727bf427c4d2a4743c260119b756e5806af3e44a53b5",
+      "output": "copy"
+    },
+    {
+      "source": "assets/lab-cell-control.webp",
+      "sha256": "7992bf8fc6a0a370a742a8012fc268bfd6e476f2a505931039dc6e5f14b0a6a2",
+      "output": "copy"
+    },
+    {
+      "source": "assets/lab-cell-fluorescence.webp",
+      "sha256": "c05c3aacca52cd2036627ff14448e4c855a4667ad21750ffbb3fcca8d1fbf053",
+      "output": "copy"
+    },
+    {
+      "source": "assets/lab-cell-multiplex.webp",
+      "sha256": "0b514452ee06186c46814908a431d84df1f3fb260e22bb120f357339f6719825",
+      "output": "copy"
+    },
+    {
+      "source": "assets/neural-pong.css",
+      "sha256": "aeb8ecf4709a328eb989a0befa1ae1b87be1e0eb6e488c31a9018cb2d12e7b4d",
+      "output": "copy"
+    },
+    {
+      "source": "assets/neural-pong.js",
+      "sha256": "e98e0d1c2ea944bf23f4afb779b0a9400dc02f94a6a617094b7550cae52d4130",
+      "output": "script"
+    },
+    {
+      "source": "assets/opera-instrument.webp",
+      "sha256": "71391a3bc11ef82453647250c45fa381bcabed8fbc3aaa68b8f0b0548d8283f8",
+      "output": "copy"
+    },
+    {
+      "source": "assets/opera-neurons.webp",
+      "sha256": "b99fa6c34a0b5305b18fb6bfdf4156bdf29df6390ab8f7e674ca3d58dd129e1d",
+      "output": "copy"
+    },
+    {
+      "source": "assets/people/changwon-jung.webp",
+      "sha256": "902fbbde3c5bbea2965b4591dc5dd93db4810d28d103afe4a6d0f6a476c512f1",
+      "output": "copy"
+    },
+    {
+      "source": "assets/people/daeun-yoo.webp",
+      "sha256": "6403a50e0828616c0e5ccafebc0d5ff4cf976ba62a95ca12b4bf761f3a911b0e",
+      "output": "copy"
+    },
+    {
+      "source": "assets/people/hayeon-kim.webp",
+      "sha256": "b026c944823db6910be3ae386eee1ef5386cf57c4e204c4a5827f7cf441faafd",
+      "output": "copy"
+    },
+    {
+      "source": "assets/people/hyeyoung-kim.webp",
+      "sha256": "cfac2c3ab176e2abcce1577e501de54470dd15287ba830855806b6b3bd6402ac",
+      "output": "copy"
+    },
+    {
+      "source": "assets/people/ian-choi.webp",
+      "sha256": "b42ae533c088269df519deb93477739d5be9996531529219c959a069a39d3900",
+      "output": "copy"
+    },
+    {
+      "source": "assets/people/jeonghyun-kim.webp",
+      "sha256": "9d57ab0783c3382cbd052bd3dc11a588d591af35cd568f2ac37e4860c0d417c3",
+      "output": "copy"
+    },
+    {
+      "source": "assets/people/jieun-kim.webp",
+      "sha256": "47930ea5e9df9853eff5c6f658986b835d01df8933e33e168436863f4b28a749",
+      "output": "copy"
+    },
+    {
+      "source": "assets/people/jisung-park.webp",
+      "sha256": "88125d68b7850086895f9d12a5b905c00edc0f0125126e238e77916b72d71061",
+      "output": "copy"
+    },
+    {
+      "source": "assets/people/minee-choi.webp",
+      "sha256": "071da0ecc3575ff7e9ed6d9895208f68412c621cba4e57f28a793fa726c337cc",
+      "output": "copy"
+    },
+    {
+      "source": "assets/people/seohyeon-kang.webp",
+      "sha256": "302ab62d65a9fc25b35de52736642a1d580031b8838142b4928543ab832215ee",
+      "output": "copy"
+    },
+    {
+      "source": "assets/people/seoin-cho.webp",
+      "sha256": "37499d084c6b364e31d6fc007b9aeb7b6748e039c5fb6181c792137d7811fc16",
+      "output": "copy"
+    },
+    {
+      "source": "assets/people/wooyeop-choi.webp",
+      "sha256": "f9f0bd43ff0f750c8d20f7e30a47242c19b081f256b44b38ff35e0108c996131",
+      "output": "copy"
+    },
+    {
+      "source": "assets/people/yeeun-shin.webp",
+      "sha256": "7bfb060eba5797af4823ec5bb123163bae37628179d24ea249bd6e02dfd87f6d",
+      "output": "copy"
+    },
+    {
+      "source": "assets/people/yonghun-son.webp",
+      "sha256": "31ea830ba1eb55af181f64294cff2dfe43bcbc89a58a3a46fc4313e6439c0de0",
+      "output": "copy"
+    },
+    {
+      "source": "assets/people/yuchae-lee.webp",
+      "sha256": "c8bbc4114e09222d5f6d285f26a25ea2e50b6666797f98d2601536ea2e4bd006",
+      "output": "copy"
+    },
+    {
+      "source": "assets/pong-demo-poster.webp",
+      "sha256": "4ce9894afbb795efc3133feca101f337284077eaf4e558bc8cceb132666fcdd8",
+      "output": "copy"
+    },
+    {
+      "source": "assets/pong-demo.mp4",
+      "sha256": "84306c921050723e2995cfcf3d60a223b94e2da0a064625a1545469c83250002",
+      "output": "copy"
+    },
+    {
+      "source": "assets/site-pages.js",
+      "sha256": "26f7e40b959e936fdd28e0ce2a02607dbe73942f501c07f320ec38bbcddbd926",
+      "output": "script"
+    },
+    {
+      "source": "contact/index.html",
+      "sha256": "162a53a8080171d720e1e4fae5ff37a5518a2944a2c12ab6d4cfe81d7247303f",
+      "output": "page /redesign/contact/"
+    },
+    {
+      "source": "designs/index.html",
+      "sha256": "e6de9f1727063edf3af6dbe96c29abd24fa7fcaf36082dd910efd1161a4b2eb4",
+      "output": "page /redesign/designs/"
+    },
+    {
+      "source": "index.html",
+      "sha256": "1e29948bbaaf884e16d8ca82c976a71bb2d6e8f72128c3e8098efcdaf8315ad6",
+      "output": "page /redesign/"
+    },
+    {
+      "source": "join/index.html",
+      "sha256": "199f9e8254de41c0d48bafda021cdf9dff064afd0b50591d662b093694c5eafd",
+      "output": "page /redesign/join/"
+    },
+    {
+      "source": "media/index.html",
+      "sha256": "71785fab4be54f8bd4d889b367f62417fedac2041d96649801799d36c6da0b73",
+      "output": "page /redesign/media/"
+    },
+    {
+      "source": "media/news/story-01/index.html",
+      "sha256": "8495df09e721ace270844221ce03d4978e82c5df40c1ccd1ec6c235d7a64a48d",
+      "output": "page /redesign/media/news/story-01/"
+    },
+    {
+      "source": "media/news/story-02/index.html",
+      "sha256": "d8fdc7a2a0f3cf85ac2d196205b64d8a1c4c099402a86956c41170840d28d577",
+      "output": "page /redesign/media/news/story-02/"
+    },
+    {
+      "source": "media/news/story-03/index.html",
+      "sha256": "c6e203d89e76338b1166f9dd3cb3b0b408a40ca5a2d99243202c376976392e67",
+      "output": "page /redesign/media/news/story-03/"
+    },
+    {
+      "source": "media/news/story-04/index.html",
+      "sha256": "9d26934d4a30b406f40f8a6b06c28cfff0611f0e401d0c982fe71e92d9ce7ff3",
+      "output": "page /redesign/media/news/story-04/"
+    },
+    {
+      "source": "media/news/story-05/index.html",
+      "sha256": "7c8c5283adcdf2839ae28fa91c33aa875d68d32f92d9e199b9a46d66e28b77b0",
+      "output": "page /redesign/media/news/story-05/"
+    },
+    {
+      "source": "media/news/story-06/index.html",
+      "sha256": "8bdd73fe3f7b4a509e93582adca65cdd09416f34e55dd1649bbb699931024531",
+      "output": "page /redesign/media/news/story-06/"
+    },
+    {
+      "source": "media/news/story-07/index.html",
+      "sha256": "c37dd0191b7f21d355c37d53c770f44d530483b4b023df11a7ec2a92b6d7bb19",
+      "output": "page /redesign/media/news/story-07/"
+    },
+    {
+      "source": "media/news/story-08/index.html",
+      "sha256": "cb3e08d3de95ee7f3d091dc052b305e02e4173a156f2674295794cb35dad8ea4",
+      "output": "page /redesign/media/news/story-08/"
+    },
+    {
+      "source": "media/news/story-09/index.html",
+      "sha256": "8d55f7bc3a5e75817588d5619e278e78dcdba48a28f549dc9d6d60696fedce61",
+      "output": "page /redesign/media/news/story-09/"
+    },
+    {
+      "source": "media/news/story-10/index.html",
+      "sha256": "d659a61e4085419014de6e4239a5831d31f2a07062ee4603b252657143f4316c",
+      "output": "page /redesign/media/news/story-10/"
+    },
+    {
+      "source": "media/videos/aKNxBKiNuPg/index.html",
+      "sha256": "01b9abbc964be4e22d5e0ba0cf5c9c7c74422aa55440012346fb554a3ce253ff",
+      "output": "page /redesign/media/videos/aKNxBKiNuPg/"
+    },
+    {
+      "source": "media/videos/DCxy5QLtugO/index.html",
+      "sha256": "13cf7c5bd202581cf4ff5282336b63789352fbb66c846ecc9953b05295ad220d",
+      "output": "page /redesign/media/videos/DCxy5QLtugO/"
+    },
+    {
+      "source": "media/videos/tGAAIi8KsvI/index.html",
+      "sha256": "9c6c613fef97baa389c8add48e1a181a8e0950a3bb5669100450523787fde57d",
+      "output": "page /redesign/media/videos/tGAAIi8KsvI/"
+    },
+    {
+      "source": "media/videos/W68qzmwzHVU/index.html",
+      "sha256": "398cf50e1c7384d2d45f04477094eec4f28ae4f811b0c5b344a096fbb67e1c9a",
+      "output": "page /redesign/media/videos/W68qzmwzHVU/"
+    },
+    {
+      "source": "publications/adar1/index.html",
+      "sha256": "e50713bbe7563b8449f167551924dfe1bb4a480d3279e5f81c87835b5223c4c0",
+      "output": "page /redesign/publications/adar1/"
+    },
+    {
+      "source": "publications/alpha-synuclein/index.html",
+      "sha256": "21b1d29a08924d03327f14d173a2603c1915996fd7a4597275868f5c30a8dab0",
+      "output": "page /redesign/publications/alpha-synuclein/"
+    },
+    {
+      "source": "publications/index.html",
+      "sha256": "e7ea42cb611bdc9a632fec217945dadcb8d534c9241dc738125545a90447a304",
+      "output": "page /redesign/publications/"
+    },
+    {
+      "source": "publications/parkinsons-ai/index.html",
+      "sha256": "1629927e9c253c60c591e3793e3653137ffac7db89bc9322b7e14488bb9c18a4",
+      "output": "page /redesign/publications/parkinsons-ai/"
+    },
+    {
+      "source": "research/activity/index.html",
+      "sha256": "3e9133b7e202fd1ca214f75896b23ed2effa6d6927ccb319d43b0392d6551ac1",
+      "output": "page /redesign/research/activity/"
+    },
+    {
+      "source": "research/ai/index.html",
+      "sha256": "630def436e22a3913e24f7a6dc252545f795cae1faf9e68916e249142219a29f",
+      "output": "page /redesign/research/ai/"
+    },
+    {
+      "source": "research/imaging/index.html",
+      "sha256": "b98b1e024649c48f13ac031559e249b062c82ccee55095a7851888f9fd6c2ef6",
+      "output": "page /redesign/research/imaging/"
+    },
+    {
+      "source": "research/index.html",
+      "sha256": "c90b381b3d64584ccb16e944269a7f933a60f63502f8fab4f0e007c22695a305",
+      "output": "page /redesign/research/"
+    },
+    {
+      "source": "research/models/index.html",
+      "sha256": "a660109030c67df63e26130344f1de4b769b701b0b9c959f2c6f04723930d52c",
+      "output": "page /redesign/research/models/"
+    },
+    {
+      "source": "team/index.html",
+      "sha256": "9ceb265ed2d22e0a9c7d233176bb0ba982c851ba6b852a2ce62e3799804fc472",
+      "output": "page /redesign/team/"
+    },
+    {
+      "source": "team/minee-choi/index.html",
+      "sha256": "992cea6fd75cde1f73a83f7dec7f20da9a5084d616b6e20266d3bc0287e04bae",
+      "output": "page /redesign/team/minee-choi/"
+    },
+    {
+      "source": "tools/index.html",
+      "sha256": "27d3c89450612d2ded673137480f5270723d70360a1603d2a7aac438da04acda",
+      "output": "page /redesign/tools/"
+    }
+  ]
+}

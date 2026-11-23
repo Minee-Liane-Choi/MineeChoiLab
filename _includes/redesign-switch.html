@@ -1,0 +1,50 @@
+{%- comment -%}
+  Floating button between the current site and the redesign preview (/redesign/).
+  - Current site: {% include redesign-switch.html %} (from _layouts/default.html)
+  - Redesign pages: {% include redesign-switch.html mode="redesign" %} (added by _redesign/import_redesign.py)
+  Hide it everywhere with `redesign_preview_button: false` in _config.yaml.
+  Each button opens the closest matching page on the other site.
+{%- endcomment -%}
+{%- if site.redesign_preview_button != false -%}
+{%- assign url = page.url | default: "/" -%}
+{%- if include.mode == "redesign" -%}
+  {%- assign target = "/" -%}
+  {%- if url contains "/redesign/publications/" -%}{%- assign target = "/publications/" -%}
+  {%- elsif url contains "/redesign/team/" -%}{%- assign target = "/team/" -%}
+  {%- elsif url contains "/redesign/research/" -%}{%- assign target = "/projects/" -%}
+  {%- elsif url contains "/redesign/join/" -%}{%- assign target = "/vacancy/" -%}
+  {%- elsif url contains "/redesign/contact/" -%}{%- assign target = "/contact/" -%}
+  {%- elsif url contains "/redesign/media/" -%}{%- assign target = "/collage/" -%}
+  {%- endif -%}
+  {%- assign ko = "현재 홈페이지 보기" -%}
+  {%- assign en = "View current site" -%}
+{%- else -%}
+  {%- assign target = "/redesign/" -%}
+  {%- if url == "/publications/" -%}{%- assign target = "/redesign/publications/" -%}
+  {%- elsif url contains "minee-choi" -%}{%- assign target = "/redesign/team/minee-choi/" -%}
+  {%- elsif url == "/team/" or page.collection == "members" -%}{%- assign target = "/redesign/team/" -%}
+  {%- elsif url == "/projects/" or page.collection == "programmes" -%}{%- assign target = "/redesign/research/" -%}
+  {%- elsif url == "/vacancy/" -%}{%- assign target = "/redesign/join/" -%}
+  {%- elsif url == "/contact/" -%}{%- assign target = "/redesign/contact/" -%}
+  {%- elsif url == "/collage/" or page.collection == "posts" -%}{%- assign target = "/redesign/media/" -%}
+  {%- endif -%}
+  {%- assign ko = "새 홈페이지 미리보기" -%}
+  {%- assign en = "Preview the new site" -%}
+{%- endif -%}
+<style>
+  .bro1-switch { position: fixed; right: 16px; bottom: calc(16px + env(safe-area-inset-bottom, 0px)); z-index: 50; display: inline-flex; align-items: center; gap: 10px; max-width: calc(100vw - 32px); padding: 10px 16px 10px 14px; border-radius: 999px; background: #10171d; color: #f5f7fa !important; border: 1px solid #34404b; box-shadow: 0 6px 24px rgba(0, 0, 0, .28); font: 600 14px/1.25 Manrope, "Noto Sans KR", system-ui, -apple-system, "Segoe UI", sans-serif; letter-spacing: 0; text-decoration: none !important; }
+  .bro1-switch:hover { background: #1b2630; }
+  .bro1-switch:focus-visible { outline: 3px solid #6debd5; outline-offset: 3px; }
+  .bro1-switch-dot { flex: none; width: 8px; height: 8px; border-radius: 50%; background: #6debd5; }
+  .bro1-switch-text { display: flex; flex-direction: column; }
+  .bro1-switch-text small { font-weight: 500; font-size: 12px; color: #b0bac4; }
+  .bro1-switch[data-mode="redesign"] .bro1-switch-text small { display: none; }
+  html[lang="en"] .bro1-switch[data-mode="redesign"] [lang="ko"] { display: none; }
+  html[lang="en"] .bro1-switch[data-mode="redesign"] .bro1-switch-text small { display: inline; font-size: 14px; font-weight: 600; color: inherit; }
+  @media print { .bro1-switch { display: none; } }
+</style>
+<a class="bro1-switch" data-mode="{{ include.mode | default: 'current' }}" href="{{ target | relative_url }}">
+  <span class="bro1-switch-dot" aria-hidden="true"></span>
+  <span class="bro1-switch-text"><span lang="ko">{{ ko }}</span><small lang="en">{{ en }}</small></span>
+</a>
+{%- endif -%}

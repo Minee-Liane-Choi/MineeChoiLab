@@ -13,6 +13,9 @@ links:
   github: Minee-Liane-Choi
   twitter: MineeChoi
   youtube: 
+# floating button between the current site and the redesign preview at /redesign/
+# (see _redesign/README.md). set to false to hide it on every page.
+redesign_preview_button: true
 defaults:
   - scope:
       path: ""

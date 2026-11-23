@@ -1,0 +1,136 @@
+"""Import the static BRO1 redesign (v9 `dist/`) into this Jekyll site as a preview.
+
+The current site is left as it is: every existing page keeps its URL and
+layout. The redesign is copied under `redesign/` and served at `/redesign/`.
+
+Why this layout:
+- No output collisions: the old `index.md`, `team/index.md`, `contact/index.md`,
+  `publications/index.md` keep producing `/`, `/team/`, `/contact/`,
+  `/publications/`; the redesign uses `/redesign/...` permalinks.
+- One build works at the domain root and in PR previews (`/preview/pr-N`).
+  Local paths in HTML and JavaScript are written as
+  `{{ '/redesign' | relative_url }}`, so Jekyll fills in `--baseurl` at build
+  time. (The original `prepare-jekyll.py` fixed baseurl at export time.)
+- Pages and scripts are wrapped in `{% raw %}` so embedded JavaScript is never
+  read as Liquid. `layout: null` keeps the old header/footer off these pages.
+- Each page gets `noindex` and `sitemap: false` while it is a preview, plus the
+  shared `redesign-switch.html` button that links back to the current site.
+
+Usage (from the repository root):
+    python _redesign/import_redesign.py --dist <path-to-v9>/dist
+    python _redesign/import_redesign.py --dist <path> --replace   # re-import
+
+Only `redesign/` is written (and `_redesign/import-manifest.json`). An existing
+`redesign/` is replaced only with --replace and only if it was created by this
+script.
+"""
+from pathlib import Path
+import argparse
+import hashlib
+import json
+import re
+import shutil
+
+PREFIX = '/redesign'
+SENTINEL = '/BRO1BASESENTINEL'
+LIQUID_BASE = "{% endraw %}{{ '" + PREFIX + "' | relative_url }}{% raw %}"
+SWITCH = '{% endraw %}{% include redesign-switch.html mode="redesign" %}{% raw %}'
+NOINDEX = '<meta name="robots" content="noindex">'
+MARKER = '.imported-by-import_redesign'
+LIQUID_MARKERS = re.compile(r'\{\{|\{%|\{%-|\{\{-')
+
+
+def sha256(path):
+    return hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+def make_adapter(folders):
+    # Same rule as prepare-jekyll.py: only known local roots right after an
+    # HTML/JS string delimiter. External URLs and data stay byte-for-byte.
+    local = re.compile(r'''(?<=["'`])/(?:''' + '|'.join(map(re.escape, folders))
+                       + r''')(?:/|(?=["'`]))''')
+    bare_root = re.compile(r'''(?<=["'`])/(?=["'`])''')
+
+    def adapt(text):
+        text = local.sub(lambda m: SENTINEL + m.group(), text)
+        return bare_root.sub(SENTINEL + '/', text)
+    return adapt
+
+
+def read_source(path):
+    text = path.read_text(encoding='utf-8')
+    if LIQUID_MARKERS.search(text) or SENTINEL in text:
+        raise ValueError(f'{path.name} contains Liquid start markers; it cannot be wrapped in raw safely')
+    return text
+
+
+def wrap(text, front_matter):
+    body = text.replace(SENTINEL, LIQUID_BASE)
+    return '---\n' + front_matter + '---\n{% raw %}' + body + '{% endraw %}\n'
+
+
+def import_dist(dist, repo, replace):
+    dist, repo = dist.resolve(), repo.resolve()
+    dest = repo / 'redesign'
+    if not (dist / 'index.html').is_file() or not (dist / 'assets').is_dir():
+        raise SystemExit('--dist must be the generated v9 dist/ folder (index.html + assets/)')
+    if dest.exists() and any(dest.iterdir()):
+        if not replace:
+            raise SystemExit('redesign/ already exists; pass --replace to re-import')
+        if not (dest / MARKER).is_file():
+            raise SystemExit('redesign/ was not created by this script; not replacing it')
+        shutil.rmtree(dest)
+    dest.mkdir(parents=True)
+
+    folders = sorted(p.name for p in dist.iterdir() if p.is_dir())
+    adapt = make_adapter(folders)
+    files = []
+    for src in sorted(p for p in dist.rglob('*') if p.is_file()):
+        rel = src.relative_to(dist)
+        out = dest / rel
+        out.parent.mkdir(parents=True, exist_ok=True)
+        kind = 'copy'
+        if src.suffix == '.html':
+            route = PREFIX + '/' + rel.parent.as_posix().strip('.')
+            route = route.rstrip('/') + '/'
+            html = adapt(read_source(src))
+            html = re.sub(r'<base\b[^>]*>', '<base href="' + SENTINEL + '/">', html)
+            html = re.sub(r'<head>', '<head>' + NOINDEX, html, count=1)
+            if html.count('</body>') != 1:
+                raise ValueError(f'{rel}: expected exactly one </body>')
+            html = html.replace('</body>', SWITCH + '</body>')
+            fm = 'layout: null\npermalink: ' + json.dumps(route) + '\nsitemap: false\n'
+            out.write_text(wrap(html, fm), encoding='utf-8', newline='\n')
+            kind = 'page ' + route
+        elif src.suffix == '.js':
+            js = adapt(read_source(src))
+            out.write_text(wrap(js, 'layout: null\nsitemap: false\n'), encoding='utf-8', newline='\n')
+            kind = 'script'
+        else:
+            shutil.copy2(src, out)
+        files.append({'source': rel.as_posix(), 'sha256': sha256(src), 'output': kind})
+
+    (dest / MARKER).write_text('Generated by _redesign/import_redesign.py. Re-run it instead of editing by hand.\n',
+                               encoding='utf-8', newline='\n')
+    manifest = {
+        'source_dist': dist.name,
+        'prefix': PREFIX,
+        'path_resolution': "Liquid relative_url at build time (works for root and /preview/pr-N)",
+        'pages': sum(f['output'].startswith('page') for f in files),
+        'scripts': sum(f['output'] == 'script' for f in files),
+        'files': files,
+    }
+    (repo / '_redesign' / 'import-manifest.json').write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8', newline='\n')
+    return manifest
+
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser.add_argument('--dist', type=Path, required=True, help='v9 dist/ folder')
+    parser.add_argument('--repo', type=Path, default=Path(__file__).resolve().parent.parent)
+    parser.add_argument('--replace', action='store_true', help='replace a previous import')
+    args = parser.parse_args()
+    result = import_dist(args.dist, args.repo, args.replace)
+    print(json.dumps({'pages': result['pages'], 'scripts': result['scripts'],
+                      'files': len(result['files']), 'prefix': result['prefix']}))
