@@ -22,6 +22,11 @@ defaults:
     values:
       layout: default
   - scope:
+      path: "redesign"
+    values:
+      layout: redesign
+      sitemap: false
+  - scope:
       type: members
     values:
       layout: member

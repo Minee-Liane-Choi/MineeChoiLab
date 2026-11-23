@@ -1,7 +1,7 @@
 {%- comment -%}
   Floating button between the current site and the redesign preview (/redesign/).
   - Current site: {% include redesign-switch.html %} (from _layouts/default.html)
-  - Redesign pages: {% include redesign-switch.html mode="redesign" %} (added by _redesign/import_redesign.py)
+  - Redesign pages: {% include redesign-switch.html mode="redesign" %} (from _layouts/redesign.html)
   Hide it everywhere with `redesign_preview_button: false` in _config.yaml.
   Each button opens the closest matching page on the other site.
 {%- endcomment -%}
@@ -10,23 +10,21 @@
 {%- if include.mode == "redesign" -%}
   {%- assign target = "/" -%}
   {%- if url contains "/redesign/publications/" -%}{%- assign target = "/publications/" -%}
-  {%- elsif url contains "/redesign/team/" -%}{%- assign target = "/team/" -%}
+  {%- elsif url contains "/redesign/members/" -%}{%- assign target = "/team/" -%}
   {%- elsif url contains "/redesign/research/" -%}{%- assign target = "/projects/" -%}
-  {%- elsif url contains "/redesign/join/" -%}{%- assign target = "/vacancy/" -%}
   {%- elsif url contains "/redesign/contact/" -%}{%- assign target = "/contact/" -%}
-  {%- elsif url contains "/redesign/media/" -%}{%- assign target = "/collage/" -%}
+  {%- elsif url contains "/redesign/news/" -%}{%- assign target = "/collage/" -%}
   {%- endif -%}
   {%- assign ko = "현재 홈페이지 보기" -%}
   {%- assign en = "View current site" -%}
 {%- else -%}
   {%- assign target = "/redesign/" -%}
   {%- if url == "/publications/" -%}{%- assign target = "/redesign/publications/" -%}
-  {%- elsif url contains "minee-choi" -%}{%- assign target = "/redesign/team/minee-choi/" -%}
-  {%- elsif url == "/team/" or page.collection == "members" -%}{%- assign target = "/redesign/team/" -%}
+  {%- elsif url == "/team/" or page.collection == "members" -%}{%- assign target = "/redesign/members/" -%}
   {%- elsif url == "/projects/" or page.collection == "programmes" -%}{%- assign target = "/redesign/research/" -%}
-  {%- elsif url == "/vacancy/" -%}{%- assign target = "/redesign/join/" -%}
+  {%- elsif url == "/vacancy/" -%}{%- assign target = "/redesign/contact/#join" -%}
   {%- elsif url == "/contact/" -%}{%- assign target = "/redesign/contact/" -%}
-  {%- elsif url == "/collage/" or page.collection == "posts" -%}{%- assign target = "/redesign/media/" -%}
+  {%- elsif url == "/collage/" or page.collection == "posts" -%}{%- assign target = "/redesign/news/" -%}
   {%- endif -%}
   {%- assign ko = "새 홈페이지 미리보기" -%}
   {%- assign en = "Preview the new site" -%}

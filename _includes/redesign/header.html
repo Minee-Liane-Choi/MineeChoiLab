@@ -1,0 +1,18 @@
+{%- assign u = page.url -%}
+<header class="hd">
+  <a class="logo" href="{{ '/redesign/' | relative_url }}" aria-label="KAIST BRØ1 홈">
+    <img class="icon" src="{{ '/images/logo.png' | relative_url }}" alt="">
+    <span class="txt">
+      <img class="kaist" src="{{ '/redesign/assets/kaist-logo-blue.png' | relative_url }}" alt="KAIST">
+      <span class="wm">BRØ1 Lab</span>
+    </span>
+  </a>
+  <nav class="gnb" id="gnb" aria-label="주 메뉴">
+    <a href="{{ '/redesign/news/' | relative_url }}"{% if u contains '/redesign/news/' %} aria-current="page"{% endif %}>News</a>
+    <a href="{{ '/redesign/members/' | relative_url }}"{% if u contains '/redesign/members/' %} aria-current="page"{% endif %}>Member</a>
+    <a href="{{ '/redesign/research/' | relative_url }}"{% if u contains '/redesign/research/' %} aria-current="page"{% endif %}>Research</a>
+    <a href="{{ '/redesign/publications/' | relative_url }}"{% if u contains '/redesign/publications/' %} aria-current="page"{% endif %}>Publication</a>
+    <a href="{{ '/redesign/contact/' | relative_url }}"{% if u contains '/redesign/contact/' %} aria-current="page"{% endif %}>Contact</a>
+  </nav>
+  <button class="burger" type="button" aria-label="메뉴 열기" aria-expanded="false" aria-controls="gnb"><span></span><span></span><span></span></button>
+</header>

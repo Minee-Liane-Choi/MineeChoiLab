@@ -2,12 +2,14 @@
 #
 # jekyll-spaceship re-parses every HTML page with Nokogiri's HTML4 parser and
 # re-serializes it in a post_render hook (Manager.dispatch_html_block), with no
-# per-page opt-out. That suits the Markdown pages of the current site, but the
-# redesign pages are finished HTML/JavaScript that was tested in browsers as-is.
+# per-page opt-out. That suits the Markdown pages of the current site, but it
+# rewrites finished HTML: for example it lowercases the SVG `viewBox` attribute,
+# which breaks the inline icons of the redesign.
 #
-# For pages under redesign/ only, this saves the output right after Liquid
-# rendering (post_convert, before any post_render plugin) and puts it back after
-# all post_render hooks have run. Other pages are not touched.
+# For pages under redesign/ only, this saves the output right after Liquid and
+# layout rendering (post_render, high priority, before other post_render
+# plugins) and puts it back after all post_render hooks have run (low priority).
+# Other pages are not touched.
 
 module RedesignPassthrough
   PREFIX = "redesign/"
@@ -18,9 +20,9 @@ module RedesignPassthrough
   end
 end
 
-Jekyll::Hooks.register :pages, :post_convert do |page|
+Jekyll::Hooks.register :pages, :post_render, priority: :high do |page|
   if RedesignPassthrough.applies?(page)
-    page.instance_variable_set(:@redesign_rendered, page.content.dup)
+    page.instance_variable_set(:@redesign_rendered, page.output.dup)
   end
 end
 

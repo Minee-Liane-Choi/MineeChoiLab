@@ -1,0 +1,15 @@
+{%- comment -%}
+  Photo card for one member (a document from the members collection).
+  Uses the small web copy in redesign/assets/people/<name>.webp when there is one,
+  otherwise the member's own image.
+{%- endcomment -%}
+{%- assign m = include.member -%}
+{%- assign base = m.image | split: "/" | last | split: "." | first -%}
+{%- assign thumb_path = "/redesign/assets/people/" | append: base | append: ".webp" -%}
+{%- assign thumb = site.static_files | where: "path", thumb_path | first -%}
+{%- if thumb -%}{%- assign src = thumb_path -%}{%- elsif m.image -%}{%- assign src = "/" | append: m.image -%}{%- else -%}{%- assign src = "/images/fallback.svg" -%}{%- endif -%}
+{%- assign role = site.data.types[m.role].description | default: m.role -%}
+<div class="card">
+  <img src="{{ src | relative_url }}" alt="{{ m.name }}" loading="lazy">
+  <div class="name"><b>{{ m.name }}</b><span>{{ role }}</span></div>
+</div>

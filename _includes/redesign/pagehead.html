@@ -1,0 +1,13 @@
+{%- comment -%}
+  Gray title band at the top of each sub page.
+  include.title: large English title (as in the menu), include.ko: Korean name, include.lead: optional sentence
+{%- endcomment -%}
+<section class="phead">
+  <div class="wrap">
+    <h1>{{ include.title }}</h1>
+    <p class="ko">{{ include.ko }}</p>
+    {%- if include.lead %}
+    <p class="lead">{{ include.lead }}</p>
+    {%- endif %}
+  </div>
+</section>
