@@ -2,11 +2,11 @@
   Recruitment notices. Used by vacancy/index.md (current site) and
   redesign/contact/index.html (#join). Edit the notices here.
 {%- endcomment -%}
-## [Post-doc 모집] InnoreCORE Fellow · AI-NAMs 사업단
+## [Post-doc 모집] InnoCORE Fellow · AI-NAMs 사업단
 
 <em>공지: 2026년 7월 1일</em>
 
-KAIST 최민이 교수 연구실에서 InnoreCORE Fellow (AI-NAMs 사업단)를 모집합니다. 오가노이드 데이터 뱅킹 구축 및 시계열 데이터 기반 Cellular World Model 개발을 담당할 AI 전문가를 찾습니다.
+KAIST 최민이 교수 연구실에서 InnoCORE Fellow (AI-NAMs 사업단)를 모집합니다. 오가노이드 데이터 뱅킹 구축 및 시계열 데이터 기반 Cellular World Model 개발을 담당할 AI 전문가를 찾습니다.
 
 - 연봉: 9천만원 / 최대 5년
 - 행정 및 지원 문의: young9366@kaist.ac.kr

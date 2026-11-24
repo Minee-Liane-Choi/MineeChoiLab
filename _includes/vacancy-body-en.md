@@ -2,11 +2,11 @@
   English version of _includes/vacancy-body.md, used by redesign/en/contact/ (#join).
   When the Korean notices change, update this file too.
 {%- endcomment -%}
-## Postdoctoral position: InnoreCORE Fellow (AI-NAMs)
+## Postdoctoral position: InnoCORE Fellow (AI-NAMs)
 
 <em>Posted 1 July 2026</em>
 
-The Minee Choi lab at KAIST is recruiting an InnoreCORE Fellow for the AI-NAMs programme. We are looking for an AI specialist to build an organoid data bank and to develop a Cellular World Model based on time-series data.
+The Minee Choi lab at KAIST is recruiting an InnoCORE Fellow for the AI-NAMs programme. We are looking for an AI specialist to build an organoid data bank and to develop a Cellular World Model based on time-series data.
 
 - Salary: KRW 90 million per year, for up to 5 years
 - Administrative and application enquiries: young9366@kaist.ac.kr

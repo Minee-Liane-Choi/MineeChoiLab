@@ -1,7 +1,7 @@
 ---
 name: Geonhee Go
 image: images/team/brepair/gunhee-go.jpg
-role: interx
+role: intern
 links:
   email:
   orcid:
