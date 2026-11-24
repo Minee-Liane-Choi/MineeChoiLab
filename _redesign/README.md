@@ -22,12 +22,14 @@
 
 | 미리보기 | 내용 | 버튼 → 현재 사이트 |
 | --- | --- | --- |
-| `/redesign/` | 첫 화면(최근 소식, 연구 4가지, Neural Pong, 구성원, 연락처) | `/` |
+| `/redesign/` | 첫 화면(최근 소식, 연구 4가지, 구성원, 연락처) | `/` |
 | `/redesign/research/` | 네 가지 연구 기술, 이미징, 연구 주제 | `/projects/` |
 | `/redesign/publications/` | 주요 논문, 전체 목록(검색) | `/publications/` |
 | `/redesign/members/` | 교수 소개, 현재 구성원, 졸업생, 협력 연구자 | `/team/` |
 | `/redesign/news/` | 보도·강연, 영상, 뉴스레터, 연구실 사진 | `/collage/` |
 | `/redesign/contact/` | 연락처, 지도, 모집 공고(`#join`), 소속 기관 | `/contact/` |
+
+영어 페이지는 같은 구성으로 `/redesign/en/`, `/redesign/en/research/` … 에 있습니다.
 
 현재 사이트의 버튼은 `/vacancy/` → `/redesign/contact/#join`, 구성원 페이지 → `/redesign/members/`, 게시물 → `/redesign/news/`처럼 가장 가까운 페이지로 연결합니다.
 
