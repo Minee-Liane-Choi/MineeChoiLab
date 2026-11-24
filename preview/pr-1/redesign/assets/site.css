@@ -112,7 +112,7 @@ h3 { font: 600 20px/1.35 var(--font); margin: 0 0 8px; }
 .cards { display: flex; gap: 20px; overflow-x: auto; scroll-snap-type: x mandatory; padding: 36px var(--pad) 28px; scrollbar-width: none; }
 .cards::-webkit-scrollbar { display: none; }
 .cards .card { flex: 0 0 220px; scroll-snap-align: start; }
-.team .all { padding: 0 var(--pad) 40px; }
+.team .all { padding: 0 var(--pad) 40px; display: flex; flex-wrap: wrap; gap: 12px 32px; }
 .card { position: relative; background: #ddd; }
 .card img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: top; }
 .card .name { position: absolute; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,.62); color: #fff; padding: 10px 14px; line-height: 1.4; }
@@ -198,6 +198,28 @@ h3 { font: 600 20px/1.35 var(--font); margin: 0 0 8px; }
 .names li { padding: 8px 0; border-bottom: 1px solid var(--line); display: flex; justify-content: space-between; gap: 12px; }
 .names li span { color: #999; font-size: 14px; text-align: right; }
 
+.collab-sec { background: #1f1f1f; }
+.collab-sec h2, .collab-sec h3 { color: #fff; }
+.collab-sec .sec-head .ko { color: #bbb; }
+.collab-sec .lead { color: #cfcfcf; }
+.collab { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 28px; }
+.collab article { background: #2a2a2a; display: flex; flex-direction: column; }
+.collab img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: top; background: #333; }
+.collab .in { padding: 20px 20px 24px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+.collab h3 { font-size: 18px; margin: 0; }
+.collab .aff { margin: 0; font-size: 14px; color: #9fb7d9; }
+.collab p { margin: 0; font-size: 15px; color: #cfcfcf; line-height: 1.6; }
+.collab .more { margin-top: auto; align-self: flex-start; color: #fff; border-color: #fff; font-size: 14px; }
+.collab .more:hover { color: #9fb7d9; border-color: #9fb7d9; }
+
+.alumni { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 14px 24px; }
+.alumni li { display: flex; align-items: center; gap: 14px; padding: 10px 0; border-bottom: 1px solid var(--line); }
+.alumni img, .alumni .ini { width: 56px; height: 56px; border-radius: 50%; flex-shrink: 0; }
+.alumni img { object-fit: cover; object-position: top; background: #eee; }
+.alumni .ini { display: grid; place-items: center; background: #e6e6e6; color: #888; font-weight: 600; font-size: 15px; letter-spacing: .02em; }
+.alumni .who b { display: block; color: var(--title); font-weight: 600; }
+.alumni .who span { font-size: 13px; color: #999; }
+
 /* news */
 .press { list-style: none; margin: 0; padding: 0; border-top: 2px solid var(--title); }
 .press li a { display: grid; grid-template-columns: 120px minmax(0, 1fr) 160px; gap: 20px; padding: 20px 0; border-bottom: 1px solid var(--line); }
@@ -257,6 +279,8 @@ h3 { font: 600 20px/1.35 var(--font); margin: 0 0 8px; }
 @media (max-width: 1199px) {
   .grid-cards { grid-template-columns: repeat(4, minmax(0, 1fr)); }
   .videos { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .collab { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .alumni { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
 @media (max-width: 999px) {
   :root { --head: 64px; --pad: 20px; }
@@ -301,6 +325,7 @@ h3 { font: 600 20px/1.35 var(--font); margin: 0 0 8px; }
   .pubs-year { grid-template-columns: 1fr; gap: 10px; }
   .grid-cards { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; }
   .names { grid-template-columns: 1fr 1fr; }
+  .alumni { grid-template-columns: 1fr 1fr; }
   .press li a { grid-template-columns: 1fr; gap: 4px; }
   .press .src { text-align: left; }
   .press .src span { display: inline; margin-left: 6px; }
@@ -312,7 +337,10 @@ h3 { font: 600 20px/1.35 var(--font); margin: 0 0 8px; }
 @media (max-width: 560px) {
   .grid-cards { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .names { grid-template-columns: 1fr; }
+  .alumni { grid-template-columns: 1fr; }
   .videos { grid-template-columns: 1fr; }
+  .collab { grid-template-columns: 1fr; }
+  .collab img { aspect-ratio: 1 / 1; }
   .posts li a { grid-template-columns: 1fr; gap: 2px; }
   .sec-head { flex-direction: column; align-items: flex-start; }
 }
