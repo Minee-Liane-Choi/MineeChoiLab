@@ -1,0 +1,52 @@
+{%- comment -%} Contact page body, shared by /contact/ and /en/contact/. {%- endcomment -%}
+{%- assign lang = page.lang | default: "ko" -%}
+{%- assign t = site.data.redesign_text[lang] -%}
+{%- assign tc = t.contact -%}
+{%- assign ci = t.contact_info -%}
+{% include redesign/pagehead.html title="Contact" sub=tc.sub lead=tc.lead %}
+
+<section class="sec">
+  <div class="wrap contact-grid">
+    <div>
+      <h2>{{ tc.find_title }}</h2>
+      <dl class="info">
+        <dt>{{ ci.address_label }}</dt><dd>{{ ci.address }}</dd>
+        <dt>{{ ci.email_label }}</dt><dd><a href="mailto:minee.choi@kaist.ac.kr">minee.choi@kaist.ac.kr</a></dd>
+        <dt>{{ ci.phone_label }}</dt><dd>{{ ci.phone }}</dd>
+      </dl>
+      <div class="maps">
+        <a class="btn" href="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8">{{ ci.google }}</a>
+        <a class="btn" href="https://naver.me/GdiqLWG9">{{ ci.naver }}</a>
+        <a class="btn" href="https://kko.to/e_0hLHT5B6">{{ ci.kakao }}</a>
+      </div>
+    </div>
+    <a class="map" href="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8">
+      <img src="{{ '/images/contact/map.jpg' | relative_url }}" alt="{{ ci.map_alt }}" loading="lazy">
+    </a>
+  </div>
+</section>
+
+<section class="sec gray" id="join">
+  <div class="wrap">
+    <div class="sec-head"><div><h2>{{ tc.join_title }}</h2>{% if tc.join_sub %}<p class="ko">{{ tc.join_sub }}</p>{% endif %}</div></div>
+    <div class="join-body">
+      {%- if lang == "en" -%}
+        {%- capture vacancy %}{% include vacancy-body-en.md %}{% endcapture -%}
+      {%- else -%}
+        {%- capture vacancy %}{% include vacancy-body.md %}{% endcapture -%}
+      {%- endif %}
+      {{ vacancy | replace: site.team, "BRØ1" | markdownify }}
+    </div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><h2>{{ tc.affil_title }}</h2>{% if tc.affil_sub %}<p class="ko">{{ tc.affil_sub }}</p>{% endif %}</div></div>
+    <ul class="affil">
+      {%- for a in tc.affiliations %}
+      <li><a href="{{ a.url }}">{{ a.name }}</a><span>{{ a.sub }}</span></li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>

@@ -1,0 +1,449 @@
+# Text of the website in Korean (ko) and English (en).
+# Korean pages are at /, /research/, ...; English pages at /en/, /en/research/, ...
+# Page layouts are in _includes/redesign/page-*.html; lists (members, papers,
+# news, newsletters) come from the site data and are not repeated here.
+
+ko:
+  base: /
+  lang_name: 한국어
+  skip: 본문으로 건너뛰기
+  home_label: KAIST BRØ1 홈
+  menu_label: 주 메뉴
+  menu_open: 메뉴 열기
+  description: KAIST 뇌인지과학과 최민이 교수 연구실. 환자 유래 줄기세포와 뇌 오가노이드, 인공지능으로 뇌질환을 연구합니다.
+  footer:
+    lab: 뇌인지과학과 최민이 교수 연구실
+    address: 34141 대전광역시 유성구 대학로 291 KAIST W13 (Meta Convergence Building) 5층
+    dept: KAIST 뇌인지과학과
+    old_site: 이전 홈페이지
+  doc:
+    newsletter: 연구실 뉴스레터
+    back_members: 구성원 목록
+    back_news: 소식 목록
+    prev_post: 이전 글
+    next_post: 다음 글
+    post_nav: 뉴스레터 이동
+  notfound:
+    title: 페이지를 찾을 수 없습니다
+    sub: Page not found
+    text: 요청하신 페이지를 찾을 수 없습니다. 홈페이지 개편으로 일부 주소가 바뀌었으며, 이전 홈페이지도 계속 볼 수 있습니다.
+    home: 홈으로
+
+  home:
+    sections_label: 섹션 이동
+    ko_name: 카이스트 뇌 치료 및 오가노이드 지능 연구실
+    ko_sub: KAIST 뇌인지과학과 최민이 교수 연구실
+    prev_news: 이전 소식
+    next_news: 다음 소식
+    slide_organoid: 배양 중인 오가노이드
+    slide_team: BRØ1 연구실 구성원
+    research_lead: 환자 유래 역분화 줄기세포(hiPSC)를 뇌세포와 뇌 오가노이드로 분화시켜 환자 개개인의 병태생리학적 특징을 분석하고, 이를 인공지능과 결합하여 환자 맞춤형 치료제를 예측하는 전임상 테스트베드를 개발합니다.
+    pipeline:
+      - title: 환자 유래 줄기세포
+        text: 환자 유래 hiPSC를 신경세포로 분화시켜 뇌세포 수준의 병리 현상을 재현합니다.
+      - title: 환자 뇌 오가노이드
+        text: 환자 세포로 제작한 뇌 오가노이드를 이용하여 인간 뇌의 구조와 질환을 연구합니다.
+      - title: 뇌 오가노이드 지능
+        text: 뇌 오가노이드와 컴퓨팅 시스템을 연결한 신경 컴퓨터로 약물이 인지 기능에 미치는 영향을 평가합니다.
+      - title: 디지털 뇌세포 모델
+        text: 뇌세포 병리 데이터를 학습한 인공지능 모델로 환자별 약물 반응을 예측합니다.
+    members_lead: BRØ1 연구실 구성원을 소개합니다.
+    prev_member: 이전 구성원
+    next_member: 다음 구성원
+    all_members: 전체 구성원
+    collaborators: 공동연구자
+    contact_lead: 공동연구 및 기타 문의는 이메일로 연락해 주시기 바랍니다.
+    join_text: 박사후연구원 및 석·박사통합과정 신입생을 모집합니다.
+    join_button: 모집 안내
+
+  contact_info:
+    address_label: 주소
+    email_label: 이메일
+    phone_label: 전화
+    map_label: 지도
+    address: 34141 대전광역시 유성구 대학로 291 KAIST<br>W13 (Meta Convergence Building) 5층 4호
+    phone: 042-350-6516
+    google: Google 지도
+    naver: 네이버 지도
+    kakao: 카카오맵
+    map_alt: KAIST 캠퍼스 지도의 W13 위치
+
+  research:
+    sub: 연구 소개
+    lead: BRØ1 연구실은 환자 맞춤형 치료제를 평가하고 예측할 수 있는 전임상 약물 테스트베드 개발에 집중하고 있습니다. 환자 유래 역분화 줄기세포(hiPSC)를 표적 뇌세포와 뇌 오가노이드로 분화시켜 환자 개별의 병태생리학적 특징을 정밀하게 분석하고, 이를 인공지능 분석과 결합하여 환자에게 최적화된 약물 조합을 예측합니다.
+    areas_title: 연구 분야
+    areas_sub: Research Areas
+    techs:
+      - title: 환자 유래 줄기세포
+        en: Patient-derived iPSC models (disease-in-a-dish)
+        caption: hiPSC 유래 중뇌 도파민 신경세포 (위상차 현미경, 20×)
+        alt: hiPSC 유래 중뇌 도파민 신경세포의 위상차 현미경 사진
+        paragraphs:
+          - 환자 개별 hiPSC를 기반으로 성인형 신경세포 및 뇌 오가노이드를 분화·배양하여, 환자의 뇌세포 수준에서 발생하는 병리 현상을 실험실 내에서 재현합니다.
+          - 이 모델은 역분화 기술, 신경발생학, 줄기세포 생물학에 기반하여 성숙한 인간 뇌조직의 구조와 기능을 재현하도록 설계되며, 개인의 뇌세포를 정밀하게 프로파일링하고 질병을 유발하는 기전을 규명하는 데 활용됩니다.
+      - title: 환자 뇌 오가노이드 생산
+        en: Patient brain organoid production
+        caption: 배양 중인 뇌 오가노이드
+        alt: 배양 중인 뇌 오가노이드
+        paragraphs:
+          - "'미니 브레인'으로 불리는 뇌 오가노이드는 인간 뇌의 복잡성과 질환, 그리고 잠재적 치료법을 이해하는 데 독보적인 창을 제공하는 신경과학 도구입니다."
+          - 본 연구실은 환자 유래 세포로 뇌 오가노이드를 제작하고, 다중전극 어레이(MEA)를 이용하여 신경망의 전기생리학적 활동을 측정합니다.
+      - title: 뇌 오가노이드 지능
+        en: Organoid Intelligence
+        caption: Neural Pong
+        paragraphs:
+          - 최근 인간 뇌세포 기반의 미니 브레인이 간단한 게임을 학습했다는 연구 결과(Kagan et al., <i>Neuron</i>, 2021)는 생물학적 컴퓨팅의 가능성을 열었습니다.
+          - BRØ1 연구실은 이 개념을 확장하여 인간 유래 미니 브레인과 컴퓨팅 시스템을 연결한 신경 컴퓨터를 개발하고, 이를 환자 인지기능 반응의 테스트베드로 활용합니다. 이를 통해 약물이 인지 기능에 미치는 영향까지 평가할 수 있는 새로운 전임상 테스트 플랫폼을 구축하고자 합니다.
+      - title: 디지털 뇌세포 파운데이션 모델
+        en: Digital brain-cell foundation model
+        caption: hiPSC 유래 대뇌피질 신경세포의 고함량 이미지 (핵 · 리소좀 · 미토콘드리아)
+        alt: hiPSC 유래 대뇌피질 신경세포의 고함량 이미지
+        paragraphs:
+          - 뇌질환의 세포·분자 수준 병태 정보를 학습한 인공지능 모델을 통해, 복잡한 질환 기전과 환자 간 이질성을 반영한 예측 기반 치료 전략을 개발합니다.
+          - 대규모 언어모델(LLM)과 합성곱신경망(CNN) 등 최신 인공지능 기술을 통합하여 환자의 병리학적 데이터를 디지털화하고, 약물 반응성 예측 모델을 최적화하고 있습니다.
+    goal_title: 연구 목표
+    goal: 환자의 세포 수준 병리 정보를 디지털화하여 인공지능 기반의 정밀 약물 예측 시스템을 완성하고, 이를 통해 뇌질환 치료의 새로운 표준을 제시하는 것을 목표로 합니다.
+    imaging_label: Methods
+    imaging_title: 세포 이미징 및 분석
+    imaging_caption: hiPSC 유래 중뇌 도파민 신경세포 면역형광 염색 (Hoechst · α-synuclein · MAP2)
+    imaging_alt: hiPSC 유래 중뇌 도파민 신경세포의 면역형광 사진
+    imaging:
+      - 고함량 이미징 시스템(Opera Phenix)과 면역세포화학(ICC)을 이용하여 α-synuclein, MAP2, TH 등 단백질의 발현과 세포 내 분포를 정량적으로 분석합니다.
+      - 획득한 이미지로부터 세포 형태, 미토콘드리아 기능, 단백질 응집 등의 표현형을 정량화하여 인공지능 모델의 학습 데이터로 활용합니다.
+    topics_title: 연구 주제
+    topics_sub: Research Topics
+    topic_groups:
+      disease: 질환 · Diseases
+      tech: 기술 · Technologies
+      mech: 기전 · Mechanisms
+
+  publications:
+    sub: 논문
+    lead: BRØ1 연구실의 연구 논문 및 프리프린트 목록입니다.
+    selected_title: 주요 논문
+    selected_sub: Selected Publications
+    all_title: 전체 논문
+    all_sub: All Publications
+    search: 제목, 저자, 학술지 검색
+    search_label: 논문 검색
+    none: 검색 결과가 없습니다.
+
+  members:
+    sub: 구성원
+    lead: BRØ1 연구실의 교수, 연구원, 학생 및 공동연구자를 소개합니다.
+    pi_alt: 최민이 교수
+    pi_name: 최민이
+    pi_title: Minee Choi, Ph.D. · KAIST 뇌인지과학과 조교수
+    pi_bio: 최민이 교수는 신경퇴행성 질환을 연구하는 신경생리학자로, 알츠하이머병과 파킨슨병에서 나타나는 단백질 응집, 미토콘드리아 기능 장애, 신경염증의 기전을 연구하고 있습니다. 환자 유래 역분화 줄기세포(hiPSC) 모델과 인공지능을 활용하여 환자 맞춤형 치료 전략을 개발하고 있습니다.
+    pi_career:
+      - 2023–현재 KAIST 뇌인지과학과 조교수
+      - 2024–현재 대만 장경대학교·장경기념병원 겸임교수
+      - UCL Queen Square Institute of Neurology, Francis Crick Institute 명예연구원(Honorary Fellow)
+      - 2013–2022 UCL 박사후연구원 (2017–2022 Francis Crick Institute 선임연구원 파견)
+      - 2013 University of Cambridge 임상신경과학 박사
+    pi_bio_link: Biography (English)
+    current_title: 구성원
+    current_sub: Current Members
+    groups:
+      - roles: postdoc
+        title: 박사후연구원
+        sub: Postdoctoral Researchers
+      - roles: chief|phd|mhd|uhd|ms
+        title: 대학원생
+        sub: Graduate Students
+      - roles: ug|intern|mdintern
+        title: 학부연구생 · 인턴
+        sub: Undergraduate Researchers and Interns
+      - roles: associate|admin
+        title: 연구지원
+        sub: Staff
+    collab_title: 공동연구자
+    collab_sub: Collaborators
+    collab_lead: BRØ1 연구실은 영국 UCL, Francis Crick Institute, University of Cambridge의 연구진과 공동연구를 진행하고 있습니다.
+    collab_link: Lab website
+    alumni_title: 졸업생 및 이전 구성원
+    alumni_sub: Alumni
+    alumni_groups:
+      - roles: postdox|phx|mhx|mx|associatx
+        title: 대학원생 · 연구원
+        sub: Graduate Students and Researchers
+      - roles: interx|mdintx
+        title: 인턴
+        sub: Interns
+      - roles: undergrax
+        title: 학부연구생
+        sub: Undergraduate Researchers
+
+  news:
+    sub: 소식
+    lead: BRØ1 연구실의 언론 보도, 강연, 영상 및 연구실 소식입니다.
+    press_title: 언론 보도 · 강연
+    press_sub: Press & Talks
+    filter_label: 분류
+    all: 전체
+    categories:
+      연구 보도: 연구 보도
+      인터뷰·강연: 인터뷰·강연
+      연구실 소식: 연구실 소식
+    videos_title: 영상
+    videos_sub: Videos
+    youtube: YouTube 채널
+    newsletter_title: 뉴스레터
+    newsletter_sub: BRØ1 Newsletter
+    gallery_title: 갤러리
+    gallery_sub: Gallery
+    gallery_alts:
+      - 연구실 구성원 야외 모임
+      - 학회 포스터 발표
+      - 연구실 구성원 모임
+      - 학회 참석
+      - 연구실 구성원
+      - 야외 행사
+      - BRØ1 연구실 구성원
+
+  contact:
+    sub: 연락처
+    lead: 공동연구, 연구원 지원 및 기타 문의는 이메일로 연락해 주시기 바랍니다.
+    find_title: 찾아오시는 길
+    join_title: 연구원 모집
+    join_sub: Join Us
+    affil_title: 소속 및 협력 기관
+    affil_sub: Affiliations
+    affiliations:
+      - name: KAIST 뇌인지과학과
+        sub: Department of Brain & Cognitive Sciences, KAIST
+        url: https://bcs.kaist.ac.kr
+      - name: KAIST 줄기세포 및 재생생물학 대학원
+        sub: Graduate School of Stem Cell & Regenerative Biology, KAIST
+        url: https://scrb.kaist.ac.kr
+      - name: The Francis Crick Institute
+        sub: London, UK · Honorary Fellow
+        url: https://www.crick.ac.uk
+      - name: UCL Queen Square Institute of Neurology
+        sub: London, UK · Honorary Fellow
+        url: https://www.ucl.ac.uk/ion
+      - name: Chang Gung University
+        sub: Taoyuan, Taiwan · Adjunct Professor
+        url: https://www.cgu.edu.tw/en
+      - name: Chang Gung Memorial Hospital
+        sub: Taiwan · Adjunct Professor
+        url: https://www.cgmh.org.tw/eng
+
+en:
+  base: /en/
+  lang_name: English
+  skip: Skip to content
+  home_label: KAIST BRØ1 home
+  menu_label: Main menu
+  menu_open: Open menu
+  description: Minee Choi lab, Department of Brain and Cognitive Sciences, KAIST. We study brain disease with patient-derived stem cells, brain organoids and AI.
+  footer:
+    lab: Minee Choi Lab, Department of Brain and Cognitive Sciences
+    address: 5F Meta Convergence Building (W13), KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Korea
+    dept: KAIST Brain and Cognitive Sciences
+    old_site: Previous website
+  doc:
+    newsletter: Lab newsletter
+    back_members: All members
+    back_news: All news
+    prev_post: Previous
+    next_post: Next
+    post_nav: Newsletters
+  notfound:
+    title: Page not found
+    sub:
+    text: The page you requested could not be found. Some addresses changed when the website was redesigned; the previous website is still available.
+    home: Home
+
+  home:
+    sections_label: Sections
+    ko_name: KAIST Department of Brain and Cognitive Sciences
+    ko_sub: Minee Choi Lab
+    prev_news: Previous news
+    next_news: Next news
+    slide_organoid: Brain organoids in culture
+    slide_team: Members of the BRØ1 lab
+    research_lead: We differentiate patient-derived induced pluripotent stem cells (hiPSCs) into brain cells and brain organoids, profile the pathophysiology of each patient, and combine these data with AI to build a preclinical testbed that predicts personalised treatments.
+    pipeline:
+      - title: Patient-derived stem cells
+        text: We differentiate patient hiPSCs into neurons to reproduce disease at the level of brain cells.
+      - title: Patient brain organoids
+        text: We use brain organoids grown from patient cells to study the structure and diseases of the human brain.
+      - title: Organoid intelligence
+        text: We connect brain organoids to computing systems to test how drugs affect cognitive function.
+      - title: Digital brain-cell models
+        text: AI models trained on brain-cell pathology predict how each patient will respond to drugs.
+    members_lead: Meet the members of the BRØ1 lab.
+    prev_member: Previous members
+    next_member: Next members
+    all_members: All members
+    collaborators: Collaborators
+    contact_lead: For collaborations and other enquiries, please contact us by email.
+    join_text: We are recruiting postdoctoral researchers and integrated M.S./Ph.D. students.
+    join_button: Open positions
+
+  contact_info:
+    address_label: Address
+    email_label: E-mail
+    phone_label: Phone
+    map_label: Map
+    address: Room 4, 5F Meta Convergence Building (W13)<br>KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Korea
+    phone: +82-42-350-6516
+    google: Google Maps
+    naver: Naver Map
+    kakao: Kakao Map
+    map_alt: Location of building W13 on the KAIST campus map
+
+  research:
+    sub:
+    lead: The BRØ1 lab develops a preclinical drug testbed that can evaluate and predict patient-tailored therapies. We differentiate patient-derived induced pluripotent stem cells (hiPSCs) into target brain cells and brain organoids, profile the pathophysiology of each patient in detail, and combine these data with AI to predict the drug combinations best suited to each patient.
+    areas_title: Research Areas
+    areas_sub:
+    techs:
+      - title: Patient-derived stem cells
+        en: Disease-in-a-dish models
+        caption: hiPSC-derived midbrain dopaminergic neurons (phase contrast, 20×)
+        alt: Phase-contrast image of hiPSC-derived midbrain dopaminergic neurons
+        paragraphs:
+          - Starting from each patient's hiPSCs, we differentiate and culture adult-like neurons and brain organoids to reproduce, in the lab, the pathology that arises in that patient's brain cells.
+          - Built on reprogramming, neurodevelopment and stem cell biology, these models are designed to recapitulate the structure and function of mature human brain tissue. They allow us to profile an individual's brain cells in detail and to identify the mechanisms that drive disease.
+      - title: Patient brain organoids
+        en: Brain organoid production
+        caption: Brain organoids in culture
+        alt: Brain organoids in culture
+        paragraphs:
+          - Often called 'mini-brains', brain organoids offer a unique window into the complexity of the human brain, its diseases and potential treatments.
+          - We grow brain organoids from patient-derived cells and record the electrophysiological activity of their neural networks with multi-electrode arrays (MEA).
+      - title: Organoid intelligence
+        en: Organoid Intelligence (OI)
+        caption: Neural Pong
+        paragraphs:
+          - A recent study showing that mini-brains made of human neurons could learn a simple game (Kagan et al., <i>Neuron</i>, 2021) opened up the possibility of biological computing.
+          - We extend this idea by building neural computers that link human-derived mini-brains to computing systems, and use them as a testbed for patients' cognitive responses. Our aim is a new preclinical platform that can also assess how drugs affect cognitive function.
+      - title: Digital brain-cell foundation model
+        en: AI models of patient brain cells
+        caption: High-content image of hiPSC-derived cortical neurons (nucleus · lysosome · mitochondria)
+        alt: High-content image of hiPSC-derived cortical neurons
+        paragraphs:
+          - AI models trained on the cellular and molecular pathology of brain disease allow us to develop predictive treatment strategies that reflect complex disease mechanisms and differences between patients.
+          - By integrating current AI methods such as large language models (LLMs) and convolutional neural networks (CNNs), we digitise patients' pathological data and refine models that predict drug response.
+    goal_title: Our goal
+    goal: To digitise patients' cell-level pathology, build an AI-based system for precise drug prediction, and through it set a new standard for the treatment of brain disease.
+    imaging_label: Methods
+    imaging_title: Cell imaging and analysis
+    imaging_caption: Immunofluorescence of hiPSC-derived midbrain dopaminergic neurons (Hoechst · α-synuclein · MAP2)
+    imaging_alt: Immunofluorescence image of hiPSC-derived midbrain dopaminergic neurons
+    imaging:
+      - Using a high-content imaging system (Opera Phenix) and immunocytochemistry (ICC), we quantify the expression and subcellular distribution of proteins such as α-synuclein, MAP2 and TH.
+      - From these images we quantify phenotypes such as cell morphology, mitochondrial function and protein aggregation, which serve as training data for our AI models.
+    topics_title: Research Topics
+    topics_sub:
+    topic_groups:
+      disease: Diseases
+      tech: Technologies
+      mech: Mechanisms
+
+  publications:
+    sub:
+    lead: Research articles and preprints from the BRØ1 lab.
+    selected_title: Selected Publications
+    selected_sub:
+    all_title: All Publications
+    all_sub:
+    search: Search by title, author or journal
+    search_label: Search publications
+    none: No results.
+
+  members:
+    sub:
+    lead: Faculty, researchers, students and collaborators of the BRØ1 lab.
+    pi_alt: Prof. Minee Choi
+    pi_name: Minee Choi, Ph.D.
+    pi_title: Assistant Professor, Department of Brain and Cognitive Sciences, KAIST
+    pi_bio: Minee Choi is a neurophysiologist who studies neurodegenerative disease. Her work examines the mechanisms of protein aggregation, mitochondrial dysfunction and neuroinflammation in Alzheimer's and Parkinson's disease, and uses patient-derived stem cell (hiPSC) models and AI to develop personalised therapeutic strategies.
+    pi_career:
+      - 2023–present Assistant Professor, Department of Brain and Cognitive Sciences, KAIST
+      - 2024–present Adjunct Professor, Chang Gung University and Chang Gung Memorial Hospital, Taiwan
+      - Honorary Fellow, UCL Queen Square Institute of Neurology and the Francis Crick Institute
+      - 2013–2022 Postdoctoral Research Fellow, UCL (2017–2022 Senior Research Scientist on secondment to the Francis Crick Institute)
+      - 2013 Ph.D. in Clinical Neurosciences, University of Cambridge
+    pi_bio_link: Full biography
+    current_title: Current Members
+    current_sub:
+    groups:
+      - roles: postdoc
+        title: Postdoctoral Researchers
+      - roles: chief|phd|mhd|uhd|ms
+        title: Graduate Students
+      - roles: ug|intern|mdintern
+        title: Undergraduate Researchers and Interns
+      - roles: associate|admin
+        title: Staff
+    collab_title: Collaborators
+    collab_sub:
+    collab_lead: We collaborate with research groups at UCL, the Francis Crick Institute and the University of Cambridge.
+    collab_link: Lab website
+    alumni_title: Alumni
+    alumni_sub:
+    alumni_groups:
+      - roles: postdox|phx|mhx|mx|associatx
+        title: Graduate Students and Researchers
+      - roles: interx|mdintx
+        title: Interns
+      - roles: undergrax
+        title: Undergraduate Researchers
+
+  news:
+    sub:
+    lead: Press coverage, talks, videos and news from the BRØ1 lab.
+    press_title: Press & Talks
+    press_sub:
+    filter_label: Category
+    all: All
+    categories:
+      연구 보도: Research coverage
+      인터뷰·강연: Interviews & talks
+      연구실 소식: Lab news
+    videos_title: Videos
+    videos_sub:
+    youtube: YouTube channel
+    newsletter_title: Newsletter
+    newsletter_sub:
+    gallery_title: Gallery
+    gallery_sub:
+    gallery_alts:
+      - Lab members at an outdoor gathering
+      - Poster presentation at a conference
+      - Lab members at a dinner
+      - Attending a conference
+      - Lab members
+      - Outdoor event
+      - Members of the BRØ1 lab
+
+  contact:
+    sub:
+    lead: For collaborations, applications and other enquiries, please contact us by email.
+    find_title: How to find us
+    join_title: Join Us
+    join_sub:
+    affil_title: Affiliations
+    affil_sub:
+    affiliations:
+      - name: Department of Brain and Cognitive Sciences, KAIST
+        sub: Daejeon, Korea
+        url: https://bcs.kaist.ac.kr
+      - name: Graduate School of Stem Cell and Regenerative Biology, KAIST
+        sub: Daejeon, Korea
+        url: https://scrb.kaist.ac.kr
+      - name: The Francis Crick Institute
+        sub: London, UK · Honorary Fellow
+        url: https://www.crick.ac.uk
+      - name: UCL Queen Square Institute of Neurology
+        sub: London, UK · Honorary Fellow
+        url: https://www.ucl.ac.uk/ion
+      - name: Chang Gung University
+        sub: Taoyuan, Taiwan · Adjunct Professor
+        url: https://www.cgu.edu.tw/en
+      - name: Chang Gung Memorial Hospital
+        sub: Taiwan · Adjunct Professor
+        url: https://www.cgmh.org.tw/eng

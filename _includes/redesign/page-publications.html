@@ -1,0 +1,69 @@
+{%- comment -%} Publications page body, shared by /publications/ and /en/publications/. {%- endcomment -%}
+{%- assign lang = page.lang | default: "ko" -%}
+{%- assign t = site.data.redesign_text[lang] -%}
+{%- assign tp = t.publications -%}
+{% include redesign/pagehead.html title="Publications" sub=tp.sub lead=tp.lead %}
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><h2>{{ tp.selected_title }}</h2>{% if tp.selected_sub %}<p class="ko">{{ tp.selected_sub }}</p>{% endif %}</div>
+      <div class="ext-links">
+        <a class="btn" href="https://scholar.google.com/citations?user={{ site.links.google-scholar }}">Google Scholar</a>
+        <a class="btn" href="https://orcid.org/{{ site.links.orcid }}">ORCID</a>
+        <a class="btn" href="https://www.researchgate.net/profile/{{ site.links.research-gate }}">ResearchGate</a>
+      </div>
+    </div>
+    <div class="selected">
+      {%- assign picks = "Astrocytic RNA editing|Prediction of mechanistic subtypes|Pathological structural conversion" | split: "|" -%}
+      {%- for key in picks -%}
+        {%- assign c = site.data.citations | where_exp: "c", "c.title contains key" | first -%}
+        {%- if c %}
+      <a href="{{ c.link }}">
+        <span class="y">{{ c.date | slice: 0, 4 }}</span>
+        <h3>{{ c.title }}</h3>
+        <span class="j">{{ c.publisher }}</span>
+      </a>
+        {%- endif -%}
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="sec gray">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><h2>{{ tp.all_title }}{% if lang == "en" %} ({{ site.data.citations.size }}){% endif %}</h2>{% if tp.all_sub %}<p class="ko">{{ tp.all_sub }} ({{ site.data.citations.size }})</p>{% endif %}</div>
+      <input class="search" id="pub-search" type="search" placeholder="{{ tp.search }}" aria-label="{{ tp.search_label }}">
+    </div>
+    {%- assign years = site.data.citations | group_by_exp: "c", "c.date | slice: 0, 4" -%}
+    {%- for y in years %}
+    <div class="pubs-year">
+      <h3>{{ y.name }}</h3>
+      <ul class="pubs">
+        {%- for c in y.items %}
+        <li>
+          {%- if c.link %}<a class="t" href="{{ c.link }}">{{ c.title }}</a>{% else %}<span class="t">{{ c.title }}</span>{% endif %}
+          <div class="au">
+            {%- assign n = c.authors.size -%}
+            {%- for a in c.authors -%}
+              {%- if n > 8 and forloop.index > 6 and forloop.last == false -%}
+                {%- if forloop.index == 7 %} … {% endif -%}
+                {%- continue -%}
+              {%- endif -%}
+              {%- if a contains "Minee" or a contains "M.L. Choi" -%}<b>{{ a }}</b>{%- else -%}{{ a }}{%- endif -%}
+              {%- unless forloop.last or n > 8 and forloop.index == 6 -%}, {% endunless -%}
+            {%- endfor -%}
+          </div>
+          <div class="meta">
+            <i>{{ c.publisher }}</i>
+            {%- for tag in c.tags %}<span class="tag">{{ tag }}</span>{% endfor %}
+          </div>
+        </li>
+        {%- endfor %}
+      </ul>
+    </div>
+    {%- endfor %}
+    <p class="empty" id="pub-none" hidden>{{ tp.none }}</p>
+  </div>
+</section>

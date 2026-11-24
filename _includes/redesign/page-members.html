@@ -1,0 +1,103 @@
+{%- comment -%} Members page body, shared by /members/ and /en/members/. {%- endcomment -%}
+{%- assign lang = page.lang | default: "ko" -%}
+{%- assign t = site.data.redesign_text[lang] -%}
+{%- assign tm = t.members -%}
+{%- assign pi = site.members | where: "role", "pi" | first -%}
+{% include redesign/pagehead.html title="Members" sub=tm.sub lead=tm.lead %}
+
+<section class="sec">
+  <div class="wrap pi">
+    <img src="{{ '/redesign/assets/people/minee-choi.webp' | relative_url }}" alt="{{ tm.pi_alt }}">
+    <div>
+      <p class="role">Principal Investigator</p>
+      <h2>{{ tm.pi_name }}</h2>
+      <p class="en">{{ tm.pi_title }}</p>
+      <p>{{ tm.pi_bio }}</p>
+      <ul>
+        {%- for line in tm.pi_career %}
+        <li>{{ line }}</li>
+        {%- endfor %}
+      </ul>
+      <div class="ext-links">
+        <a class="btn" href="mailto:{{ pi.links.email }}">E-mail</a>
+        <a class="btn" href="https://scholar.google.com/citations?user={{ pi.links.google-scholar }}">Google Scholar</a>
+        <a class="btn" href="https://orcid.org/{{ pi.links.orcid }}">ORCID</a>
+        <a class="btn" href="{{ pi.url | relative_url }}">{{ tm.pi_bio_link }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="sec gray">
+  <div class="wrap">
+    <div class="sec-head"><div><h2>{{ tm.current_title }}</h2>{% if tm.current_sub %}<p class="ko">{{ tm.current_sub }}</p>{% endif %}</div></div>
+    {%- for g in tm.groups -%}
+      {%- assign roles = g.roles | split: "|" -%}
+      {%- assign count = 0 -%}
+      {%- for r in roles -%}{%- assign found = site.members | where: "role", r -%}{%- assign count = count | plus: found.size -%}{%- endfor -%}
+      {%- if count > 0 %}
+    <div class="role-group">
+      <h3>{{ g.title }}{% if g.sub %}<span>{{ g.sub }}</span>{% endif %}</h3>
+      <div class="grid-cards">
+        {%- for r in roles -%}
+          {%- assign people = site.members | where: "role", r -%}
+          {%- for person in people %}
+        {% include redesign/member-card.html member=person %}
+          {%- endfor -%}
+        {%- endfor %}
+      </div>
+    </div>
+      {%- endif -%}
+    {%- endfor %}
+  </div>
+</section>
+
+<section class="sec collab-sec" id="collaborators">
+  <div class="wrap">
+    <div class="sec-head"><div><h2>{{ tm.collab_title }}</h2>{% if tm.collab_sub %}<p class="ko">{{ tm.collab_sub }}</p>{% endif %}</div></div>
+    <p class="lead">{{ tm.collab_lead }}</p>
+    <div class="collab">
+      {%- for c in site.data.redesign_collaborators -%}
+        {%- assign cm = site.members | where: "name", c.name | first -%}
+        {%- if lang == "en" -%}{%- assign focus = c.focus_en | default: c.focus -%}{%- else -%}{%- assign focus = c.focus -%}{%- endif %}
+      <article>
+        {%- if cm and cm.image %}
+        <img src="{{ '/' | append: cm.image | relative_url }}" alt="{{ c.display }}" loading="lazy">
+        {%- endif %}
+        <div class="in">
+          <h3>{{ c.display }}</h3>
+          <p class="aff">{{ c.affiliation }}</p>
+          <p>{{ focus }}</p>
+          {%- if c.url %}
+          <a class="more" href="{{ c.url }}">{{ tm.collab_link }} <span aria-hidden="true">→</span></a>
+          {%- endif %}
+        </div>
+      </article>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head"><div><h2>{{ tm.alumni_title }}</h2>{% if tm.alumni_sub %}<p class="ko">{{ tm.alumni_sub }}</p>{% endif %}</div></div>
+    {%- for g in tm.alumni_groups -%}
+      {%- assign roles = g.roles | split: "|" -%}
+      {%- assign count = 0 -%}
+      {%- for r in roles -%}{%- assign found = site.members | where: "role", r -%}{%- assign count = count | plus: found.size -%}{%- endfor -%}
+      {%- if count > 0 %}
+    <div class="role-group">
+      <h3>{{ g.title }}{% if g.sub %}<span>{{ g.sub }}</span>{% endif %}</h3>
+      <ul class="alumni">
+        {%- for r in roles -%}
+          {%- assign people = site.members | where: "role", r -%}
+          {%- for person in people %}
+        {% include redesign/alum.html member=person %}
+          {%- endfor -%}
+        {%- endfor %}
+      </ul>
+    </div>
+      {%- endif -%}
+    {%- endfor %}
+  </div>
+</section>

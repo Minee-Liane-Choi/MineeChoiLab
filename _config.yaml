@@ -13,30 +13,33 @@ links:
   github: Minee-Liane-Choi
   twitter: MineeChoi
   youtube: 
+# The site at / is the new design (sources in redesign/, see _redesign/README.md).
+# The previous website is built again, unchanged, under /old/ by _plugins/old_site.rb
+# with the `old_site` settings at the end of this file.
 defaults:
   - scope:
       path: ""
     values:
       layout: default
   - scope:
+      path: "redesign"
+    values:
+      layout: redesign
+  - scope:
       type: members
     values:
-      layout: member
+      layout: redesign-member
   - scope:
       type: posts
     values:
-      layout: post
-  - scope:
-      type: programmes
-    values:
-      layout: programme
+      layout: redesign-post
 collections:
   members:
     output: true
   posts:
     output: true
   programmes:
-    output: true
+    output: false
 plugins:
   - jekyll-spaceship
   - jekyll-sitemap
@@ -54,8 +57,57 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+  # pages of the previous website (built under /old/, see old_site below)
+  - index.md
+  - 404.md
+  - team
+  - projects
+  - publications
+  - collage
+  - contact
+  - vacancy
+# the previous website's folder, written by _plugins/old_site.rb after the main build
+keep_files:
+  - .git
+  - .svn
+  - old
 email: 
 github: 
 twitter: 
 instagram: 
 youtube: 
+
+# The previous website, built again under /<folder>/ with its own pages and layouts.
+# These settings replace the ones above for that build only.
+old_site:
+  folder: old
+  exclude:
+    - README.md
+    - LICENSE.md
+    - CITATION.cff
+    - redesign
+    - google506b869d86e43b0f.html
+  # folders not copied again: links to them point to the main site's copy
+  shared:
+    - images
+  defaults:
+    - scope:
+        path: ""
+      values:
+        layout: default
+        sitemap: false
+    - scope:
+        type: members
+      values:
+        layout: member
+    - scope:
+        type: posts
+      values:
+        layout: post
+    - scope:
+        type: programmes
+      values:
+        layout: programme
+  collections:
+    programmes:
+      output: true

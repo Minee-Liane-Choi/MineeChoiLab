@@ -1,0 +1,86 @@
+{%- comment -%} Research page body, shared by /research/ and /en/research/. {%- endcomment -%}
+{%- assign lang = page.lang | default: "ko" -%}
+{%- assign t = site.data.redesign_text[lang] -%}
+{%- assign r = t.research -%}
+{%- assign nos = "One,Two,Three,Four" | split: "," -%}
+{%- assign media = "/redesign/assets/lab-cell-brightfield.webp,/redesign/assets/photos/organoid-plate.jpg,video,/redesign/assets/lab-cell-control.webp" | split: "," -%}
+{% include redesign/pagehead.html title="Research" sub=r.sub lead=r.lead %}
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><h2>{{ r.areas_title }}</h2>{% if r.areas_sub %}<p class="ko">{{ r.areas_sub }}</p>{% endif %}</div>
+    </div>
+
+    <div class="techs">
+      {%- for tech in r.techs -%}
+        {%- assign k = forloop.index0 %}
+      <article class="tech" id="tech-{{ forloop.index }}">
+        {%- if media[k] == "video" %}
+        <div class="media">
+          <video controls preload="none" poster="{{ '/redesign/assets/pong-demo-poster.webp' | relative_url }}" src="{{ '/redesign/assets/pong-demo.mp4' | relative_url }}"></video>
+          <p class="cap">{{ tech.caption }}</p>
+        </div>
+        {%- else %}
+        <figure class="media" style="margin:0">
+          <img src="{{ media[k] | relative_url }}" alt="{{ tech.alt }}" loading="lazy">
+          <figcaption class="cap">{{ tech.caption }}</figcaption>
+        </figure>
+        {%- endif %}
+        <div>
+          <span class="no">Tech {{ nos[k] }}</span>
+          <h2>{{ tech.title }}</h2>
+          <p class="en">{{ tech.en }}</p>
+          {%- for para in tech.paragraphs %}
+          <p>{{ para }}</p>
+          {%- endfor %}
+        </div>
+      </article>
+      {%- endfor %}
+    </div>
+
+    <p class="goal"><b>{{ r.goal_title }}</b><br>{{ r.goal }}</p>
+  </div>
+</section>
+
+<section class="sec gray" id="imaging">
+  <div class="wrap">
+  <div class="tech" style="padding:0">
+    <figure class="media" style="margin:0">
+      <img src="{{ '/redesign/assets/lab-cell-fluorescence.webp' | relative_url }}" alt="{{ r.imaging_alt }}" loading="lazy">
+      <figcaption class="cap">{{ r.imaging_caption }}</figcaption>
+    </figure>
+    <div>
+      <span class="no">{{ r.imaging_label }}</span>
+      <h2>{{ r.imaging_title }}</h2>
+      {%- for para in r.imaging %}
+      <p>{{ para }}</p>
+      {%- endfor %}
+    </div>
+  </div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><h2>{{ r.topics_title }}</h2>{% if r.topics_sub %}<p class="ko">{{ r.topics_sub }}</p>{% endif %}</div>
+    </div>
+    <div class="topic-groups">
+      {%- assign groups = "disease,tech,mech" | split: "," -%}
+      {%- for g in groups -%}
+        {%- assign list = site.programmes | where: "role", g -%}
+        {%- if list.size > 0 %}
+      <div>
+        <h3>{{ r.topic_groups[g] }}</h3>
+        <ul class="chips">
+          {%- for p in list %}
+          <li>{{ p.title }}</li>
+          {%- endfor %}
+        </ul>
+      </div>
+        {%- endif -%}
+      {%- endfor %}
+    </div>
+  </div>
+</section>

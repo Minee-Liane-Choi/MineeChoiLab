@@ -1,4 +1,7 @@
 <head>
+  {%- if site.is_old_site %}
+  <meta name="robots" content="noindex">
+  {%- endif %}
   {% include analytics.html %}
   {% include verification.html %}
   {% include meta.html %}

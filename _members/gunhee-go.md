@@ -1,7 +1,7 @@
 ---
 name: Geonhee Go
-image: images/team/intern.jpg
-role: interx
+image: images/team/brepair/gunhee-go.jpg
+role: intern
 links:
   email:
   orcid:
@@ -14,4 +14,4 @@ links:
 
 <strong>Report To:</strong> Minee Choi <br>
 
-<strong>Duration:</strong> Summer break, 2026
+<strong>Duration:</strong> Jun, 2026 - Present

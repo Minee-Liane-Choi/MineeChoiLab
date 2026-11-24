@@ -1,0 +1,31 @@
+---
+layout: redesign
+---
+{%- comment -%}
+  A lab newsletter (_posts/*.md) on the main site. The previous website keeps its own
+  version under /old/.
+{%- endcomment -%}
+{%- assign lang = page.lang | default: "ko" -%}
+{%- assign t = site.data.redesign_text[lang] -%}
+{%- assign pt = page.title | replace: " !!!", "" | replace: "!!!", "" | replace: " ?", "?" | remove_first: "+ " -%}
+{%- assign when = page.date | date: "%Y.%m.%d" | append: " · " | append: t.doc.newsletter -%}
+{% include redesign/pagehead.html title=pt sub=when %}
+
+<section class="sec">
+  <div class="wrap">
+    <article class="doc">
+{{ content }}
+    </article>
+    <nav class="doc-nav" aria-label="{{ t.doc.post_nav }}">
+      {%- if page.previous %}
+      {%- assign prev_t = page.previous.title | replace: " !!!", "" | replace: "!!!", "" | replace: " ?", "?" | remove_first: "+ " %}
+      <a class="prev" href="{{ page.previous.url | relative_url }}"><small>{{ t.doc.prev_post }}</small>{{ prev_t }}</a>
+      {%- else %}<span></span>{%- endif %}
+      <a class="list" href="{{ t.base | append: 'news/' | relative_url }}">{{ t.doc.back_news }}</a>
+      {%- if page.next %}
+      {%- assign next_t = page.next.title | replace: " !!!", "" | replace: "!!!", "" | replace: " ?", "?" | remove_first: "+ " %}
+      <a class="next" href="{{ page.next.url | relative_url }}"><small>{{ t.doc.next_post }}</small>{{ next_t }}</a>
+      {%- else %}<span></span>{%- endif %}
+    </nav>
+  </div>
+</section>

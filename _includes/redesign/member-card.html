@@ -1,0 +1,11 @@
+{%- comment -%}
+  Photo card for one member (a document from the members collection).
+  Uses the small web copy found by photo-lookup.html, otherwise the member's own image.
+{%- endcomment -%}
+{%- include redesign/photo-lookup.html member=include.member -%}
+{%- unless mc_src -%}{%- if mc.image -%}{%- assign mc_src = "/" | append: mc.image -%}{%- else -%}{%- assign mc_src = "/images/fallback.svg" -%}{%- endif -%}{%- endunless -%}
+{%- assign mc_role = site.data.redesign_roles[mc.role] | default: site.data.types[mc.role].description | default: mc.role -%}
+<div class="card">
+  <img src="{{ mc_src | relative_url }}" alt="{{ mc.name }}" loading="lazy">
+  <div class="name"><b>{{ mc.name }}</b><span>{{ mc_role }}</span></div>
+</div>

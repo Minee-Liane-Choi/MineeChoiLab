@@ -1,0 +1,9 @@
+{%- comment -%}
+  One former member: small photo when photo-lookup.html finds a web copy, otherwise initials.
+{%- endcomment -%}
+{%- include redesign/photo-lookup.html member=include.member -%}
+{%- assign mc_words = mc.name | split: " " -%}
+<li>
+  {%- if mc_src %}<img src="{{ mc_src | relative_url }}" alt="" loading="lazy">{% else %}<span class="ini" aria-hidden="true">{{ mc_words.first | slice: 0 }}{{ mc_words.last | slice: 0 }}</span>{% endif %}
+  <span class="who"><b>{{ mc.name }}</b><span>{{ site.data.redesign_roles[mc.role] | default: site.data.types[mc.role].description }}</span></span>
+</li>

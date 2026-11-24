@@ -1,0 +1,29 @@
+{%- comment -%}
+  Floating button on the previous website (/old/, see _plugins/old_site.rb) that opens
+  the closest matching page of the new website. Shown only in the old-site build.
+{%- endcomment -%}
+{%- if site.is_old_site -%}
+{%- assign url = page.url | default: "/" -%}
+{%- assign target = "/" -%}
+{%- if url == "/publications/" -%}{%- assign target = "/publications/" -%}
+{%- elsif url == "/team/" -%}{%- assign target = "/members/" -%}
+{%- elsif page.collection == "members" or page.collection == "posts" -%}{%- assign target = url -%}
+{%- elsif url == "/projects/" or page.collection == "programmes" -%}{%- assign target = "/research/" -%}
+{%- elsif url == "/vacancy/" -%}{%- assign target = "/contact/#join" -%}
+{%- elsif url == "/contact/" -%}{%- assign target = "/contact/" -%}
+{%- elsif url == "/collage/" -%}{%- assign target = "/news/" -%}
+{%- endif -%}
+<style>
+  .bro1-switch { position: fixed; right: 16px; bottom: calc(16px + env(safe-area-inset-bottom, 0px)); z-index: 50; display: inline-flex; align-items: center; gap: 10px; max-width: calc(100vw - 32px); padding: 10px 16px 10px 14px; border-radius: 999px; background: #10171d; color: #f5f7fa !important; border: 1px solid #34404b; box-shadow: 0 6px 24px rgba(0, 0, 0, .28); font: 600 14px/1.25 Manrope, "Noto Sans KR", system-ui, -apple-system, "Segoe UI", sans-serif; letter-spacing: 0; text-decoration: none !important; }
+  .bro1-switch:hover { background: #1b2630; }
+  .bro1-switch:focus-visible { outline: 3px solid #6debd5; outline-offset: 3px; }
+  .bro1-switch-dot { flex: none; width: 8px; height: 8px; border-radius: 50%; background: #6debd5; }
+  .bro1-switch-text { display: flex; flex-direction: column; }
+  .bro1-switch-text small { font-weight: 500; font-size: 12px; color: #b0bac4; }
+  @media print { .bro1-switch { display: none; } }
+</style>
+<a class="bro1-switch" href="{{ site.new_site_baseurl }}{{ target }}">
+  <span class="bro1-switch-dot" aria-hidden="true"></span>
+  <span class="bro1-switch-text"><span lang="ko">이전 홈페이지입니다 · 새 홈페이지로</span><small lang="en">Previous website · Go to the new website</small></span>
+</a>
+{%- endif -%}

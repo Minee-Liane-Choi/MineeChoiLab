@@ -1,0 +1,31 @@
+# Collaborators shown on the Members page (/members/#collaborators).
+# Photo comes from the matching _members/*.md (role: collabo), matched by `name`.
+# Order: by surname.
+
+- name: Andrey Y. Abramov
+  display: Prof. Andrey Y. Abramov
+  affiliation: UCL Queen Square Institute of Neurology
+  focus: 칼슘 신호, 활성산소, 미토콘드리아와 신경퇴행의 세포 기전 연구
+  focus_en: Calcium signalling, reactive oxygen species and mitochondria in neurodegeneration
+  url: https://www.ucl.ac.uk/ion/research/our-departments/clinical-and-movement-neurosciences/centres-and-projects/andrey-y-abramov
+
+- name: Roger Barker
+  display: Prof. Roger Barker
+  affiliation: University of Cambridge · Addenbrooke's Hospital
+  focus: 파킨슨병 등 신경퇴행성 질환의 세포 치료 및 임상 연구
+  focus_en: Cell therapy and clinical research in Parkinson's disease and other neurodegenerative disorders
+  url: https://ccpp.cam.ac.uk/directory/Barker
+
+- name: Sonia Gandhi
+  display: Prof. Sonia Gandhi
+  affiliation: The Francis Crick Institute · UCL Queen Square Institute of Neurology
+  focus: 환자 유래 줄기세포를 이용한 파킨슨병 분자 기전 연구
+  focus_en: Molecular mechanisms of Parkinson's disease studied with patient-derived stem cells
+  url: https://www.crick.ac.uk/research/find-a-researcher/sonia-gandhi
+
+- name: David Klenerman
+  display: Prof. Sir David Klenerman
+  affiliation: University of Cambridge · UK Dementia Research Institute
+  focus: 초고해상도 현미경을 이용한 단백질 응집과 신경퇴행성 질환 연구
+  focus_en: Super-resolution microscopy of protein aggregation in neurodegenerative disease
+  url: https://www.klenermangroup.co.uk/

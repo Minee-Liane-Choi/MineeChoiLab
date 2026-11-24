@@ -1,0 +1,45 @@
+{%- assign lang = page.lang | default: "ko" -%}
+{%- assign t = site.data.redesign_text[lang] -%}
+{%- assign base = t.base -%}
+{%- assign u = page.url -%}
+{%- comment -%} the same page in the other language; pages without one open that language's list or home {%- endcomment -%}
+{%- if page.ref -%}
+  {%- if lang == "en" -%}
+    {%- assign ko_url = u | replace_first: "/en/", "/" -%}
+    {%- assign en_url = u -%}
+  {%- else -%}
+    {%- assign ko_url = u -%}
+    {%- assign en_url = "/en" | append: u -%}
+  {%- endif -%}
+{%- else -%}
+  {%- assign ko_url = u -%}
+  {%- if page.collection == "members" -%}{%- assign en_url = "/en/members/" -%}
+  {%- elsif page.collection == "posts" -%}{%- assign en_url = "/en/news/" -%}
+  {%- else -%}{%- assign en_url = "/en/" -%}{%- endif -%}
+{%- endif -%}
+<header class="hd">
+  <a class="logo" href="{{ base | relative_url }}" aria-label="{{ t.home_label }}">
+    <img class="icon" src="{{ '/images/logo.png' | relative_url }}" alt="">
+    <span class="txt">
+      <img class="kaist" src="{{ '/redesign/assets/kaist-logo-blue.png' | relative_url }}" alt="KAIST">
+      <span class="wm">BRØ1 Lab</span>
+    </span>
+  </a>
+  <nav class="gnb" id="gnb" aria-label="{{ t.menu_label }}">
+    {%- assign items = "research:Research,members:Members,publications:Publications,news:News,contact:Contact" | split: "," -%}
+    {%- for it in items -%}
+      {%- assign parts = it | split: ":" -%}
+      {%- assign href = base | append: parts[0] | append: "/" %}
+      {%- assign cur = false -%}
+      {%- if u contains href -%}{%- assign cur = true -%}{%- endif -%}
+      {%- if page.collection == "posts" and parts[0] == "news" -%}{%- assign cur = true -%}{%- endif %}
+    <a href="{{ href | relative_url }}"{% if cur %} aria-current="page"{% endif %}>{{ parts[1] }}</a>
+    {%- endfor %}
+    <span class="lang">
+      <a href="{{ ko_url | relative_url }}" lang="ko" hreflang="ko"{% if lang == "ko" %} aria-current="true"{% endif %}>KOR</a>
+      <span aria-hidden="true">·</span>
+      <a href="{{ en_url | relative_url }}" lang="en" hreflang="en"{% if lang == "en" %} aria-current="true"{% endif %}>ENG</a>
+    </span>
+  </nav>
+  <button class="burger" type="button" aria-label="{{ t.menu_open }}" aria-expanded="false" aria-controls="gnb"><span></span><span></span><span></span></button>
+</header>
