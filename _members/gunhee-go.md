@@ -14,4 +14,4 @@ links:
 
 <strong>Report To:</strong> Minee Choi <br>
 
-<strong>Duration:</strong> 2026 - Present
+<strong>Duration:</strong> Jun, 2026 - Present
