@@ -1,5 +1,5 @@
-# Role labels shown on the redesign preview (/redesign/).
-# Keys are the `role` values in _members/*.md. The current site keeps using _data/types.yaml.
+# Role labels shown on the website (pages in redesign/).
+# Keys are the `role` values in _members/*.md. The previous website (/old/) keeps using _data/types.yaml.
 
 pi: Principal Investigator
 postdoc: Postdoctoral Researcher

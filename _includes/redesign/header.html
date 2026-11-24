@@ -2,12 +2,20 @@
 {%- assign t = site.data.redesign_text[lang] -%}
 {%- assign base = t.base -%}
 {%- assign u = page.url -%}
-{%- if lang == "en" -%}
-  {%- assign ko_url = u | replace_first: "/redesign/en/", "/redesign/" -%}
-  {%- assign en_url = u -%}
+{%- comment -%} the same page in the other language; pages without one open that language's list or home {%- endcomment -%}
+{%- if page.ref -%}
+  {%- if lang == "en" -%}
+    {%- assign ko_url = u | replace_first: "/en/", "/" -%}
+    {%- assign en_url = u -%}
+  {%- else -%}
+    {%- assign ko_url = u -%}
+    {%- assign en_url = "/en" | append: u -%}
+  {%- endif -%}
 {%- else -%}
   {%- assign ko_url = u -%}
-  {%- assign en_url = u | replace_first: "/redesign/", "/redesign/en/" -%}
+  {%- if page.collection == "members" -%}{%- assign en_url = "/en/members/" -%}
+  {%- elsif page.collection == "posts" -%}{%- assign en_url = "/en/news/" -%}
+  {%- else -%}{%- assign en_url = "/en/" -%}{%- endif -%}
 {%- endif -%}
 <header class="hd">
   <a class="logo" href="{{ base | relative_url }}" aria-label="{{ t.home_label }}">
@@ -22,7 +30,10 @@
     {%- for it in items -%}
       {%- assign parts = it | split: ":" -%}
       {%- assign href = base | append: parts[0] | append: "/" %}
-    <a href="{{ href | relative_url }}"{% if u contains href %} aria-current="page"{% endif %}>{{ parts[1] }}</a>
+      {%- assign cur = false -%}
+      {%- if u contains href -%}{%- assign cur = true -%}{%- endif -%}
+      {%- if page.collection == "posts" and parts[0] == "news" -%}{%- assign cur = true -%}{%- endif %}
+    <a href="{{ href | relative_url }}"{% if cur %} aria-current="page"{% endif %}>{{ parts[1] }}</a>
     {%- endfor %}
     <span class="lang">
       <a href="{{ ko_url | relative_url }}" lang="ko" hreflang="ko"{% if lang == "ko" %} aria-current="true"{% endif %}>KOR</a>

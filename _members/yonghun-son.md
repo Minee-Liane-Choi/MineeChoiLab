@@ -1,7 +1,7 @@
 ---
 name: Yonghun Son
 image: images/team/brepair/yonghun-son.jpg
-role: ug
+role: undergrax
 links:
   email:
   orcid:
@@ -14,4 +14,4 @@ links:
 
 <strong>Report To:</strong> Minee Choi <br>
 
-<strong>Duration:</strong> Mar, 2025 - Present
+<strong>Duration:</strong> Mar, 2025 - 2026

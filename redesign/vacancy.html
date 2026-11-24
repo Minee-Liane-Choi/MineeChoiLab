@@ -1,0 +1,21 @@
+---
+permalink: /vacancy/
+layout: null
+sitemap: false
+---
+{%- comment -%} The previous website's /vacancy/ address: recruitment notices are now on /contact/#join. {%- endcomment -%}
+{%- assign to = '/contact/#join' | relative_url -%}
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <title>모집 공고 · KAIST BRØ1</title>
+  <link rel="canonical" href="{{ '/contact/' | absolute_url }}">
+  <meta http-equiv="refresh" content="0; url={{ to }}">
+  <meta name="robots" content="noindex">
+  <script>location.replace("{{ to }}");</script>
+</head>
+<body>
+  <p><a href="{{ to }}">모집 공고 보기 (Join us)</a></p>
+</body>
+</html>

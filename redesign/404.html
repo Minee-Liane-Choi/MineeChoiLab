@@ -1,0 +1,22 @@
+---
+title: 페이지를 찾을 수 없습니다
+permalink: /404.html
+lang: ko
+sitemap: false
+---
+{%- assign t = site.data.redesign_text.ko -%}
+{% include redesign/pagehead.html title=t.notfound.title sub=t.notfound.sub %}
+
+<section class="sec">
+  <div class="wrap">
+    <div class="doc">
+      <p>{{ t.notfound.text }}</p>
+      <p lang="en">{{ site.data.redesign_text.en.notfound.text }}</p>
+    </div>
+    <div class="ext-links">
+      <a class="btn" href="{{ '/' | relative_url }}">{{ t.notfound.home }}</a>
+      <a class="btn" href="{{ '/en/' | relative_url }}">English</a>
+      <a class="btn" href="{{ '/old/' | relative_url }}">{{ t.footer.old_site }}</a>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,46 @@
+---
+layout: redesign
+---
+{%- comment -%}
+  A member's own page (_members/*.md) on the main site: photo, role, links and the
+  text of the member file. The previous website keeps its own version under /old/members/.
+{%- endcomment -%}
+{%- assign lang = page.lang | default: "ko" -%}
+{%- assign t = site.data.redesign_text[lang] -%}
+{%- include redesign/photo-lookup.html member=page -%}
+{%- unless mc_src -%}{%- if page.image -%}{%- assign mc_src = "/" | append: page.image -%}{%- else -%}{%- assign mc_src = "/images/fallback.svg" -%}{%- endif -%}{%- endunless -%}
+{%- assign role = site.data.redesign_roles[page.role] | default: site.data.types[page.role].description | default: page.role -%}
+{% include redesign/pagehead.html title=page.name sub=role %}
+
+<section class="sec">
+  <div class="wrap pi person">
+    <img src="{{ mc_src | relative_url }}" alt="{{ page.name }}">
+    <div>
+      <div class="doc">
+{{ content }}
+      </div>
+      {%- assign link_keys = "email,orcid,google-scholar,research-gate,github,twitter" | split: "," -%}
+      {%- capture link_list -%}
+        {%- for key in link_keys -%}
+          {%- assign value = page.links[key] -%}
+          {%- if value -%}
+            {%- case key -%}
+              {%- when "email" -%}{%- assign href = "mailto:" | append: value -%}
+              {%- when "orcid" -%}{%- assign href = "https://orcid.org/" | append: value -%}
+              {%- when "google-scholar" -%}{%- assign href = "https://scholar.google.com/citations?user=" | append: value -%}
+              {%- when "research-gate" -%}{%- assign href = "https://www.researchgate.net/profile/" | append: value -%}
+              {%- when "github" -%}{%- assign href = "https://github.com/" | append: value -%}
+              {%- when "twitter" -%}{%- assign href = "https://twitter.com/" | append: value -%}
+            {%- endcase %}
+        <a class="btn" href="{{ href }}">{{ site.data.types[key].text }}</a>
+          {%- endif -%}
+        {%- endfor -%}
+      {%- endcapture -%}
+      {%- if link_list != "" %}
+      <div class="ext-links">{{ link_list }}
+      </div>
+      {%- endif %}
+      <p class="back"><a class="more" href="{{ t.base | append: 'members/' | relative_url }}"><span aria-hidden="true">←</span> {{ t.doc.back_members }}</a></p>
+    </div>
+  </div>
+</section>

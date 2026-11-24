@@ -1,8 +1,8 @@
-# Press coverage, talks and videos shown on the redesign preview (/redesign/news/).
+# Press coverage, talks and videos shown on the News page (/news/).
 # Newest first. Add new items at the top of each list.
 # Use `display: "..."` instead of `date:` when an item has no exact date.
 # Video titles are short descriptions; `url` links to the original video.
-# `title_en`, `source_en`, `display_en` are shown on the English pages (/redesign/en/).
+# `title_en`, `source_en`, `display_en` are shown on the English pages (/en/).
 
 articles:
   - date: 2026-09-04

@@ -1,5 +1,15 @@
 {%- assign lang = page.lang | default: "ko" -%}
 {%- assign t = site.data.redesign_text[lang] -%}
+{%- comment -%} matching page of the previous website under /old/ (see _plugins/old_site.rb) {%- endcomment -%}
+{%- case page.ref -%}
+  {%- when "research" -%}{%- assign old_path = "/old/projects/" -%}
+  {%- when "members" -%}{%- assign old_path = "/old/team/" -%}
+  {%- when "publications" -%}{%- assign old_path = "/old/publications/" -%}
+  {%- when "news" -%}{%- assign old_path = "/old/collage/" -%}
+  {%- when "contact" -%}{%- assign old_path = "/old/contact/" -%}
+  {%- else -%}{%- assign old_path = "/old/" -%}
+{%- endcase -%}
+{%- if page.collection == "members" or page.collection == "posts" -%}{%- assign old_path = "/old" | append: page.url -%}{%- endif -%}
 <footer class="ft">
   <div class="ft-in">
     <div>
@@ -11,6 +21,7 @@
       <a href="https://orcid.org/{{ site.links.orcid }}">ORCID</a>
       <a href="https://www.youtube.com/@KAISTBrainRepairOrganoidIntell">YouTube</a>
       <a href="https://bcs.kaist.ac.kr">{{ t.footer.dept }}</a>
+      <a href="{{ old_path | relative_url }}">{{ t.footer.old_site }}</a>
     </div>
   </div>
   <div class="ft-copy">© {{ site.time | date: "%Y" }} KAIST BRØ1 Lab · Brain RePAIR &amp; Organoid Intelligence</div>

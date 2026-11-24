@@ -1,12 +1,13 @@
-# Keep the redesign preview pages (redesign/**) exactly as Jekyll rendered them.
+# Keep the website pages in redesign/** exactly as Jekyll rendered them.
 #
 # jekyll-spaceship re-parses every HTML page with Nokogiri's HTML4 parser and
 # re-serializes it in a post_render hook (Manager.dispatch_html_block), with no
-# per-page opt-out. That suits the Markdown pages of the current site, but it
+# per-page opt-out. That suits the Markdown pages (newsletters, the previous website), but it
 # rewrites finished HTML: for example it lowercases the SVG `viewBox` attribute,
-# which breaks the inline icons of the redesign.
+# which breaks the inline icons of the new pages.
 #
-# For pages under redesign/ only, this saves the output right after Liquid and
+# For pages under redesign/ only (the main site; member pages and newsletters are
+# not affected), this saves the output right after Liquid and
 # layout rendering (post_render, high priority, before other post_render
 # plugins) and puts it back after all post_render hooks have run (low priority).
 # Other pages are not touched.
