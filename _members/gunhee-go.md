@@ -1,6 +1,6 @@
 ---
 name: Geonhee Go
-image: images/team/intern.jpg
+image: images/team/brepair/gunhee-go.jpg
 role: interx
 links:
   email:
