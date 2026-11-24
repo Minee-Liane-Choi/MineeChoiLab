@@ -14,4 +14,4 @@ links:
 
 <strong>Report To:</strong> Minee Choi <br>
 
-<strong>Duration:</strong> Summer break, 2026
+<strong>Duration:</strong> 2026 - Present
