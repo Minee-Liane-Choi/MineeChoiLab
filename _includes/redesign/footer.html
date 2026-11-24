@@ -1,14 +1,16 @@
+{%- assign lang = page.lang | default: "ko" -%}
+{%- assign t = site.data.redesign_text[lang] -%}
 <footer class="ft">
   <div class="ft-in">
     <div>
-      <b>KAIST BRØ1</b> · 뇌인지과학과 최민이 교수 연구실<br>
-      34141 대전광역시 유성구 대학로 291 KAIST W13 (Meta Convergence Building) 5층 · minee.choi@kaist.ac.kr
+      <b>KAIST BRØ1</b> · {{ t.footer.lab }}<br>
+      {{ t.footer.address }} · minee.choi@kaist.ac.kr
     </div>
     <div class="ft-links">
       <a href="https://scholar.google.com/citations?user={{ site.links.google-scholar }}">Google Scholar</a>
       <a href="https://orcid.org/{{ site.links.orcid }}">ORCID</a>
       <a href="https://www.youtube.com/@KAISTBrainRepairOrganoidIntell">YouTube</a>
-      <a href="https://bcs.kaist.ac.kr">KAIST 뇌인지과학과</a>
+      <a href="https://bcs.kaist.ac.kr">{{ t.footer.dept }}</a>
     </div>
   </div>
   <div class="ft-copy">© {{ site.time | date: "%Y" }} KAIST BRØ1 Lab · Brain RePAIR &amp; Organoid Intelligence</div>

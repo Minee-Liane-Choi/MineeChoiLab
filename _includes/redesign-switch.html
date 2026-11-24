@@ -8,6 +8,7 @@
 {%- if site.redesign_preview_button != false -%}
 {%- assign url = page.url | default: "/" -%}
 {%- if include.mode == "redesign" -%}
+  {%- assign url = url | replace_first: "/redesign/en/", "/redesign/" -%}
   {%- assign target = "/" -%}
   {%- if url contains "/redesign/publications/" -%}{%- assign target = "/publications/" -%}
   {%- elsif url contains "/redesign/members/" -%}{%- assign target = "/team/" -%}

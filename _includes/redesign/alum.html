@@ -2,22 +2,22 @@
   One former member: small photo when a web copy exists in redesign/assets/people/
   (named after the member file or image), otherwise initials.
 {%- endcomment -%}
-{%- assign m = include.member -%}
-{%- assign slug = m.path | split: "/" | last | split: "." | first -%}
-{%- assign base = m.image | split: "/" | last | split: "." | first -%}
-{%- assign src = nil -%}
-{%- assign names = slug | append: "," | append: base | split: "," -%}
-{%- for n in names -%}
-  {%- for ext in site.data.redesign_photo_ext -%}
-    {%- unless src -%}
-      {%- assign p = "/redesign/assets/people/" | append: n | append: ext -%}
-      {%- assign hit = site.static_files | where: "path", p | first -%}
-      {%- if hit -%}{%- assign src = p -%}{%- endif -%}
+{%- assign mc = include.member -%}
+{%- assign mc_slug = mc.path | split: "/" | last | split: "." | first -%}
+{%- assign mc_base = mc.image | split: "/" | last | split: "." | first -%}
+{%- assign mc_src = nil -%}
+{%- assign mc_names = mc_slug | append: "," | append: mc_base | split: "," -%}
+{%- for mc_n in mc_names -%}
+  {%- for mc_ext in site.data.redesign_photo_ext -%}
+    {%- unless mc_src -%}
+      {%- assign mc_path = "/redesign/assets/people/" | append: mc_n | append: mc_ext -%}
+      {%- assign mc_hit = site.static_files | where: "path", mc_path | first -%}
+      {%- if mc_hit -%}{%- assign mc_src = mc_path -%}{%- endif -%}
     {%- endunless -%}
   {%- endfor -%}
 {%- endfor -%}
-{%- assign words = m.name | split: " " -%}
+{%- assign mc_words = mc.name | split: " " -%}
 <li>
-  {%- if src %}<img src="{{ src | relative_url }}" alt="" loading="lazy">{% else %}<span class="ini" aria-hidden="true">{{ words.first | slice: 0 }}{{ words.last | slice: 0 }}</span>{% endif %}
-  <span class="who"><b>{{ m.name }}</b><span>{{ site.data.redesign_roles[m.role] | default: site.data.types[m.role].description }}</span></span>
+  {%- if mc_src %}<img src="{{ mc_src | relative_url }}" alt="" loading="lazy">{% else %}<span class="ini" aria-hidden="true">{{ mc_words.first | slice: 0 }}{{ mc_words.last | slice: 0 }}</span>{% endif %}
+  <span class="who"><b>{{ mc.name }}</b><span>{{ site.data.redesign_roles[mc.role] | default: site.data.types[mc.role].description }}</span></span>
 </li>

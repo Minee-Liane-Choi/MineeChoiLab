@@ -1,51 +1,8 @@
 ---
 title: Contact
 permalink: /redesign/contact/
-description: KAIST BRØ1 연구실 위치 및 연락처, 연구원 모집 안내.
+lang: ko
+ref: contact
+description: "KAIST BRØ1 연구실 위치 및 연락처, 연구원 모집 안내."
 ---
-{% include redesign/pagehead.html title="Contact" ko="연락처" lead="공동연구, 연구원 지원 및 기타 문의는 이메일로 연락해 주시기 바랍니다." %}
-
-<section class="sec">
-  <div class="wrap contact-grid">
-    <div>
-      <h2>찾아오시는 길</h2>
-      <dl class="info">
-        <dt>주소</dt><dd>34141 대전광역시 유성구 대학로 291 KAIST<br>W13 (Meta Convergence Building) 5층 4호</dd>
-        <dt>이메일</dt><dd><a href="mailto:minee.choi@kaist.ac.kr">minee.choi@kaist.ac.kr</a></dd>
-        <dt>전화</dt><dd>042-350-6516</dd>
-      </dl>
-      <div class="maps">
-        <a class="btn" href="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8">Google 지도</a>
-        <a class="btn" href="https://naver.me/GdiqLWG9">네이버 지도</a>
-        <a class="btn" href="https://kko.to/e_0hLHT5B6">카카오맵</a>
-      </div>
-    </div>
-    <a class="map" href="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8">
-      <img src="{{ '/images/contact/map.jpg' | relative_url }}" alt="KAIST 캠퍼스 지도의 W13 위치" loading="lazy">
-    </a>
-  </div>
-</section>
-
-<section class="sec gray" id="join">
-  <div class="wrap">
-    <div class="sec-head"><div><h2>연구원 모집</h2><p class="ko">Join Us</p></div></div>
-    <div class="join-body">
-      {%- capture vacancy %}{% include vacancy-body.md %}{% endcapture %}
-      {{ vacancy | replace: site.team, "BRØ1" | markdownify }}
-    </div>
-  </div>
-</section>
-
-<section class="sec">
-  <div class="wrap">
-    <div class="sec-head"><div><h2>소속 및 협력 기관</h2><p class="ko">Affiliations</p></div></div>
-    <ul class="affil">
-      <li><a href="https://bcs.kaist.ac.kr">KAIST 뇌인지과학과</a><span>Department of Brain &amp; Cognitive Sciences, KAIST</span></li>
-      <li><a href="https://scrb.kaist.ac.kr">KAIST 줄기세포 및 재생생물학 대학원</a><span>Graduate School of Stem Cell &amp; Regenerative Biology, KAIST</span></li>
-      <li><a href="https://www.crick.ac.uk">The Francis Crick Institute</a><span>London, UK · Honorary Fellow</span></li>
-      <li><a href="https://www.ucl.ac.uk/ion">UCL Queen Square Institute of Neurology</a><span>London, UK · Honorary Fellow</span></li>
-      <li><a href="https://www.cgu.edu.tw/en">Chang Gung University</a><span>Taoyuan, Taiwan · Adjunct Professor</span></li>
-      <li><a href="https://www.cgmh.org.tw/eng">Chang Gung Memorial Hospital</a><span>Taiwan · Adjunct Professor</span></li>
-    </ul>
-  </div>
-</section>
+{% include redesign/page-contact.html %}

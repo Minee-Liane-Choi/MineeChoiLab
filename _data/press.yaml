@@ -2,6 +2,7 @@
 # Newest first. Add new items at the top of each list.
 # Use `display: "..."` instead of `date:` when an item has no exact date.
 # Video titles are short descriptions; `url` links to the original video.
+# `title_en`, `source_en`, `display_en` are shown on the English pages (/redesign/en/).
 
 articles:
   - date: 2026-09-04
@@ -9,46 +10,65 @@ articles:
     category: "인터뷰·강연"
     title: "[굿브레인 2026]최민이 카이스트 교수 \"GLP-1 뇌질환 신약, 최우선 과제는 환자 선별\""
     url: https://v.daum.net/v/4w3w6A8Bkd
+    title_en: "[Good Brain 2026] KAIST Prof. Minee Choi: \"For GLP-1 drugs in brain disease, patient selection comes first\""
+    source_en: "Asia Economy"
   - date: 2025-11-10
     source: "KAIST 뇌인지과학과"
     category: "연구실 소식"
     title: "2025 OPEN KAIST, 나만의 미니 뇌 Brain Organoid"
     url: https://bcs.kaist.ac.kr/korean/sub0801/view/page/2/id/416
+    title_en: "OPEN KAIST 2025: Make your own mini-brain (brain organoid)"
+    source_en: "KAIST Brain and Cognitive Sciences"
   - date: 2025-04-27
     source: "연합뉴스"
     category: "연구 보도"
     title: "파킨슨병 발병에 관여하는 RNA 편집효소 찾았다"
     url: https://www.yna.co.kr/view/AKR20250425147900063
+    title_en: "RNA-editing enzyme involved in the onset of Parkinson's disease identified"
+    source_en: "Yonhap News"
   - date: 2025-04-15
     source: "연합뉴스"
     category: "연구실 소식"
     title: "춤추는 로봇·인공 뇌…과학기술축제서 KAIST 기술 전시"
     url: https://www.yna.co.kr/view/AKR20250415037900063
+    title_en: "Dancing robots and artificial brains: KAIST technologies at a science festival"
+    source_en: "Yonhap News"
   - date: 2025-02-28
     source: "KAIST 뇌인지과학과"
     category: "인터뷰·강연"
     title: "[학과 교수 인터뷰] 최민이 교수"
     url: https://bcs.kaist.ac.kr/sub0706/view/id/326
+    title_en: "Faculty interview: Prof. Minee Choi"
+    source_en: "KAIST Brain and Cognitive Sciences"
   - date: 2025-02-03
     source: "동아일보"
     category: "인터뷰·강연"
     title: "숏폼에 중독된 사회…내성 쌓인 뇌, 충동조절 약화"
     url: https://www.donga.com/news/Economy/article/all/20250203/130953868/1
+    title_en: "A society hooked on short-form video: tolerant brains and weakened impulse control"
+    source_en: "Dong-A Ilbo"
   - date: 2024-12-03
     source: "연합뉴스"
     category: "연구실 소식"
     title: "\"질문하는 캠퍼스 문화 만들자\" KAIST 큐데이 행사"
     url: https://www.yna.co.kr/view/AKR20241203030500063
+    title_en: "\"Let's build a campus culture of asking questions\": KAIST Q-Day"
+    source_en: "Yonhap News"
   - display: "2024 하반기호"
     source: "KAIST Vision"
     category: "인터뷰·강연"
     title: "첨단과학 융합수업으로 신경과학을 만나다"
     url: https://kaistvision.kaist.ac.kr/article/6/4
+    title_en: "Meeting neuroscience through interdisciplinary science classes"
+    source_en: "KAIST Vision"
+    display_en: "Late 2024 issue"
   - date: 2023-08-16
     source: "KAIST 홍보실"
     category: "연구 보도"
     title: "인공지능으로 파킨슨병 맞춤형 치료 가능"
     url: https://www.kaist.ac.kr/news/html/news/?mng_no=30890&mode=V
+    title_en: "AI opens the way to personalised treatment for Parkinson's disease"
+    source_en: "KAIST News"
   - date: 2022-08-30
     source: "UCL"
     category: "연구 보도"
@@ -63,6 +83,8 @@ videos:
     category: "연구실 소개"
     title: "BRØ1 연구실 소개"
     url: https://www.youtube.com/watch?v=W68qzmwzHVU
+    title_en: "Introducing the BRØ1 lab"
+    source_en: "KAIST BRØ1 Lab"
   - date: 2024-09-01
     platform: YouTube
     id: "tGAAIi8KsvI"
@@ -70,6 +92,8 @@ videos:
     category: "최민이 교수 특강"
     title: "최민이 교수 특강: 나의 뇌를 미니어처로 만들어 연구할 수 있을까요?"
     url: https://www.youtube.com/watch?v=tGAAIi8KsvI
+    title_en: "Lecture by Prof. Minee Choi: Can we study a miniature version of our own brain?"
+    source_en: "KAIST Global Institute for Talented Education"
   - date: 2025-05-30
     platform: YouTube
     id: "aKNxBKiNuPg"
@@ -77,6 +101,8 @@ videos:
     category: "ADAR1 연구 보도·해설"
     title: "ADAR1 연구 해설"
     url: https://www.youtube.com/watch?v=aKNxBKiNuPg
+    title_en: "Explainer on the ADAR1 study"
+    source_en: "SOD"
   - date: 2024-11-24
     platform: Instagram
     id: "DCxy5QLtugO"
@@ -84,3 +110,5 @@ videos:
     category: "교수 인터뷰"
     title: "최민이 교수 인터뷰"
     url: https://www.instagram.com/reel/DCxy5QLtugO/
+    title_en: "Interview with Prof. Minee Choi"
+    source_en: "KAIST Brain and Cognitive Sciences"

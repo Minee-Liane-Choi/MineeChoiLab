@@ -1,0 +1,123 @@
+{%- comment -%} Home page body, shared by /redesign/ and /redesign/en/. {%- endcomment -%}
+{%- assign lang = page.lang | default: "ko" -%}
+{%- assign t = site.data.redesign_text[lang] -%}
+{%- assign h = t.home -%}
+{%- assign ci = t.contact_info -%}
+{%- assign base = t.base -%}
+{%- assign current_roles = "pi,postdoc,chief,phd,mhd,ms,uhd,ug,intern,associate,admin" | split: "," -%}
+<nav class="dots" aria-label="{{ h.sections_label }}">
+  <a href="#intro" class="on"><span>Home</span></a>
+  <a href="#research"><span>Research</span></a>
+  <a href="#team"><span>Members</span></a>
+  <a href="#contact"><span>Contact</span></a>
+</nav>
+
+<section id="intro" class="full intro" data-theme="light">
+  <div class="left">
+    <div class="copy">
+      <h1>Brain RePAIR<br>&amp; Organoid<br>Intelligence</h1>
+      <p class="ko">{{ h.ko_name }}</p>
+      <p class="ko-sub">{{ h.ko_sub }}</p>
+    </div>
+    <div class="ticker">
+      <b>News</b>
+      <ul>
+        {%- for a in site.data.press.articles limit: 5 %}
+          {%- if lang == "en" -%}
+            {%- assign at = a.title_en | default: a.title -%}{%- assign as = a.source_en | default: a.source -%}
+          {%- else -%}
+            {%- assign at = a.title -%}{%- assign as = a.source -%}
+          {%- endif %}
+        <li><a href="{{ a.url }}">[{{ a.date | date: "%Y.%m.%d" }}] {{ at }} ({{ as }})</a></li>
+        {%- endfor %}
+      </ul>
+      <div class="arrows">
+        <button type="button" data-dir="prev" aria-label="{{ h.prev_news }}"><svg viewBox="0 0 24 24"><path d="M5 15l7-7 7 7"/></svg></button>
+        <button type="button" data-dir="next" aria-label="{{ h.next_news }}"><svg viewBox="0 0 24 24"><path d="M5 9l7 7 7-7"/></svg></button>
+      </div>
+    </div>
+  </div>
+  <div class="right">
+    <div class="slides">
+      <img class="on" src="{{ '/redesign/assets/photos/organoid-plate.jpg' | relative_url }}" alt="{{ h.slide_organoid }}" data-cap="{{ h.slide_organoid }}">
+      <img src="{{ '/redesign/assets/photos/lab-team-2025.jpg' | relative_url }}" alt="{{ h.slide_team }}" data-cap="{{ h.slide_team }}" style="object-position: 46% center" loading="lazy">
+    </div>
+    <span class="slide-cap" aria-hidden="true">{{ h.slide_organoid }}</span>
+  </div>
+</section>
+
+<section id="research" class="full dark" data-theme="dark">
+  <div class="bg cells" style="background-image: url('{{ '/redesign/assets/lab-cell-fluorescence.webp' | relative_url }}')"></div>
+  <div class="inner">
+    <h2>Research</h2>
+    <p class="lead">{{ h.research_lead }}</p>
+    <div class="pipeline">
+      {%- assign nos = "One,Two,Three,Four" | split: "," -%}
+      {%- for p in h.pipeline -%}
+        {%- assign i = forloop.index -%}
+        {%- assign href = base | append: "research/#tech-" | append: i %}
+      <a href="{{ href | relative_url }}">
+        {%- case i -%}
+        {%- when 1 %}
+        <svg viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="20" r="7"/><path d="M24 27v14M24 13V5M17 20H6M31 20h11M19 25l-8 9M29 25l8 9M19 15l-7-7M29 15l7-7"/></svg>
+        {%- when 2 %}
+        <svg viewBox="0 0 48 48" aria-hidden="true"><circle cx="24" cy="24" r="16"/><circle cx="18" cy="20" r="4"/><circle cx="29" cy="18" r="3"/><circle cx="27" cy="29" r="5"/><circle cx="17" cy="30" r="2.5"/></svg>
+        {%- when 3 %}
+        <svg viewBox="0 0 48 48" aria-hidden="true"><rect x="6" y="10" width="36" height="24" rx="2"/><path d="M14 40h20M24 34v6M12 16v12M36 16v12"/><circle cx="24" cy="22" r="2"/></svg>
+        {%- else %}
+        <svg viewBox="0 0 48 48" aria-hidden="true"><circle cx="10" cy="14" r="3"/><circle cx="10" cy="34" r="3"/><circle cx="24" cy="10" r="3"/><circle cx="24" cy="24" r="3"/><circle cx="24" cy="38" r="3"/><circle cx="38" cy="24" r="3"/><path d="M13 14l8-3M13 14l8 9M13 34l8-9M13 34l8 3M27 10l8 13M27 24h8M27 38l8-13"/></svg>
+        {%- endcase %}
+        <span class="no">Tech {{ nos[forloop.index0] }}</span>
+        <h3>{{ p.title }}</h3>
+        <p>{{ p.text }}</p>
+      </a>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<section id="team" class="full team" data-theme="light">
+  <div class="top">
+    <div>
+      <h2>Members</h2>
+      <p class="lead">{{ h.members_lead }}</p>
+    </div>
+    <div class="ctrl">
+      <button type="button" data-cards="prev" aria-label="{{ h.prev_member }}"><svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg></button>
+      <button type="button" data-cards="next" aria-label="{{ h.next_member }}"><svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg></button>
+    </div>
+  </div>
+  <div class="cards">
+    {%- for r in current_roles -%}
+      {%- assign people = site.members | where: "role", r -%}
+      {%- for m in people %}
+    {% include redesign/member-card.html member=m %}
+      {%- endfor -%}
+    {%- endfor %}
+  </div>
+  {%- assign members_url = base | append: "members/" -%}
+  {%- assign collab_url = base | append: "members/#collaborators" %}
+  <div class="all"><a class="more" href="{{ members_url | relative_url }}">{{ h.all_members }} <span aria-hidden="true">→</span></a><a class="more" href="{{ collab_url | relative_url }}">{{ h.collaborators }} <span aria-hidden="true">→</span></a></div>
+</section>
+
+<section id="contact" class="full dark contact" data-theme="dark">
+  <div class="bg" style="background-image: url('{{ '/images/background.jpg' | relative_url }}')"></div>
+  <div class="inner">
+    <h2>Contact</h2>
+    <p class="lead">{{ h.contact_lead }}</p>
+    <div class="grid">
+      <dl>
+        <dt>{{ ci.address_label }}</dt><dd>{{ ci.address }}</dd>
+        <dt>{{ ci.email_label }}</dt><dd><a href="mailto:minee.choi@kaist.ac.kr">minee.choi@kaist.ac.kr</a></dd>
+        <dt>{{ ci.phone_label }}</dt><dd>{{ ci.phone }}</dd>
+        <dt>{{ ci.map_label }}</dt><dd><a href="https://maps.app.goo.gl/syAAaNp9j1fhXz2i8">Google</a> · <a href="https://naver.me/GdiqLWG9">Naver</a> · <a href="https://kko.to/e_0hLHT5B6">Kakao</a></dd>
+      </dl>
+      <div class="join">
+        <h3>Join Us</h3>
+        <p>{{ h.join_text }}</p>
+        {%- assign join_url = base | append: "contact/#join" %}
+        <a class="btn light" href="{{ join_url | relative_url }}">{{ h.join_button }}</a>
+      </div>
+    </div>
+  </div>
+</section>

@@ -12,6 +12,10 @@
 | 보도 · 강연 · 영상 | `_data/press.yaml` (새 항목은 목록 맨 위에) |
 | 연구실 뉴스레터 | `_posts/` |
 | 모집 공고 | `_includes/vacancy-body.md` (기존 `/vacancy/` 페이지와 공용) |
+| 영어 모집 공고 | `_includes/vacancy-body-en.md` (한국어 공고가 바뀌면 함께 고침) |
+| 페이지 문구 (한·영) | `_data/redesign_text.yaml` (`ko`, `en`) |
+| 보도·영상의 영어 제목 | `_data/press.yaml`의 `title_en`, `source_en` |
+| 공동연구자 소개 | `_data/redesign_collaborators.yaml` (`focus`, `focus_en`) |
 | 연구 주제 목록 | `_programmes/*.md` |
 
 ## 페이지
@@ -29,8 +33,8 @@
 
 ## 파일 구성
 
-- `_layouts/redesign.html`, `_includes/redesign/` — 레이아웃, 머리글·바닥글, 제목 띠, 구성원 카드
-- `redesign/*/index.html` — 각 페이지
+- `_layouts/redesign.html`, `_includes/redesign/` — 레이아웃, 머리글·바닥글, 제목 띠, 구성원 카드, 페이지 본문(`page-*.html`, 한·영 공용)
+- `redesign/*/index.html`(한국어), `redesign/en/*/index.html`(영어) — 각 페이지. 앞부분의 `lang`(ko/en)으로 언어를 정하고 본문은 `page-*.html`을 불러옴. 머리글의 KOR · ENG로 같은 페이지의 다른 언어로 이동
 - `redesign/assets/site.css`, `site.js` — 스타일과 동작 (메뉴, 소식 넘기기, 사진 전환, 구성원 카드 넘기기, 논문 검색, 보도 분류)
 - `redesign/assets/photos/` — 웹용으로 줄인 연구실 사진 (원본은 `images/`)
 - `redesign/assets/people/<이름>.webp` — 구성원 사진의 작은 사본. 없으면 `_members`의 `image`를 그대로 씁니다
@@ -41,6 +45,5 @@
 
 ## 아직 하지 않은 것
 
-- 영어(EN) 버전
 - 구성원 개인 페이지와 뉴스레터 글은 아직 기존 디자인 페이지로 연결됩니다
 - 정식 전환: 루트(`/`)를 새 디자인으로 바꾸고 기존 주소(`/team/`, `/vacancy/`, `/projects/` 등)를 새 주소로 넘기는 작업

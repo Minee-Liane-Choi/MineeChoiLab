@@ -1,0 +1,91 @@
+{%- comment -%} News page body, shared by /redesign/news/ and /redesign/en/news/. {%- endcomment -%}
+{%- assign lang = page.lang | default: "ko" -%}
+{%- assign t = site.data.redesign_text[lang] -%}
+{%- assign tn = t.news -%}
+{%- assign cats = site.data.press.articles | map: "category" | uniq -%}
+{% include redesign/pagehead.html title="News" sub=tn.sub lead=tn.lead %}
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><h2>{{ tn.press_title }}</h2>{% if tn.press_sub %}<p class="ko">{{ tn.press_sub }}</p>{% endif %}</div>
+    </div>
+    <div class="chips" role="group" aria-label="{{ tn.filter_label }}">
+      <button type="button" data-filter="all" aria-pressed="true">{{ tn.all }}</button>
+      {%- for c in cats %}
+      <button type="button" data-filter="{{ c }}" aria-pressed="false">{{ tn.categories[c] | default: c }}</button>
+      {%- endfor %}
+    </div>
+    <ul class="press">
+      {%- for a in site.data.press.articles -%}
+        {%- if lang == "en" -%}
+          {%- assign at = a.title_en | default: a.title -%}{%- assign as = a.source_en | default: a.source -%}{%- assign ad = a.display_en | default: a.display -%}
+        {%- else -%}
+          {%- assign at = a.title -%}{%- assign as = a.source -%}{%- assign ad = a.display -%}
+        {%- endif %}
+      <li data-cat="{{ a.category }}">
+        <a href="{{ a.url }}">
+          <span class="d">{% if ad %}{{ ad }}{% else %}{{ a.date | date: "%Y.%m.%d" }}{% endif %}</span>
+          <span><span class="t">{{ at }}</span></span>
+          <span class="src">{{ as }}<span>{{ tn.categories[a.category] | default: a.category }}</span></span>
+        </a>
+      </li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="sec gray">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><h2>{{ tn.videos_title }}</h2>{% if tn.videos_sub %}<p class="ko">{{ tn.videos_sub }}</p>{% endif %}</div>
+      <a class="more" href="https://www.youtube.com/@KAISTBrainRepairOrganoidIntell">{{ tn.youtube }} <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="videos">
+      {%- for v in site.data.press.videos -%}
+        {%- if lang == "en" -%}
+          {%- assign vt = v.title_en | default: v.title -%}{%- assign vs = v.source_en | default: v.source -%}
+        {%- else -%}
+          {%- assign vt = v.title -%}{%- assign vs = v.source -%}
+        {%- endif %}
+      <a href="{{ v.url }}">
+        <div class="thumb">
+          {%- if v.platform == "YouTube" %}<img src="https://i.ytimg.com/vi/{{ v.id }}/hqdefault.jpg" alt="" loading="lazy">{% else %}{{ v.platform }}{% endif %}
+        </div>
+        <h3>{{ vt }}</h3>
+        <p>{{ vs }} · {{ v.date | date: "%Y.%m.%d" }}</p>
+      </a>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><h2>{{ tn.newsletter_title }}</h2>{% if tn.newsletter_sub %}<p class="ko">{{ tn.newsletter_sub }}</p>{% endif %}</div>
+    </div>
+    <ul class="posts">
+      {%- for post in site.posts -%}
+        {%- assign pt = post.title | replace: " !!!", "" | replace: "!!!", "" | replace: " ?", "?" | remove_first: "+ " %}
+      <li><a href="{{ post.url | relative_url }}"><span class="d">{{ post.date | date: "%Y.%m.%d" }}</span><span class="t">{{ pt }}</span></a></li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="sec gray">
+  <div class="wrap">
+    <div class="sec-head">
+      <div><h2>{{ tn.gallery_title }}</h2>{% if tn.gallery_sub %}<p class="ko">{{ tn.gallery_sub }}</p>{% endif %}</div>
+    </div>
+    {%- assign photos = "life-picnic-2025.jpg:wide,life-poster-2025.jpg:,life-dinner-2025.jpg:,life-conference-2024.jpg:,life-2025.jpg:,life-field-2024.jpg:pano,lab-team-2025.jpg:pano" | split: "," %}
+    <div class="gallery">
+      {%- for ph in photos -%}
+        {%- assign parts = ph | split: ":" -%}
+        {%- assign src = "/redesign/assets/photos/" | append: parts[0] %}
+      <figure{% if parts[1] %} class="{{ parts[1] }}"{% endif %}><img src="{{ src | relative_url }}" alt="{{ tn.gallery_alts[forloop.index0] }}" loading="lazy"{% if parts[0] == "lab-team-2025.jpg" %} style="object-position: center 35%"{% endif %}></figure>
+      {%- endfor %}
+    </div>
+  </div>
+</section>

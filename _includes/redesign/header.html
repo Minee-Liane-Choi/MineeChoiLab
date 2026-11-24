@@ -1,18 +1,34 @@
+{%- assign lang = page.lang | default: "ko" -%}
+{%- assign t = site.data.redesign_text[lang] -%}
+{%- assign base = t.base -%}
 {%- assign u = page.url -%}
+{%- if lang == "en" -%}
+  {%- assign ko_url = u | replace_first: "/redesign/en/", "/redesign/" -%}
+  {%- assign en_url = u -%}
+{%- else -%}
+  {%- assign ko_url = u -%}
+  {%- assign en_url = u | replace_first: "/redesign/", "/redesign/en/" -%}
+{%- endif -%}
 <header class="hd">
-  <a class="logo" href="{{ '/redesign/' | relative_url }}" aria-label="KAIST BRØ1 홈">
+  <a class="logo" href="{{ base | relative_url }}" aria-label="{{ t.home_label }}">
     <img class="icon" src="{{ '/images/logo.png' | relative_url }}" alt="">
     <span class="txt">
       <img class="kaist" src="{{ '/redesign/assets/kaist-logo-blue.png' | relative_url }}" alt="KAIST">
       <span class="wm">BRØ1 Lab</span>
     </span>
   </a>
-  <nav class="gnb" id="gnb" aria-label="주 메뉴">
-    <a href="{{ '/redesign/research/' | relative_url }}"{% if u contains '/redesign/research/' %} aria-current="page"{% endif %}>Research</a>
-    <a href="{{ '/redesign/members/' | relative_url }}"{% if u contains '/redesign/members/' %} aria-current="page"{% endif %}>Members</a>
-    <a href="{{ '/redesign/publications/' | relative_url }}"{% if u contains '/redesign/publications/' %} aria-current="page"{% endif %}>Publications</a>
-    <a href="{{ '/redesign/news/' | relative_url }}"{% if u contains '/redesign/news/' %} aria-current="page"{% endif %}>News</a>
-    <a href="{{ '/redesign/contact/' | relative_url }}"{% if u contains '/redesign/contact/' %} aria-current="page"{% endif %}>Contact</a>
+  <nav class="gnb" id="gnb" aria-label="{{ t.menu_label }}">
+    {%- assign items = "research:Research,members:Members,publications:Publications,news:News,contact:Contact" | split: "," -%}
+    {%- for it in items -%}
+      {%- assign parts = it | split: ":" -%}
+      {%- assign href = base | append: parts[0] | append: "/" %}
+    <a href="{{ href | relative_url }}"{% if u contains href %} aria-current="page"{% endif %}>{{ parts[1] }}</a>
+    {%- endfor %}
+    <span class="lang">
+      <a href="{{ ko_url | relative_url }}" lang="ko" hreflang="ko"{% if lang == "ko" %} aria-current="true"{% endif %}>KOR</a>
+      <span aria-hidden="true">·</span>
+      <a href="{{ en_url | relative_url }}" lang="en" hreflang="en"{% if lang == "en" %} aria-current="true"{% endif %}>ENG</a>
+    </span>
   </nav>
-  <button class="burger" type="button" aria-label="메뉴 열기" aria-expanded="false" aria-controls="gnb"><span></span><span></span><span></span></button>
+  <button class="burger" type="button" aria-label="{{ t.menu_open }}" aria-expanded="false" aria-controls="gnb"><span></span><span></span><span></span></button>
 </header>
