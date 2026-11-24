@@ -4,7 +4,7 @@ permalink: /redesign/members/
 description: KAIST BRØ1 연구실 구성원, 졸업생 및 공동연구자.
 ---
 {%- assign pi = site.members | where: "role", "pi" | first -%}
-{% include redesign/pagehead.html title="Members" ko="구성원" lead="BRØ1 연구실은 자유, 다양성, 평등, 연민, 그리고 협력의 가치를 존중합니다." %}
+{% include redesign/pagehead.html title="Members" ko="구성원" lead="BRØ1 연구실의 교수, 연구원, 학생 및 공동연구자를 소개합니다." %}
 
 <section class="sec">
   <div class="wrap pi">
@@ -16,7 +16,7 @@ description: KAIST BRØ1 연구실 구성원, 졸업생 및 공동연구자.
       <p>최민이 교수는 신경퇴행성 질환을 연구하는 신경생리학자로, 알츠하이머병과 파킨슨병에서 나타나는 단백질 응집, 미토콘드리아 기능 장애, 신경염증의 기전을 연구하고 있습니다. 환자 유래 역분화 줄기세포(hiPSC) 모델과 인공지능을 활용하여 환자 맞춤형 치료 전략을 개발하고 있습니다.</p>
       <ul>
         <li>2023–현재 KAIST 뇌인지과학과 조교수</li>
-        <li>2024–현재 대만 창궁대학교·창궁기념병원 겸임교수</li>
+        <li>2024–현재 대만 장경대학교·장경기념병원 겸임교수</li>
         <li>UCL Queen Square Institute of Neurology, Francis Crick Institute 명예연구원(Honorary Fellow)</li>
         <li>2013–2022 UCL 박사후연구원 (2017–2022 Francis Crick Institute 선임연구원 파견)</li>
         <li>2013 University of Cambridge 임상신경과학 박사</li>
@@ -34,7 +34,7 @@ description: KAIST BRØ1 연구실 구성원, 졸업생 및 공동연구자.
 <section class="sec gray">
   <div class="wrap">
     <div class="sec-head"><div><h2>구성원</h2><p class="ko">Current Members</p></div></div>
-    {%- assign groups = "postdoc:박사후연구원:Postdoctoral Researchers,chief|phd|mhd|ms:대학원생:Graduate Students,uhd|ug|intern:학부연구생:Undergraduate Researchers,associate|admin:연구지원:Staff" | split: "," -%}
+    {%- assign groups = "postdoc:박사후연구원:Postdoctoral Researchers,chief|phd|mhd|uhd|ms:대학원생:Graduate Students,ug|intern|mdintern:학부연구생 · 인턴:Undergraduate Researchers and Interns,associate|admin:연구지원:Staff" | split: "," -%}
     {%- for g in groups -%}
       {%- assign parts = g | split: ":" -%}
       {%- assign roles = parts[0] | split: "|" -%}
@@ -57,6 +57,31 @@ description: KAIST BRØ1 연구실 구성원, 졸업생 및 공동연구자.
   </div>
 </section>
 
+<section class="sec collab-sec" id="collaborators">
+  <div class="wrap">
+    <div class="sec-head"><div><h2>공동연구자</h2><p class="ko">Collaborators</p></div></div>
+    <p class="lead">BRØ1 연구실은 영국 UCL, Francis Crick Institute, University of Cambridge의 연구진과 공동연구를 진행하고 있습니다.</p>
+    <div class="collab">
+      {%- for c in site.data.redesign_collaborators -%}
+        {%- assign m = site.members | where: "name", c.name | first %}
+      <article>
+        {%- if m and m.image %}
+        <img src="{{ '/' | append: m.image | relative_url }}" alt="{{ c.display }}" loading="lazy">
+        {%- endif %}
+        <div class="in">
+          <h3>{{ c.display }}</h3>
+          <p class="aff">{{ c.affiliation }}</p>
+          <p>{{ c.focus }}</p>
+          {%- if c.url %}
+          <a class="more" href="{{ c.url }}">Lab website <span aria-hidden="true">→</span></a>
+          {%- endif %}
+        </div>
+      </article>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
 <section class="sec">
   <div class="wrap">
     <div class="sec-head"><div><h2>졸업생 및 이전 구성원</h2><p class="ko">Alumni</p></div></div>
@@ -69,11 +94,11 @@ description: KAIST BRØ1 연구실 구성원, 졸업생 및 공동연구자.
       {%- if count > 0 %}
     <div class="role-group">
       <h3>{{ parts[1] }}<span>{{ parts[2] }}</span></h3>
-      <ul class="names">
+      <ul class="alumni">
         {%- for r in roles -%}
           {%- assign people = site.members | where: "role", r -%}
           {%- for m in people %}
-        <li>{{ m.name }}<span>{{ site.data.redesign_roles[m.role] | default: site.data.types[m.role].description }}</span></li>
+        {% include redesign/alum.html member=m %}
           {%- endfor -%}
         {%- endfor %}
       </ul>
@@ -81,16 +106,5 @@ description: KAIST BRØ1 연구실 구성원, 졸업생 및 공동연구자.
       {%- endif -%}
     {%- endfor %}
 
-    {%- assign collabo = site.members | where: "role", "collabo" -%}
-    {%- if collabo.size > 0 %}
-    <div class="role-group">
-      <h3>공동연구자<span>Collaborators</span></h3>
-      <ul class="names">
-        {%- for m in collabo %}
-        <li>{{ m.name }}</li>
-        {%- endfor %}
-      </ul>
-    </div>
-    {%- endif %}
   </div>
 </section>

@@ -1,13 +1,24 @@
 {%- comment -%}
   Photo card for one member (a document from the members collection).
-  Uses the small web copy in redesign/assets/people/<name>.webp when there is one,
+  Uses a small web copy in redesign/assets/people/ when there is one, named after the
+  member file (e.g. gunhee-go) or the member's image (e.g. daeun-yoo), as .webp or .jpg;
   otherwise the member's own image.
 {%- endcomment -%}
 {%- assign m = include.member -%}
+{%- assign slug = m.path | split: "/" | last | split: "." | first -%}
 {%- assign base = m.image | split: "/" | last | split: "." | first -%}
-{%- assign thumb_path = "/redesign/assets/people/" | append: base | append: ".webp" -%}
-{%- assign thumb = site.static_files | where: "path", thumb_path | first -%}
-{%- if thumb -%}{%- assign src = thumb_path -%}{%- elsif m.image -%}{%- assign src = "/" | append: m.image -%}{%- else -%}{%- assign src = "/images/fallback.svg" -%}{%- endif -%}
+{%- assign src = nil -%}
+{%- assign names = slug | append: "," | append: base | split: "," -%}
+{%- for n in names -%}
+  {%- for ext in site.data.redesign_photo_ext -%}
+    {%- unless src -%}
+      {%- assign p = "/redesign/assets/people/" | append: n | append: ext -%}
+      {%- assign hit = site.static_files | where: "path", p | first -%}
+      {%- if hit -%}{%- assign src = p -%}{%- endif -%}
+    {%- endunless -%}
+  {%- endfor -%}
+{%- endfor -%}
+{%- unless src -%}{%- if m.image -%}{%- assign src = "/" | append: m.image -%}{%- else -%}{%- assign src = "/images/fallback.svg" -%}{%- endif -%}{%- endunless -%}
 {%- assign role = site.data.redesign_roles[m.role] | default: site.data.types[m.role].description | default: m.role -%}
 <div class="card">
   <img src="{{ src | relative_url }}" alt="{{ m.name }}" loading="lazy">
