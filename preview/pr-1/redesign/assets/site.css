@@ -35,6 +35,10 @@ main { display: block; }
 .gnb a { font-weight: 600; font-size: 17px; color: var(--title); padding: 6px 0; border-bottom: 2px solid transparent; }
 .gnb a:hover, .gnb a[aria-current="page"] { color: var(--kaist); }
 .gnb a[aria-current="page"] { border-bottom-color: var(--kaist); }
+.gnb .lang { display: flex; align-items: center; gap: 6px; font-size: 14px; color: #bbb; margin-left: -8px; }
+.gnb .lang a { font-size: 14px; font-weight: 500; color: #999; border-bottom: 0; padding: 6px 0; }
+.gnb .lang a[aria-current="true"] { color: var(--title); font-weight: 700; }
+.gnb .lang a:hover { color: var(--kaist); }
 .burger { display: none; width: 40px; height: 40px; border: 0; background: none; cursor: pointer; padding: 8px; }
 .burger span { display: block; height: 2px; background: #333; margin: 5px 0; }
 .burger span:nth-child(2) { width: 70%; margin-left: auto; }
@@ -288,6 +292,8 @@ h3 { font: 600 20px/1.35 var(--font); margin: 0 0 8px; }
   .gnb.open { display: flex; }
   .gnb a { padding: 14px 0; border-bottom: 1px solid #f0f0f0; }
   .gnb a[aria-current="page"] { border-bottom-color: #f0f0f0; }
+  .gnb .lang { margin: 0; padding: 14px 0 0; gap: 10px; }
+  .gnb .lang a { padding: 0; border-bottom: 0; }
   .burger { display: block; }
   .dots { display: none; }
   .full { min-height: 0; }

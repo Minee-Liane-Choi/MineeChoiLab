@@ -9,7 +9,8 @@
     var setOpen = function (open) {
       gnb.classList.toggle('open', open);
       burger.setAttribute('aria-expanded', open ? 'true' : 'false');
-      burger.setAttribute('aria-label', open ? '메뉴 닫기' : '메뉴 열기');
+      var en = document.documentElement.lang === 'en';
+      burger.setAttribute('aria-label', open ? (en ? 'Close menu' : '메뉴 닫기') : (en ? 'Open menu' : '메뉴 열기'));
     };
     burger.addEventListener('click', function () { setOpen(!gnb.classList.contains('open')); });
     gnb.addEventListener('click', function (e) { if (e.target.closest('a')) setOpen(false); });
