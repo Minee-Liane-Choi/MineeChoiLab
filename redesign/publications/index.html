@@ -1,14 +1,14 @@
 ---
-title: Publication
+title: Publications
 permalink: /redesign/publications/
-description: KAIST BRØ1 연구실의 논문과 프리프린트 목록.
+description: KAIST BRØ1 연구실의 연구 논문 및 프리프린트.
 ---
-{% include redesign/pagehead.html title="Publication" ko="논문" lead="연구실 구성원이 참여한 논문과 프리프린트입니다. 목록은 인용 정보에서 자동으로 만들어집니다." %}
+{% include redesign/pagehead.html title="Publications" ko="논문" lead="BRØ1 연구실의 연구 논문 및 프리프린트 목록입니다." %}
 
 <section class="sec">
   <div class="wrap">
     <div class="sec-head">
-      <div><h2>주요 논문</h2><p class="ko">Selected</p></div>
+      <div><h2>주요 논문</h2><p class="ko">Selected Publications</p></div>
       <div class="ext-links">
         <a class="btn" href="https://scholar.google.com/citations?user={{ site.links.google-scholar }}">Google Scholar</a>
         <a class="btn" href="https://orcid.org/{{ site.links.orcid }}">ORCID</a>
@@ -34,8 +34,8 @@ description: KAIST BRØ1 연구실의 논문과 프리프린트 목록.
 <section class="sec gray">
   <div class="wrap">
     <div class="sec-head">
-      <div><h2>전체 목록</h2><p class="ko">All publications · {{ site.data.citations.size }}편</p></div>
-      <input class="search" id="pub-search" type="search" placeholder="제목, 저자, 학술지, 주제로 찾기" aria-label="논문 검색">
+      <div><h2>전체 논문</h2><p class="ko">All Publications ({{ site.data.citations.size }})</p></div>
+      <input class="search" id="pub-search" type="search" placeholder="제목, 저자, 학술지 검색" aria-label="논문 검색">
     </div>
     {%- assign years = site.data.citations | group_by_exp: "c", "c.date | slice: 0, 4" -%}
     {%- for y in years %}
@@ -65,6 +65,6 @@ description: KAIST BRØ1 연구실의 논문과 프리프린트 목록.
       </ul>
     </div>
     {%- endfor %}
-    <p class="empty" id="pub-none" hidden>찾는 논문이 없습니다.</p>
+    <p class="empty" id="pub-none" hidden>검색 결과가 없습니다.</p>
   </div>
 </section>

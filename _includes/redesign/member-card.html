@@ -8,7 +8,7 @@
 {%- assign thumb_path = "/redesign/assets/people/" | append: base | append: ".webp" -%}
 {%- assign thumb = site.static_files | where: "path", thumb_path | first -%}
 {%- if thumb -%}{%- assign src = thumb_path -%}{%- elsif m.image -%}{%- assign src = "/" | append: m.image -%}{%- else -%}{%- assign src = "/images/fallback.svg" -%}{%- endif -%}
-{%- assign role = site.data.types[m.role].description | default: m.role -%}
+{%- assign role = site.data.redesign_roles[m.role] | default: site.data.types[m.role].description | default: m.role -%}
 <div class="card">
   <img src="{{ src | relative_url }}" alt="{{ m.name }}" loading="lazy">
   <div class="name"><b>{{ m.name }}</b><span>{{ role }}</span></div>

@@ -1,0 +1,28 @@
+# Role labels shown on the redesign preview (/redesign/).
+# Keys are the `role` values in _members/*.md. The current site keeps using _data/types.yaml.
+
+pi: Principal Investigator
+postdoc: Postdoctoral Researcher
+chief: Lab Chief · M.S./Ph.D. Student
+phd: Ph.D. Student
+mhd: M.S./Ph.D. Student
+ms: M.S. Student
+uhd: UG/Ph.D. Student (TUBE)
+ug: Undergraduate Researcher
+intern: Intern
+mdintern: M.D. Intern
+associate: Research Associate
+admin: Lab Manager
+
+# alumni
+postdox: Postdoctoral Researcher
+phx: Ph.D.
+mhx: M.S./Ph.D.
+mx: M.S.
+associatx: Research Associate
+undergrax: Undergraduate Researcher
+interx: Intern
+mdintx: M.D. Intern
+
+collabo: Collaborator
+partner: Partner

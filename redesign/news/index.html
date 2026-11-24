@@ -1,15 +1,15 @@
 ---
 title: News
 permalink: /redesign/news/
-description: KAIST BRØ1 연구실의 언론 보도, 강연, 영상, 연구실 소식.
+description: KAIST BRØ1 연구실의 언론 보도, 강연, 영상 및 소식.
 ---
 {%- assign cats = site.data.press.articles | map: "category" | uniq -%}
-{% include redesign/pagehead.html title="News" ko="소식" lead="언론 보도와 강연, 영상, 연구실 뉴스레터를 모았습니다." %}
+{% include redesign/pagehead.html title="News" ko="소식" lead="BRØ1 연구실의 언론 보도, 강연, 영상 및 연구실 소식입니다." %}
 
 <section class="sec">
   <div class="wrap">
     <div class="sec-head">
-      <div><h2>보도 · 강연</h2><p class="ko">Press and talks</p></div>
+      <div><h2>언론 보도 · 강연</h2><p class="ko">Press &amp; Talks</p></div>
     </div>
     <div class="chips" role="group" aria-label="분류">
       <button type="button" data-filter="all" aria-pressed="true">전체</button>
@@ -22,7 +22,7 @@ description: KAIST BRØ1 연구실의 언론 보도, 강연, 영상, 연구실 �
       <li data-cat="{{ a.category }}">
         <a href="{{ a.url }}">
           <span class="d">{% if a.display %}{{ a.display }}{% else %}{{ a.date | date: "%Y.%m.%d" }}{% endif %}</span>
-          <span><span class="t">{{ a.title }}</span><span class="s">{{ a.summary }}</span></span>
+          <span><span class="t">{{ a.title }}</span></span>
           <span class="src">{{ a.source }}<span>{{ a.category }}</span></span>
         </a>
       </li>
@@ -35,7 +35,7 @@ description: KAIST BRØ1 연구실의 언론 보도, 강연, 영상, 연구실 �
   <div class="wrap">
     <div class="sec-head">
       <div><h2>영상</h2><p class="ko">Videos</p></div>
-      <a class="more" href="https://www.youtube.com/@KAISTBrainRepairOrganoidIntell">연구실 YouTube 채널 <span aria-hidden="true">→</span></a>
+      <a class="more" href="https://www.youtube.com/@KAISTBrainRepairOrganoidIntell">YouTube 채널 <span aria-hidden="true">→</span></a>
     </div>
     <div class="videos">
       {%- for v in site.data.press.videos %}
@@ -54,11 +54,11 @@ description: KAIST BRØ1 연구실의 언론 보도, 강연, 영상, 연구실 �
 <section class="sec">
   <div class="wrap">
     <div class="sec-head">
-      <div><h2>연구실 뉴스레터</h2><p class="ko">BRØ1 newsletter · {{ site.posts.size }}호 (기존 홈페이지 글로 연결됩니다)</p></div>
+      <div><h2>뉴스레터</h2><p class="ko">BRØ1 Newsletter</p></div>
     </div>
     <ul class="posts">
       {%- for p in site.posts %}
-      <li><a href="{{ p.url | relative_url }}"><span class="d">{{ p.date | date: "%Y.%m.%d" }}</span><span class="t">{{ p.title }}</span></a></li>
+      <li><a href="{{ p.url | relative_url }}"><span class="d">{{ p.date | date: "%Y.%m.%d" }}</span>{%- assign pt = p.title | replace: " !!!", "" | replace: "!!!", "" | replace: " ?", "?" | remove_first: "+ " -%}<span class="t">{{ pt }}</span></a></li>
       {%- endfor %}
     </ul>
   </div>
@@ -67,16 +67,16 @@ description: KAIST BRØ1 연구실의 언론 보도, 강연, 영상, 연구실 �
 <section class="sec gray">
   <div class="wrap">
     <div class="sec-head">
-      <div><h2>연구실의 하루</h2><p class="ko">Life in the lab</p></div>
+      <div><h2>갤러리</h2><p class="ko">Gallery</p></div>
     </div>
     <div class="gallery">
-      <figure class="wide"><img src="{{ '/redesign/assets/photos/life-picnic-2025.jpg' | relative_url }}" alt="잔디밭에 모인 구성원들" loading="lazy"></figure>
-      <figure><img src="{{ '/redesign/assets/photos/life-poster-2025.jpg' | relative_url }}" alt="포스터 앞의 구성원" loading="lazy"></figure>
-      <figure><img src="{{ '/redesign/assets/photos/life-dinner-2025.jpg' | relative_url }}" alt="식탁에 둘러앉은 구성원들" loading="lazy"></figure>
-      <figure><img src="{{ '/redesign/assets/photos/life-conference-2024.jpg' | relative_url }}" alt="학회장의 구성원들" loading="lazy"></figure>
-      <figure><img src="{{ '/redesign/assets/photos/life-2025.jpg' | relative_url }}" alt="연구실 구성원들" loading="lazy"></figure>
-      <figure class="pano"><img src="{{ '/redesign/assets/photos/life-field-2024.jpg' | relative_url }}" alt="운동장에 모인 사람들" loading="lazy"></figure>
-      <figure class="pano"><img src="{{ '/redesign/assets/photos/lab-team-2025.jpg' | relative_url }}" alt="실험실에서 흰 가운을 입은 구성원들" loading="lazy" style="object-position: center 35%"></figure>
+      <figure class="wide"><img src="{{ '/redesign/assets/photos/life-picnic-2025.jpg' | relative_url }}" alt="연구실 구성원 야외 모임" loading="lazy"></figure>
+      <figure><img src="{{ '/redesign/assets/photos/life-poster-2025.jpg' | relative_url }}" alt="학회 포스터 발표" loading="lazy"></figure>
+      <figure><img src="{{ '/redesign/assets/photos/life-dinner-2025.jpg' | relative_url }}" alt="연구실 구성원 모임" loading="lazy"></figure>
+      <figure><img src="{{ '/redesign/assets/photos/life-conference-2024.jpg' | relative_url }}" alt="학회 참석" loading="lazy"></figure>
+      <figure><img src="{{ '/redesign/assets/photos/life-2025.jpg' | relative_url }}" alt="연구실 구성원" loading="lazy"></figure>
+      <figure class="pano"><img src="{{ '/redesign/assets/photos/life-field-2024.jpg' | relative_url }}" alt="야외 행사" loading="lazy"></figure>
+      <figure class="pano"><img src="{{ '/redesign/assets/photos/lab-team-2025.jpg' | relative_url }}" alt="BRØ1 연구실 구성원" loading="lazy" style="object-position: center 35%"></figure>
     </div>
   </div>
 </section>
