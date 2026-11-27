@@ -83,8 +83,8 @@ ko:
           - 이 모델은 역분화 기술, 신경발생학, 줄기세포 생물학에 기반하여 성숙한 인간 뇌조직의 구조와 기능을 재현하도록 설계되며, 개인의 뇌세포를 정밀하게 프로파일링하고 질병을 유발하는 기전을 규명하는 데 활용됩니다.
       - title: 환자 뇌 오가노이드 생산
         en: Patient brain organoid production
-        caption: 배양 중인 뇌 오가노이드
-        alt: 배양 중인 뇌 오가노이드
+        caption: 뇌 오가노이드에서 뻗어 나온 신경돌기
+        alt: 뇌 오가노이드에서 뻗어 나온 신경돌기
         paragraphs:
           - "'미니 브레인'으로 불리는 뇌 오가노이드는 인간 뇌의 복잡성과 질환, 그리고 잠재적 치료법을 이해하는 데 독보적인 창을 제공하는 신경과학 도구입니다."
           - 본 연구실은 환자 유래 세포로 뇌 오가노이드를 제작하고, 다중전극 어레이(MEA)를 이용하여 신경망의 전기생리학적 활동을 측정합니다.
@@ -110,6 +110,12 @@ ko:
     imaging:
       - 고함량 이미징 시스템(Opera Phenix)과 면역세포화학(ICC)을 이용하여 α-synuclein, MAP2, TH 등 단백질의 발현과 세포 내 분포를 정량적으로 분석합니다.
       - 획득한 이미지로부터 세포 형태, 미토콘드리아 기능, 단백질 응집 등의 표현형을 정량화하여 인공지능 모델의 학습 데이터로 활용합니다.
+    cell_photos:
+      - alt: 세포 현미경 사진
+      - alt: 뇌 오가노이드에서 뻗어 나온 신경돌기
+        caption: 뇌 오가노이드에서 뻗어 나온 신경돌기
+      - alt: 배양 중인 뇌 오가노이드
+        caption: 배양 중인 뇌 오가노이드
     topics_title: 연구 주제
     topics_sub: Research Topics
     topic_groups:
@@ -193,6 +199,10 @@ ko:
     gallery_title: 갤러리
     gallery_sub: Gallery
     gallery_alts:
+      - ISSCR 2026 학회 참석 (몬트리올)
+      - 캐나다 퀘벡의 벽화 앞에서
+      - 연구실 회식
+      - 부산 해운대 해변에서
       - 연구실 구성원 야외 모임
       - 학회 포스터 발표
       - 연구실 구성원 모임
@@ -309,8 +319,8 @@ en:
           - Built on reprogramming, neurodevelopment and stem cell biology, these models are designed to recapitulate the structure and function of mature human brain tissue. They allow us to profile an individual's brain cells in detail and to identify the mechanisms that drive disease.
       - title: Patient brain organoids
         en: Brain organoid production
-        caption: Brain organoids in culture
-        alt: Brain organoids in culture
+        caption: Neurites extending from a brain organoid
+        alt: Neurites extending from a brain organoid
         paragraphs:
           - Often called 'mini-brains', brain organoids offer a unique window into the complexity of the human brain, its diseases and potential treatments.
           - We grow brain organoids from patient-derived cells and record the electrophysiological activity of their neural networks with multi-electrode arrays (MEA).
@@ -336,6 +346,12 @@ en:
     imaging:
       - Using a high-content imaging system (Opera Phenix) and immunocytochemistry (ICC), we quantify the expression and subcellular distribution of proteins such as α-synuclein, MAP2 and TH.
       - From these images we quantify phenotypes such as cell morphology, mitochondrial function and protein aggregation, which serve as training data for our AI models.
+    cell_photos:
+      - alt: Microscope image of cells
+      - alt: Neurites extending from a brain organoid
+        caption: Neurites extending from a brain organoid
+      - alt: Brain organoids in culture
+        caption: Brain organoids in culture
     topics_title: Research Topics
     topics_sub:
     topic_groups:
@@ -412,6 +428,10 @@ en:
     gallery_title: Gallery
     gallery_sub:
     gallery_alts:
+      - Attending ISSCR 2026 in Montréal
+      - In front of a mural in Québec City
+      - Lab dinner
+      - At Haeundae Beach, Busan
       - Lab members at an outdoor gathering
       - Poster presentation at a conference
       - Lab members at a dinner

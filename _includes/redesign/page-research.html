@@ -3,7 +3,8 @@
 {%- assign t = site.data.redesign_text[lang] -%}
 {%- assign r = t.research -%}
 {%- assign nos = "One,Two,Three,Four" | split: "," -%}
-{%- assign media = "/redesign/assets/lab-cell-brightfield.webp,/redesign/assets/photos/organoid-plate.jpg,video,/redesign/assets/lab-cell-control.webp" | split: "," -%}
+{%- assign media = "/redesign/assets/lab-cell-brightfield.webp,/redesign/assets/lab-cell-organoid-neurites.jpg,video,/redesign/assets/lab-cell-control.webp" | split: "," -%}
+{%- assign cell_srcs = "/redesign/assets/lab-cell-culture.jpg,/redesign/assets/lab-cell-organoid-outgrowth.jpg,/redesign/assets/photos/organoid-plate.jpg" | split: "," -%}
 {% include redesign/pagehead.html title="Research" sub=r.sub lead=r.lead %}
 
 <section class="sec">
@@ -57,6 +58,14 @@
       <p>{{ para }}</p>
       {%- endfor %}
     </div>
+  </div>
+  <div class="cell-strip">
+    {%- for c in r.cell_photos %}
+    <figure>
+      <img src="{{ cell_srcs[forloop.index0] | relative_url }}" alt="{{ c.alt }}" loading="lazy">
+      {%- if c.caption %}<figcaption class="cap">{{ c.caption }}</figcaption>{% endif %}
+    </figure>
+    {%- endfor %}
   </div>
   </div>
 </section>
